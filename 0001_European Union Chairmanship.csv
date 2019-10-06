@@ -1,0 +1,17 @@
+CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
+xeu_member;유럽 연합 회원국;Member of the European Union;;;;;;;;x;;;;;;;;;;;;;
+xeu_chairmanship;유럽 연합 의장국;Holder of the European Union Presidency (Chairmanship);;;;;;;;x;;;;;;;;;;;;;
+xeuhigh;유럽 연합 경제 중점;European Union Economic Focus;;;;;;;;x;;;;;;;;;;;;;
+xeumedium;유럽 연합 연구 및 개발 중점;European Union Research & Development Focus;;;;;;;;x;;;;;;;;;;;;;
+xeulow;유럽 연합 통합 중점;European Union Integration Focus;;;;;;;;x;;;;;;;;;;;;;
+changexeu_title;유럽 연합 중점 변경;Change European Union Focus;;;;;;;;;;;;x
+changexeu_desc;유럽 연합의 의장국이므로 중점을 우리나라의 정치/경제적 필요에 맞게 바꿀 수 있습니다.;Since we are the chairman of the European Union, perhaps we should use that power to change the European Union focus to better suit our country's political & economic needs?;;;;;;;;;;;;x
+xeulow_title;유럽 연합 통합 중점 선택;Select European Union Integration Focus;;;;;;;;;;;;x
+xeumedium_title;유럽 연합 연구 및 개발 중점 선택;Select European Union Research & Development Focus;;;;;;;;;;;;x
+xeuhigh_title;유럽 연합 경제 중점 선택;Select European Union Economic Expansion Focus;;;;;;;;;;;;x
+xeulow_desc;유럽 연합 통합 중점은 회원국들의 경제에 도움을 거의 주지 못할 것입니다.;European Union Integration Focus to the EU members will not help their economy much.;;;;;;;;;;;;x
+xeumedium_desc;유럽 연합 연구 및 개발 중점은 회원국들의 경제에 도움을 조금 줄 것입니다.;European Union Research & Development Focus to the EU members will help their economy a little.;;;;;;;;;;;;x
+xeuhigh_desc;유럽 연합 경제 중점은 회원국들의 경제에 도움을 많이 줄 것입니다.;European Union Economic Focus to the EU members will help their economy a lot.;;;;;;;;;;;;x
+xeuhigh_gp;유럽 연합 경제 중점(채권국);European Union Economic Focus (Creditor Nation);;;;;;;;;;;;x
+xeumedium_gp;유럽 연합 연구 및 개발 중점(채권국);European Union Research & Development Focus (Creditor Nation);;;;;;;;;;;;x
+xeulow_gp;유럽 연합 통합 중점(채권국);European Union Integration Focus (Creditor Nation);;;;;;;;;;;;x

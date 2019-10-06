@@ -1,0 +1,27 @@
+CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
+in_bankrupcy;파산;Bankruptcy;En faillite;In Insolvenz;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+in_bankrupcy_desc;차관 할부금을 상환하지 못해 공식적으로 파산했습니다.;As our country has defaulted on our international loan installments, we are now officially in bankruptcy.;Nous sommes en faillite !;Wir sind zahlungsunf?ig!;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+gas;천연가스;Natural Gas;;;;;;;;x;;;;;;;;;;;;;
+TOPBAR_AVG_LITERACY;[SUB_A7]Y대학교육[SUB_A7]W을 받은 주민들의 비율은 [SUB_A7]Y$AVG$[SUB_A7]W%입니다.;The average [SUB_A7]Yhigher education[SUB_A7]W of our population is [SUB_A7]Y$AVG$[SUB_A7]W%;Le [SUB_A7]Ytaux d'alphab?isation[SUB_A7]W de notre population est de [SUB_A7]Y$AVG$%[SUB_A7]W.;Die durchschnittliche [SUB_A7]YAlphabetisierung[SUB_A7]W unserer Bev?kerung betr?t [SUB_A7]Y$AVG$[SUB_A7]W%.;;La [SUB_A7]Yalfabetizaci?[SUB_A7]W media de nuestra poblaci? es de [SUB_A7]Y$AVG$[SUB_A7]W%.;;;;;;;;;x;;;;;;;;;;;;;;;;
+TRIGMOD_HEADER;내각 보고서;The Cabinet Office reports;;;;;;;;x;;;;;;;;;;;;;
+party_communist_0_CYR;공산당;Communist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_nationalist_0_CYR;카다피주의자당;Gaddafist;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_traditionalist_0_CYR;정의보수당;Justice and Construction Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_conservative_0_CYR;국민무력보수연합;National Forces Alliance conservative;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_liberal_0_CYR;국민무력동맹;National Forces Alliance;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_progressive_0_CYR;국민전진당;National Front Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_1_CYR;대중당;Populist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_socialist_0_CYR;본국연합;Union for Homeland;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+fort;방어시설;Military Base;Fort;Fort;;Fuerte;;;;;;;;;x;;;;;;;;;;;;;;;;
+fort_short;방어시설;Military Base;fort;Fort;;Fuerte;;;;;;;;;x;;;;;;;;;;;;;;;;
+CNG;콩고 민주공화국;DR Congo;Congo;Kongo;;El Congo;;;;;;;;;x;;;;;;;;;;;;;;;;
+UBD;발트 연합국;United Baltic States;Provinces baltiques unies;Vereinite Baltische Staaten;;United Baltic Provinces;;;;;;;;;x;;;;;;;;;;;;;;;;
+UBD_ADJ;발트령;Baltic;baltique;Baltisch;;Baltic;;;;;;;;;x;;;;;;;;;;;;;;;;
+PBC;페루-볼리비아 연방;Peru뺹olivian Confederation;Peru뺹olivian Confederation;Peru뺹olivian Confederation;;Peru뺹olivian Confederation;;;;;;;;;x;;;;;;;;;;;;;;;;
+PBC_ADJ;페루-볼리비아령;Peru뺹olivian;Peru뺹olivian;Peru뺹olivian;;Peru뺹olivian;;;;;;;;;x;;;;;;;;;;;;;;;;
+clothes;평상복;Everyday Clothes;;;;;;;x
+clothes_factory;평상복 공장;Everyday Clothes Factory;;;;;;;x
+clothes_factory_desc;평상복을 생산합니다.;;;;;;;x
+clothes_footwear;예복;Luxury Clothes;;;;;;;x
+clothes_footwear_factory;예복 공장;Luxury Clothing Factories;;;;;;;x
+clothes_footwear_factory_desc;의복 생산이 장인 개개인의 작업에서 의류를 대량으로 생산하는 공장으로 옮겨갔습니다.;The production of finery has moved from the work of individual artisans to factories where such clothing can be produced en masse.;;;;;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;;;
