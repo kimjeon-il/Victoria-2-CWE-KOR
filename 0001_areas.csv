@@ -1,725 +1,743 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-USA;아메리카 합중국;The United States;?ats-Unis d'Am?ique;USA;;EE UU;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_proletarian_dictatorship;소비에트 사회주의 공화국 연방;The Soviet Union;Union Sovi?ique;Sowjetunion;;Uni? Sovi?ica;;;;;;;;;x;;;;;;;;;;;;;;;;
-hms_government1;입헌군주제;Constitutional Monarchy;Gouvernement de Sa Majest?Ihrer Majest? Regierung;;Gobierno de Su Majestad;;;;;;;;;x;;;;;;;;;;;;;;;;
-hms_government;입헌군주제;Constitutional Monarchy;Gouvernement de Sa Majest?Ihrer Majest? Regierung;;Gobierno de Su Majestad;;;;;;;;;x;;;;;;;;;;;;;;;;
-ABU_1162;아부다비;Abu Dhabi;Abu Dhabi;Abu Dhabi;;Abu Dhabi;;;;;;;;;x;;;;;;;;;;;;;;;;
-AFG_1209;파슈투니스탄;Pashtunistan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-AFG_1214;서아프가니스탄;Western Afghanistan;Western Afghanistan;West-Afghanistan;;Western Afghanistan;;;;;;;;;x;;;;;;;;;;;;;;;;
-AFG_1217;동아프가니스탄;Eastern Afghanistan;Eastern Afghanistan;Ost-Afghanistan;;Eastern Afghanistan;;;;;;;;;x;;;;;;;;;;;;;;;;
-ALD_1704;틀렘센;Tlemcen;Tlemcen;Tlemcen;;Tlemcen;;;;;;;;;x;;;;;;;;;;;;;;;;
-ALD_1708;콩스탕틴;Constantine;Constantine;Constantine;;Constantine;;;;;;;;;x;;;;;;;;;;;;;;;;
-ALD_1713;북중앙사하라;North Central Sahara;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ALD_1714;서사하라;West Sahara;Sahara central Ouest;Westlich-zentrale Sahara;;Oeste del Sahara central;;;;;;;;;x;;;;;;;;;;;;;;;;
-ALD_1718;사하라;Sahara;Sahara central Est;?tlich-zentrale Sahara;;Este del Sahara central;;;;;;;;;x;;;;;;;;;;;;;;;;
-ANN_1371;통킹;Tonkin;Tonkin;Tonkin;;Tonkin;;;;;;;;;x;;;;;;;;;;;;;;;;
-ANN_1374;안남;Annam;Annam;Annam;;Annam;;;;;;;;;x;;;;;;;;;;;;;;;;
-ANN_1383;코친차이나;Cochin China;Cochin China;Cochinchina;;Cochin China;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2355;부에노스아이레스;Buenos Aires;Buenos Aires;Buenos Aires;;Buenos Aires;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2357;코리엔테스;Corrientes;Corrientes;Corrientes;;Corrientes;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2360;엔트레리오스;Entre Rios;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ARG_2363;산타페;Santa Fe;Santa Fe;Santa Fe;;Santa Fe;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2368;후후이;Jujuy;Jujuy;Jujuy;;Jujuy;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2374;카타마르카;Catamarca;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ARG_2377;차코;Chaco;Chaco;Chaco;;Chaco;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2384;라팜파;La Pampa;Pampa;La Pampa;;La Pampa;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2387;투쿠만;Tucum?;Tucum?;Tucum?;;Tucum?;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2391;북파타고니아;Patagonia Septentrional;Patagonie septentrionale;Patagonia Septentrional;;Patagonia Septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2393;네그루;R? Negro;Rio Negro;R? Negro;;R? Negro;;;;;;;;;x;;;;;;;;;;;;;;;;
-ARG_2398;남파타고니아;Patagonia Meridional;Patagonie m?idionale;Patagonia Meridional;;Patagonia Meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-ASH_1909;황금해안;Gold Coast;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-AST_1097;누벨칼레도니;New Caledonia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-AST_2244;크리스마스 및 코코스;Christmas & Cocos Islands;?es Christmas et Cocos;Weihnachts- & Kokosinseln;;Islas Navidad y Cocos;;;;;;;;;x;;;;;;;;;;;;;;;;
-AST_2454;피지;Fiji;Fidji;Fidschi;;Islas Fiji;;;;;;;;;x;;;;;;;;;;;;;;;;
-AST_2527;키리바시;Kiribati;Kiribati;Kiribati;;Kiribati;;;;;;;;;x;;;;;;;;;;;;;;;;
-AST_2528;남뉴기니;Southern New Guinea;Nouvelle guin? du sud;S?liches Neuguinea;;Nueva Guinea Meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-AST_2534;솔로몬;Solomon Islands;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-AST_2535;바누아투;Vanuatu;Vanuatu;Vanuatu;;Vanuatu;;;;;;;;;x;;;;;;;;;;;;;;;;
-AST_801;폴리네시아;Polynesia;Polyn?ie;Polynesien;;La Polinesia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ATJ_1405;아체;Aceh;Aceh;Aceh;;Aceh;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_2538;보이보디나;Vojvodina;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-AUS_612;티롤;Tirol;Tyrol;Tirol;;Tirol;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_613;케른텐-슈타이어마르크;K?nten-Steiermark;K?nten-Steiermark;K?nten-Steiermark;;K?nten-Steiermark;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_619;외스터라이히;?terreich;Autriche;?terreich;;Austria;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_623;트랜스다뉴브;Transdanubia;Transdanubie;Transdanubien;;Transdanubia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_625;보헤미아;Bohemia;Boh?e;B?men;;Bohemia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_626;모라비아;Moravia;Moravie;M?ren;;Moravia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_633;슬로바키아;Slovakia;Slovaquie;Slowakei;;Eslovaquia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_641;중앙헝가리;Central Hungary;Hongrie centrale;Zentralungarn;;Hungr? Central;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_647;알펠드;Alf?d;Alf?d;Alf?d;;Alf?d;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_652;바나트;Banat;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-AUS_654;서지벤부르겐;Western Siebenb?gen;Transylvanie occidentale;Westsiebenb?gen;;Siebenb?gen Occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_657;동지벤부르겐;Eastern Siebenb?gen;Transylvanie orientale;Ostsiebenb?gen;;Siebenb?gen Oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_662;동갈리치아;East Galicia;Galice orientale;Ostgalizien;;Galitzia Oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_702;갈리치아-로도메리아;Galicia-Lodomeria;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_726;롬바르디아;Lombardia;Lombardie;Lombardei;;Lombard?;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_729;베네치아;Venetia;V??ie;Venedig;;Venecia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_734;쥐트티롤;South Tirol;Tyrol du Sud;S?tirol;;Tirol Meridional;;;;;;;;x;;;;;;;;;;;;;;;;;
-AUS_736;이스트리아;Istria;Istrie;Istrien;;Istria;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_768;슬로베니아;Slovenia;Slov?ie;Slowenien;;Eslovenia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_771;크로아티아;Croatia;Croatie;Kroatien;;Croacia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_777;슬라보니아;Slavonia;Slavonie;Slawonien;;Eslavonia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_780;달마티아;Dalmatia;Dalmatie;Dalmatien;;Dalmacia;;;;;;;;;x;;;;;;;;;;;;;;;;
-AUS_ADJ;오스트리아령;Austrian;Autrichien;?terreichisch;;Austr?ca;;;;;;;;;x;;;;;;;;;;;;;;;;
-BAD_586;바덴;Baden;Baden;Baden;;Baden;;;;;;;;;x;;;;;;;;;;;;;;;;
-BAL_1438;순다;Sunda Islands;Sunda Islands;Sundainseln;;Sunda Islands;;;;;;;;;x;;;;;;;;;;;;;;;;
-BAV_595;프랑켄;Franken;Niederbayern;Niederbayern;;Niederbayern;;;;;;;;;x;;;;;;;;;;;;;;;;
-BAV_599;바이에른;Bayern;Oberbayern;Oberbayern;;Oberbayern;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_1977;바스콩고;Bas-Congo;Bas-Congo;Bas-Congo;;Bas-Congo;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_1984;카사이;Kasai;Kasai;Kasai;;Kasai;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_1987;카탕가;Katanga;Katanga;Katanga;;Katanga;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_1990;동북부 콩고;Congo Orientale;Congo Oriental;Congo Orientale;;Congo Orientale;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_1992;에쿠아퇴르;Equateur;Equateur;Equateur;;Equateur;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_1996;동북부 콩고;Congo Orientale;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-BEL_2034;루안다-우룬디;Ruanda-Urundi;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-BEL_387;플란데런;Flanders;Vlaanderen;Flandern;;Vlaanderen;;;;;;;;;x;;;;;;;;;;;;;;;;
-BEL_394;왈롱;Wallonia;Wallonie;Wallonien;;Valonia;;;;;;;;;x;;;;;;;;;;;;;;;;
-BOL_2305;포토시;Potos?Potosi;Potos?;Potos?;;;;;;;;x;;;;;;;;;;;;;;;;
-BOL_2309;안토파가스타;Antofagasta;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-BOL_2314;포토시;Potosi;Potosi;Potosi;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-BOL_2317;산타크루즈;Santa Cruz;Santa Cruz;Santa Cruz;;Santa Cruz;;;;;;;;;x;;;;;;;;;;;;;;;;
-BOL_2321;라파즈;La Paz;La Paz;La Paz;;La Paz;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRU_1394;북보르네오;North Borneo;North Borneo;Nord-Borneo;;North Borneo;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRU_1396;사바;Sabah;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-BRZ_2246;미나스제라이스;Minas Gerais;Minas Gerais;Minas Gerais;;Minas Gerais;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2306;상파울로;S? Paulo;S? Paulo;S? Paulo;;Sao Paulo;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2401;아마조나스;Amazonas;Amazone;Amazonas;;Amazonas;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2408;파라;Par?Par?Par?;Par?;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2410;마라냥;Maranh?;Maranh?;Maranh?;;Maranh?;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2416;마투그로수;Mato Grosso;Mato Grosso;Mato Grosso;;Mato Grosso;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2421;고이아스;Goi?;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-BRZ_2427;히우그란지두노르치;Rio Grande do Norte;Rio Grande do Norte;Rio Grande do Norte;;Rio Grande do Norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2428;페르남부쿠;Pernambuco;Pernambouc;Pernambuco;;Pernambuco;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2439;바이아;Bahia;Bahia;Bahia;;Bah?;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2446;미나스제라이스;Minas Gerais;Minas Gerais;Minas Gerais;;Minas Gerais;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2447;히우지자네이루;Rio de Janeiro;Rio de Janeiro;Rio de Janeiro;;R? de Janeiro;;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2448;이스피리투산투;Esp?ito Santo;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2449;산타카타리나주;Santa Catarina;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2450;마투그로수두술;Mato Grosso do Sul;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2451;세르지피;Sergipe;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2452;고이아스;Goi?;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2453;토칸칭스;Tocantins;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2454;알라고아스;Alagoas;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2455;파라나;Para?a;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2456;세아라;Cear?;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2457;피아우이;Piau?;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2458;아마파;Amap?;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2459;로라이마;Roraima;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2460;아크레;Acre;;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;
-BRZ_2461;산타카타리나;Santa Catarina;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-BRZ_2462;파라나;Paran?Paran?Paran?;Paran?;;;;;;;;x;;;;;;;;;;;;;;;;
-BRZ_2467;히우그란지두술;Rio Grande do Sul;Rio Grande do Sul;Rio Grande do Sul;;Rio Grande do Sul;;;;;;;;;x;;;;;;;;;;;;;;;;
-BUK_1207;타지키스탄;Tajikistan;Tajikistan;Tadschikistan;;Tajikistan;;;;;;;;;x;;;;;;;;;;;;;;;;
-BUR_1330;페구;Pegu;Pegu;Pegu;;Pegu;;;;;;;;;x;;;;;;;;;;;;;;;;
-BUR_1334;샨;Central Burma;Shan States;Shan-Staaten;;Shan States;;;;;;;;;x;;;;;;;;;;;;;;;;
-BUR_1339;카친;Kachin;Kachin;Kachin;;Kachin;;;;;;;;;x;;;;;;;;;;;;;;;;
-CAN_13;브리티시컬럼비아;British Columbia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CAN_19;북평;Beijing;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CAN_46;온타리오;Ontario;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CAN_50;북온타리오;Northern Ontario;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CAN_58;퀘벡;Quebec;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CAN_60;북퀘벡;Northern Quebec;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1082;프리모르스키;Primorsky Krai;Outer Manchuria;훧?re Mandschurei;;Outer Manchuria;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1086;사할린;Sakhalin;Sakhalin;Sachalin;;Sakhalin;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1465;동몽골;Eastern Mongolia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1468;서몽골;Western Mongolia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1470;남안휘;South Anhui;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1472;북안휘;Northern Anhui;Northern Anhui;Nord-Anhui;;Northern Anhui;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1473;남안휘;Southern Anhui;Southern Anhui;S?-Anhui;;Southern Anhui;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1476;강소;Jiangsu;Jiangsu;Jiangsu;;Jiangsu;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1477;북안휘;North Anhui;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1479;요녕;Fengtian;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1482;복건;Fujian;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1485;대만;Formosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1487;복건;Fujian;Fujian;Fujian;;Fujian;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1490;감숙;Gansu;Kansuh;Gansu;;Gansu;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1493;광주;Canton;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1494;소주;Shaozhou;Shaozhou;Shaozhou;;Shaozhou;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1496;구룡;Hong Kong & Macao;Hong Kong & Macao;Hong Kong & Macao;;Hong Kong y Macao;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1499;광동;Guangdong;Kwangtung;Guangdong;;Guangdong;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1502;광서;Guangxi;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1504;광서;Guangxi;Kwangsi;Guangxi;;Guangxi;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1505;귀주;Guizhou;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1508;동하남;East Henan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1510;서하남;West Henan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1513;하남;Henan;Henan;Henan;;Henan;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1516;동호북;Eastern Hubei;Eastern Hubei;Ost-Hubei;;Eastern Hubei;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1519;서호북;West Hubei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1522;동호북;East Hubei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1523;동호북;Western Hubei;Western Hubei;West-Hubei;;Western Hubei;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1524;북호남;North Hunan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1526;남호남;South Hunan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1529;호남;Hunan;Hunan;Hunan;;Hun?;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1532;내몽골;Inner Mongolia;Inner Mongolia;Innere Mongolei;;Inner Mongolia;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1539;소주;Suzhou;Suzhou;Suzhou;;Suzhou;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1540;북강소;North Jiangsu;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1545;북강서;North Jiangxi;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1547;남강서;South Jiangxi;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1550;강서;Jiangxi;Jiangxi;Jiangxi;;Jiangxi;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1552;흑룡강;Heilongjiang;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1553;만주;Manchuria;Manchuria;Mandschurei;;Manchuria;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1555;길림;Kirin;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1557;청해;Qinghai;Tsinghai;Qinghai;;Qinghai;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1559;섬서;Shaanxi;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1563;산동;Shandong;Shandong;Shandong;;Shandong;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1565;동산동;East Shandong;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1572;산서;Shanxi;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1576;산서;Shanxi;Shanxi;Shanxi;;Shanxi;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1578;사천;Sichuan;Sichuan;Sichuan;;Sichuan;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1579;중경;Chongqing;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1581;중경;Chongqing;Chongqing;Chongqing;;Chongqing;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1594;카슈가르;Kashgar;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1600;신장;Xinjiang;Xinjiang;Xinjiang;;Xinjiang;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1601;운남;Yunnan;Yunnan;Yunnan;;Yunnan;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1604;북절강;North Zhejiang;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1610;남절강;South Zhejiang;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1611;절강;Zhejiang;Zhejiang;Zhejiang;;Zhejiang;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1612;하북;Hebei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1614;남하북;Southern Zhili;Southern Zhili;S?-Zhili;;Southern Zhili;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_1616;순천;Shuntian;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_1618;북하북;Northern Zhili;Northern Zhili;Nord-Zhili;;Northern Zhili;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_2062;영하;Ningxia;Ningxia;Ningxia;;Ningxia;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_2221;남강소;South Jiangsu;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHI_2562;대만;Formosa;Formose;Formosa;;Formosa;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_2608;몽골;Mongolia;Tibet;Mongolei;;Mongolia;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_2678;외몽골;Outer Mongolia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-CHL_2322;산티아고;Santiago;Santiago;Santiago;;Santiago;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHL_2327;로스리오스;Los R?s;Los R?s;Los R?s;;Los R?s;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHL_2332;아라우카니아주;Araucania;Araucania;Araucania;;Araucania;;;;;;;;;x;;;;;;;;;;;;;;;;
-PNM_1723;파나마 운하;Panama Canal;Panama;Panama;;Panam?;;;;;;;;x;;;;;;;;;;;;;;;;
-CLM_1723;파나마;Panama;Panama;Panama;;Panam?;;;;;;;;x;;;;;;;;;;;;;;;;
-CLM_2247;쿤디나마르카;Cundinamarca;Cundinamarca;Cundinamarca;;Cundinamarca;;;;;;;;;x;;;;;;;;;;;;;;;;
-CLM_2251;안티오키아;Antioqu?;Antioqu?;Antioqu?;;Antioqu?;;;;;;;;;x;;;;;;;;;;;;;;;;
-CLM_2256;바예델카우카;Valle del Cauca;Valle del Cauca;Valle del Cauca;;Valle del Cauca;;;;;;;;;x;;;;;;;;;;;;;;;;
-CLM_2259;카우카;Cauca;Cauca;Cauca;;Cauca;;;;;;;;;x;;;;;;;;;;;;;;;;
-CLM_2262;과비아레;Guaviare;Guaviare;Guaviare;;Guaviare;;;;;;;;;x;;;;;;;;;;;;;;;;
-DAI_1369;통킹;Tonkin;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-DAI_1375;안남;Annam;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-DAI_1380;코친차이나;Cochinchina;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-DEN_251;아이슬란드 및 그린란드;Iceland & Greenland;Islande et Groenland;Island & Gr?land;;Islandia y Groenlandia;;;;;;;;;x;;;;;;;;;;;;;;;;
-DEN_367;이윌란;Jylland;Jutland;Jylland;;Jutlandia;;;;;;;;;x;;;;;;;;;;;;;;;;
-DEN_372;셸란;Sjaelland;Sjaelland;Sjaelland;;Seelandia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ECU_2279;에콰도르;Ecuador;Equateur;Ecuador;;Ecuador;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1745;카이로;Cairo;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-EGY_1746;시나이;Sinai;Sinai;Sinai;;Sinai;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1750;하부이집트;Lower Egypt;Basse ?ypte;Unter-훕ypten;;Lower Egypt;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1751;알렉산드리아;Alexandria;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-EGY_1753;메르사마트루;Matruh;Matruh;Matruh;;Matruh;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1754;리비아;Libya;C?e lybienne;Lybische K?te;;Costa de Libia;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1755;수에즈;Suez;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-EGY_1756;시나이;Sinai;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-EGY_1758;이집트 사막;Egyptian Desert;Egyptian Desert;훕yptische W?te;;Egyptian Desert;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1762;중부이집트;Middle Egypt;?ypte Moyenne;Mittel-훕ypten;;Middle Egypt;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1771;상부이집트;Upper Egypt;Basse ?ypte;Unter-훕ypten;;Upper Egypt;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1827;수단;Sudan;Soudan;Sudan;;Sudan;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1834;동골라;Dongola;Dongolah;Dunqula;;Dongola;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1838;코르도판;Kordofan;Kordofan;Kordofan;;Kordofan;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_1842;다르푸르;Darfur;Darfour;Darfur;;Darfur;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_843;에게해제도;Aegean Islands;?es de la mer Eg?;훕?sche Inseln;;Islas del Egeo;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_897;알레포;Aleppo;Aleppo;Aleppo;;Aleppo;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_903;시리아;Syria;Syria;Syrien;;Syria;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_910;트란스요르단;Transjordan;Transjordan;Transjordanien;;Transjordan;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_915;레바논;Lebanon;Liban;Libanon;;L?ano;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_921;서팔레스타인;West Palestine;Palestine;Pal?tina;;Palestina;;;;;;;;;x;;;;;;;;;;;;;;;;
-EGY_922;동팔레스타인;East Palestine;Palestine;Pal?tina;;Palestina;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1236;하리아나;Haryana;United Provinces;Vereinte Provinzen;;United Provinces;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1243;푸르반찰;Purvanchal;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_1244;아와드;Awadh;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_1247;북비하르;North Bihar;Bihar;Bihar;;Bihar;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1251;남벵골;South Bengal;Bengal du sud;S?bengalen;;Bengala del Sur;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1252;북벵골;North Bengal;Bengal du nord;Nordbengalen;;Bengala del Norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1258;아삼;Assam;Assam;Assam;;Assam;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1261;오리사;Orissa;Orissa;Orissa;;Orissa;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1264;라지푸타나;Rajputana;Rajputana;Rajputana;;Rajputana;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1275;마디아프라데시;Madhya Pradesh;Central India;Zentral-Indien;;Central India;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1291;구지라트;Gujarat;Gujarat;Gujarat;;Gujarat;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1297;서마하라슈트라;West Maharashtra;Bombay;Bombay;;Bombay;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_13;브리티시컬럼비아;British Columbia;Colombie britannique;British Columbia;;Columbia Brit?ica;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1304;마드라스;Madras State;Madras;Madras;;Madras;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1305;안드라프라데시;Andhra Pradesh;Circars;Circars;;Circars;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1317;트라방코르;Travancore;Travancore;Travancore;;Travancore;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1321;실론;Ceylon;Ceylan;Ceylon;;Ceil?;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1343;테나세림;Tenasserim;Tenasserim;Tenasserim;;Tenasserim;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1384;중앙말라야;Central Malaya;Malaya;Malaya;;Malaya;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1385;남말라야;Southern Malaya;Malaya;Malaya;;Malaya;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1391;북말라야;Northern Malaya;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_1818;와다이;Waddai;Ouaddai;Waddai;;Waddai;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1825;차드;Chad;Tchad;Tschad;;Chad;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1843;에콰토리아;Equatoria; Region ?uateur;훢uatoria;;Equatoria;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1844;수드;Sudd;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_1848;에리트레아;Eritrea;L'?ythr?;Eritrea;;Eritrea;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1868;소말릴랜드;Somaliland;Somalie;Somaliland;;Somalilandia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1887;라이베리아;Liberia;Lib?ia;Liberia;;Liberia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1956;남카메룬;South Cameroon;Sud du Cameroun;S?-Kamerun;;Camer? meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1960;북카메룬;North Cameroon;Nord du Cameroun;Nord-Kamerun;;Camer? septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_1979;기아나;Guayana;Guayana;Guayana;;Guayana;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2014;잠비아;Zambia;Zambie;Zambia;;Zambia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2016;카젬베;Kazembe;Kazembe;Kazembe;;Kazembe;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2019;우간다;Uganda;Ouganda;Uganda;;Uganda;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2024;케냐;Kenya;Kenya;Kenia;;Kenia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2031;북동케냐;North Eastern Province;Kenya;Kenia;;Kenia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2026;지구대;Rift Valley;Vall? du Rift;Gro?r Afrikanischer Grabenbruch;;Rift Valley;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2029;잔지바르;Zanzibar;Zanzibar;Sansibar;;Zanzibar;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_203;카리브제도;Caribbean Islands;?es cara?es;Karibische Inseln;;Islas del Caribe;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2034;탕가니카;Tanganyika;Tanzanie;Tanganjika;;Tanganyika;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2036;잔지바르;Zanzibar;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_2039;린디;Lindi;Lindi;Lindi;;Lindi;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2044;탕가니카;Tanganyika;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_2048;잔지바르;Zanzibar;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_2067;니아살란드;Nyasaland;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_2068;잠베지;Zambezi;Zamb?e;Sambesi;;Zambezi;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2071;마타벨렐란드;Matabeleland;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_2074;보츠나와;Botswana;Botswana;Botswana;;Botswana;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2078;헤레로란드;Hereroland;Hereroland;Hereroland;;Hereroland;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2083;나마콸란드;Namaqualand;Namaqualand;Namaqualand;;Namaqualandia;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2087;케이프;Cape Colony;Colonie du Cap;Cape Colony;;Colonia del Cabo;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2092;북케이프;Northern Cape;Cap nord;Northern Cape;;Cabo del norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2094;킴벌리;Kimberley;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_2096;동케이프;Eastern Cape;Cap oriental;Eastern Cape;;Cabo oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2125;인도양제도;Indian Ocean Territory;Territoire de l'oc?n Indien;Territorium im Indischen Ozean;;Indian Ocean Territory;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2132;남대서양제도;South Atlantic Islands;South Atlantic Islands;S?atlantische Inseln;;South Atlantic Islands;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_22;앨버타;Alberta;Alberta;Alberta;;Alberta;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2224;서인도;West Indies;Antilles;Westindien;;Indias Occidentales;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2228;소앤틸리스;Lesser Antilles;Petites Antilles;Kleine Antillen;;Antillas Menores;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2468;뉴사우스웨일즈;New South Wales;Nouvelles-Galles du sud;New South Wales;;Nueva Gales del Sur;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2476;빅토리아;Victoria;Victoria;Victoria;;Victoria;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2483;퀸즐랜드;Queensland;Queensland;Queensland;;Queensland;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2491;남오스트레일리아;South Australia;Australie du sud;South Australia;;Australia meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2497;서오스트레일리아;Western Australia;Australie occidentale;Western Australia;;Australia occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2505;노던;Northern Territory;Territoires du Nord;Northern Territory;;Territorio Septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2509;북섬;North Island;?e du Nord;North Island;;Isla del Norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_2513;남섬;South Island;?e du Sud;South Island;;Isla del Sur ;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_254;얼스터;Ulster;Ulster;Ulster;;Ulster;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_258;코노트;Connacht;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ENG_260;뮌스터;Munster;M?ster;Munster;;M?ster;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_263;렌스터-코나트;Leinster-Connacht;Leinster-Connacht;Leinster-Connacht;;Leinster-Connacht;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_266;하일랜드;Highlands;Highlands;Highlands;;Highlands;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_271;롤랜드;Lowlands;Lowlands;Lowlands;;Lowlands;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_273;웨일즈;Wales;Pays de Galles;Wales;;Gales;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_277;노스웨스트잉글랜드;North West England;Angleterre du nord-ouest;Nordwestengland;;Inglaterra Noroccidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_280;노스이스트잉글랜드;North East England;Angleterre du nord-est;Nordostengland;;Inglaterra Nororiental;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_284;미들랜드;Midlands;Midlands;Midlands;;Midlands;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_291;이스턴카운티;Eastern Counties;Angleterre de l'est;Eastern Counties;;Condados Orientales;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_296;사우스웨스트잉글랜드;South West England;Angleterre du sud-ouest;S?westengland;;Inglaterra suroccidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_30;서스캐처원;Saskatchewan;Saskatchewan;Saskatchewan;;Saskatchewan;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_300;사우스이스트잉글랜드;South East England;Angleterre du sud-est;S?ostengland;;Inglaterra suroriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_36;매니토바;Manitoba;Manitoba;Manitoba;;Manitoba;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_43;누나부트;Nunavut;Nunavut;Nunavut;;Nunavut;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_44;누나부트;Nunavut Territory;Nunavut;Nunavut Territory;;Territorio de Nunavut;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_46;온타리오;Ontario;Ontario;Ontario;;Ontario;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_58;퀘벡;Quebec;Qu??ois;Quebec;;Quebec;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_6;동마하라슈트라;East Maharashtra;Territoire du Yukon;Yukon Territory;;Territorio del Yuk?;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_68;매리타임즈;Maritimes;Nouveau-Brunswick;New Brunswick;;New Brunswick;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_74;뉴펀들랜드;Newfoundland;Terre-Neuve;Neufundland;;Terra Nova;;;;;;;;;x;;;;;;;;;;;;;;;;
-ENG_9;노스웨스트;Northwest Territories;Territoires du N-O;Northwest Territories;;Territorios noroccidentales;;;;;;;;;x;;;;;;;;;;;;;;;;
-ETH_1852;베겜데르;Begemder;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ETH_1853;티그레이;Tigray;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ETH_1854;곤다르-티크레이;Gonder-Tigray;Gonder-Tigray;Gonder-Tigray;;Gonder-Tigray;;;;;;;;;x;;;;;;;;;;;;;;;;
-ETH_1859;오로미아;Oromia;Oromia;Oromia;Oromia;Orom?;;;;;;;;;x;;;;;;;;;;;;;;;;
-ETH_1862;기베;Gibe;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ETH_1864;암하라;Amhara;Amhara;Amhara;;Amhara;;;;;;;;;x;;;;;;;;;;;;;;;;
-ETH_1865;하라르게;Hararghe;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ETH_1867;오로미아;Oromia;Oromia;Oromia;;Oromia;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1700;알제;Algiers;Alger;Algier;;Algiers;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1775;모리타니아;Mauritania;C?e de la Mauritanie;Mauretanische K?te;;Costa de Mauritania;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1780;모리타니;Inner Mauritania;Mauritanie int?ieure;Inneres Mauritanien;;Mauritania interior;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1783;세네갈;Senegal;S??al;Senegal;;Senegal;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1788;감비아;Gambia;Gambie;Gambia;;Gambia;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1798;동말리;Eastern Mali;Mali orientale;Ost-Mali;;Eastern Mali;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1801;서말리;Western Mali;Mali ouest;West-Mali;;Western Mali;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1803;팀북투;Timbuktu;Timbuktu;Timbuktu;;Timbuktu;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1808;외하우살란드;Outer Hausaland;Outer Hausaland;훧?res Hausaland;;Outer Hausaland;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1813;니제르;Niger;Niger;Niger;;N?er;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1816;보르누;Bornu;Bornou;Bornu;;Bornu;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1878;하기니;Lower Guinea;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-FRA_1879;기니;Guinea;Guin?;Guinea;;Guinea;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1883;상기니;Upper Guinea;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-FRA_1884;시에라리온;Sierra Leone;Sierra Leone;Sierra Leone;;Sierra Leona;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1892;상아해안;Ivory Coast;Est de la C?e d묲voire;?tliche Elfenbeink?te;;Costa de Marfil oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1893;바람해안;Windward Coast;Ouest de la C?e d묲voire;Westliche Elfenbeink?te;;Costa de Marfil occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1901;볼타;Volta;Volta;Volta;;Volta;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1907;가나;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1914;토고;Togo;Togo;Togo;;Togo;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1919;다호메이;Dahomey;Dahomey;Dahomey;;Dahomey;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1923;요루바;Yoruba States;Yoruba States;Yoruba-Staaten;;Yoruba States;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1927;하우살란드;Hausaland;Hausaland;Hausaland;;Hausaland;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1930;베냉;Benin;Benin;Benin;;Benin;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1931;나이저 삼각주;Niger Delta;Niger Delta;Niger-Delta;;Niger Delta;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1937;나이지리아;Nigeria;Nigeria;Nigeria;;Nigeria;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1939;동하우살란드;East Hausaland;East Hausaland;Ost-Hausaland;;East Hausaland;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1965;우방기샤리;Ubangi-Shari;Oubangi-Chari;Ubangi-Schari;;Ubangi-Shari;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1970;방가수;Bangassou;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-FRA_1972;가봉;Gabon;Gabon;Gabun;;Gab?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_1978;콩고;Congo;Congo;Kongo;;El Congo;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_399;피카르디;Picardie;Picardie;Picardie;;Picard?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_404;샴페인;Champagne;Champagne;Champagne;;Champa?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_411;프랑슈콩테;Franche-Comt?Franche-Comt?Franche-Comt?;Franco Condado;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_412;알자스-로렌;Alsace-Lorraine;Alsace-Lorraine;Alsace-Lorraine;;Alsacia-Lorena;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_418;노르망디;Normandie;Normandie;Normandie;;Normand?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_420;브르타뉴;Bretagne;Bretagne;Bretagne;;Breta?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_425;일드프랑스;Ile de France;Ile-de-France;Ile de France;;?e-de-France;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_428;부르고뉴;Bourgogne;Bourgogne;Bourgogne;;Borgo?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_435;루아르;Loire;Loire;Loire;;Loira;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_438;상트르;Region Centre;R?ion Centre;Region Centre;;Regi? Central;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_442;푸아투;Poitou;Poitou;Poitou;;Poitou;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_445;리무쟁;Limousin;Limousin;Limousin;;Lemos?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_448;오베르뉴;Auvergne;Auvergne;Auvergne;;Auvernia;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_451;론;Rhone;Rh?e;Rhone;;Rhone;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_455;르미디;Le Midi;Midi;Le Midi;;Le Midi;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_458;아키텐;Aquitaine;Aquitaine;Aquitaine;;Aquitania;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_461;랑그도크;Languedoc;Languedoc;Languedoc;;Languedoc;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_467;프로방스;Provence;Provence;Provence;;Provenza;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_77;생피에르미클롱;Saint Pierre and Miquelon;Saint-Pierre-et-Miquelon ;Saint Pierre und Miquelon;;San Pedro y Miguel?;;;;;;;;;x;;;;;;;;;;;;;;;;
-FRA_801;타히티;Tahiti;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-GER_2530;북뉴기니;Northern New Guinea;Nouvelle Guin? du nord;N?dliches Neuguinea;;Nueva Guinea Septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-GRE_826;펠로폰네소스;Peloponnese;P?oponn?e;Peloponnes;;Peloponeso;;;;;;;;;x;;;;;;;;;;;;;;;;
-GRE_837;아티키;Attica;Attica;Attica;;햠ica;;;;;;;;;x;;;;;;;;;;;;;;;;
-HAI_2213;이스파니올라;Hispaniola;Hispaniola;Hispaniola;;Espa?la;;;;;;;;;x;;;;;;;;;;;;;;;;
-HAM_528;오스트하노버;Osthannover;Osthannover;Osthannover;;Osthannover;;;;;;;;;x;;;;;;;;;;;;;;;;
-HAN_528;니더엘베;Lower Elbe;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-HAN_534;하노버;Hannover;Hanovre;Hannover;;Hannover;;;;;;;;;x;;;;;;;;;;;;;;;;
-HAN_540;오스트프리슬란트 ;East Friesland;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-HAW_658;하와이;Hawaiian Islands;?es d'Hawa?Hawaii-Inseln;;Islas Hawai;;;;;;;;;x;;;;;;;;;;;;;;;;
-HDJ_1151;헤자즈;Hedjaz;Hedjaz;Hedjaz;;Hedjaz;;;;;;;;;x;;;;;;;;;;;;;;;;
-HEK_568;헤센;Hessen;Hesse;Hessen;;Hesse;;;;;;;;;x;;;;;;;;;;;;;;;;
-HES_2560;헤세나사우;Hesse-Nassau;Hesse-Nassau;Hessen-Nassau;;Hesse-Nassau;;;;;;;;;x;;;;;;;;;;;;;;;;
-HOL_369;홀슈타인;Holstein;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-HYD_1283;텔랑가나;Telangana;Hyderabad;Hyderabad;;Hyderabad;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1086;사할린;Sakhalin;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-JAP_1088;홋카이도;Hokkaido;Hokkaido;Hokkaido;;Hokkaido;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1640;주고쿠;Chugoku;Chugoku;Chugoku;;Chugoku;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1649;간토;Kanto;Kanto;Kanto;;Kanto;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1654;오가사와라;Ogasawara Islands;Bonin Islands;Bonininseln;;Bonin Islands;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1655;간사이;Kansai;Kansai;Kansai;;Kansai;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1660;규슈;Kyushu;Kyushu;Kyushu;;Kyushu;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1665;시고쿠;Shikoku;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-JAP_1672;도호쿠;Tohoku;Tohoku;Tohoku;;Tohoku;;;;;;;;;x;;;;;;;;;;;;;;;;
-JAP_1675;주부;Chubu;Chubu;Chubu;;Chubu;;;;;;;;;x;;;;;;;;;;;;;;;;
-KAL_1221;발루치스탄;Baluchistan;Baluchistan;Belutschistan;;Baluchistan;;;;;;;;;x;;;;;;;;;;;;;;;;
-KHI_1191;우즈베키아;Uzbekia;Uzbekia;Uzbekia;;Uzbekia;;;;;;;;;x;;;;;;;;;;;;;;;;
-KOK_1190;키르기지아;Kirghizia;Kirghizia;Kirghizia;;Kirghizia;;;;;;;;;x;;;;;;;;;;;;;;;;
-KOK_1210;바다흐샨;Bandakshan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-KOR_1619;평안-함경;Pyongyang;Pyongyang;Pj?gjang;;Pyongyang;;;;;;;;;x;;;;;;;;;;;;;;;;
-KOR_1624;경기-강원-충청;Seoul;Seoul;Seoul;;Seoul;;;;;;;;;x;;;;;;;;;;;;;;;;
-KOR_1627;황해;Sariwon;Sariwon;Sariwon;;Sariwon;;;;;;;;;x;;;;;;;;;;;;;;;;
-KOR_1635;전라-경상;Busan;Busan;Busan;;Busan;;;;;;;;;x;;;;;;;;;;;;;;;;
-LUA_1356;라오스;Laos;Laos;Laos;;Laos;;;;;;;;;x;;;;;;;;;;;;;;;;
-MAD_2117;남마다가스카르;South Madagascar;Sud de Madagascar;S?-Madagaskar;;South Madagascar;;;;;;;;;x;;;;;;;;;;;;;;;;
-MAD_2121;북마다가스카르;North Madagascar;Du Nord de Madagascar;Nord-Madagaskar;;North Madagascar;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEC_544;슐레스비히-홀슈타인;Schleswig-Holstein;Slesvig-Holstein;Schleswig-Holstein;;Schleswig-Holstein;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_100;애리조나;Arizona;Arizona;Arizona;;Arizona;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_103;뉴멕시코;New Mexico;Nouveau-Mexique;New Mexico;;Nuevo M?ico;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2138;소노라;Sonora;Sonora;Sonora;;Sonora;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2142;치와와;Chihuahua;Chihuahua;Chihuahua;;Chihuahua;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2146;누에보레온;Nuevo Le?;Nuevo Le?;Nuevo Le?;;Nuevo Le?;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2151;두랑고;Durango;Durango;Durango;;Durango;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2161;할리스코;Jalisco;Jalisco;Jalisco;;Jalisco;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2162;멕시코;M?ico;M?ico;Mexiko;;M?ico;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2170;모렐리아;Morelia;Morelia;Morelia;;Morelia;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2173;사카테카스;Zacatecas;Zacatecas;Zacatecas;;Zacatecas;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_2181;치아파스;Chiapas;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-MEX_2183;유카탄;Yucat?;Yucat?;Yucat?;;Yucat?;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_85;캘리포니아;California;Californie;Kalifornien;;California;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_94;네바다;Nevada;Nevada-Utah;Nevada-Utah;;Nevada-Utah;;;;;;;;;x;;;;;;;;;;;;;;;;
-MEX_97;유타;Utah;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-MOD_739;에밀리아;Emilia;?ilie;Emilia;;Emilia;;;;;;;;;x;;;;;;;;;;;;;;;;
-MOL_673;몰다비아;Moldavia;Moldavie;Moldau;;Moldavia;;;;;;;;;x;;;;;;;;;;;;;;;;
-MOL_676;베사라비아;Bessarabia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-MON_2582;몬테네그로;Montenegro;Mont??ro;Montenegro;;Montenegro;;;;;;;;;x;;;;;;;;;;;;;;;;
-MOR_1683;타자;Taza;Taza;Taza;;Taza;;;;;;;;x;;;;;;;;;;;;;;;;;
-MOR_1686;페스;Fez;Fez;F?;;Fez;;;;;;;;;x;;;;;;;;;;;;;;;;
-MOR_1688;리프;al Rif;al Rif;Al Rif;;al Rif;;;;;;;;;x;;;;;;;;;;;;;;;;
-MOR_1693;모로코;Morocco;Maroc;Marokko;;Morocco;;;;;;;;;x;;;;;;;;;;;;;;;;
-MOR_1694;아가디르;Agadir;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-MOR_1696;서모로코;West Morocco;Maroc Occidental;West-Marokko;;Marruecos occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-MYS_1314;카르나타카;Karnataka;Mysore;Mysore;;Mysore;;;;;;;;;x;;;;;;;;;;;;;;;;
-NAG_1277;나그푸르;Nagpur;Nagpur;Nagpur;;Nagpur;;;;;;;;;x;;;;;;;;;;;;;;;;
-NEJ_1156;하일;Hail;Hail;Ha'il;;Hail;;;;;;;;;x;;;;;;;;;;;;;;;;
-NEJ_1157;네지드;Nejd;Nejd;Nadschd;;Nejd;;;;;;;;;x;;;;;;;;;;;;;;;;
-NEP_1326;서히말라야;Western Himalayas;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NEP_1327;히말라야;Himalayas;Himalayas;Himalaya;;Himalayas;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_1398;수마트라;Sumatra;Sumatra;Sumatra;;Sumatra;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_1401;시악;Siak;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_1413;서자바;West Java;Java;Java;;Java;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_1418;동자바;East Java;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_1423;보르네오;Borneo;Borneo;Borneo;;Borneo;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_1426;남보르네오;South Borneo;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_1446;티모르;Timor;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_1447;말루쿠;Moluccas;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_1449;술라웨시;Celebes;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_1451;서뉴기니;Western New Guinea;Western New Guinea;West-Neuguinea;;Western New Guinea;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_2235;리워드앤틸리스;Leeward Antilles;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_375;홀란트;Holland;Hollande;Holland;;Holanda;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_379;브라반트;Brabant;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-NET_381;헬데를란트;Gelderland;Gelderland;Gelderland;;Gelderland;;;;;;;;;x;;;;;;;;;;;;;;;;
-NET_385;프리슬란트;Friesland;Frise;Friesland;;Friedland;;;;;;;;;x;;;;;;;;;;;;;;;;
-OMA_1166;오만;Oman;Oman;Oman;;Om?;;;;;;;;;x;;;;;;;;;;;;;;;;
-ORA_2103;오라녜;Vrystaat;Vrystaat;Vrystaat;;Vrystaat;;;;;;;;;x;;;;;;;;;;;;;;;;
-PAN_1222;북카슈미르;Northern Kashmir;Kashmir;Kaschmir;;Kashmir;;;;;;;;;x;;;;;;;;;;;;;;;;
-PAN_1224;동카슈미르;Eastern Kashmir;Kashmir;Kaschmir;;Kashmir;;;;;;;;;x;;;;;;;;;;;;;;;;
-AFG_1210;서카슈미르;Western Kashmir;Kashmir;Kaschmir;;Kashmir;;;;;;;;;x;;;;;;;;;;;;;;;;
-PAN_1227;서펀자브;West Punjab;Punjab;Punjab;;Punjab;;;;;;;;;x;;;;;;;;;;;;;;;;
-PAN_1233;동펀자브;East Punjab;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PAP_741;로마냐;Romagna;Romagne;Romagna;;Roma?;;;;;;;;;x;;;;;;;;;;;;;;;;
-PAP_752;라치오;Lazio;Lazio;Lazio;;Lazio;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1112;타브리즈;Tabriz;Tabriz;T?ris;;Tabriz;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1116;길란-마잔다란;Gilan-Mazandaran;Gilan-Mazandaran;Gilan-Mazandaran;;Gilan-Mazandaran;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1121;이라커제미;Irakajemi;Irakajemi;Irakajemi;;Irakajemi;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1122;루리스탄;Kurdistan;Luristan;Luristan;;Luristan;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1127;이스파한;Isfahan;Isfahan;Isfahan;;Isfahan;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1128;로레스탄;Lorestan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PER_1132;후제스탄;Khuzestan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PER_1135;케르만;Fars-Kerman;Fars-Kerman;Fars-Kerman;;Fars-Kerman;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1136;파르스;Fars;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PER_1138;후제스탄;Khuzestan;Khuzestan;Chuzestan;;Khuzestan;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1140;케르만;Kerman;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PER_1141;라리스탄-시스탄;Laristan-Sistan;Laristan-Sistan;Laristan-Sistan;;Laristan-Sistan;;;;;;;;;x;;;;;;;;;;;;;;;;
-PER_1148;호라산;Khorasan;Khorasan;Khorasan;;Khorasan;;;;;;;;;x;;;;;;;;;;;;;;;;
-PEU_2289;파스타사;Pastaza;Pastaza;Pastaza;;Pastaza;;;;;;;;;x;;;;;;;;;;;;;;;;
-PEU_2291;카하마르카;Cajamarca;Cajamarca;Cajamarca;;Cajamarca;;;;;;;;;x;;;;;;;;;;;;;;;;
-PEU_2297;이카;Ica;Ica;Ica;;Ica;;;;;;;;;x;;;;;;;;;;;;;;;;
-PEU_2300;리마;Lima;Lima;Lima;;Lima;;;;;;;;;x;;;;;;;;;;;;;;;;
-PEU_2303;아레키파;Arequipa;Arequipa;Arequipa;;Arequipa;;;;;;;;;x;;;;;;;;;;;;;;;;
-PEU_2308;아리카;Arica;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-POR_1999;북앙골라;North Angola;Nord de l묨ngola;Nord-Angola;;Angola del norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_2003;남앙골라;South Angola;Sud de l묨ngola;S?-Angola;;Angola meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_2006;동앙골라;East Angola;Est de l묨ngola;Ost-Angola;;Angola oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_2049;로렌수마르케스;Louren? Marques;Louren? Marques;Louren? Marques;;Louren? Marques;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_2053;잠베지아;Zambezia;Zambezia;Zambezia;;Zambezia;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_2054;테트;Tete;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-POR_2060;모잠비크;Mocambique;Mozambique;Mosambik;;Mozambique;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_2134;마카로네시아;Macaronesia;Macaron?ie;Macaronesien;;Macaronesia;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_518;도루;Douro;Douro;Douro;;Douro;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_521;이스트레마두라;Estremadura;Estr?adure;Estremadura;;Estremadura;;;;;;;;;x;;;;;;;;;;;;;;;;
-POR_525;알렌테주;Alentejo;Alentejo;Alentejo;;Alentejo;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRG_2338;알토파라과이;Alto Paraguay;Alto Paraguay;Alto Paraguay;;Alto Paraguay;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRG_2343;바호파라과이;Bajo Paraguay;Bajo Paraguay;Bajo Paraguay;;Bajo Paraguay;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_544;메클렌부르크;Mecklenburg;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PRU_546;포메라니아;Pommern;Pom?anie;Pommern;;Pomerania;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_549;브란덴부르크;Brandenburg;Brandenbourg;Brandenburg;;Brandenburgo;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_553;마그데부르크;Magdeburg;Magdeburg;Magdeburg;;Magdeburgo;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_554;튀링겐;Thuringia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PRU_570;팔츠;Palatinate;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PRU_572;라인란트;Rheinland;Rheinland;Rheinland;;Renania;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_575;노르트라인;Nordrhein;Nordrhein;Niederrhein;;Nordrhein;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_578;오스트라인란트;Eastern Rheinland;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PRU_581;베스트팔렌;Westfalen;Westphalie;Westfalen;;Westfalia;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_682;하실레시아;Schlesien;Sil?ie;Schlesien;;Silesia;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_684;상실레시아;Upper Silesia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-PRU_690;포모제;Westpreu?n;Westpreu?n;Westpreu?n;;Westpreu?n;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_695;프로이센;Ostpreu?n;Ostpreu?n;Ostpreu?n;;Ostpreu?n;;;;;;;;;x;;;;;;;;;;;;;;;;
-PRU_701;포즈난;Posen;Posnanie;Posen;;Pozn?;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1003;노브고로드;Novgorod;Novgorod;Nowgorod;;N?gorod;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1008;모스크바;Moscow;Moscou;Moskau;;Mosc?;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1009;브랸스크;Bryansk;Bryansk;Bryansk;;Briansk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1020;카잔;Kazan;Kazan;Kasan;;Kaz?;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1026;페름;Perm;Perm;Perm;;Perm;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1037;타타리야;Tartaria;Tartarie;Tartaria;;Tartaria;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1041;아스트라한;Astrakhan;Astrakan;Astrachan;;Astrac?;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1048;크라스노다르;Ekaterinodar;Ekaterinodar;Jekaterinodar;;Ekaterinodar;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1052;북카프카스;North Caucasia;Caucase du Nord;Nordkaukasus;;Caucasia del Norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1060;쿠이비셰프;Samara;Samara;Samara;;Samara;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1064;튜멘;Tyumen;Tobolsk;Tobolsk;;Tobolsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1065;서강;Sichuan Sikang;Ob;Ob;;Ob;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1069;자바이칼스키;Zabaykalsky Krai;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1070;상예니세이스크;Upper Yeniseysk;Upper Yeniseysk;Ober-Jenisseisk;;Upper Yeniseysk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1071;하바롭스크;Khabarovsk;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1072;흥안;Hsingan;Hsingan;Hsingan;;Hsingan;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1074;캄차카;Kamchatka;Kamchatka;Kamtschatka;;Kamchatka;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1075;이르쿠츠크;Irkutsk;Irkutsk;Irkutsk;;Irkutsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1079;아무르;Amur Oblast;Trans-Baikal;Transbaikal;;Trans-Baikal;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1090;그루지야;Georgia;G?rgie;Georgien;;Georgia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1098;아르메니아;Armenia;Arm?ie;Armenien;;Armenia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1102;아제르바이잔;Azerbaijan;Azerba?jan;Aserbaidschan;;Azerbaiy?;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1104;바쿠;Baku;Baku;Baku;;Bak?;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1182;우랄스크;Uralsk;Uralsk;Oral;;Uralsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1184;아크몰린스크;Akmolinsk;Akmolinsk;Akmolinsk;;Akmolinsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1185;세미레체;Semireche;Semireche;Siebenstromland;;Semireche;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1196;튀르크메니아;Turkmenia;Turkmenia;Turkmenistan;;Turkmenia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_1469;톰스크;Tomsk;Tomsk;Tomsk;;Tomsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2587;콜라;Kola;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_2589;길림;Jilin;N??sie;Nenetsia;;Nenetsia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2590;동벵골;East Bengal;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2615;서벵골;West Bengal;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2618;중앙자바;Central Java;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2621;서우타르프라데시;Western Uttar Pradesh;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2653;남비하르;South Bihar;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-CHI_2668;심천;Shenzhen;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2685;우랄;Ural;Ural;Ural;;Ural;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_2694;자르칸드;Jharkhand;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_336;북핀란드;Northern Finland;Finlande du Nord;Nordfinnland;;Finlandia Septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_339;카렐리야;Karelia;Karelia;Karelien;;Carelia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_340;남핀란드;Southern Finland;Finlande du Sud;S?finnland;;Finlandia Meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_343;헬싱키;Helsinki;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_345;투르쿠;Turku;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_349;에스토니아;Estonia;Estonie;Estland;;Estonia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_354;라트비아;Latvia;Lettonie;Lettland;;Letonia;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_360;리투아니아;Lietuva;Lietuva;Lietuva;;Lituania;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_366;라피;Lappi;Lappi;Lappi;;Lappi;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_676;부자크;Budjak;Budjak;Budjak;;Budjak;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_706;마조비에츠키에;Mazowieckie;Mazowieckie;Mazowieckie;;Mazowieckie;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_707;브레스트;Br?t;Br?t;Br?t;;Br?t;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_710;비엘코폴스카;Wielkopolskie;Wielkopolskie;Wielkopolskie;;Wielkopolskie;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_715;서갈리치아;West Galicia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_718;민스크;Minsk;Minsk;Minsk;;Minsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_940;핀스크;Pinsk;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_943;스몰렌스크;Smolensk;Smolensk;Smolensk;;Smolensk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_947;오르샤;Orsha;Orsha;Orsha;;Orsha;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_955;로브네;Rovne;Rovne;Rovne;;Rovne;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_958;키예프;Kiev;Kiev;Kiew;;K?v;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_964;크리미야;Crimea;Crim?;Krim;;Crimea;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_965;헤르손;Cherson;Cherson;Cherson;;Cherson;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_968;트란스니스트리아;Transnistria;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_973;자포리자;Zaporizhia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_977;쿠르스크;Kursk;Koursk;Kursk;;Kursk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_978;하리코프;Kharkov;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUS_979;로스토프;Rostov;Rostov;Rostow;;Rostov;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_980;보로실로브그라드;Luhansk;Luhansk;Luhansk;;Luhansk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_981;아르한겔스크;Arkhangelsk;Arkhangelsk;Archangelsk;;Arkhangelsk;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_990;갈리치;Galich;Galich;Galich;;Galich;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_994;잉그리야;Ingria;Ingrie;Ingria;;Ingria;;;;;;;;;x;;;;;;;;;;;;;;;;
-RUS_998;칼리닌;Tver;Tver;Twer;;Tver;;;;;;;;;x;;;;;;;;;;;;;;;;
-SAR_466;사부아;Savoie;Savoie;Savoie;;Saboya;;;;;;;;;x;;;;;;;;;;;;;;;;
-SAR_720;피에몬테;Piemonte;Pi?ont;Piemont;;Piamonte;;;;;;;;;x;;;;;;;;;;;;;;;;
-SAR_765;사르데냐;Sardegna;Sardaigne;Sardegna;;Cerde?;;;;;;;;;x;;;;;;;;;;;;;;;;
-SAX_558;작센;Sachsen;Saxe;Sachsen;;Sajonia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SCH_370;슐레스비히;Schleswig;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SER_794;북세르비아;Northern Serbia;Serbie du nord;Nordserbien;;Serbia Septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIA_1352;파타니;Pattani;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SIA_1355;치앙마이;Chiang Mai;Chiang Mai;Chiang Mai;;Chiang Mai;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIA_1358;나콘랏차시마;Nakhon Ratchasima;Nakhon Ratchasima;Nakhon Ratchasima;;Nakhon Ratchasima;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIA_1366;캄보디아;Cambodia;Cambodge;Kambodscha;;Camboya;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIA_1392;방콕;Bangkok;Bangkok;Bangkok;;Bangkok;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIC_753;풀리아;Puglia;Pouilles;Puglia;;Puglia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIC_754;캄파니아;Campania;Campanie;Campania;;Campania;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIC_763;시칠리아;Sicily;Sicile;Sizilien;;Sicilia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SIN_1288;신드;Sind;Sind;Sind;;Sind;;;;;;;;;x;;;;;;;;;;;;;;;;
-SOK_1934;비아프라;Biafra;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SOK_1937;투카리;Tukari;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SOK_1945;카노;Kano;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SOK_1963;아다마와;Adamawa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SOM_1868;남소말릴랜드;South Somaliland;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SOM_1872;북소말릴랜드;North Somaliland;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SPA_1455;루손;Luz?;Luzon;Luzon;;Luz?;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_1459;비사야;Visayas;Visayas;Visayas;;Visayas;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_1463;민다나오;Mindanao;Mindanao;Mindanao;;Mindanao;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_1955;적도기니;Equatorial Guinea;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SPA_2209;대앤틸리스;Greater Antilles;Grandes Antilles;Gro? Antillen;;Antillas Mayores;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_2517;미크로네시아;Micronesia;Micron?ie;Mikronesien;;Micronesia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_474;갈리시아;Galicia;Galice;Galizien;;Galicia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_477;카스티야레온;Le?-Castilla;Le?-Castilla;Le?-Castilla;;Castilla-Le?;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_484;에스트레마두라;Extremadura;Estr?adure;Extremadura;;Extremadura;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_487;카스티야라누에바;Castilla la Nueva;Nouvelle-Castille;Castilla la Nueva;;Castilla La Nueva;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_492;바스코니야아라곤;Vasconia-Arag?;Vasconia-Arag?;Vasconia-Arag?;;Vasconia-Arag?;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_498;카탈루냐;Catalonia;Catalogne;Katalonien;;Catalu?;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_503;발렌시아;Valencia;Valence;Valencia;;Valencia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_512;안달루시아;Andaluc?;Andalousie;Andalusien;;Andaluc?;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_513;그라나다;Granada;Grenade;Granada;;Granada;;;;;;;;;x;;;;;;;;;;;;;;;;
-SPA_610;캐롤라인;Caroline Islands;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SWE_308;노르노르게;Nordnorge;Nordnorge;Nordnorge;;Nordnorge;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWE_309;베스틀란데트;Vestlandet;Vestlandet;Vestlandet;;Vestlandet;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWE_313;외스틀란데트;Ostlandet;Ostlandet;Ostlandet;;Ostlandet;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWE_318;노를란드;Norrland;Norrland;Norrland;;Norrland;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWE_322;스베알란드;Svealand;Svealand;Svealand;;Suecia;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWE_329;고틀란드;G?aland;G?aland;G?aland;;Gotland;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWE_334;말뫼; Malm?;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SWI_603;동헬베티아;East Switzerland;Suisses de l'est;Ostschweiz;;Suiza Oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-SWI_605;서헬베티아;West Switzerland;Suisse de l'ouest;Westschweiz;;Suiza Occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-TEX_132;텍사스;Texas;Texas;Texas;;Texas;;;;;;;;;x;;;;;;;;;;;;;;;;
-TIB_1587;동히말라야;Eastern Himalayas;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TIB_1591;티베트;Tibet;Tibet;Tibet;;Tibet;;;;;;;;;x;;;;;;;;;;;;;;;;
-TON_2540;통가;Tonga;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TRI_1731;트리폴리타니아;Tripolitania;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TRI_1735;키레나이카;Cyrenaica;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TRI_1739;리비아사막;Libyan Desert;D?ert de Lybie;Lybische W?te;;Desierto libio;;;;;;;;;x;;;;;;;;;;;;;;;;
-TRI_1740;페잔;Fezzan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TRI_1743;트리폴리;Tripoli;Tripoli;Tripoli;;Tr?oli;;;;;;;;;x;;;;;;;;;;;;;;;;
-TRN_2108;프란스발;Transvaal;Transvaal;Transvaal;;Transvaal;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUN_1726;튀니지;Tunisia;Tunisie;Tunesien;;T?ez;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_674;도브루자;Dobrudja;Dobrudja;Dobrudja;;Dobrudja;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_788;보스니아;Bosnia;Bosnie;Bosnien;;Bosnia;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_803;남세르비아;Southern Serbia;Serbie du sud;S?serbien;;Serbia Meridional;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_805;남마케도니아;South Macedonia;Mac?oine de l'est;Ostmazedonien;;Macedonia Oriental;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_806;북마케도니아;North Macedonia;Mac?oine du Nord;Nordmazedonien;;Macedonia Septentrional;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_809;루멜리아;Rumelia;Roum?ie;Rumelien;;Rumelia;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_810;불가리아;Bulgaria;Bulgarie;Bulgarien;;Bulgaria;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_819;서마케도니아;West Macedonia;Mac?oine de l'Ouest;Westmazedonien;;Macedonia Occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_823;동마케도니아;Eastern Macedonia;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TUR_832;테살리아;Thessal?;Thessal?;Thessal?;;Tesalia;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_853;알바니아;Albania;Albanie;Albanien;;Albania;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_855;키프로스;Cyprus;Chypre;Zypern;;Chipre;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_860;트라키아;Thrace;Thrace;Thrakien;;Tracia;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_863;부르사;Hudavendigar;Hudavendigar;H?avendigar;;Hudavendigar;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_869;아이딘;Aydin;Aydin;Aydin;;Aydin;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_873;코니아;Konya;Konya;Konya;;Konya;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_876;앙카라;Ankara and Adana;Ankara and Adana;Ankara und Adana;;Ankara and Adana;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_880;카스타모누;Kastamonu;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TUR_881;카스타모누;Kastamonu;Kastamonu;Kastamonu;;Kastamonu;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_882;트라브존;Trabizond;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TUR_884;트라브존;Trabzon;Trabzon;Trabzon;;Trabzon;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_885;카르스;Kars;Kars;Kars;;Kars;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_889;디야르바키르-반;Diyarbakir-Van;Diyarbakir-Van;Diyarbakir-Van;;Diyarbakir-Van;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_890;반;Van;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TUR_893;디야르바키르;Diyarbakir;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TUR_894;아다나;Adana;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TUR_923;모술;Mosul;Mosul;Mosul;;Mosul;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_931;바그다드;Baghdad;Baghdad;Baghdad;;Baghdad;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUR_935;바스라;Basra;Basra;Basra;;Basra;;;;;;;;;x;;;;;;;;;;;;;;;;
-TUS_744;토스카나;Toscana;Toscane;Toskana;;Toscana;;;;;;;;;x;;;;;;;;;;;;;;;;
-UCA_2186;콰테말라;Guatemala;Guatemala;Guatemala;;Guatemala;;;;;;;;;x;;;;;;;;;;;;;;;;
-UCA_2191;엘살바도르;El Salvador;Honduras;Honduras;;Honduras;;;;;;;;;x;;;;;;;;;;;;;;;;
-UCA_2193;온두라스;Honduras;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-UCA_2197;니카라과;Nicaragua;Nicaragua;Nicaragua;;Nicaragua;;;;;;;;;x;;;;;;;;;;;;;;;;
-UCA_2201;코스타리카;Costa Rica;Costa Rica;Costa Rica;;Costa Rica;;;;;;;;;x;;;;;;;;;;;;;;;;
-URU_2344;우루과이;Uruguay;Uruguay;Uruguay;;Uruguay;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_1;알래스카;Alaska;Alaska;Alaska;;Alaska;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_106;콜로라도;Colorado;Colorado;Colorado;;Colorado;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_111;와이오밍;Wyoming;Wyoming;Wyoming;;Wyoming;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_116;몬타나;Montana;Montana;Montana;;Montana;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_118;노스다코다;North Dakota;Dakota du nord;North Dakota;;Dakota del Norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_121;사우스다코다;South Dakota;Dakota du sud;South Dakota;;Dakota del Sur;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_124;네브라스카;Nebraska;Nebraska;Nebraska;;Nebraska;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_126;캔자스;Kansas;Kansas;Kansas;;Kansas;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_129;오클라호마;Oklahoma;Oklahoma;Oklahoma;;Oklahoma;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_139;루이지애나;Louisiana;Louisiane;Louisiana;;Louisiana;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_144;아칸소;Arkansas;Arkansas;Arkansas;;Arkansas;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_148;미주리;Missouri;Missouri;Missouri;;Missouri;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_151;아이오와;Iowa;Iowa;Iowa;;Iowa;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_158;미네소타;Minnesota;Minnesota;Minnesota;;Minnesota;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_162;위스콘신;Wisconsin;Wisconsin;Wisconsin;;Wisconsin;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_168;일리노이;Illinois;Illinois;Illinois;;Illinois;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_170;인디아나;Indiana;Indiana;Indiana;;Indiana;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_176;미시간;Michigan;Michigan;Michigan;;Michigan;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_178;오하이오;Ohio;Ohio;Ohio;;Ohio;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_185;켄터키;Kentucky;Kentucky;Kentucky;;Kentucky;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_188;테네시;Tennessee;Tennessee;Tennessee;;Tennessee;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_194;미시시피;Mississippi;Mississippi;Mississippi;;Mississippi;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_196;앨라배마;Alabama;Alabama;Alabama;;Alabama;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_200;플로리다;Florida;Floride;Florida;;Florida;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_201;조지아;Georgia;G?rgie;Georgia;;Georgia;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_205;사우스캐롤라이나;South Carolina;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-USA_211;버지니아;Virginia;Virginie;Virginia;;Virginia;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_218;웨스트버지니아;West Virginia;Virginie occidentale;West Virginia;;Virginia Occidental;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_219;메릴랜드;Maryland;Maryland;Maryland;;Maryland;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_220;워싱턴 D.C.;District of Columbia;District de Columbia;District of Columbia;;Distrito de Columbia;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_223;펜실바니아;Pennsylvania;Pennsylvanie;Pennsylvania;;Pennsylvania;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_231;뉴저지;New Jersey;New Jersey;New Jersey;;Nueva Jersey;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_232;뉴욕;New York;New York;New York;;Nueva York;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_243;매사추세츠;Massachusetts;Massachusetts;Massachusetts;;Massachusets;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_247;뉴잉글랜드;New England;Nelle-Angleterre;New England;;Nueva Inglaterra;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_2543;사모아;Samoa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-USA_2556;노스캐롤라이나;North Carolina;Caroline du Nord;North Carolina;;Carolina del Norte;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_78;워싱턴;Washington;Washington;Washington;;Washington;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_81;오리건;Oregon;Oregon;Oregon;;Oreg?;;;;;;;;;x;;;;;;;;;;;;;;;;
-USA_91;아이다호;Idaho;Idaho;Idaho;;Idaho;;;;;;;;;x;;;;;;;;;;;;;;;;
-VNZ_2234;술리아;Zulia;Zulia;Zulia;;Zulia;;;;;;;;;x;;;;;;;;;;;;;;;;
-VNZ_2265;미란다;Miranda;Miranda;Miranda;;Miranda;;;;;;;;;x;;;;;;;;;;;;;;;;
-VNZ_2278;볼리바르;Bol?ar;Bol?ar;Bol?ar;;Bol?ar;;;;;;;;;x;;;;;;;;;;;;;;;;
-WAL_665;왈라키아;Wallachia;Valachie;Walachei;;Valaquia;;;;;;;;;x;;;;;;;;;;;;;;;;
-WUR_589;뷔르템부르크;W?ttemberg;Wurtemberg;W?ttemberg;;W?ttemberg;;;;;;;;;x;;;;;;;;;;;;;;;;
-YEM_1173;예멘;Yemen;Y?en;Yemen;;Yemen;;;;;;;;;x;;;;;;;;;;;;;;;;
-YEM_1178;사나;Sana'a;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-YEM_1412;아덴;Aden;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ZUL_2113;나탈줄루란드;Natal-Zululand;Natal-Zululand;Natal-Zululand;;Natal-Zululand;;;;;;;;;x;;;;;;;;;;;;;;;;
-SNG_1384;싱카포르;Singapore;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-TRE_736;트리에스테;Trieste;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+CODE;ENGLISH;;;;;;;;;;;x
+USA;The United States;;;;;;;;;;;x
+RUS_proletarian_dictatorship;소비에트 사회주의 공화국 연방;;;;;;;;;;;x
+hms_government1;입헌군주제;;;;;;;;;;;x
+hms_government;입헌군주제;;;;;;;;;;;x
+ABU_1162;아부다비;;;;;;;;;;;x
+AFG_1209;파슈투니스탄;;;;;;;;;;;x
+AFG_1214;서부 아프가니스탄;;;;;;;;;;;x
+AFG_1217;동부 아프가니스탄;;;;;;;;;;;x
+ALD_1704;틀렘센;;;;;;;;;;;x
+ALD_1708;콩스탕틴;;;;;;;;;;;x
+ALD_1713;중북부 사하라;;;;;;;;;;;x
+ALD_1714;중서부 사하라;;;;;;;;;;;x
+ALD_1718;중동부 사하라;;;;;;;;;;;x
+ANN_1371;통킹;;;;;;;;;;;x
+ANN_1374;안남;;;;;;;;;;;x
+ANN_1383;남보;;;;;;;;;;;x
+ARG_2355;부에노스아이레스;;;;;;;;;;;x
+ARG_2357;코리엔테스;;;;;;;;;;;x
+ARG_2360;엔트레리오스;;;;;;;;;;;x
+ARG_2363;산타페;;;;;;;;;;;x
+ARG_2368;후후이;;;;;;;;;;;x
+ARG_2374;카타마르카;;;;;;;;;;;x
+ARG_2377;차코;;;;;;;;;;;x
+ARG_2384;라팜파;;;;;;;;;;;x
+ARG_2387;투쿠만;;;;;;;;;;;x
+ARG_2391;북부 파타고니아;;;;;;;;;;;x
+ARG_2393;네그루;;;;;;;;;;;x
+ARG_2398;남부 파타고니아;;;;;;;;;;;x
+ASH_1909;골드코스트;;;;;;;;;;;x
+AST_1097;누벨칼레도니;;;;;;;;;;;x
+AST_2244;크리스마스 및 코코스;;;;;;;;;;;x
+AST_2454;피지;;;;;;;;;;;x
+AST_2527;키리바시;;;;;;;;;;;x
+AST_2528;남부 뉴기니;;;;;;;;;;;x
+AST_2534;솔로몬;;;;;;;;;;;x
+AST_2535;바누아투;;;;;;;;;;;x
+AST_2539;북부 솔로몬;;;;;;;;;;;x
+AST_801;폴리네시아;;;;;;;;;;;x
+ATJ_1405;아체;;;;;;;;;;;x
+AUS_2538;보이보디나;;;;;;;;;;;x
+AUS_612;티롤;;;;;;;;;;;x
+AUS_613;케른텐-슈타이어마르크;;;;;;;;;;;x
+AUS_619;오스트리아;;;;;;;;;;;x
+AUS_623;두난툴;;;;;;;;;;;x
+AUS_625;보헤미아;;;;;;;;;;;x
+AUS_626;모라비아;;;;;;;;;;;x
+AUS_633;슬로바키아;;;;;;;;;;;x
+AUS_641;쾨제프-머저로르사그;;;;;;;;;;;x
+AUS_647;알펠드;;;;;;;;;;;x
+AUS_652;바나트;;;;;;;;;;;x
+AUS_654;서부 지벤부르겐;;;;;;;;;;;x
+AUS_657;동부 지벤부르겐;;;;;;;;;;;x
+AUS_662;동부 갈리치아;;;;;;;;;;;x
+AUS_702;갈리치아-로도메리아;;;;;;;;;;;x
+AUS_726;롬바르디아;;;;;;;;;;;x
+AUS_729;베네치아;;;;;;;;;;;x
+AUS_734;쥐트티롤;;;;;;;;;;;x
+AUS_736;이스트리아;;;;;;;;;;;x
+AUS_768;슬로베니아;;;;;;;;;;;x
+AUS_771;크로아티아;;;;;;;;;;;x
+AUS_777;슬라보니아;;;;;;;;;;;x
+AUS_780;달마티아;;;;;;;;;;;x
+AUS_ADJ;오스트리아령;;;;;;;;;;;x
+BAD_586;바덴;;;;;;;;;;;x
+BAL_1438;순다;;;;;;;;;;;x
+BAV_595;프랑켄;;;;;;;;;;;x
+BAV_599;바이에른;;;;;;;;;;;x
+BEL_1977;바스콩고;;;;;;;;;;;x
+BEL_1984;카사이;;;;;;;;;;;x
+BEL_1987;카탕가;;;;;;;;;;;x
+BEL_1990;동부 콩고;;;;;;;;;;;x
+BEL_1992;에쿠아퇴르;;;;;;;;;;;x
+BEL_1996;동부 콩고;;;;;;;;;;;x
+BEL_2034;루안다-우룬디;;;;;;;;;;;x
+BEL_387;플란데런;;;;;;;;;;;x
+BEL_394;왈롱;;;;;;;;;;;x
+BOL_2305;포토시;;;;;;;;;;;x
+BOL_2309;안토파가스타;;;;;;;;;;;x
+BOL_2314;포토시;;;;;;;;;;;x
+BOL_2317;산타크루스;;;;;;;;;;;x
+BOL_2321;라파스;;;;;;;;;;;x
+BRU_1394;북부 보르네오;;;;;;;;;;;x
+BRU_1396;사바;;;;;;;;;;;x
+BRZ_2246;미나스제라이스;;;;;;;;;;;x
+BRZ_2306;상파울로;;;;;;;;;;;x
+BRZ_2401;아마조나스;;;;;;;;;;;x
+BRZ_2408;파라;;;;;;;;;;;x
+BRZ_2410;마라냥;;;;;;;;;;;x
+BRZ_2416;마투그로수;;;;;;;;;;;x
+BRZ_2421;고이아스;;;;;;;;;;;x
+BRZ_2427;히우그란지두노르치;;;;;;;;;;;x
+BRZ_2428;페르남부쿠;;;;;;;;;;;x
+BRZ_2439;바이아;;;;;;;;;;;x
+BRZ_2446;미나스제라이스;;;;;;;;;;;x
+BRZ_2447;히우지자네이루;;;;;;;;;;;x
+BRZ_2448;이스피리투산투;;;;;;;;;;;x
+BRZ_2449;산타카타리나주;;;;;;;;;;;x
+BRZ_2450;마투그로수두술;;;;;;;;;;;x
+BRZ_2451;세르지피;;;;;;;;;;;x
+BRZ_2452;고이아스;;;;;;;;;;;x
+BRZ_2453;토칸칭스;;;;;;;;;;;x
+BRZ_2454;알라고아스;;;;;;;;;;;x
+BRZ_2455;파라나;;;;;;;;;;;x
+BRZ_2456;세아라;;;;;;;;;;;x
+BRZ_2457;피아우이;;;;;;;;;;;x
+BRZ_2458;아마파;;;;;;;;;;;x
+BRZ_2459;로라이마;;;;;;;;;;;x
+BRZ_2460;아크레;;;;;;;;;;;x
+BRZ_2461;산타카타리나;;;;;;;;;;;x
+BRZ_2462;파라나;;;;;;;;;;;x
+BRZ_2467;히우그란지두술;;;;;;;;;;;x
+BUK_1207;타지키스탄;;;;;;;;;;;x
+BUR_1330;페구;;;;;;;;;;;x
+BUR_1334;샨;;;;;;;;;;;x
+BUR_1339;카친;;;;;;;;;;;x
+BUR_1345;라킨;;;;;;;;;;;x
+CAN_13;브리티시컬럼비아;;;;;;;;;;;x
+CAN_46;온타리오;;;;;;;;;;;x
+CAN_50;북온타리오;;;;;;;;;;;x
+CAN_58;퀘벡;;;;;;;;;;;x
+CAN_60;북부 퀘벡;;;;;;;;;;;x
+CHI_1082;프리모르스키;;;;;;;;;;;x
+CHI_1086;사할린;;;;;;;;;;;x
+CHI_1465;몽골;;;;;;;;;;;x
+CHI_1468;우량카이;;;;;;;;;;;x
+CHI_1470;남부 안휘;;;;;;;;;;;x
+CHI_1472;북부 안휘;;;;;;;;;;;x
+CHI_1473;남부 안휘;;;;;;;;;;;x
+CHI_1477;북부 안휘;;;;;;;;;;;x
+CHI_1479;요령;;;;;;;;;;;x
+CHI_1482;복건;;;;;;;;;;;x
+CHI_1485;대만;;;;;;;;;;;x
+CHI_1487;복건;;;;;;;;;;;x
+CHI_1490;감숙;;;;;;;;;;;x
+CHI_1491;영하;;;;;;;;;;;x
+CHI_1493;광동;;;;;;;;;;;x
+CHI_1494;소주;;;;;;;;;;;x
+CHI_1496;구룡;;;;;;;;;;;x
+CHI_1499;해남;;;;;;;;;;;x
+CHI_1502;광서;;;;;;;;;;;x
+CHI_1504;광서;;;;;;;;;;;x
+CHI_1505;귀주;;;;;;;;;;;x
+CHI_1508;동부 하남;;;;;;;;;;;x
+CHI_1510;서부 하남;;;;;;;;;;;x
+CHI_1513;하남;;;;;;;;;;;x
+CHI_1516;동부 호북;;;;;;;;;;;x
+CHI_1519;서부 호북;;;;;;;;;;;x
+CHI_1522;동부 호북;;;;;;;;;;;x
+CHI_1523;동부 호북;;;;;;;;;;;x
+CHI_1524;북부 호남;;;;;;;;;;;x
+CHI_1526;남부 호남;;;;;;;;;;;x
+CHI_1529;호남;;;;;;;;;;;x
+CHI_1532;내몽골;;;;;;;;;;;x
+CHI_1538;상해;;;;;;;;;;;x
+CHI_1539;소주;;;;;;;;;;;x
+CHI_1545;북부 강서;;;;;;;;;;;x
+CHI_1547;남부 강서;;;;;;;;;;;x
+CHI_1550;강서;;;;;;;;;;;x
+CHI_1552;흑룡강;;;;;;;;;;;x
+CHI_1553;만주;;;;;;;;;;;x
+CHI_1555;길림;;;;;;;;;;;x
+CHI_1557;청해;;;;;;;;;;;x
+CHI_1559;섬서;;;;;;;;;;;x
+CHI_1563;산동;;;;;;;;;;;x
+CHI_1565;동부 산동;;;;;;;;;;;x
+CHI_1572;산서;;;;;;;;;;;x
+CHI_1576;산서;;;;;;;;;;;x
+CHI_1578;사천;;;;;;;;;;;x
+CHI_1579;중경;;;;;;;;;;;x
+CHI_1581;중경;;;;;;;;;;;x
+CHI_1586;서강;;;;;;;;;;;x
+CHI_1594;카슈가르;;;;;;;;;;;x
+CHI_1600;신강;;;;;;;;;;;x
+CHI_1601;운남;;;;;;;;;;;x
+CHI_1604;북부 절강;;;;;;;;;;;x
+CHI_1610;남부 절강;;;;;;;;;;;x
+CHI_1611;절강;;;;;;;;;;;x
+CHI_1612;북평;;;;;;;;;;;x
+CHI_1614;하북;;;;;;;;;;;x
+CHI_1617;천진;;;;;;;;;;;x
+CHI_1618;북부 하북;;;;;;;;;;;x
+CHI_2062;영하;;;;;;;;;;;x
+CHI_2221;강소;;;;;;;;;;;x
+CHI_2562;대만;;;;;;;;;;;x
+CHI_2608;몽골;;;;;;;;;;;x
+CHI_2678;외몽골;;;;;;;;;;;x
+CHL_2322;산티아고;;;;;;;;;;;x
+CHL_2327;로스리오스;;;;;;;;;;;x
+CHL_2332;아라우카니아;;;;;;;;;;;x
+CHL_2336;라파누이;;;;;;;;;;;x
+PNM_1723;파나마 운하;;;;;;;;;;;x
+CLM_1723;파나마;;;;;;;;;;;x
+CLM_2247;쿤디나마르카;;;;;;;;;;;x
+CLM_2251;안티오키아;;;;;;;;;;;x
+CLM_2256;바예델카우카;;;;;;;;;;;x
+CLM_2259;카우카;;;;;;;;;;;x
+CLM_2262;과비아레;;;;;;;;;;;x
+DAI_1369;통킹;;;;;;;;;;;x
+DAI_1375;안남;;;;;;;;;;;x
+DAI_1380;남보;;;;;;;;;;;x
+DEN_251;그린란드;;;;;;;;;;;x
+ICL_252;아이슬란드;;;;;;;;;;;x
+FAR_253;페로;;;;;;;;;;;x
+DEN_367;이윌란;;;;;;;;;;;x
+DEN_372;셸란;;;;;;;;;;;x
+ECU_2279;에콰도르;;;;;;;;;;;x
+EGY_1745;카이로;;;;;;;;;;;x
+EGY_1746;시나이;;;;;;;;;;;x
+EGY_1750;하부이집트;;;;;;;;;;;x
+EGY_1751;알렉산드리아;;;;;;;;;;;x
+EGY_1753;메르사마트루;;;;;;;;;;;x
+EGY_1754;리비아;;;;;;;;;;;x
+EGY_1755;수에즈;;;;;;;;;;;x
+EGY_1756;시나이;;;;;;;;;;;x
+EGY_1758;이집트사막;;;;;;;;;;;x
+EGY_1762;중부 이집트;;;;;;;;;;;x
+EGY_1771;상부 이집트;;;;;;;;;;;x
+EGY_1827;수단;;;;;;;;;;;x
+EGY_1834;동골라;;;;;;;;;;;x
+EGY_1838;코르도판;;;;;;;;;;;x
+EGY_1842;다르푸르;;;;;;;;;;;x
+EGY_843;에게;;;;;;;;;;;x
+EGY_897;알레포;;;;;;;;;;;x
+EGY_901;로자바;;;;;;;;;;;x
+EGY_903;다마스쿠스;;;;;;;;;;;x
+EGY_905;알라위;;;;;;;;;;;x
+EGY_910;트란스요르단;;;;;;;;;;;x
+EGY_915;레바논;;;;;;;;;;;x
+EGY_917;예루살렘;;;;;;;;;;;x
+EGY_920;가자;;;;;;;;;;;x
+EGY_921;팔레스타인;;;;;;;;;;;x
+SYR_2687;골란;;;;;;;;;;;x
+EGY_922;알라파 이가르비야;;;;;;;;;;;x
+ENG_1236;하리아나;;;;;;;;;;;x
+ENG_1244;동부 우타르프라데시;;;;;;;;;;;x
+ENG_1247;북부 비하르;;;;;;;;;;;x
+ENG_1251;남부 벵골;;;;;;;;;;;x
+ENG_1252;북부 벵골;;;;;;;;;;;x
+ENG_1258;아삼;;;;;;;;;;;x
+ENG_1261;오리사;;;;;;;;;;;x
+ENG_1264;라지푸타나;;;;;;;;;;;x
+ENG_1275;마디아프라데시;;;;;;;;;;;x
+ENG_1291;구지라트;;;;;;;;;;;x
+ENG_1297;서마하라슈트라;;;;;;;;;;;x
+ENG_13;브리티시컬럼비아;;;;;;;;;;;x
+ENG_1303;고아;;;;;;;;;;;x
+ENG_1304;마드라스;;;;;;;;;;;x
+ENG_1305;안드라프라데시;;;;;;;;;;;x
+ENG_1317;트라방코르;;;;;;;;;;;x
+ENG_1320;안다만;;;;;;;;;;;x
+ENG_1321;실론;;;;;;;;;;;x
+SIK_1328;시킴;;;;;;;;;;;x
+BHU_1329;부탄;;;;;;;;;;;x
+ENG_1343;테나세림;;;;;;;;;;;x
+MSY_1387;Central Malaya;;;;;;;;;;;x
+ENG_1385;남부 말라야;;;;;;;;;;;x
+ENG_1391;북부 말라야;;;;;;;;;;;x
+ENG_1818;차드;;;;;;;;;;;x
+ENG_1825;보르코우-에네디-티베스티;;;;;;;;;;;x
+ENG_1843;에콰토리아;;;;;;;;;;;x
+ENG_1844;수드;;;;;;;;;;;x
+ENG_1848;에리트레아;;;;;;;;;;;x
+ENG_1868;소말릴랜드;;;;;;;;;;;x
+ENG_1887;라이베리아;;;;;;;;;;;x
+ENG_1956;남부 카메룬;;;;;;;;;;;x
+ENG_1960;북부 카메룬;;;;;;;;;;;x
+ENG_1979;기아나;;;;;;;;;;;x
+ENG_2014;잠비아;;;;;;;;;;;x
+ENG_2016;카젬베;;;;;;;;;;;x
+ENG_2019;우간다;;;;;;;;;;;x
+ENG_2024;케냐;;;;;;;;;;;x
+ENG_2031;북동부 케냐;;;;;;;;;;;x
+ENG_2026;지구대;;;;;;;;;;;x
+ENG_2029;잔지바르;;;;;;;;;;;x
+ENG_2034;탕가니카;;;;;;;;;;;x
+ENG_2036;잔지바르;;;;;;;;;;;x
+ENG_2039;린디;;;;;;;;;;;x
+ENG_2044;탕가니카;;;;;;;;;;;x
+ENG_2048;잔지바르;;;;;;;;;;;x
+ENG_2067;니아살란드;;;;;;;;;;;x
+ENG_2068;잠베지;;;;;;;;;;;x
+ENG_2071;마타벨렐란드;;;;;;;;;;;x
+ENG_2074;보츠나와;;;;;;;;;;;x
+ENG_2078;헤레로란드;;;;;;;;;;;x
+ENG_2083;나마콸란드;;;;;;;;;;;x
+ENG_2087;케이프;;;;;;;;;;;x
+ENG_2092;북부 케이프;;;;;;;;;;;x
+ENG_2094;킴벌리;;;;;;;;;;;x
+ENG_2096;동케이프;;;;;;;;;;;x
+ENG_2125;인도양제도;;;;;;;;;;;x
+ENG_2132;남대서양제도;;;;;;;;;;;x
+ENG_22;앨버타;;;;;;;;;;;x
+ENG_2224;리와드;;;;;;;;;;;x
+ENG_2228;윈드워드;;;;;;;;;;;x
+ENG_2468;뉴사우스웨일즈;;;;;;;;;;;x
+ENG_2476;빅토리아;;;;;;;;;;;x
+ENG_2483;퀸즐랜드;;;;;;;;;;;x
+ENG_2491;서던오스트레일리아;;;;;;;;;;;x
+ENG_2497;웨스트오스트레일리아;;;;;;;;;;;x
+ENG_2505;노던;;;;;;;;;;;x
+ENG_2509;북섬;;;;;;;;;;;x
+ENG_2513;남섬;;;;;;;;;;;x
+ENG_254;얼스터;;;;;;;;;;;x
+ENG_258;코노트;;;;;;;;;;;x
+ENG_260;뮌스터;;;;;;;;;;;x
+ENG_263;렌스터-코나트;;;;;;;;;;;x
+ENG_266;하일랜드;;;;;;;;;;;x
+ENG_271;롤랜드;;;;;;;;;;;x
+ENG_273;웨일즈;;;;;;;;;;;x
+ENG_277;노스웨스트잉글랜드;;;;;;;;;;;x
+ENG_280;노스이스트잉글랜드;;;;;;;;;;;x
+ENG_284;미들랜드;;;;;;;;;;;x
+ENG_291;이스턴카운티;;;;;;;;;;;x
+ENG_296;사우스웨스트잉글랜드;;;;;;;;;;;x
+ENG_30;서스캐처원;;;;;;;;;;;x
+ENG_300;사우스이스트잉글랜드;;;;;;;;;;;x
+ENG_36;매니토바;;;;;;;;;;;x
+ENG_43;누나부트;;;;;;;;;;;x
+ENG_44;누나부트;;;;;;;;;;;x
+ENG_46;온타리오;;;;;;;;;;;x
+ENG_58;퀘벡;;;;;;;;;;;x
+ENG_6;동마하라슈트라;;;;;;;;;;;x
+ENG_68;매리타임즈;;;;;;;;;;;x
+ENG_74;뉴펀들랜드;;;;;;;;;;;x
+ENG_9;노스웨스트;;;;;;;;;;;x
+ETH_1852;베겜데르;;;;;;;;;;;x
+ETH_1853;티그레이;;;;;;;;;;;x
+ETH_1854;곤다르-티크레이;;;;;;;;;;;x
+ETH_1859;오로미아;;;;;;;;;;;x
+ETH_1862;기베;;;;;;;;;;;x
+ETH_1864;암하라;;;;;;;;;;;x
+ETH_1865;하라르게;;;;;;;;;;;x
+ETH_1867;오로미아;;;;;;;;;;;x
+FRA_1700;알제;;;;;;;;;;;x
+FRA_1775;모리타니;;;;;;;;;;;x
+FRA_1780;내모리타니;;;;;;;;;;;x
+FRA_1783;세네갈;;;;;;;;;;;x
+FRA_1788;감비아;;;;;;;;;;;x
+FRA_1798;동부 말리;;;;;;;;;;;x
+FRA_1801;서부 말리;;;;;;;;;;;x
+FRA_1803;팀북투;;;;;;;;;;;x
+FRA_1808;외하우살란드;;;;;;;;;;;x
+FRA_1813;니제르;;;;;;;;;;;x
+FRA_1816;보르누;;;;;;;;;;;x
+FRA_1878;하부 기니;;;;;;;;;;;x
+FRA_1879;기니;;;;;;;;;;;x
+FRA_1883;상부 기니;;;;;;;;;;;x
+FRA_1884;시에라리온;;;;;;;;;;;x
+FRA_1892;상아해안;;;;;;;;;;;x
+FRA_1893;바람해안;;;;;;;;;;;x
+FRA_1901;볼타;;;;;;;;;;;x
+FRA_1907;가나;;;;;;;;;;;x
+FRA_1914;Togo;;;;;;;;;;;x
+FRA_1919;Dahomey;;;;;;;;;;;x
+FRA_1923;서부 나이지리아;;;;;;;;;;;x
+FRA_1927;북서부 나이지리아;;;;;;;;;;;x
+FRA_1930;중서부 나이지리아;;;;;;;;;;;x
+FRA_1931;나이저 삼각주;;;;;;;;;;;x
+FRA_1937;나이지리아;;;;;;;;;;;x
+FRA_1939;동부 하우살란드;;;;;;;;;;;x
+FRA_1965;우방기샤리;;;;;;;;;;;x
+FRA_1970;방가수;;;;;;;;;;;x
+FRA_1972;가봉;;;;;;;;;;;x
+FRA_1978;콩고;;;;;;;;;;;x
+FRA_399;피카르디;;;;;;;;;;;x
+FRA_404;샴페인;;;;;;;;;;;x
+FRA_411;프랑슈콩테;;;;;;;;;;;x
+FRA_412;알자스-로렌;;;;;;;;;;;x
+FRA_418;노르망디;;;;;;;;;;;x
+FRA_420;브르타뉴;;;;;;;;;;;x
+FRA_425;일드프랑스;;;;;;;;;;;x
+FRA_428;부르고뉴;;;;;;;;;;;x
+FRA_435;루아르;;;;;;;;;;;x
+FRA_438;상트르;;;;;;;;;;;x
+FRA_442;푸아투;;;;;;;;;;;x
+FRA_445;리무쟁;;;;;;;;;;;x
+FRA_448;오베르뉴;;;;;;;;;;;x
+FRA_451;론;;;;;;;;;;;x
+FRA_455;르미디;;;;;;;;;;;x
+FRA_458;아키텐;;;;;;;;;;;x
+FRA_461;랑그도크;;;;;;;;;;;x
+FRA_467;프로방스;;;;;;;;;;;x
+FRA_77;생피에르미클롱;;;;;;;;;;;x
+FRA_801;타히티;;;;;;;;;;;x
+GER_2530;북부 뉴기니;;;;;;;;;;;x
+GRE_826;펠로폰네소스;;;;;;;;;;;x
+GRE_837;아티키;;;;;;;;;;;x
+HAI_2213;이스파니올라;;;;;;;;;;;x
+HAM_528;오스트하노버;;;;;;;;;;;x
+HAN_528;니더엘베;;;;;;;;;;;x
+HAN_534;하노버;;;;;;;;;;;x
+HAN_540;오스트프리슬란트 ;;;;;;;;;;;x
+HAW_658;하와이;;;;;;;;;;;x
+HDJ_1151;헤자즈;;;;;;;;;;;x
+HEK_568;헤센;;;;;;;;;;;x
+HES_2560;헤세나사우;;;;;;;;;;;x
+HOL_369;홀슈타인;;;;;;;;;;;x
+HYD_1283;텔랑가나;;;;;;;;;;;x
+JAP_1086;사할린;;;;;;;;;;;x
+JAP_1088;홋카이도;;;;;;;;;;;x
+JAP_1640;주고쿠;;;;;;;;;;;x
+JAP_1649;간토;;;;;;;;;;;x
+JAP_1654;오가사와라;;;;;;;;;;;x
+JAP_1655;간사이;;;;;;;;;;;x
+JAP_1660;규슈;;;;;;;;;;;x
+JAP_1665;시고쿠;;;;;;;;;;;x
+JAP_1672;도호쿠;;;;;;;;;;;x
+JAP_1675;주부;;;;;;;;;;;x
+KAL_1221;발루치스탄;;;;;;;;;;;x
+KOK_1190;키르키스스탄;;;;;;;;;;;x
+KHI_1191;우즈베키스탄;;;;;;;;;;;x
+UZB_1192;카라칼파크스탄;;;;;;;;;;;x
+KOK_1208;고르노바다흐샨;;;;;;;;;;;x
+KOK_1210;타지기스탄;;;;;;;;;;;x
+KOR_1619;평안-함경;;;;;;;;;;;x
+KOR_1624;경기-강원-충청;;;;;;;;;;;x
+KOR_1627;황해;;;;;;;;;;;x
+KOR_1635;전라-경상;;;;;;;;;;;x
+LUA_1356;라오스;;;;;;;;;;;x
+MAD_2117;남부 마다가스카르;;;;;;;;;;;x
+MAD_2121;북부 마다가스카르;;;;;;;;;;;x
+MEC_544;슐레스비히-홀슈타인;;;;;;;;;;;x
+MEX_100;애리조나;;;;;;;;;;;x
+MEX_103;뉴멕시코;;;;;;;;;;;x
+MEX_2138;소노라;;;;;;;;;;;x
+MEX_2142;치와와;;;;;;;;;;;x
+MEX_2146;누에보레온;;;;;;;;;;;x
+MEX_2151;두랑고;;;;;;;;;;;x
+MEX_2161;할리스코;;;;;;;;;;;x
+MEX_2162;멕시코;;;;;;;;;;;x
+MEX_2170;모렐리아;;;;;;;;;;;x
+MEX_2173;사카테카스;;;;;;;;;;;x
+MEX_2181;치아파스;;;;;;;;;;;x
+MEX_2183;유카탄;;;;;;;;;;;x
+MEX_85;캘리포니아;;;;;;;;;;;x
+MEX_94;네바다;;;;;;;;;;;x
+MEX_97;유타;;;;;;;;;;;x
+MOD_739;에밀리아;;;;;;;;;;;x
+MOL_673;몰다비아;;;;;;;;;;;x
+MOL_676;베사라비아;;;;;;;;;;;x
+MON_2582;몬테네그로;;;;;;;;;;;x
+MOR_1683;타자;;;;;;;;;;;x
+MOR_1686;페스;;;;;;;;;;;x
+MOR_1688;리프;;;;;;;;;;;x
+MOR_1693;모로코;;;;;;;;;;;x
+MOR_1694;아가디르;;;;;;;;;;;x
+MOR_1696;서부 모로코;;;;;;;;;;;x
+MYS_1314;카르나타카;;;;;;;;;;;x
+NAG_1277;나그푸르;;;;;;;;;;;x
+NEJ_1156;하일;;;;;;;;;;;x
+NEJ_1157;네지드;;;;;;;;;;;x
+NEP_1326;네팔;;;;;;;;;;;x
+NEP_1327;히말라야;;;;;;;;;;;x
+NET_1398;수마트라;;;;;;;;;;;x
+NET_1401;시악;;;;;;;;;;;x
+NET_1413;서부 자바;;;;;;;;;;;x
+NET_1418;동부 자바;;;;;;;;;;;x
+NET_1423;보르네오;;;;;;;;;;;x
+NET_1426;남부 보르네오;;;;;;;;;;;x
+NET_1446;티모르;;;;;;;;;;;x
+NET_1447;말루쿠;;;;;;;;;;;x
+NET_1449;술라웨시;;;;;;;;;;;x
+NET_1451;서부 뉴기니;;;;;;;;;;;x
+NET_2235;리워드앤틸리스;;;;;;;;;;;x
+NET_375;홀란트;;;;;;;;;;;x
+NET_379;브라반트;;;;;;;;;;;x
+NET_381;헬데를란트;;;;;;;;;;;x
+NET_385;프리슬란트;;;;;;;;;;;x
+OMA_1166;오만;;;;;;;;;;;x
+ORA_2103;프리스타트;;;;;;;;;;;x
+PAN_1222;라다크;;;;;;;;;;;x
+PAN_1224;카슈미르;;;;;;;;;;;x
+PAN_1227;서부 펀자브;;;;;;;;;;;x
+PAN_1233;동부 펀자브;;;;;;;;;;;x
+PAP_741;로마냐;;;;;;;;;;;x
+PAP_752;라치오;;;;;;;;;;;x
+PER_1110;서부 아제르바이잔;;;;;;;;;;;x
+PER_1112;동부 아제르바이잔;;;;;;;;;;;x
+PER_1113;길란;;;;;;;;;;;x
+PER_1118;코르데스탄;;;;;;;;;;;x
+PER_1121;마잔다란;;;;;;;;;;;x
+PER_1122;쿠르디스탄;;;;;;;;;;;x
+PER_1127;이스파한;;;;;;;;;;;x
+PER_1128;케르만샤;;;;;;;;;;;x
+PER_1132;후제스탄;;;;;;;;;;;x
+PER_1136;파르스;;;;;;;;;;;x
+PER_1140;케르만;;;;;;;;;;;x
+PER_1144;시스탄-발루치스탄;;;;;;;;;;;x
+PER_1148;호라산;;;;;;;;;;;x
+PEU_2289;파스타사;;;;;;;;;;;x
+PEU_2291;카하마르카;;;;;;;;;;;x
+PEU_2297;이카;;;;;;;;;;;x
+PEU_2300;리마;;;;;;;;;;;x
+PEU_2303;아레키파;;;;;;;;;;;x
+PEU_2308;아리카;;;;;;;;;;;x
+POR_1999;북부 앙골라;;;;;;;;;;;x
+POR_2003;남부 앙골라;;;;;;;;;;;x
+POR_2006;동부 앙골라;;;;;;;;;;;x
+POR_2049;로렌수마르케스;;;;;;;;;;;x
+POR_2053;잠베지아;;;;;;;;;;;x
+POR_2054;테트;;;;;;;;;;;x
+POR_2060;모잠비크;;;;;;;;;;;x
+POR_2134;마카로네시아;;;;;;;;;;;x
+POR_518;도루;;;;;;;;;;;x
+POR_521;이스트레마두라;;;;;;;;;;;x
+POR_525;알렌테주;;;;;;;;;;;x
+PRG_2338;알토파라과이;;;;;;;;;;;x
+PRG_2343;바호파라과이;;;;;;;;;;;x
+PRU_544;메클렌부르크;;;;;;;;;;;x
+PRU_546;포메라니아;;;;;;;;;;;x
+PRU_549;브란덴부르크;;;;;;;;;;;x
+PRU_553;마그데부르크;;;;;;;;;;;x
+PRU_554;튀링겐;;;;;;;;;;;x
+PRU_570;팔츠;;;;;;;;;;;x
+PRU_572;라인란트;;;;;;;;;;;x
+PRU_575;노르트라인;;;;;;;;;;;x
+PRU_578;오스트라인란트;;;;;;;;;;;x
+PRU_581;베스트팔렌;;;;;;;;;;;x
+PRU_682;하부 실레시아;;;;;;;;;;;x
+PRU_684;상부 실레시아;;;;;;;;;;;x
+PRU_690;포모제;;;;;;;;;;;x
+PRU_695;프로이센;;;;;;;;;;;x
+PRU_701;포즈난;;;;;;;;;;;x
+RUS_1003;노브고로드;;;;;;;;;;;x
+RUS_1008;모스크바;;;;;;;;;;;x
+RUS_1009;브랸스크;;;;;;;;;;;x
+RUS_1020;카잔;;;;;;;;;;;x
+RUS_1026;페름;;;;;;;;;;;x
+RUS_1037;타타리야;;;;;;;;;;;x
+RUS_1041;아스트라한;;;;;;;;;;;x
+RUS_1048;크라스노다르;;;;;;;;;;;x
+RUS_1052;북부 카프카스;;;;;;;;;;;x
+RUS_1060;쿠이비셰프;;;;;;;;;;;x
+RUS_1064;튜멘;;;;;;;;;;;x
+RUS_1069;자바이칼스키;;;;;;;;;;;x
+RUS_1070;상부 예니세이스크;;;;;;;;;;;x
+RUS_1071;하부 바롭스크;;;;;;;;;;;x
+RUS_1072;흥안;;;;;;;;;;;x
+RUS_1074;캄차카;;;;;;;;;;;x
+RUS_1075;이르쿠츠크;;;;;;;;;;;x
+RUS_1079;아무르;;;;;;;;;;;x
+RUS_1090;그루지야;;;;;;;;;;;x
+RUS_1098;아르메니아;;;;;;;;;;;x
+RUS_1101;나히체반;;;;;;;;;;;x
+RUS_1102;아제르바이잔;;;;;;;;;;;x
+RUS_1104;바쿠;;;;;;;;;;;x
+RUS_1106;나고르노카라바흐;;;;;;;;;;;x
+KAZ_1181;중북부 카자흐스탄;;;;;;;;;;;x
+KAZ_1183;서부 카자흐스탄;;;;;;;;;;;x
+KAZ_1186;남동부 카자흐스탄;;;;;;;;;;;x
+RUS_1196;튀르크메니스탄;;;;;;;;;;;x
+RUS_1469;톰스크;;;;;;;;;;;x
+RUS_2587;콜라;;;;;;;;;;;x
+RUS_2589;길림;;;;;;;;;;;x
+RUS_2590;동부 벵골;;;;;;;;;;;x
+RUS_2615;서부 벵골;;;;;;;;;;;x
+RUS_2618;중앙 자바;;;;;;;;;;;x
+RUS_2621;서부 우타르프라데시;;;;;;;;;;;x
+RUS_2653;남부 비하르;;;;;;;;;;;x
+CHI_2668;심천;;;;;;;;;;;x
+RUS_2685;우랄;;;;;;;;;;;x
+RUS_2694;자르칸드;;;;;;;;;;;x
+RUS_336;북부 핀란드;;;;;;;;;;;x
+RUS_339;카렐리야;;;;;;;;;;;x
+RUS_340;남부 핀란드;;;;;;;;;;;x
+RUS_343;헬싱키;;;;;;;;;;;x
+RUS_345;투르쿠;;;;;;;;;;;x
+RUS_349;에스토니아;;;;;;;;;;;x
+RUS_354;라트비아;;;;;;;;;;;x
+RUS_360;리투아니아;;;;;;;;;;;x
+RUS_366;라피;;;;;;;;;;;x
+RUS_676;부자크;;;;;;;;;;;x
+RUS_706;마조비에츠키에;;;;;;;;;;;x
+RUS_707;브레스트;;;;;;;;;;;x
+RUS_710;비엘코폴스카;;;;;;;;;;;x
+RUS_715;서부 갈리치아;;;;;;;;;;;x
+RUS_718;민스크;;;;;;;;;;;x
+RUS_940;핀스크;;;;;;;;;;;x
+RUS_943;스몰렌스크;;;;;;;;;;;x
+RUS_947;오르샤;;;;;;;;;;;x
+RUS_955;로브네;;;;;;;;;;;x
+RUS_958;키예프;;;;;;;;;;;x
+RUS_964;크리미야;;;;;;;;;;;x
+RUS_965;헤르손;;;;;;;;;;;x
+RUS_968;트란스니스트리아;;;;;;;;;;;x
+RUS_973;자포리자;;;;;;;;;;;x
+RUS_977;쿠르스크;;;;;;;;;;;x
+RUS_978;하리코프;;;;;;;;;;;x
+RUS_979;로스토프;;;;;;;;;;;x
+RUS_980;보로실로브그라드;;;;;;;;;;;x
+RUS_981;아르한겔스크;;;;;;;;;;;x
+RUS_990;갈리치;;;;;;;;;;;x
+RUS_994;잉그리야;;;;;;;;;;;x
+RUS_998;칼리닌;;;;;;;;;;;x
+SAR_466;사부아;;;;;;;;;;;x
+SAR_720;피에몬테;;;;;;;;;;;x
+SAR_765;사르데냐;;;;;;;;;;;x
+SAX_558;작센;;;;;;;;;;;x
+SCH_370;슐레스비히;;;;;;;;;;;x
+SER_794;북부 세르비아;;;;;;;;;;;x
+SIA_1352;파타니;;;;;;;;;;;x
+SIA_1355;치앙마이;;;;;;;;;;;x
+SIA_1358;나콘랏차시마;;;;;;;;;;;x
+SIA_1366;캄보디아;;;;;;;;;;;x
+SIA_1392;방콕;;;;;;;;;;;x
+SIC_753;풀리아;;;;;;;;;;;x
+SIC_754;캄파니아;;;;;;;;;;;x
+SIC_763;시칠리아;;;;;;;;;;;x
+SIN_1288;신드;;;;;;;;;;;x
+SOK_1934;동부 나이지리아;;;;;;;;;;;x
+SOK_1937;북동부 나이지리아;;;;;;;;;;;x
+SOK_1945;카노-카두나;;;;;;;;;;;x
+SOK_1963;아다마와;;;;;;;;;;;x
+SOM_1868;남부 소말릴랜드;;;;;;;;;;;x
+SOM_1872;북부 소말릴랜드;;;;;;;;;;;x
+SPA_1455;루손;;;;;;;;;;;x
+SPA_1459;비사야;;;;;;;;;;;x
+SPA_1463;민다나오;;;;;;;;;;;x
+SPA_1955;적도기니;;;;;;;;;;;x
+SPA_2209;대앤틸리스;;;;;;;;;;;x
+SPA_2517;미크로네시아;;;;;;;;;;;x
+SPA_474;갈리시아;;;;;;;;;;;x
+SPA_477;카스티야레온;;;;;;;;;;;x
+SPA_484;에스트레마두라;;;;;;;;;;;x
+SPA_487;카스티야라누에바;;;;;;;;;;;x
+SPA_492;바스코니야아라곤;;;;;;;;;;;x
+SPA_498;카탈루냐;;;;;;;;;;;x
+SPA_503;발렌시아;;;;;;;;;;;x
+SPA_512;안달루시아;;;;;;;;;;;x
+SPA_513;그라나다;;;;;;;;;;;x
+SPA_610;캐롤라인;;;;;;;;;;;x
+SWE_308;노르노르게;;;;;;;;;;;x
+SWE_309;베스틀란데트;;;;;;;;;;;x
+SWE_313;외스틀란데트;;;;;;;;;;;x
+SWE_318;노를란드;;;;;;;;;;;x
+SWE_322;스베알란드;;;;;;;;;;;x
+SWE_329;고틀란드;;;;;;;;;;;x
+SWE_334;말뫼;;;;;;;;;;;x
+SWI_603;동부 헬베티아;;;;;;;;;;;x
+SWI_605;서부 헬베티아;;;;;;;;;;;x
+TEX_132;텍사스;;;;;;;;;;;x
+TIB_1587;티베트;;;;;;;;;;;x
+TON_2540;통가;;;;;;;;;;;x
+TRI_1731;트리폴리타니아;;;;;;;;;;;x
+TRI_1735;키레나이카;;;;;;;;;;;x
+TRI_1739;리비아사막;;;;;;;;;;;x
+TRI_1740;페잔;;;;;;;;;;;x
+TRI_1743;트리폴리;;;;;;;;;;;x
+TRN_2108;프란스발;;;;;;;;;;;x
+TUN_1726;튀니지;;;;;;;;;;;x
+TUR_674;도브루자;;;;;;;;;;;x
+TUR_788;보스니아;;;;;;;;;;;x
+TUR_803;남부 세르비아;;;;;;;;;;;x
+TUR_805;남부 마케도니아;;;;;;;;;;;x
+TUR_806;북부 마케도니아;;;;;;;;;;;x
+TUR_809;루멜리아;;;;;;;;;;;x
+TUR_810;불가리아;;;;;;;;;;;x
+TUR_819;서부 마케도니아;;;;;;;;;;;x
+TUR_823;동부 마케도니아;;;;;;;;;;;x
+TUR_832;테살리아;;;;;;;;;;;x
+TUR_853;알바니아;;;;;;;;;;;x
+TUR_855;키프로스;;;;;;;;;;;x
+TUR_860;이스탄불;;;;;;;;;;;x
+TUR_863;동부 마르마라;;;;;;;;;;;x
+TUR_864;서부 마르마라;;;;;;;;;;;x
+TUR_869;에게;;;;;;;;;;;x
+TUR_876;서부 아나돌루;;;;;;;;;;;x
+TUR_878;중부 아나돌루;;;;;;;;;;;x
+TUR_882;카라데니즈;;;;;;;;;;;x
+TUR_887;남동부 아나돌루;;;;;;;;;;;x
+TUR_890;중동부 아나돌루;;;;;;;;;;;x
+TUR_894;아크데니즈;;;;;;;;;;;x
+TUR_898;남동부 아나돌루;;;;;;;;;;;x
+TUR_923;모술;;;;;;;;;;;x
+TUR_931;중부 이라크;;;;;;;;;;;x
+TUR_932;남부 이라크;;;;;;;;;;;x
+TUR_934;중부 유브라데;;;;;;;;;;;x
+TUR_935;쿠웨이트;;;;;;;;;;;x
+TUS_744;토스카나;;;;;;;;;;;x
+UCA_2186;콰테말라;;;;;;;;;;;x
+UCA_2191;엘살바도르;;;;;;;;;;;x
+UCA_2193;온두라스;;;;;;;;;;;x
+UCA_2197;니카라과;;;;;;;;;;;x
+UCA_2201;코스타리카;;;;;;;;;;;x
+URU_2344;우루과이;;;;;;;;;;;x
+USA_1;알래스카;;;;;;;;;;;x
+USA_106;콜로라도;;;;;;;;;;;x
+USA_111;와이오밍;;;;;;;;;;;x
+USA_116;몬타나;;;;;;;;;;;x
+USA_118;노스다코다;;;;;;;;;;;x
+USA_121;사우스다코다;;;;;;;;;;;x
+USA_124;네브라스카;;;;;;;;;;;x
+USA_126;캔자스;;;;;;;;;;;x
+USA_129;오클라호마;;;;;;;;;;;x
+USA_139;루이지애나;;;;;;;;;;;x
+USA_144;아칸소;;;;;;;;;;;x
+USA_148;미주리;;;;;;;;;;;x
+USA_151;아이오와;;;;;;;;;;;x
+USA_158;미네소타;;;;;;;;;;;x
+USA_162;위스콘신;;;;;;;;;;;x
+USA_168;일리노이;;;;;;;;;;;x
+USA_170;인디아나;;;;;;;;;;;x
+USA_176;미시간;;;;;;;;;;;x
+USA_178;오하이오;;;;;;;;;;;x
+USA_185;켄터키;;;;;;;;;;;x
+USA_188;테네시;;;;;;;;;;;x
+USA_194;미시시피;;;;;;;;;;;x
+USA_196;앨라배마;;;;;;;;;;;x
+USA_200;플로리다;;;;;;;;;;;x
+USA_201;조지아;;;;;;;;;;;x
+USA_205;사우스캐롤라이나;;;;;;;;;;;x
+USA_211;버지니아;;;;;;;;;;;x
+USA_218;웨스트버지니아;;;;;;;;;;;x
+USA_219;메릴랜드;;;;;;;;;;;x
+USA_220;워싱턴 컬럼비아 특구.;;;;;;;;;;;x
+USA_223;펜실바니아;;;;;;;;;;;x
+USA_231;뉴저지;;;;;;;;;;;x
+USA_232;뉴욕;;;;;;;;;;;x
+USA_243;매사추세츠;;;;;;;;;;;x
+USA_247;뉴잉글랜드;;;;;;;;;;;x
+USA_2543;사모아;;;;;;;;;;;x
+USA_2556;노스캐롤라이나;;;;;;;;;;;x
+USA_78;워싱턴;;;;;;;;;;;x
+USA_81;오리건;;;;;;;;;;;x
+USA_91;아이다호;;;;;;;;;;;x
+VNZ_2234;술리아;;;;;;;;;;;x
+VNZ_2265;미란다;;;;;;;;;;;x
+VNZ_2278;볼리바르;;;;;;;;;;;x
+WAL_665;왈라키아;;;;;;;;;;;x
+WUR_589;뷔르템부르크;;;;;;;;;;;x
+YEM_1173;예멘;;;;;;;;;;;x
+YEM_1178;사나;;;;;;;;;;;x
+YEM_1412;아덴;;;;;;;;;;;x
+ZUL_2113;나탈줄루란드;;;;;;;;;;;x
+SNG_1384;싱카포르;;;;;;;;;;;x
+TRE_736;트리에스테;;;;;;;;;;;x
+ENG_3278;아루나찰프라데시;;;;;;;;;;;x
+CHI_3281;악사이친;;;;;;;;;;;x
+ENG_2217;대앤틸리스;;;;;;;;;;;x
+ENG_2219;루카얀 아치펠라고;;;;;;;;;;;x
+ENG_2220;버뮤다;;;;;;;;;;;x
+ENG_2237;트리니다드토바고;;;;;;;;;;;x

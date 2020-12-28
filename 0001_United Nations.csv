@@ -1,38 +1,38 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-EVT_1412086_NAME;$YEAR$년 국제연합 사무총장 선거;$YEAR$ UN Secretary-General Selection;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412086_DESC;국제연합 헌장 97조는 사무총장을 "안전보장이사회의 권고에 따라 총회에서 임명한다"고 규정합니다. 사무총장 후보에 대해서는 안전보장이사회 상임이사국 5개국 중 하나라도 거부권을 행사하면 임명할 수 없습니다. 대부분의 사무총장이 중진 출신의 타협적인 후보이고 이전의 명성을 거의 가지고 있지 않습니다. 이 직책에 대한 공식적인 자격은 전례에 따라 안전보장이사회 5개 상임이사국의 시민일 수 없도록 정해진 상태입니다. 사무총장은 관례적으로 5년 임기지만, 그 기간은 재량에 따라 다릅니다.;Article 97 of the United Nations Charter determines that the Secretary-General is "appointed by the General Assembly upon the recommendation of the Security Council." As the recommendation must come from the Security Council, any of the five permanent members of the Council can veto a nomination. Most Secretaries-General are compromise candidates from middle powers and have little prior fame. Unofficial qualifications for the job have been set by precedent in previous selections, and the appointee may not be a citizen of any of the Security Council's five permanent members. The Secretary-General is customarily appointed for a five-year term, although the length of the term is discretionary.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412086_A;누가 되는지 보자.;Let's see who got the job;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412087_NAME;우리 후보의 국제연합 사무총장 선출!;Our Candidate for UN Secretary-General Selected!;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412087_A;모든 사무총장이 사무실을 꾸민다.;Every Secretary-General shapes the office;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412088_DESC;능동적인 후보가 국제연합 사무총장으로 뽑혔습니다.\n\n 신임 사무총장은 비간섭주의를 청약하지 않습니다. 동시에 사무총장이 독립적이어야 하며 총회의 지원만으로 행동해서도 안된다는 생각을 가지고 있습니다. 우리는 전쟁 중인 국가들에 대한 강력한 제재를 기대할 수 있습니다.;Proactive UN Secretary-General Selected\n\nThe new UN Secretary-General does not subscribe to non-interventionism, nor to acting only with the General Assembly's support, going so far as to believe that the office of Secretary-General should have independence of action. We can expect strong sanctions against warring nations.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412088_A;그 '조직'은 우리 일에 간섭하지 않는 게 좋겠군!;That 'organisation' had better not meddle in our affairs!;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412089_DESC;시시한 후보가 국제연합 사무총장으로 뽑혔습니다.\n\n 신임 사무총장은 비간섭주의를 청약합니다. 동시에 총회의 지원을 받아 활동하기 때문에, 우리는 전쟁 중인 국가들에 대한 '약한' 제재만을 기대할 수 있습니다.;Uninspiring UN Secretary-General Selected\n\nThe new UN Secretary-General usually subscribes to non-interventionism and to acting with the General Assembly's support. At best, we can expect weak sanctions against warring nations.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412089_A;그게 누구야?;Who is this, even?;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412090_DESC;수동적인 후보가 국제연합 사무총장으로 뽑혔습니다.\n\n 신임 사무총장은 비간섭주의를 전적으로 청약합니다. 동시에, 총회의 지원으로만 활동하기 때문에, 우리는 전쟁 중인 나라들에 대한 제제를 기대할 수 없습니다.;Passive UN Secretary-General Selected\n\nThe new UN Secretary-General subscribes completely to non-interventionism and to acting only with the General Assembly's support. We can expect warring nations to largely go unpunished.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412090_A;농담이지?;What a joke;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412092_NAME;국제연합의 우리나라 제재;UN sanctions imposed against our nation;;;;;;;;x;;;;;;;;;;;;;
-un_sanctions_strong_desc;국제연합 사무총장이 평화를 위한다는 명목으로 우리나라에 강력한 제제를 가했습니다.;The United Nations Secretary-General has imposed strong sanctions on our nation, hoping to persuade us to seek peace.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1412092_A;강한 불만을 제기한다.;Lodge a strong complaint;;;;;;;;x;;;;;;;;;;;;;
-un_sanctions_weak_desc;국제연합 사무총장이 평화를 위한다는 명목으로 우리나라에 미약한 제제를 가했습니다.;The United Nations Secretary-General has imposed weak sanctions on our nation, hoping to persuade us to seek peace.;;;;;;;;x;;;;;;;;;;;;;
-un_headquarters;국제연합 본부;United Nations Headquarters;;;;;;;;x;;;;;;;;;;;;;
-un_sanctions_strong;국제연합의 강력한 제재;Strong United Nations Sanctions;;;;;;;;x;;;;;;;;;;;;;
-un_sanctions_weak;국제연합의 미약한 제재;Weak United Nations Sanctions;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971281_NAME;국제연합 참관국;We are now only a UN Observer State;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971281_DESC;외교권이 $OVERLORD$에게 있는 속국이므로 참관국 지위에 만족해야 합니다.;We are a vassal and, as our foreign affairs are controlled by $OVERLORD$, we can only be an observer state.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971281_A;완전한 국제연합 회원국을 달성하려면 반드시 독립해야 합니다.;We must strive for independence to achieve full UN representation;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971282_NAME;국제연합의 참관국 만료;We are no longer a UN Observer State;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971282_DESC;더이상 외교권이 타국에 있는 속국이 아니므로 완전한 회원국 지위를 얻을 수 있습니다.;As we are no longer a vassal, we control our own foreign affairs, allowing us to be a full UN member state.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971282_A;완전한 국제연합 회원국 지위를 획득했다.;We have achieved full UN representation;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971283_NAME;국제연합 안전보장이사회 비상임이사국 임기 종료;Our term as a Non-Permanent Member of the UNSC Ends;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971283_DESC;국제연합 안전보장이사회 비상임이사국으로 선정되었습니다. 이 임기는 오직 2년만 지속됩니다.;We have been selected as a non-permanent member of United Nations Security Council. Our term only lasts for 2 years.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971283_A;좋은 것은 영원하지 않다...;Good things never last...;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971284_NAME;국제연합 안전보장이사회 비상임이사국 선정;Selected as a Non-Permanent Member of the UNSC;
-EVT_1971284_DESC;국제연합 안전보장이사회 비상임이사국으로 선정되었습니다. 이 임기는 오직 2년만 지속됩니다.;We have been selected as a non-permanent member of United Nations Security Council. Our term only lasts for 2 years.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971284_A;이 새로운 지위를 최대한 활용해야 한다.;We must make the most of this new status;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971285_NAME;국제연합 안전보장이사회 비상임이사국 10개국 선정;Select the 10 Non-Permanent Members of the UNSC;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971285_DESC;국제연합 안전보장이사회 비상임이사국을 선정해야 합니다. 이 임기는 오직 2년만 지속됩니다.;We have to select non-permanent members of United Nations Security Council. The term only lasts for 2 years.;;;;;;;;x;;;;;;;;;;;;;
-EVT_1971285_A;임의로 선택한다.;Select them randomly;;;;;;;;x;;;;;;;;;;;;;
-peace_palace;평화궁;The Peace Palace;;;;;;;;x;;;;;;;;;;;;;
-EVT_8006705_NAME;평화궁;The Peace Palace;;;;;;;;x;;;;;;;;;;;;;
-EVT_8006705_DESC;평화궁은 네덜란드 헤이그에 있는 국제법률 행정 건물입니다. 여기에는 국제사법재판소(국제연합의 주요 사법기관)와 영구중재재판소, 헤이그 국제법 학회 및 평화궁 도서관이 자리잡고 있습니다. 해당 궁전은 1899년 헤이그 협약을 통해 1913년 8월 28일 공식적으로 문을 열었습니다. 유럽 문화 유산도 2014년 4월 8일 평화궁에서 수여되었습니다.;The Peace Palace is an international law administrative building in The Hague, the Netherlands. It houses the International Court of Justice (which is the principal judicial body of the United Nations), the Permanent Court of Arbitration, the Hague Academy of International Law and the Peace Palace Library. The Palace officially opened on 28 August 1913, and was originally built to provide a home for the PCA, a court created to end war by the Hague Convention of 1899. The European Heritage Label was awarded to the Peace Palace on 8 April 2014.;;;;;;;;x;;;;;;;;;;;;;
-EVT_8006705_A;훌륭하다.;Excellent;;;;;;;;x;;;;;;;;;;;;;
+CODE;ENGLISH;;;;;;;;;;;x
+EVT_1412086_NAME;$YEAR$년 국제연합 사무총장 선거;;;;;;;;;;;x
+EVT_1412086_DESC;국제연합 헌장 97조는 사무총장을 "안전보장이사회의 권고에 따라 총회에서 임명한다"고 규정합니다. 사무총장 후보에 대해서는 안전보장이사회 상임이사국 5개국 중 하나라도 거부권을 행사하면 임명할 수 없습니다. 대부분의 사무총장이 중진 출신의 타협적인 후보이고 이전의 명성을 거의 가지고 있지 않습니다. 이 직책에 대한 공식적인 자격은 전례에 따라 안전보장이사회 5개 상임이사국의 시민일 수 없도록 정해진 상태입니다. 사무총장은 관례적으로 5년 임기지만, 그 기간은 재량에 따라 다릅니다.;;;;;;;;;;;x
+EVT_1412086_A;누가 되는지 보자.;;;;;;;;;;;x
+EVT_1412087_NAME;우리 후보의 국제연합 사무총장 선출!;;;;;;;;;;;x
+EVT_1412087_A;모든 사무총장이 사무실을 꾸민다.;;;;;;;;;;;x
+EVT_1412088_DESC;능동적인 후보가 국제연합 사무총장으로 뽑혔습니다.\n\n 신임 사무총장은 비간섭주의를 청약하지 않습니다. 동시에 사무총장이 독립적이어야 하며 총회의 지원만으로 행동해서도 안된다는 생각을 가지고 있습니다. 우리는 전쟁 중인 국가들에 대한 강력한 제재를 기대할 수 있습니다.;;;;;;;;;;;x
+EVT_1412088_A;그 '조직'은 우리 일에 간섭하지 않는 게 좋겠군!;;;;;;;;;;;x
+EVT_1412089_DESC;시시한 후보가 국제연합 사무총장으로 뽑혔습니다.\n\n 신임 사무총장은 비간섭주의를 청약합니다. 동시에 총회의 지원을 받아 활동하기 때문에, 우리는 전쟁 중인 국가들에 대한 '약한' 제재만을 기대할 수 있습니다.;;;;;;;;;;;x
+EVT_1412089_A;그게 누구야?;;;;;;;;;;;x
+EVT_1412090_DESC;수동적인 후보가 국제연합 사무총장으로 뽑혔습니다.\n\n 신임 사무총장은 비간섭주의를 전적으로 청약합니다. 동시에, 총회의 지원으로만 활동하기 때문에, 우리는 전쟁 중인 나라들에 대한 제제를 기대할 수 없습니다.;;;;;;;;;;;x
+EVT_1412090_A;농담이지?;;;;;;;;;;;x
+EVT_1412092_NAME;국제연합의 우리나라 제재;;;;;;;;;;;x
+un_sanctions_strong_desc;국제연합 사무총장이 평화를 위한다는 명목으로 우리나라에 강력한 제제를 가했습니다.;;;;;;;;;;;x
+EVT_1412092_A;강한 불만을 제기한다.;;;;;;;;;;;x
+un_sanctions_weak_desc;국제연합 사무총장이 평화를 위한다는 명목으로 우리나라에 미약한 제제를 가했습니다.;;;;;;;;;;;x
+un_headquarters;국제연합 본부;;;;;;;;;;;x
+un_sanctions_strong;국제연합의 강력한 제재;;;;;;;;;;;x
+un_sanctions_weak;국제연합의 미약한 제재;;;;;;;;;;;x
+EVT_1971281_NAME;국제연합 참관국;;;;;;;;;;;x
+EVT_1971281_DESC;외교권이 $OVERLORD$에게 있는 속국이므로 참관국 지위에 만족해야 합니다.;;;;;;;;;;;x
+EVT_1971281_A;완전한 국제연합 회원국을 달성하려면 반드시 독립해야 합니다.;;;;;;;;;;;x
+EVT_1971282_NAME;국제연합의 참관국 만료;;;;;;;;;;;x
+EVT_1971282_DESC;더이상 외교권이 타국에 있는 속국이 아니므로 완전한 회원국 지위를 얻을 수 있습니다.;;;;;;;;;;;x
+EVT_1971282_A;완전한 국제연합 회원국 지위를 획득했다.;;;;;;;;;;;x
+EVT_1971283_NAME;국제연합 안전보장이사회 비상임이사국 임기 종료;;;;;;;;;;;x
+EVT_1971283_DESC;국제연합 안전보장이사회 비상임이사국으로 선정되었습니다. 이 임기는 오직 2년만 지속됩니다.;;;;;;;;;;;x
+EVT_1971283_A;좋은 것은 영원하지 않다...;;;;;;;;;;;x
+EVT_1971284_NAME;국제연합 안전보장이사회 비상임이사국 선정;;;;;;;;;;;x
+EVT_1971284_DESC;국제연합 안전보장이사회 비상임이사국으로 선정되었습니다. 이 임기는 오직 2년만 지속됩니다.;;;;;;;;;;;x
+EVT_1971284_A;이 새로운 지위를 최대한 활용해야 한다.;;;;;;;;;;;x
+EVT_1971285_NAME;국제연합 안전보장이사회 비상임이사국 10개국 선정;;;;;;;;;;;x
+EVT_1971285_DESC;국제연합 안전보장이사회 비상임이사국을 선정해야 합니다. 이 임기는 오직 2년만 지속됩니다.;;;;;;;;;;;x
+EVT_1971285_A;임의로 선택한다.;;;;;;;;;;;x
+peace_palace;평화궁;;;;;;;;;;;x
+EVT_8006705_NAME;평화궁;;;;;;;;;;;x
+EVT_8006705_DESC;평화궁은 네덜란드 헤이그에 있는 국제법률 행정 건물입니다. 여기에는 국제사법재판소(국제연합의 주요 사법기관)와 영구중재재판소, 헤이그 국제법 학회 및 평화궁 도서관이 자리잡고 있습니다. 해당 궁전은 1899년 헤이그 협약을 통해 1913년 8월 28일 공식적으로 문을 열었습니다. 유럽 문화 유산도 2014년 4월 8일 평화궁에서 수여되었습니다.;;;;;;;;;;;x
+EVT_8006705_A;훌륭하다.;;;;;;;;;;;x

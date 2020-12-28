@@ -4653,13 +4653,13 @@ GRD_progressive;자유당;;;;;;;;;;;x
 GRD_socialist;노동당;;;;;;;;;;;x
 GRE;그리스;;;;;;;;;;;x
 GREATER_THAN; 최소한;;;;;;;;;;;x
-GREAT_WARS_DISABLED_DESC;세계대전을 아직 발견하지 못했습니다.\n;;;;;;;;;;;x
-GREAT_WARS_ENABLED_DESC;세계대전을 발견했습니다.\n;;;;;;;;;;;x
-GREAT_WARS_ENABLE_DESC;전쟁이 세계대전으로 확대될 수 있습니다!;;;;;;;;;;;x
-GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;쬨$TARGET$쬦(과)의 세계대전;;;;;;;;;;;x
-GREAT_WAR_CB_JUSTIFY_COST_DESC;쬨세계대전쬦 상태에서는 전쟁명분에 필요한 악명이 기존보다 쬒$PERC$%쬦 감소합니다.;;;;;;;;;;;x
-GREAT_WAR_NAME;$ORDER$세계대전;;;;;;;;;;;x
-GREAT_WAR_OBLIGATORY_CB_DESC;세계대전 전쟁명분은 모든 적국을 상대해야 합니다. 적국:;;;;;;;;;;;x
+GREAT_WARS_DISABLED_DESC;대전쟁을 아직 발견하지 못했습니다.\n;;;;;;;;;;;x
+GREAT_WARS_ENABLED_DESC;대전쟁을 발견했습니다.\n;;;;;;;;;;;x
+GREAT_WARS_ENABLE_DESC;전쟁이 대전쟁으로 확대될 수 있습니다!;;;;;;;;;;;x
+GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;쬨$TARGET$쬦(과)의 대전쟁;;;;;;;;;;;x
+GREAT_WAR_CB_JUSTIFY_COST_DESC;쬨대전쟁쬦 상태에서는 전쟁명분에 필요한 악명이 기존보다 쬒$PERC$%쬦 감소합니다.;;;;;;;;;;;x
+GREAT_WAR_NAME;$ORDER$대전쟁;;;;;;;;;;;x
+GREAT_WAR_OBLIGATORY_CB_DESC;대전쟁 전쟁명분은 모든 적국을 상대해야 합니다. 적국:;;;;;;;;;;;x
 GRE_ADJ;그리스령;;;;;;;;;;;x
 UGR;민주그리스;;;;;;;;;;;x
 UGR_ADJ;민주그리스령;;;;;;;;;;;x

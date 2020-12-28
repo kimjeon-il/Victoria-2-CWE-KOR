@@ -1,20 +1,20 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-oic_member;이슬람 협력기구 가맹국;Member of the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-oic_chairmanship;이슬람 협력기구 의장국;;Holder of the Organisation of Islamic Cooperation Chairmanship;;;;;;;;x;;;;;;;;;;;;;
-formtheoic_title;이슬람 협력기구 설립;Establish the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-formtheoic_desc;이슬람 협력기구는 국제연합에 이어 두 번째로 큰 정부간 기구로, 4개 대륙에 걸쳐 57개국이 가맹하고 있습니다. 해당 기구는 이슬람 세계의 집단적인 목소로서 국제 평화와 세계 여러 민족간의 화합을 도모하여 이슬람 세계의 이익을 지키고자 노력합니다. 이 기구는 예루살렘 안의 점령지 아크사 모스크의 방화 범죄를 계기로 12일 모로코 왕국에서 열린 정상회담을 통해 설립되었습니다.;The Organisation of Islamic Cooperation  is the second largest inter-governmental organization after the United Nations with a membership of 57 states spread over four continents. The Organization is the collective voice of the Muslim world. It endeavors to safeguard and protect the interests of the Muslim world in the spirit of promoting international peace and harmony among various people of the world. The Organization was established upon a decision of the historical summit which took place in Rabat, Kingdom of Morocco on 12th Rajab 1389 Hijra (25 September 1969) following the criminal arson of Al-Aqsa Mosque in occupied Jerusalem.;;;;;;;;x;;;;;;;;;;;;;
-jointheoic_title;이슬람 협력기구 가맹;Join the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-jointheoic_desc;이슬람 협력기구는 국제연합에 이어 두 번째로 큰 정부간 기구로, 4개 대륙에 걸쳐 57개국이 가맹하고 있습니다. 해당 기구는 이슬람 세계의 집단적인 목소로서 국제 평화와 세계 여러 민족간의 화합을 도모하여 이슬람 세계의 이익을 지키고자 노력합니다. 이 기구는 예루살렘 안의 점령지 아크사 모스크의 방화 범죄를 계기로 12일 모로코 왕국에서 열린 정상회담을 통해 설립되었습니다.;The Organisation of Islamic Cooperation  is the second largest inter-governmental organization after the United Nations with a membership of 57 states spread over four continents. The Organization is the collective voice of the Muslim world. It endeavors to safeguard and protect the interests of the Muslim world in the spirit of promoting international peace and harmony among various people of the world. The Organization was established upon a decision of the historical summit which took place in Rabat, Kingdom of Morocco on 12th Rajab 1389 Hijra (25 September 1969) following the criminal arson of Al-Aqsa Mosque in occupied Jerusalem.;;;;;;;;x;;;;;;;;;;;;;
-leavetheoic_title;이슬람 협력기구 탈퇴;Leave the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-leavetheoic_desc;이슬람 협력기구는 국제연합에 이어 두 번째로 큰 정부간 기구로, 4개 대륙에 걸쳐 57개국이 가맹하고 있습니다. 해당 기구는 이슬람 세계의 집단적인 목소로서 국제 평화와 세계 여러 민족간의 화합을 도모하여 이슬람 세계의 이익을 지키고자 노력합니다. 이 기구는 예루살렘 안의 점령지 아크사 모스크의 방화 범죄를 계기로 12일 모로코 왕국에서 열린 정상회담을 통해 설립되었습니다.;The Organisation of Islamic Cooperation  is the second largest inter-governmental organization after the United Nations with a membership of 57 states spread over four continents. The Organization is the collective voice of the Muslim world. It endeavors to safeguard and protect the interests of the Muslim world in the spirit of promoting international peace and harmony among various people of the world. The Organization was established upon a decision of the historical summit which took place in Rabat, Kingdom of Morocco on 12th Rajab 1389 Hijra (25 September 1969) following the criminal arson of Al-Aqsa Mosque in occupied Jerusalem.;;;;;;;;x;;;;;;;;;;;;;
-oichigh;이슬람 협력기구 경제 성장 중점;Economic Growth Focus for the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-oicmedium;이슬람 협력기구 연구 및 정치 개혁 중점;Research exchange & Political Reform Focus for the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-oiclow;이슬람 협력기구 인권 및 복지 중점;Human Rights & Welfare Focus for the Organisation of Islamic Cooperation;;;;;;;;x;;;;;;;;;;;;;
-changeoic_title;이슬람 협력기구 중점 변경;Change Organisation of Islamic Cooperation Focus;;;;;;;;;;;;x
-changeoic_desc;이슬람 협력기구의 의장국이므로 중점을 우리나라의 정치/경제적 필요에 맞게 바꿀 수 있습니다.;Since we are the chairman of the Organisation of Islamic Cooperation, perhaps we should use that power to change the Organisation of Islamic Cooperation focus to better suit our country's current needs?;;;;;;;;;;;;x
-oiclow_title;이슬람 협력기구 인권 및 복지 중점;Human Rights & Welfare Focus for the Organisation of Islamic Cooperation;;;;;;;;;;;;x
-oicmedium_title;이슬람 협력기구 연구 및 정치 개혁 중점;Research exchange & Political Reform Focus for the Organisation of Islamic Cooperation;;;;;;;;;;;;x
-oichigh_title;이슬람 협력기구 경제 성장 중점;Economic Growth Focus for the Organisation of Islamic Cooperation;;;;;;;;;;;;x
-oiclow_desc;인권 및 복지 중점은 회원국들의 경제에 도움을 거의 주지 못할 것입니다.;Human Rights & Welfare Focus for the Organisation of Islamic Cooperation will not help member economies much.;;;;;;;;;;;;x
-oicmedium_desc;연구 및 정치 개혁 중점은 회원국들의 경제에 도움을 조금 줄 것입니다.;Research exchange & Political Reform Focus for the Organisation of Islamic Cooperation will greatly benefit the ability of our member states to make progress in human development.;;;;;;;;;;;;x
-oichigh_desc;경제 성장 중점은 회원국들의 경제에 도움을 많이 줄 것입니다.;Economic Growth Focus for the Organisation of Islamic Cooperation will help member states economies a lot.;;;;;;;;;;;;x
+CODE;ENGLISH;;;;;;;;;;;x
+oic_member;이슬람 협력기구 가맹국;;;;;;;;;;;x
+oic_chairmanship;이슬람 협력기구 의장국;;;;;;;;;;;x
+formtheoic_title;이슬람 협력기구 설립;;;;;;;;;;;x
+formtheoic_desc;이슬람 협력기구는 국제연합에 이어 두번째로 큰 정부간 기구로, 4개 대륙에 걸쳐 57개국이 가맹하고 있습니다. 해당 기구는 이슬람 세계의 집단적인 목소로서 국제 평화와 세계 여러 민족간의 화합을 도모하여 이슬람 세계의 이익을 지키고자 노력합니다. 이 기구는 예루살렘 안의 점령지 아크사 모스크의 방화 범죄를 계기로 12일 모로코 왕국에서 열린 정상회담을 통해 설립되었습니다.;;;;;;;;;;;x
+jointheoic_title;이슬람 협력기구 가맹;;;;;;;;;;;x
+jointheoic_desc;이슬람 협력기구는 국제연합에 이어 두번째로 큰 정부간 기구로, 4개 대륙에 걸쳐 57개국이 가맹하고 있습니다. 해당 기구는 이슬람 세계의 집단적인 목소로서 국제 평화와 세계 여러 민족간의 화합을 도모하여 이슬람 세계의 이익을 지키고자 노력합니다. 이 기구는 예루살렘 안의 점령지 아크사 모스크의 방화 범죄를 계기로 12일 모로코 왕국에서 열린 정상회담을 통해 설립되었습니다.;;;;;;;;;;;x
+leavetheoic_title;이슬람 협력기구 탈퇴;;;;;;;;;;;x
+leavetheoic_desc;이슬람 협력기구는 국제연합에 이어 두번째로 큰 정부간 기구로, 4개 대륙에 걸쳐 57개국이 가맹하고 있습니다. 해당 기구는 이슬람 세계의 집단적인 목소로서 국제 평화와 세계 여러 민족간의 화합을 도모하여 이슬람 세계의 이익을 지키고자 노력합니다. 이 기구는 예루살렘 안의 점령지 아크사 모스크의 방화 범죄를 계기로 12일 모로코 왕국에서 열린 정상회담을 통해 설립되었습니다.;;;;;;;;;;;x
+oichigh;이슬람 협력기구 경제 성장 중점;;;;;;;;;;;x
+oicmedium;이슬람 협력기구 연구 및 정치 개혁 중점;;;;;;;;;;;x
+oiclow;이슬람 협력기구 인권 및 복지 중점;;;;;;;;;;;x
+changeoic_title;이슬람 협력기구 중점 변경;;;;;;;;;;;x
+changeoic_desc;이슬람 협력기구의 의장국이므로 중점을 우리나라의 정치/경제적 필요에 맞게 바꿀 수 있습니다.;;;;;;;;;;;x
+oiclow_title;이슬람 협력기구 인권 및 복지 중점;;;;;;;;;;;x
+oicmedium_title;이슬람 협력기구 연구 및 정치 개혁 중점;;;;;;;;;;;x
+oichigh_title;이슬람 협력기구 경제 성장 중점;;;;;;;;;;;x
+oiclow_desc;인권 및 복지 중점은 회원국들의 경제에 도움을 거의 주지 못할 것입니다.;;;;;;;;;;;x
+oicmedium_desc;연구 및 정치 개혁 중점은 회원국들의 경제에 도움을 조금 줄 것입니다.;;;;;;;;;;;x
+oichigh_desc;경제 성장 중점은 회원국들의 경제에 도움을 많이 줄 것입니다.;;;;;;;;;;;x

@@ -1,253 +1,294 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-greek_epirus_title;$COUNTRY_ADJ$ 이피로스 개칭;Rename $COUNTRY_ADJ$ Epirus;;;;;;;;x;;;;;;;;;;;;;
-greek_epirus_desc;북부 이피로스가 우리의 통치를 받고 있으므로, 그곳의 도시와 마을들을 $COUNTRYCULTURE$식 이름으로 바꾸어야 합니다.;Now that we control North Epirus, we should rename the towns and cities back to their $COUNTRYCULTURE$ names.;;;;;;;;x;;;;;;;;;;;;;
-albanian_epirus_title;$COUNTRY_ADJ$ 이피로스 개칭;Rename $COUNTRY_ADJ$ Epirus;;;;;;;;x;;;;;;;;;;;;;
-albanian_epirus_desc;북부 이피로스가 우리의 통치를 받고 있으므로, 그곳의 도시와 마을들을 $COUNTRYCULTURE$식 이름으로 바꾸어야 합니다.;Now that we control North Epirus, we should rename the towns and cities back to their $COUNTRYCULTURE$ names.;;;;;;;;x;;;;;;;;;;;;;
-claim_greater_italy_title;이탈리아 실지회복주의;Italian irredentism;;;;;;;;;;X
-claim_greater_italy_desc;이탈리아 실지회복주의란 이탈리아인과 이탈리아어를 사용하는 사람들이 인구의 과반수 또는 상당수를 차지하는 지역을 이탈리아에 통합하고자하는 민족주의 운동입니다. 이탈리아를 위대하게!;Italian irredentism is a nationalist movement with irredentist goals which promoted the unification of geographic areas in which indigenous ethnic Italians and Italian-speaking persons formed a majority, or substantial minority, of the population. Glaim greater Italy!;;;;;;;;;;X
-abandon_claim_greater_italy_title;대이탈리아 주장 포기;Abandon The claim for Grater Italy;;;;;;;;;;X
-abandon_claim_greater_italy_desc;대이탈리아를 만들려했었던 그간의 노력을 포기합니다. 이탈리아 실지회복주의란 이탈리아인과 이탈리아어를 사용하는 사람들이 인구의 과반수 또는 상당수를 차지하는 지역을 이탈리아에 통합하고자하는 민족주의 운동입니다.;Abandon our effort to create a greater Italy. Italian irredentism is a nationalist movement with irredentist goals which promoted the unification of geographic areas in which indigenous ethnic Italians and Italian-speaking persons formed a majority, or substantial minority, of the population.;;;;;;;;;;X
-claim_greater_mexico_title;재정복;The Reconquista;;;;;;;;;;;;;x
-claim_greater_mexico_desc;멕시코-미국 전쟁의 결과로 일어난 텍사스의 합병(1845년)과 북부 영토의 할양(1848년) 이전에 멕시코와 접점이 있었던 미국 남서부를 되찾을 것입니다.;We shall reclaim and seek to reconquer the U.S. Southwest, territories that had pertained to Mexico before the Texas annexation (1845) and the Mexican Cession (1848), as a consequence of the Mexican American War, for distinct purposes.;;;;;;;;;;;;;x
-abandon_claim_greater_mexico_title;재정복 포기;Abandon The Reconquista;;;;;;;;;;;;;x
-abandon_claim_greater_mexico_desc;멕시코-미국 전쟁의 결과로 일어난 텍사스의 합병(1845년)과 북부 영토의 할양(1848년) 이전에 멕시코와 접점이 있었던 미국 남서부를 되찾으려던 일련의 노력을 포기합니다.;Abandon our effort to reclaim and reconquer the U.S. Southwest, territories that had pertained to Mexico before the Texas annexation (1845) and the Mexican Cession (1848), as a consequence of the Mexican American War, for distinct purposes.;;;;;;;;;;;;;x
-claim_greater_afghanistan;대아프가니스탄 선포;Claim Greater Afghanistan;;;;;;;;;;;;x
-claim_greater_afghanistan_title;듀랜드선 거부;Reject the Durand Line;;;;;;;;;;;;x
-claim_greater_afghanistan_desc;듀랜드선은 아프가니스탄과 파키스탄 사이의 국경으로, 1893년 듀랜드 공이 지정했습니다. 이 선은 정치적으로 파슈툰족, 발루치족과 다른 집단을 구분합니다.;The Durand Line is the border, between Afghanistan and Pakistan. It was established in 1893 by agreement between Sir Mortimer Durand. The Durand Line cuts through the Pashtun tribal areas and further south through the Balochistan region, politically dividing ethnic Pashtuns, as well as the Baloch and other ethnic groups.;;;;;;;;;;;;x
-claim_greater_argentina;말비나스 분쟁;Falkland Islands sovereignty dispute;;;;;;;;;;;;x
-claim_greater_argentina_title;말비나스 영유권 주장;Claim Islas Malvinas;;;;;;;;;;;;x
-claim_greater_argentina_desc;영국과 아르헨티나 사이에 포클랜드 제도(에스파냐어: 말비나스)의 주권이 논란이 되고 있습니다. 영국의 주권은 빠르면 1690년부터, 늦어도 1833년부터 거의 지속적으로 포클랜드에 실질적인 주권을 행사해 왔습니다. 아르헨티나는 1833년 이전부터 이 섬들을 관리해 오면서 오랫동안 영국에게 이의를 제기해 왔습니다.;Sovereignty over the Falkland Islands (Islas Malvinas in Spanish) is disputed between Argentina and the United Kingdom. The British claim to sovereignty dates from 1690, and the United Kingdom has exercised de facto sovereignty over the archipelago almost continuously since 1833. Argentina has long disputed this claim, having been in control of the islands for a period prior to 1833.;;;;;;;;;;;;x
-claim_greater_bolivia;대볼리비아 선포;Claim Greater Bolivia;;;;;;;;;;;;x
-claim_greater_bolivia_title;태평양 전쟁 평화조약 파기;Undo the Peace of the War of the Pacific;;;;;;;;;;;;x
-claim_greater_bolivia_desc;볼리비아의 헌법은 볼리비아가 태평양 등의 해양에 접근할 수 있는 영토에 대하여 불가침권을 가지고 있다고 명시하고 있습니다. 이는 볼리비아와 페루가 태평양전쟁 이후 칠레에 영토를 할양하여 볼리비아가 내륙국이 된 사연과 관련이 깊습니다.;The constitution of Bolivia states that the country has an unrenounceable right over the territory that gives it access to the Pacific Ocean and its maritime space. This is understood as territory that Bolivia and Peru ceded to Chile after the War of the Pacific, which left Bolivia as a landlocked country.;;;;;;;;;;;;x
-claim_greater_cambodia;메콩 삼각주 영유권 재주장;Reclaim the Mekong Delta;;;;;;;;;;;;x
-claim_greater_cambodia_title;메콩 삼각주 영유권 재주장;Reclaim the Mekong Delta;;;;;;;;;;;;x
-claim_greater_cambodia_desc;메콩 삼각주는 수백년간 캄보디아의 지배를 받아왔습니다. 캄보디아의 지배는 그들이 프랑스령 인도차이나에 편입되면서 끝났습니다. 메콩 삼각주의 관할이 베트남으로 넘어갔기 때문입니다.;The Mekong Delta has largely been controlled by the Cambodian state for hundreds of years. This control ended when Cambodia was incorporated into French Indochina, with the Mekong Delta being transfered over to Vietnamese rule.;;;;;;;;;;;;x
-claim_greater_china;새로운 중화질서 선포;Claim Greater China;;;;;;;;;;;;x
-claim_greater_china_title;대중국 선포;Claim Greater China;;;;;;;;;;;;x
-claim_greater_china_desc;대중국은 중화인민공화국(중국 본토와 홍콩 또는 마카오의 특별행정구역)과 중화민국(대만)을 하나로 지칭할 때 사용하는 용어입니다.;Greater China or the Greater China Region is a term used to refer to the People's Republic of China (Mainland China and its special administrative regions of Hong Kong and Macau) and the Republic of China (Taiwan) as a unity.;;;;;;;;;;;;x
-claim_greater_taiwan;새로운 중화질서 선포;Claim Greater China;;;;;;;;;;;;x
-claim_greater_taiwan_title;대중국 선포;Claim Greater China;;;;;;;;;;;;x
-claim_greater_taiwan_desc;중화민국 헌법 제4조는 "기존의 국경에 있는 중화민국의 영토는 국회의 결의 이외에는 변경할 수 없다"고 명시했습니다. 1950년대와 1960년대 내내 대만의 중화민국 정부는 중국 본토의 합법적인 통치자이기도 했습니다. 중화민국은 현재 '현상' 정책의 일환으로 중화인민공화국, 몽골, 러시아, 버마 및 일부 중앙아시아 국가들이 통치하고 있는 영토에 대한 영유권 주장을 철회하지 않고 있습니다.;Article 4 of the Constitution of the Republic of China originally stated that "[t]he territory of the Republic of China within its existing national boundaries shall not be altered except by a resolution of the National Assembly". Throughout the 1950s and 1960s, the Government of the Republic of China on Taiwan maintained itself to be the legitimate ruler of Mainland China as well. As part of its current policy continuing of the 'status quo', the ROC has not renounced claims over the territories currently controlled by the People's Republic of China, Mongolia, Russia, Burma and some Central Asian states.;;;;;;;;;;;;x
-claim_greater_comoros;대코모로 선포;Claim Greater Comoros;;;;;;;;;;;;x
-claim_greater_comoros_title;대코모로 선포;Claim Greater Comoros;;;;;;;;;;;;x
-claim_greater_comoros_desc;코모로 연합은 모엘리, 마요트, 앙주앙, 그랑드코모로 자치섬으로 구성된 공화국입니다.;The Union of the Comoros is a republic, composed of the autonomous islands of Moheli, Mayotte, Anjouan, and Grande Comore.;;;;;;;;;;;;x
-claim_greater_india;아칸드 바라트 선포;Akhand Bharat;;;;;;;;;;;;x
-claim_greater_india_title;아칸드 바라트;Akhand Bharat;;;;;;;;;;;;x
-claim_greater_india_desc;아칸드 바라트란 인도, 파키스탄, 방글라데시를 통합하여 1947년 이전의 마우리아, 굽타, 무굴, 마라타 제국 때처럼 하나의 인도를 요구하는 민족 통일주의 운동입니다.;Akhand Bharat, literally Undivided India, is an irredentist call to reunite Pakistan and Bangladesh with India to form an Undivided India as it existed before partition in 1947 (and before that, during other periods of political unity in South Asia, such as during the Mauryan Empire, the Gupta Empire, the Mughal Empire or the Maratha Empire ). ;;;;;;;;;;;;x
-claim_tamil_ceylon;드라비다나두 선포;Dravida Nadu;;;;;;;;;;;;x
-claim_tamil_ceylon_title;드라비다나두;Dravida Nadu;;;;;;;;;;;;x
-claim_tamil_ceylon_desc;우리나라가 드라비다 사람들의 국가라고 주장하기 위해서는 실론의 타밀어 사용 지역에 대한 그들의 영유권 주장을 인정해야 합니다. 또한 동포 힌두교도들이 모국인 $COUNTRY$에서 종교를 자유롭게 믿을 수 있도록 해야 합니다.;If we are to claim we are the state of the Dravidian peoples, we must recognize their claims to the Tamil-speaking region in Ceylon. In addition, we must save our fellow Hindus and allow them to practice their religion free in their own country - $COUNTRY$.;;;;;;;;;;;;x
-abandon_claim_tamil_ceylon_title;실론 영유권 포기;Abandon Ceylonese Claims;;;;;;;;;;;;x
-abandon_claim_tamil_ceylon_desc;신할라 사람들은 수천 년 동안 실론에서 살아왔으며 그 모든 것은 그들 소유입니다. 타밀 동포들이 $COUNTRY$(으)로 돌아가도록 격려해야 합니다.;The Sinhalese People have lived in Sri Lanka for thousands of years, and the whole of it belongs to them. We should be encouraging our Tamil brothers to move back to $COUNTRY$, not taking another nation's sovereign territory for an unwilling people.;;;;;;;;;;;;x
-claim_greater_indonesia;대인도네시아 선포;Claim Greater Indonesia;;;;;;;;;;;;x
-claim_greater_indonesia_title;인도네시아 라야;Indonesia Raya;;;;;;;;;;;;x
-claim_greater_indonesia_desc;대인도네시아는 영국령 말라야와 보르네오를 네덜란드령 동인도제도와 통합함으로써 말레이족을 하나로 묶으려는 정치적 개념입니다.;Greater Indonesia, or in Indonesian and Malaysian, Indonesia Raya or Melayu Raya was a political concept that sought to bring the so-called Malay race together by uniting the British territories of Malaya and Borneo with the Dutch East Indies.;;;;;;;;;;;;x
-claim_greater_israel;수정주의적 시온주의 선포;Revisionist Zionism;;;;;;;;;;;;x
-claim_greater_israel_title;수정주의적 시온주의 선포;Revisionist Zionism;;;;;;;;;;;;x
-claim_greater_israel_desc;시온주의의 수정주의는 영토 최대주의를 통해 기존 사상과 구별됩니다. 시온주의 수정주의자들은 (이러한 주장을 펼친 유일한 집단은 아니지만) 팔레스타인을 둘러싸고 있는 에라츠 이스라엘의 전역에 유대인들의 통치권을 주장합니다.;Revisionism was distinguished primarily from other ideologies within Zionism by its territorial maximalism. While not the only group to do so, they insisted upon the Jewish right to sovereignty over the whole territory of Eretz Yisrael (originally encompassing all of Mandatory Palestine).;;;;;;;;;;;;x
-claim_greater_israel_1;젖과 꿀이 흐르는 땅;Land of Milk and Honey;;;;;;;;;;;;x
-claim_greater_israel_1_title;젖과 꿀이 흐르는 땅;Land of Milk and Honey;;;;;;;;;;;;x
-claim_greater_israel_1_desc;'약속된 땅'은 신이 아브라함의 후손인 유대인들에게 내려준 땅을 일컫습니다. 우리나라는 이미 약속된 땅의 상당 부분을 얻었지만, 아직도 절반 가량은 그렇지 못합니다. 그곳들을 반드시 되찾아야 합니다. 그들의 성서도 우리나라의 확실한 영유권을 증명하고 있습니다.;The Promised Land was given by G-d to the descendands of Abraham - the Jewish people. We have earned most of the Land already, but around half is possessed by an inconvenient state to the north. We must take it: our irrefutable claim on the land is in their holy book, too, after all.;;;;;;;;;;;;x
-claim_greater_korea;고토 회복 주장;Greater Korea;;;;;;;;;;;;x
-claim_greater_korea_title;고토 회복 주장 철회;Claim Greater Korea;;;;;;;;;;;;x
-claim_greater_korea_desc;'더 큰 한국'은 한국인이 거주하는 모든 지역을 통합하자는 범민족주의이고 실지회복주의적인 개념입니다. 이 개념에는 주로 간도(좁게는 백두산 인근, 넓게는 남만주를 이름)가 포함되며, 한국에 더 가깝다는 이유로 가끔 대마도(일본어:쓰시마)를 포함하는 경우도 있습니다.;The term Greater Korea is a pan-nationalist and irredentist concept of lands that are considered to form the national homeland by most Koreans. Beside Korea, it includes Gando. Sometimes it includes Daemado an ethnically Japanese area, but geographically closer to Korea. The term is also used for referring economic ties between the relevant regions.;;;;;;;;;;;;x
-claim_greater_albania;대알바니아 선포;Claim Greater Albania;;;;;;;;;;;;x
-claim_greater_albania_title;대알바니아 선포;Claim Greater Albania;;;;;;;;;;;;x
-claim_greater_albania_desc;대알바니아는 알바니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 알바니아인 또는 역사적 국경을 근거로 합니다. 이 용어는 알바니아 공화국 외에도 세르비아의 코소보 및 프레셰보, 남부 몬테네그로, 서북부 그리스(테스프로티아, 프레베자, 차메리아, 얀니나(그리스어:이오아니아) 빌레이트의 일부)와 서부 마케도니아를 포함합니다.;Greater Albania is an irredentist concept of lands that are considered to form the national homeland by many Albanians,[2] based on claims on the present-day or historical presence of Albanian populations in those areas. In addition to the existing Republic of Albania, the term incorporates claims to regions in the neighbouring states, the areas include Kosovo and the Pre?evo Valley of Serbia, territories in southern Montenegro, northwestern Greece (the Greek regional units of Thesprotia and Preveza, referred by Albanians as Chameria, and other territories that were part of the Vilayet of Yanina during the Ottoman Empire), and a part of western Republic of Macedonia.;;;;;;;;;;;;x
-claim_greater_france;프랑스의 자연 국경 주장;Natural borders of France;;;;;;;;;;;;x
-claim_greater_france_title;프랑스의 자연 국경;Natural borders of France;;;;;;;;;;;;x
-claim_greater_france_desc;프랑스의 자연 국경은 프랑스 혁명 동안 발달한 정치지리적 이론입니다. 혁명가들에 따르면 이 자연 국경은 랭강(독일어:라인강), 대서양, 지중해, 피레네와 알프스 산맥에 해당한다고 합니다.;The natural borders of France (French: Frontieres naturelles de la France) are a political and geographic theory developed in France, notably during the French Revolution. They correspond to the Rhine, the Atlantic Ocean and Mediterranean Sea, the Pyrenees and the Alps, according to the revolutionaries.;;;;;;;;;;;;x
-claim_greater_serbia;대세르비아 선포;Greater Serbia ;;;;;;;;;;;;x
-claim_greater_serbia_title;대세르비아 선포;Greater Serbia ;;;;;;;;;;;;x
-claim_greater_serbia_desc;대세르비아는 세르비아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '세르비아인이 거주하는가', '세르비아의 지배를 받았는가'를 근거로 합니다.;The term Greater Serbia or Great Serbia describes the Serbian nationalist and irredentist ideology of the creation of a Serb state which would incorporate all regions of traditional significance to Serbs, including regions outside Serbia that are populated by Serbs. This movement's main ideology is to unite all Serbs (or all territory historically ruled or populated by Serbs) into one state, claiming, depending on the version, different areas of many surrounding countries.;;;;;;;;;;;;x
-claim_greater_croatia;대크로아티아 선포;Greater Croatia;;;;;;;;;;;;x
-claim_greater_croatia_title;대크로아티아 선포;Greater Croatia;;;;;;;;;;;;x
-claim_greater_croatia_desc;대크로아티아는 크로아티아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '크로아티아인이 거주하는가', '크로아티아의 지배를 받았는가'를 근거로 합니다.;The term Greater Croatia describes the Croatian nationalist and irredentist ideology of the creation of a Croat state which would incorporate all regions of traditional significance to Croats, including regions outside Croatia that are populated by Croats. This movement's main ideology is to unite all Croats (or all territory historically ruled or populated by Croats) into one state, claiming, depending on the version, different areas of many surrounding countries.;;;;;;;;;;;;x
-claim_greater_bosnia;대보스니아 선포;Claim Sandzak;;;;;;;;;;;;x
-claim_greater_bosnia_title;산자크 영유권 주장;Claim Sandzak;;;;;;;;;;;;x
-claim_greater_bosnia_desc;대보스니아는 보스니아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '보스니아인이 거주하는가', '보스니아의 지배를 받았는가'를 근거로 합니다.;The term Greater Bosnia describes the Bosnian nationalist and irredentist ideology of the creation of a Bosnian state which would incorporate all regions of traditional significance to Bosniaks, including regions outside Croatia that are populated by Bosniaks. This movement's main ideology is to unite all Bosniaks into one state, claiming, depending on the version, different areas of many surrounding countries.;;;;;;;;;;;;x
-claim_greater_bulgaria;대불가리아 선포;Greater Bulgaria;;;;;;;;;;;;x
-claim_greater_bulgaria_title;대불가리아 선포;Greater Bulgaria;;;;;;;;;;;;x
-claim_greater_bulgaria_desc;대불가리아는 1878년 산 스테파노 조약에 국경으로 명시되었던 마케도니아, 트라키아, 모에시아를 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다.;Greater Bulgaria is a term to identify the territory associated with a historical national state and a modern Bulgarian irredentist nationalist movement which would include most of Macedonia, Thrace and Moesia, as outlined in the 1878 Treaty of San Stefano.;;;;;;;;;;;;x
-claim_greater_denmark;대덴마크 선포;Greater Denmark;;;;;;;;;;;;x
-claim_greater_denmark_title;대덴마크 선포;Greater Denmark;;;;;;;;;;;;x
-claim_greater_denmark_desc;$COUNTRY$의 잠재력을 최대로 끌어올리기 위해서는 확장이 필요합니다. 그 확장의 명분으로는 주변 해안과 섬에 대한 역사적인 영유권이 있습니다.;In order for $COUNTRY$ to achieve its greatest potential, particularly its naval potential, it is clear that we must expand. We have a historical claim to some of the surrounding coastal lands and islands that would help the cause.;;;;;;;;;;;;x
-claim_greater_greece;위대한 이상 선포;Megali Idea;;;;;;;;;;;;x
-claim_greater_greece_title;위대한 이상;Megali Idea;;;;;;;;;;;;x
-claim_greater_greece_desc;위대한 이상(Megali Idea, 메갈리 이데아)는 범그리스주의적, 민족통일주의적인 개념입니다. 1830년, 그리스가 오스만 제국에게서 독립했으나 여전히 많은 그리스인들이 오스만의 지배 아래 있었습니다. 이는 오스만의 지배를 받는 그리스인들까지 한데 뭉쳐 그리스인의 국가를 수립하자는 운동으로 확대되었습니다.;The Megali Idea ("Great Idea") was an irredentist concept of Greek nationalism that expressed the goal of establishing a Greek state that would encompass all ethnic Greek-inhabited areas, including the large Greek populations that, after the restoration of Greek independence in 1830 from the Ottoman Empire, still lived under Ottoman occupation.;;;;;;;;;;;;x
-abandon_claim_northern_epirus_title;북부 이피로스 영유권 포기;Northern Epirus is Albanian;;;;;;;;x;;;;;;;;;;;;;
-abandon_claim_northern_epirus_desc;북부 이피로스는 전통적으로 그리스인들이 살았었으나, 알바니아의 지배가 너무 오랫동안 지속되었습니다. 북부 이피로스가 알바니아의 일부라는 것을 받아들여야 합니다.;For too long, the Albanians have held control over Northern Epirus, lands traditionally inhabited by Greek people. We have to accept that they are part of Albania.;;;;;;;;x;;;;;;;;;;;;;
-claim_northern_epirus;북부 이피로스 영유권 주장;Greek Northern Epirus;;;;;;;;x;;;;;;;;;;;;;
-claim_northern_epirus_title;북부 이피로스 영유권 주장;Greek Northern Epirus;;;;;;;;x;;;;;;;;;;;;;
-claim_northern_epirus_desc;북부 이피로스는 전통적으로 그리스인들이 살았었으나, 알바니아의 지배가 너무 오랫동안 지속되었습니다. 지금이 잃어버린 영토를 되찾을 때입니다.;For too long, the Albanians have held control over Northern Epirus, lands traditionally inhabited by Greek people. Now is the time for $COUNTRY$ to take back what is rightfully hers.;;;;;;;;x;;;;;;;;;;;;;
-claim_greater_hungary;헝가리 실지회복주의 선포;Hungarian irredentism;;;;;;;;;;;;x
-claim_greater_hungary_title;헝가리 실지회복주의;Hungarian irredentism;;;;;;;;;;;;x
-claim_greater_hungary_desc;헝가리 실지회복주의는 민족통일주의와 범민족주의적 정치 사상을 포괄하는 광범위한 용어로, 헝가리 수정주의와도 연관이 있습니다. 헝가리 실지회복주의자들의 주요 목표는 헝가리의 국경을 제1차 세계대전 이전으로 되돌리는 것입니다.;Hungarian irredentism is a broad umbrella term consisting of irredentist and pan-nationalist political ideas. The idea is associated with Hungarian revisionism. Its main goal is to restore part of the pre-ww1 borders of the Kingdom of Hungary.;;;;;;;;;;;;x
-claim_greater_ireland;통일 아일랜드 선포;United Ireland;;;;;;;;;;;;x
-claim_greater_ireland_title;통일 아일랜드;United Ireland;;;;;;;;;;;;x
-claim_greater_ireland_desc;통일 아일랜드는 아일랜드를 구성하는 32개 지방을 모두 포함하는 주권 국가를 일컫는 개념입니다. 현재 아일랜드에는 두 개의 독립된 주권국이 자리합니다. 26개 지방을 다스리는 아일랜드 공화국, 그리고 6개 지방을 다스리는 북아일랜드(영국)이 바로 그들입니다.;A United Ireland is a movement for a sovereign state covering all of the thirty-two traditional counties of Ireland.The island of Ireland includes the territory of two independent sovereign states: the Republic of Ireland, which covers 26 counties of the island, and the United Kingdom of Great Britain and Northern Ireland, which covers six counties.;;;;;;;;;;;;x
-claim_greater_macedonia;통일 마케도니아;United Macedonia;;;;;;;;;;;;x
-claim_greater_macedonia_title;통일 마케도니아;United Macedonia;;;;;;;;;;;;x
-claim_greater_macedonia_desc;통일 마케도니아는 마케도니아 민족주의자들의 민족통일주의적 개념으로, 1913년의 부쿠레슈티 조약에서 잘못 분할된 마케도니아를 단일 국가로 통합하는 것을 목표로 합니다. 이러한 통일 마케도니아의 수도는 그리스령 마케도니아의 테살로니키 또는 살로니카가 유력한데, 때문에 그리스령 마케도니아의 슬라브계 주민들과 유고슬라비아의 지도자 티토는 이들과의 통합을 바랍니다.;United Macedonia is an irredentist concept among ethnic Macedonian nationalists that aims to unify the transnational region of Macedonia in southeastern Europe (which they claim as their homeland and which they assert was wrongfully divided under the Treaty of Bucharest in 1913), into a single state. The proposed capital of such a United Macedonia is the city of Thessaloniki or Salonika (Solun in the Slavic languages) in Greek Macedonia, which Slavic Macedonians and the Yugoslav leader Tito had always dreamed of incorporating - along with the hinterland of Greek Macedonia which they came to call Aegean Macedonia - into their own states.;;;;;;;;;;;;x
-claim_greater_romania;몰도바-루마니아 통합;Unification of Romania and Moldova;;;;;;;;;;;;x
-claim_greater_romania_title;몰도바에 대한 영유권 선포;Claim Moldova as part of a Greater Romania;;;;;;;;;;;;x
-claim_greater_romania_desc;대루마니아의 주요 목표는 모든 루마니아어 화자를 포함하는 국민 국가를 재창조하는 것입니다. 이는 범루마니아주의들의 목표의 실현으로 여겨졌던 1918~1940년의 루마니아 왕국과 강하게 연관되어 있습니다. 1918년, 트란실바니아, 부코비나, 베사라비아가 통합되면서 루마니아는 역사상 가장 큰 영토에 도달했습니다.;The main goal is the re-creation of a nation-state which would incorporate all Romanian speakers. The phrase is strongly associated with the Kingdom of Romania between 1918 and 1940, often considered the realization of the pan-Romanian goal. In 1918, after the incorporation of Transylvania, Bukovina and Bessarabia, the Romanian state reached its largest peacetime geographical extent ever ;;;;;;;;;;;;x
-claim_greater_russia;대러시아 선포;Greater Russia;;;;;;;;;;;;x
-claim_greater_russia_title;대러시아 선포;Greater Russia;;;;;;;;;;;;x
-claim_greater_russia_desc;대러시아는 소련에서 분리된 공화국 및 러시아 제국의 영토의 일부 또는 전부를 재탈환하여 통일 러시아에 통합하려는 범러시아주의자들과 민족통합주의자들의 정치적 열망입니다.;Greater Russia is a political aspiration of Russian nationalists and irredentists to retake some or all of the territories of the other republics of the former Soviet Union and territory of the former Russian Empire and amalgamate them into a single Russian state.;;;;;;;;;;;;x
-claim_greater_sgf;대남독일;Greater SGF;;;;;;;;;;;;x
-claim_greater_sgf_title;대남독일 선포;Claim Greater SGF;;;;;;;;;;;;x
-claim_greater_sgf_desc;그 조건은 이상적이지 않을지 모르지만, 국가 안보를 유지하고 남독일의 패권을 위해서는 남독일의 동맹국들에 접근해 연방을 만들어야 합니다. 단 하나의 깃발 아래 단결된 전선을 가지고 성공하기를 바랍니다!;The conditions may be less than ideal, but in order to maintain national security and strive towards South German hegemony, we must approach our South German allies and create a confederation. Only with a united front, under a single flag, may we succeed!;;;;;;;;;;;;x
-claim_greater_novorossiya;대노보러시아 선포;Greater Novorossiya;;;;;;;;;;;;x
-claim_greater_novorossiya_title;대노보러시아;Greater Novorossiya;;;;;;;;;;;;x
-claim_greater_novorossiya_desc;대노보러시아는 흑해 북쪽의 노보러시아 지방의 일부 또는 전부를 재탈환하여 통일 러시아에 통합하려는 범러시아주의자들과 민족통합주의자들의 정치적 열망입니다.Greater Novorossiya is a political aspiration of Russian nationalists and irredentists to retake some or all of the territories of the historic Russian Empire region New Russia north of the Black Sea and amalgamate them into a single Novorossiya state.;;;;;;;;;;;;x
-claim_greater_armenia;통일 아르메니아 선포;United Armenia;;;;;;;;;;;;x
-claim_greater_armenia_title;통일 아르메니아;United Armenia;;;;;;;;;;;;x
-claim_greater_armenia_desc;통일 아르메니아 또는 대아르메니아는 아르메니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 아르메니아인 또는 역사적 국경을 근거로 삼습니다.;United Armenia, also known as Greater Armenia or Great Armenia, is an irredentist concept of the territory outside the Republic of Armenia which is considered by Armenians as part of their national homeland, based on the present-day and/or historical Armenian presence. ;;;;;;;;;;;;x
-claim_greater_azerbaijan;대아제르바이잔 선포;Whole Azerbaijan;;;;;;;;;;;;x
-claim_greater_azerbaijan_title;대아제르바이잔 선포;Whole Azerbaijan;;;;;;;;;;;;x
-claim_greater_azerbaijan_desc;아제르바이잔의 국경은 데르벤트에서 페르시아만까지 확장되어야 합니다. 아제르바이잔에게는 이 지역들을 통치할 권리가 있습니다.;The borders of Azerbaijan should extend from Derbent to the Persian Gulf.Azerbaijanis, with historical presence in the territory has right to rule over it with a proposed system of governance called United Azerbaijani Lands ;;;;;;;;;;;;x
-claim_greater_yemen;대예멘 선포;Greater Yemen;;;;;;;;;;;;x
-claim_greater_yemen_title;대예멘 선포;Greater Yemen;;;;;;;;;;;;x
-claim_greater_yemen_desc;대예멘은 현 예멘 공화국의 영토 뿐만 아니라 사우디아라비아의 '아시르, 나지란, 지잔, 홍해의 인접한 섬들, 티하마, 도파르'까지 포함하는 지리적 개념입니다.;Greater Yemen (Al-Yaman al-Kubra) is a geographic term denoting the present territory of the Republic of Yemen as well as the Saudi regions of 'Asir, Najran, Jizan, adjacent islands in the Red Sea, adjacent parts of Tihamah and the Omani governorate of Dhofar.;;;;;;;;;;;;x
-claim_greater_somalia;대소말리아 선포;Greater Somalia;;;;;;;;;;;;x
-claim_greater_somalia_title;대소말리아;Greater Somalia;;;;;;;;;;;;x
-claim_greater_somalia_desc;대소말리아는 아프리카의 뿔 지역에 있는 소말리아인이 거주하는 소말리아, 지부티, 에티오피아의 오가덴과 케냐의 북동부 지방을 아우릅니다. 범소말리아주의자들은 이러한 영토를 단일 국가로 통합하려 합니다.;Greater Somalia refers to those regions in the Horn of Africa in which ethnic Somalis are and have historically represented the predominant population. Greater Somalia encompasses Somalia, Djibouti, the Ogaden of Ethiopia and the North Eastern Province of Kenya. Pan-Somalism refers to the vision of unifying these territories as a single Somali nation. ;;;;;;;;;;;;x
-claim_greater_venezuela;대베네수엘라 선포;Greater Venezuela;;;;;;;;;;;;x
-claim_greater_venezuela_title;과야나에세키바 영유권 선포;Guayana Esequiba;;;;;;;;;;;;x
-claim_greater_venezuela_desc;과야나에세키바는 베네수엘라가 영유권을 주장하는 가이아나의 영토입니다. 처음에는 에스파냐의 누에바그라나다 부왕령에만 포함되었으나, 후에 에세키보강의 동쪽이 네덜란드와 영국에 의해 가이아나로 분리되면서 문제가 생겼습니다. 베네수엘라는 가이아나의 독립을 인정하면서도 에세키보 강의 서쪽은 자신들의 땅이라고 주장하기 시작했습니다.;Guayana Esequiba is a territory administered by Guyana but claimed by Venezuela. It was first included in the Viceroyalty of New Granada and the Captaincy General of Venezuela by Spain, but was later included in Essequibo by the Dutch and in British Guiana by the United Kingdom. In its note of recognition of the independence of Guyana, Venezuela stated: Venezuela recognises as territory of the new State the one which is located on the east of the right bank of the Essequibo River.;;;;;;;;;;;;x
-abandon_claim_greater_venezuela_title;과야나에세키바 영유권 포기;Accept Guayana Esequiba as Guayana Territory;;;;;;;;;;;;x
-abandon_claim_greater_venezuela_desc;과야나에세키바는 베네수엘라가 영유권을 주장했었던 가이아나의 영토입니다. 처음에는 에스파냐의 누에바그라나다 부왕령에만 포함되었으나, 후에 에세키보강의 동쪽이 네덜란드와 영국에 의해 가이아나로 분리되면서 문제가 생겼습니다. 베네수엘라는 가이아나의 독립을 인정하면서도 에세키보 강의 서쪽은 자신들의 땅이라고 주장하기 시작했습니다.;;Guayana Esequiba is a territory administered by Guyana previously claimed by Venezuela. It was first included in the Viceroyalty of New Granada and the Captaincy General of Venezuela by Spain, but was later included in Essequibo by the Dutch and in British Guiana by the United Kingdom. In its note of recognition of the independence of Guyana, Venezuela stated: Venezuela recognises as territory of the new State the one which is located on the east of the right bank of the Essequibo River.;;;;;;;;;;;;x
-claim_greater_guatemala;대과테말라 선포;Greater Guatemala;;;;;;;;;;;;x
-claim_greater_guatemala_title;과테말라-벨리즈 영토 분쟁;BelizeanGuatemalan territorial dispute;;;;;;;;;;;;x
-claim_greater_guatemala_desc;과테말라-벨리즈 영토 분쟁은 과테말라와 그의 이웃인 벨리즈와 사이의 해결되지 않은 영토 분쟁을 일컫습니다. 1940년 이래로 과테말라는 벨리즈 영토의 일부 또는 전부에 영유권을 주장해왔습니다.;The BelizeanGuatemalan territorial dispute is an unresolved binational territorial dispute between the states of Belize and Guatemala, neighbours in Central America. The territory of Belize has been claimed in whole or in part by Guatemala since 1940.;;;;;;;;;;;;x
-abandon_claim_greater_guatemala_title;벨리즈 공인;Recognize Belize;;;;;;;;;;;;x
-abandon_claim_greater_guatemala_desc;과테말라-벨리즈 영토 분쟁은 과테말라와 그의 이웃인 벨리즈와 사이의 해결되지 않은 영토 분쟁을 일컫습니다. 1940년 이래로 과테말라는 벨리즈 영토의 일부 또는 전부에 영유권을 주장해왔었습니다. 이제는 이 주장을 철회할 때입니다.;The BelizeanGuatemalan territorial dispute is an unresolved binational territorial dispute between the states of Belize and Guatemala, neighbours in Central America. The territory of Belize has been claimed in whole or in part by Guatemala since 1940. Abondon this claim.;;;;;;;;;;;;x
-claim_greater_south;새로운 연합국;New Confederacy;;;;;;;;;;;;x
-claim_greater_south_title;새로운 연합국;New Confederacy;;;;;;;;;;;;x
-claim_greater_south_desc;미국 남부 노예주의자들은 그들을 이류 시민으로 만드는 나라에 남기를 거부한채 아메리카 연합국, 속칭 남부맹방을 세웠었습니다. 옛 남부는 부활할 것입니다.;The Confederate States of America was created by secessionists in Southern slave states who refused to remain in a country that was turning them into secondclass citizens. They judged the agent of change to be abolitionists and anti-slavery elements in the Republican Party, whom they believed used repeated insult and injury to subject them to intolerable "humiliation and degradation". The Old South shall be resurrected.;;;;;;;;;;;;x
-claim_greater_texas;텍사스의 원래 국경;Original borders of Texas;;;;;;;;;;;;x
-claim_greater_texas_desc;텍사스 공화국이 멕시코를 상대로 독립을 쟁취했을 때, 지도부는 리오그란데강을 기준으로 영토를 주장했으나 실제로는 뉴에세스강을 기준으로 삼는데 만족해야 했습니다. 연방에 가입하고 미국-멕시코 전쟁에 참전한 이후에도 리오그란데 북쪽 땅은 텍사스에게 넘겨지지 않았습니다. 이제 그 땅의 일부를 차지해야 할 때입니다.;When the Republic of Texas won its independence against Mexico, it controlled only the land above the Nueces River, while the leadership claimed all land above the Rio Grande. Even after joining the Union and the Mexican-American war, not all land north of the Rio Grande was given to Texas. It is time to claim some of that land.;;;;;;;;;;;;x
-claim_greater_mongolia;범몽골주의 선포;Pan-Mongolism;;;;;;;;;;;;x
-claim_greater_mongolia_title;범몽골주의 선포;Pan-Mongolism;;;;;;;;;;;;x
-claim_greater_mongolia_desc;범몽골주의는 몽골인끼리의 문화적, 정치적 연대를 표방하는 민족통일주의적 발상입니다. "대몽골"로 일컬어지는 영토는 보통 외몽골, 내몽골, 중가리아, 그리고 러시아령 부랴티야를 포함합니다.;Pan-Mongolism is an irredentist idea that advocates cultural and political solidarity of Mongols.The proposed territory, called "Greater Mongolia" usually includes the independent state of Mongolia,the Chinese regions of Inner Mongolia and Dzungaria, and the Russian subjects of Buryatia.;;;;;;;;;;;;x
-claim_greater_bangladesh;대방글라데시 선포;Greater Bangladesh;;;;;;;;;;;;x
-claim_greater_bangladesh_title;대방글라데시 선포;Greater Bangladesh;;;;;;;;;;;;x
-claim_greater_bangladesh_desc;벵골어를 사용하는 지역은 방글라데시, 서벵골 일부에 더해 아삼과 트리푸라의 일부도 포함합니다. 힌두교 세나 왕조 벵골의 통치 동안, 대방글라데시의 개념은 오리사, 비하르 그리고 인도 북동부까지 확장되었습니다.;The ethno-linguistic region of Bengal encompasses the territory of Bangladesh and the Indian state of West Bengal, as well as parts of Assam and Tripura. During the rule of the Hindu Sena dynasty in Bengal the notion of a Greater Bangladesh first emerged with the idea of uniting Bengali-speaking people in the areas now known as Orissa, Bihar and Indian North East (Assam, Tripura, and Meghalaya) along with the Bengal.;;;;;;;;;;;;x
-claim_greater_germany;대독일;German Reunification;OderNeisse line Rejected;;;;;;;;;;;x
-claim_greater_germany_title;오데르-나이세선 거부;German Reunification;Reject the OderNeisse line;;;;;;;;;;;x
-claim_greater_germany_desc;"적법한" 독일 국경의 정의는 "포츠담 협정"의 결정에 근거하여 오데르-나이세선 동쪽의 독일 영토를 "폴란드 정부의 통치하에" 넘기고 "폴란드 서부 국경에 평화가 정착되기를 기다려야 한다"는 것입니다. 따라서 오데르-나이세선을 영구적으로 인정했던 것은 재통일된 독일에 평화를 정착시키기 위한 마지막 조치였을 뿐입니다.;The German definition of the "de jure" borders of Germany was based on the determinations of the Potsdam Agreement, which placed the German territories (as of 31 December 1937) east of the OderNeisse line "under the administration of the Polish State" while "the final delimitation of the western frontier of Poland should await the peace settlement". The recognition of the Oder-Neisse Line as permanent was thus only reserved to a final peace settlement with reunited Germany.;;;;;;;;;;;;x
-abandon_claim_greater_afghanistan_title;듀랜드선 수용;Accept the Durand Line;;;;;;;;;;;;x
-abandon_claim_greater_afghanistan_desc;듀랜드선은 아프가니스탄과 파키스탄 사이의 국경으로, 1893년 듀랜드 공이 지정했습니다. 이 선은 정치적으로 파슈툰족, 발루치족과 다른 집단을 구분합니다.;The Durand Line is the border, between Afghanistan and Pakistan. It was established in 1893 by agreement between Sir Mortimer Durand. The Durand Line cuts through the Pashtun tribal areas and further south through the Balochistan region, politically dividing ethnic Pashtuns, as well as the Baloch and other ethnic groups.;;;;;;;;;;;;x
-abandon_claim_greater_argentina_title;말비나스 영유권 포기;Accept loss of Islas Malvinas;;;;;;;;;;;;x
-abandon_claim_greater_argentina_desc;영국과 아르헨티나 사이에 포클랜드 제도(에스파냐어: 말비나스)의 주권이 논란이 되고 있습니다. 영국의 주권은 빠르면 1690년부터, 늦어도 1833년부터 거의 지속적으로 포클랜드에 실질적인 주권을 행사해 왔습니다. 아르헨티나는 1833년 이전부터 이 섬들을 관리해 오면서 오랫동안 영국에게 이의를 제기해 왔습니다.;Sovereignty over the Falkland Islands (Islas Malvinas in Spanish) is disputed between Argentina and the United Kingdom. The British claim to sovereignty dates from 1690, and the United Kingdom has exercised de facto sovereignty over the archipelago almost continuously since 1833. Argentina has long disputed this claim, having been in control of the islands for a period prior to 1833.;;;;;;;;;;;;x
-abandon_claim_greater_bolivia_title;태평양 전쟁 평화조약 수용;Accept the Peace of the War of the Pacific;;;;;;;;;;;;x
-abandon_claim_greater_bolivia_desc;볼리비아의 헌법은 볼리비아가 태평양 등의 해양에 접근할 수 있는 영토에 대하여 불가침권을 가지고 있다고 명시하고 있습니다. 이는 볼리비아와 페루가 태평양전쟁 이후 칠레에 영토를 할양하여 볼리비아가 내륙국이 된 사연과 관련이 깊습니다.;The constitution of Bolivia states that the country has an unrenounceable right over the territory that gives it access to the Pacific Ocean and its maritime space. This is understood as territory that Bolivia and Peru ceded to Chile after the War of the Pacific, which left Bolivia as a landlocked country.;;;;;;;;;;;;x
-abandon_claim_greater_cambodia_title;메콩 삼각주 영유권 포기;Modern Cambodia;;;;;;;;;;;;x
-abandon_claim_greater_cambodia_desc;메콩 삼각주는 수백년간 캄보디아의 지배를 받아왔습니다. 캄보디아의 지배는 그들이 프랑스령 인도차이나에 편입되면서 끝났습니다. 메콩 삼각주의 관할이 베트남으로 넘어갔기 때문입니다.;The Mekong Delta has largely been controlled by the Cambodian state for hundreds of years. This control ended when Cambodia was incorporated into French Indochina, with the Mekong Delta being transfered over to Vietnamese rule.;;;;;;;;;;;;x
-abandon_claim_greater_china_title;대중국 철회;Modern China;;;;;;;;;;;;x
-abandon_claim_greater_china_desc;이웃 국가들과 좋은 친선 관계를 유지합시다. 대중국은 중화인민공화국(중국 본토와 홍콩 또는 마카오의 특별행정구역)과 중화민국(대만)을 하나로 지칭할 때 사용하는 용어입니다.;Foster good relations with our neighbours. Greater China or the Greater China Region is a term used to refer to the People's Republic of China (Mainland China and its special administrative regions of Hong Kong and Macau) and the Republic of China (Taiwan) as a unity.;;;;;;;;;;;;x
-abandon_claim_greater_taiwan_title;대중국 철회;Modern China;;;;;;;;;;;;x
-abandon_claim_greater_taiwan_desc;헌법 제4조를 삭제합니다.;중화민국 헌법 제4조는 "기존의 국경에 있는 중화민국의 영토는 국회의 결의 이외에는 변경할 수 없다"고 명시했습니다. 1950년대와 1960년대 내내 대만의 중화민국 정부는 중국 본토의 합법적인 통치자이기도 했습니다. 중화민국은 현재 '현상' 정책의 일환으로 중화인민공화국, 몽골, 러시아, 버마 및 일부 중앙아시아 국가들이 통치하고 있는 영토에 대한 영유권 주장을 철회하지 않고 있습니다.;Remove Article 4 of the Constitution. Article 4 of the Constitution of the Republic of China originally stated that "the territory of the Republic of China within its existing national boundaries shall not be altered except by a resolution of the National Assembly". Throughout the 1950s and 1960s, the Government of the Republic of China on Taiwan maintained itself to be the legitimate ruler of Mainland China as well. As part of its current policy continuing of the 'status quo', the ROC has not renounced claims over the territories currently controlled by the People's Republic of China, Mongolia, Russia, Burma and some Central Asian states.;;;;;;;;;;;;x
-abandon_claim_greater_comoros_title;대코모로 철회;Claim Greater Comoros;;;;;;;;;;;;x
-abandon_claim_greater_comoros_desc;코모로 연합은 모엘리, 마요트, 앙주앙, 그랑드코모로 자치섬으로 구성된 공화국입니다.;The Union of the Comoros is a republic, composed of the autonomous islands of Moheli, Mayotte, Anjouan, and Grande Comore.;;;;;;;;;;;;x
-abandon_claim_greater_india_title;아칸드 바라트 철회;Modern India;;;;;;;;;;;;x
-abandon_claim_greater_india_desc;인도의 분단을 수용합시다. 아칸드 바라트란 인도, 파키스탄, 방글라데시를 통합하여 1947년 이전의 마우리아, 굽타, 무굴, 마라타 제국 때처럼 하나의 인도를 요구하는 민족 통일주의 운동입니다.;Accept a divided India. Akhand Bharat, literally Undivided India, is an irredentist call to reunite Pakistan and Bangladesh with India to form an Undivided India as it existed before partition in 1947 (and before that, during other periods of political unity in South Asia, such as during the Mauryan Empire, the Gupta Empire, the Mughal Empire or the Maratha Empire ). ;;;;;;;;;;;;x
-abandon_claim_greater_indonesia_title;대인도네시아 철회;Modern Indonesia;;;;;;;;;;;;x
-abandon_claim_greater_indonesia_desc;대인도네시아를 철회합니다. 대인도네시아는 영국령 말라야와 보르네오를 네덜란드령 동인도제도와 통합함으로써 말레이족을 하나로 묶으려는 정치적 개념입니다.;Reject Greater Indonesia. Greater Indonesia, or in Indonesian and Malaysian, Indonesia Raya or Melayu Raya was a political concept that sought to bring the so-called Malay race together by uniting the British territories of Malaya and Borneo with the Dutch East Indies.;;;;;;;;;;;;x
-abandon_claim_greater_israel_title;평화의 땅;Land for Peace;;;;;;;;;;;;x
-abandon_claim_greater_israel_desc;수정주의를 철회합니다. 시온주의의 수정주의는 영토 최대주의를 통해 기존 사상과 구별됩니다. 시온주의 수정주의자들은 (이러한 주장을 펼친 유일한 집단은 아니지만) 팔레스타인을 둘러싸고 있는 에라츠 이스라엘의 전역에 유대인들의 통치권을 주장합니다.;Reject revisionism. Revisionism was distinguished primarily from other ideologies within Zionism by its territorial maximalism. While not the only group to do so, they insisted upon the Jewish right to sovereignty over the whole territory of Eretz Yisrael (originally encompassing all of Mandatory Palestine).;;;;;;;;;;;;x
-abandon_claim_greater_korea_title;압록-두만선 재공인;Accept Korean Historic borders;;;;;;;;;;;;x
-abandon_claim_greater_korea_desc;'더 큰 한국'은 한국인이 거주하는 모든 지역을 통합하자는 범민족주의이고 실지회복주의적인 개념입니다. 이 개념에는 주로 간도(좁게는 백두산 인근, 넓게는 남만주를 이름)가 포함되며, 한국에 더 가깝다는 이유로 가끔 대마도(일본어:쓰시마)를 포함하는 경우도 있습니다.;The term Greater Korea is a pan-nationalist and irredentist concept of lands that are considered to form the national homeland by most Koreans. Beside Korea, it includes Gando. Sometimes it includes Daemado an ethnically Japanese area, but geographically closer to Korea. The term is also used for referring economic ties between the relevant regions.;;;;;;;;;;;;x
-abandon_claim_greater_albania_title;대알바니아 철회;Modern Albania;;;;;;;;;;;;x
-abandon_claim_greater_albania_desc;대알바니아를 철회합니다. 대알바니아는 알바니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 알바니아인 또는 역사적 국경을 근거로 합니다. 이 용어는 알바니아 공화국 외에도 세르비아의 코소보 및 프레셰보, 남부 몬테네그로, 서북부 그리스(테스프로티아, 프레베자, 차메리아, 얀니나(그리스어:이오아니아) 빌레이트의 일부)와 서부 마케도니아를 포함합니다.;Reject irredentism. Greater Albania is an irredentist concept of lands that are considered to form the national homeland by many Albanians,[2] based on claims on the present-day or historical presence of Albanian populations in those areas. In addition to the existing Republic of Albania, the term incorporates claims to regions in the neighbouring states, the areas include Kosovo and the Pre?evo Valley of Serbia, territories in southern Montenegro, northwestern Greece (the Greek regional units of Thesprotia and Preveza, referred by Albanians as Chameria, and other territories that were part of the Vilayet of Yanina during the Ottoman Empire), and a part of western Republic of Macedonia.;;;;;;;;;;;;x
-abandon_claim_greater_france_title;자연 국경 철회;Modern France;;;;;;;;;;;;x
-abandon_claim_greater_france_desc;독일과의 갈등이 감소하고 있습니다. 자연 국경 주장을 철회합니다. 프랑스의 자연 국경은 프랑스 혁명 동안 발달한 정치지리적 이론입니다. 혁명가들에 따르면 이 자연 국경은 랭강(독일어:라인강), 대서양, 지중해, 피레네와 알프스 산맥에 해당한다고 합니다.;Conflict with Germany is decremental to France. Reject the natural borders of France. The natural borders of France (French: Frontieres naturelles de la France) are a political and geographic theory developed in France, notably during the French Revolution. They correspond to the Rhine, the Atlantic Ocean and Mediterranean Sea, the Pyrenees and the Alps, according to the revolutionaries.;;;;;;;;;;;;x
-abandon_claim_greater_serbia_title;대세르비아 철회;Modern Serbia ;;;;;;;;;;;;x
-abandon_claim_greater_serbia_desc;대세르비아를 철회합니다. 대세르비아는 세르비아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '세르비아인이 거주하는가', '세르비아의 지배를 받았는가'를 근거로 합니다.;Reject Greater Serbia. The term Greater Serbia or Great Serbia describes the Serbian nationalist and irredentist ideology of the creation of a Serb state which would incorporate all regions of traditional significance to Serbs, including regions outside Serbia that are populated by Serbs. This movement's main ideology is to unite all Serbs (or all territory historically ruled or populated by Serbs) into one state, claiming, depending on the version, different areas of many surrounding countries.;;;;;;;;;;;;x
-abandon_claim_greater_croatia_title;대크로아티아 철회;Modern Croatia;;;;;;;;;;;;x
-abandon_claim_greater_croatia_desc;대크로아티아를 철회합니다. 대크로아티아는 크로아티아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '크로아티아인이 거주하는가', '크로아티아의 지배를 받았는가'를 근거로 합니다.;Reject Greater Croatia. The term Greater Croatia describes the Croatian nationalist and irredentist ideology of the creation of a Croat state which would incorporate all regions of traditional significance to Croats, including regions outside Croatia that are populated by Croats. This movement's main ideology is to unite all Croats (or all territory historically ruled or populated by Croats) into one state, claiming, depending on the version, different areas of many surrounding countries.;;;;;;;;;;;;x
-abandon_claim_greater_bosnia_title;산자크 영유권 포기;Accept loss of Sandzak;;;;;;;;;;;;x
-abandon_claim_greater_bosnia_desc;대보스니아를 철회합니다. 대보스니아는 보스니아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '보스니아인이 거주하는가', '보스니아의 지배를 받았는가'를 근거로 합니다.;Reject Greater Bosnia idea. The term Greater Bosnia describes the Bosnian nationalist and irredentist ideology of the creation of a Bosnian state which would incorporate all regions of traditional significance to Bosniaks, including regions outside Croatia that are populated by Bosniaks. This movement's main ideology is to unite all Bosniaks into one state, claiming, depending on the version, different areas of many surrounding countries.;;;;;;;;;;;;x
-abandon_claim_greater_bulgaria_title;대불가리아 철회;Modern Bulgaria;;;;;;;;;;;;x
-abandon_claim_greater_bulgaria_desc;대불가리아를 철회합니다. 대불가리아는 1878년 산 스테파노 조약에 국경으로 명시되었던 마케도니아, 트라키아, 모에시아를 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다.;Abandon the concept of a Greater Bulgaria. Greater Bulgaria is a term to identify the territory associated with a historical national state and a modern Bulgarian irredentist nationalist movement which would include most of Macedonia, Thrace and Moesia, as outlined in the 1878 Treaty of San Stefano.;;;;;;;;;;;;x
-abandon_claim_greater_denmark_title;대덴마크 철회;Modern Denmark;;;;;;;;;;;;x
-abandon_claim_greater_denmark_desc;우리나라는 우리 손을 떠난지 수백년이 넘는 곳들에 영유권을 주장하고 있었습니다. 냉혹하지만 그곳에는 덴마크인들이 거의 없습니다. 우리 생각을 어리석었습니다.;Although we have once been in possession of all the land we have claimed, this was hundreds of years ago. The reality is that there are almost no Danes left in those lands, and sometimes there were never very many. The idea that we could possess them once more was foolish.;;;;;;;;;;;;x
-abandon_claim_greater_greece_title;위대한 이상 포기;A Small Idea;;;;;;;;;;;;x
-abandon_claim_greater_greece_desc;위대한 이상을 포기합니다. 위대한 이상(Megali Idea, 메갈리 이데아)는 범그리스주의적, 민족통일주의적인 개념입니다. 1830년, 그리스가 오스만 제국에게서 독립했으나 여전히 많은 그리스인들이 오스만의 지배 아래 있었습니다. 이는 오스만의 지배를 받는 그리스인들까지 한데 뭉쳐 그리스인의 국가를 수립하자는 운동으로 확대되었습니다.;Abandon the Great Idea. The Megali Idea ("Great Idea") was an irredentist concept of Greek nationalism that expressed the goal of establishing a Greek state that would encompass all ethnic Greek-inhabited areas, including the large Greek populations that, after the restoration of Greek independence in 1830 from the Ottoman Empire, still lived under Ottoman occupation.;;;;;;;;;;;;x
-abandon_claim_greater_hungary_title;현재의 국경 수용;Modern Hungarian;;;;;;;;;;;;x
-abandon_claim_greater_hungary_desc;제1차 세계대전에서 정해진 국경선을 수용합니다. 헝가리 실지회복주의는 민족통일주의와 범민족주의적 정치 사상을 포괄하는 광범위한 용어로, 헝가리 수정주의와도 연관이 있습니다. 헝가리 실지회복주의자들의 주요 목표는 헝가리의 국경을 제1차 세계대전 이전으로 되돌리는 것입니다.;Reject irredentism. Hungarian irredentism is a broad umbrella term consisting of irredentist and pan-nationalist political ideas. The idea is associated with Hungarian revisionism. Its main goal is to restore part of the pre-ww1 borders of the Kingdom of Hungary.;;;;;;;;;;;;x
-abandon_claim_greater_ireland_title;분단 수용;Modern Ireland;;;;;;;;;;;;x
-abandon_claim_greater_ireland_desc;아일랜드의 분단을 수용합니다. 그러나 북아일랜드는 반드시 미래를 결정해야 합니다.;Accept a divided Ireland. Northern Ireland must determine it's own future;;;;;;;;;;;;x
-abandon_claim_greater_macedonia_title;통일 마케도니아 철회;Modern Macedonia;;;;;;;;;;;;x
-abandon_claim_greater_macedonia_desc;통일 마케도니아는 마케도니아 민족주의자들의 민족통일주의적 개념으로, 1913년의 부쿠레슈티 조약에서 잘못 분할된 마케도니아를 단일 국가로 통합하는 것을 목표로 합니다. 이러한 통일 마케도니아의 수도는 그리스령 마케도니아의 테살로니키 또는 살로니카가 유력한데, 때문에 그리스령 마케도니아의 슬라브계 주민들과 유고슬라비아의 지도자 티토는 이들과의 통합을 바랍니다.;;Modern Macedonia only composes of core territories. Abandon the irredentist concept among ethnic Macedonian nationalists that aims to unify the transnational region of Macedonia in southeastern Europe (which they claim as their homeland and which they assert was wrongfully divided under the Treaty of Bucharest in 1913), into a single state. The proposed capital of such a United Macedonia is the city of Thessaloniki or Salonika (Solun in the Slavic languages) in Greek Macedonia, which Slavic Macedonians and the Yugoslav leader Tito had always dreamed of incorporating - along with the hinterland of Greek Macedonia which they came to call Aegean Macedonia - into their own states.;;;;;;;;;;;;x
-abandon_claim_greater_romania_title;대루마니아 철회;Modern Romania;;;;;;;;;;;;x
-abandon_claim_greater_romania_desc;모든 루마니어 화자들을 통합한 국민 국가를 다시 만들겠다는 목표를 포기합니다. 이는 범루마니아주의들의 목표의 실현으로 여겨졌던 1918~1940년의 루마니아 왕국과 강하게 연관되어 있습니다. 1918년, 트란실바니아, 부코비나, 베사라비아가 통합되면서 루마니아는 역사상 가장 큰 영토에 도달했습니다.;Abandon the goal to re-create a nation-state which would incorporate all Romanian speakers. The phrase is strongly associated with the Kingdom of Romania between 1918 and 1940, often considered the realization of the pan-Romanian goal. In 1918, after the incorporation of Transylvania, Bukovina and Bessarabia, the Romanian state reached its largest peacetime geographical extent ever ;;;;;;;;;;;;x
-abandon_claim_greater_russia_title;신러시아;New Russia;;;;;;;;;;;;x
-abandon_claim_greater_russia_desc;대러시아를 철회합니다. 대러시아는 소련에서 분리된 공화국 및 러시아 제국의 영토의 일부 또는 전부를 재탈환하여 통일 러시아에 통합하려는 범러시아주의자들과 민족통합주의자들의 정치적 열망입니다.;Reject the idea of a Greater Russia. Greater Russia is a political aspiration of Russian nationalists and irredentists to retake some or all of the territories of the other republics of the former Soviet Union and territory of the former Russian Empire and amalgamate them into a single Russian state.;;;;;;;;;;;;x
-abandon_claim_greater_sgf_title;오스트리아-바이에른 잔류;Remain Austria-Bavaria;;;;;;;;;;;;x
-abandon_claim_greater_sgf_desc;우리가 $COUNTRY$의 일부라고 주장한 지역은 종교와 문화 면에서 의심할 여지 없이 독일의 일부입니다.;The regions we have claimed as part of $COUNTRY$ may have proximity to our borders, but, in religion and culture, they are undoubtedly part of Germany, and likely would like to stay that way.;;;;;;;;;;;;x
-abandon_claim_greater_armenia_title;통일 아르메니아 철회;Modern Armenia;;;;;;;;;;;;x
-abandon_claim_greater_armenia_desc;통일 아르메니아 또는 대아르메니아는 아르메니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 아르메니아인 또는 역사적 국경을 근거로 삼습니다.;United Armenia, also known as Greater Armenia or Great Armenia, is an irredentist concept of the territory outside the Republic of Armenia which is considered by Armenians as part of their national homeland, based on the present-day and/or historical Armenian presence. ;;;;;;;;;;;;x
-abandon_claim_greater_azerbaijan_title;대아제르바이잔 철회;Modern Azerbaijan;;;;;;;;;;;;x
-abandon_claim_greater_azerbaijan_desc;아제르바이잔의 국경이 데르벤트에서 페르시아만까지 확장되어서는 안됩니다. 아제르바이잔에게는 이 지역들을 통치할 권리가 없습니다.;The borders of Azerbaijan should not extend from Derbent to the Persian Gulf.Azerbaijanis, with historical presence in the territory has right to rule over it with a proposed system of governance called United Azerbaijani Lands ;;;;;;;;;;;;x
-abandon_claim_greater_yemen_title;대예멘 철회;Modern Yemen;;;;;;;;;;;;x
-abandon_claim_greater_yemen_desc;대예멘을 철회합니다. 대예멘은 현 예멘 공화국의 영토 뿐만 아니라 사우디아라비아의 '아시르, 나지란, 지잔, 홍해의 인접한 섬들, 티하마, 도파르'까지 포함하는 지리적 개념입니다.;Abandon the idea of a Greater  Yemen. Greater Yemen (Al-Yaman al-Kubra) is a geographic term denoting the present territory of the Republic of Yemen as well as the Saudi regions of 'Asir, Najran, Jizan, adjacent islands in the Red Sea, adjacent parts of Tihamah and the Omani governorate of Dhofar.;;;;;;;;;;;;x
-abandon_claim_greater_somalia_title;대소말리아 철회;Core Somalia;;;;;;;;;;;;x
-abandon_claim_greater_somalia_desc;대소말리아를 철회합니다. 대소말리아는 아프리카의 뿔 지역에 있는 소말리아인이 거주하는 소말리아, 지부티, 에티오피아의 오가덴과 케냐의 북동부 지방을 아우릅니다. 범소말리아주의자들은 이러한 영토를 단일 국가로 통합하려 합니다.;Abandon the idea of a Greater Somalia. Greater Somalia refers to those regions in the Horn of Africa in which ethnic Somalis are and have historically represented the predominant population. Greater Somalia encompasses Somalia, Djibouti, the Ogaden of Ethiopia and the North Eastern Province of Kenya. Pan-Somalism refers to the vision of unifying these territories as a single Somali nation. ;;;;;;;;;;;;x
-abandon_claim_greater_south_title;최남동부 지역;Deep South;;;;;;;;;;;;x
-abandon_claim_greater_south_desc;미국 남부 노예주의자들은 그들을 이류 시민으로 만드는 나라에 남기를 거부한채 아메리카 연합국, 속칭 남부맹방을 세웠었습니다. 옛 남부가 부활해서는 안됩니다.;The Confederate States of America was created by secessionists in Southern slave states who refused to remain in a country that was turning them into secondclass citizens. They judged the agent of change to be abolitionists and anti-slavery elements in the Republican Party, whom they believed used repeated insult and injury to subject them to intolerable "humiliation and degradation". The Old South shall not be resurrected.;;;;;;;;;;;;x
-abandon_claim_greater_texas_title;텍사스 주 경계 인정;State borders of Texas;;;;;;;;;;;;x
-abandon_claim_greater_texas_desc;텍사스는 미국에 가입하면서 뉴에세스 강 남쪽의 일부만 소유하기로 합의하고 뉴멕시코는 제외했습니다. 미국-멕시코 전쟁 후, 텍사스는 뉴멕시코의 동쪽인 리오그란데까지의 땅을 빼앗겼고, 미국은 주가 하나 더 늘었습니다. 다른 땅에 영유권을 주장할 법적 근거가 없습니다.;When Texas joined the Union, it agreed to only claim some of the land south of the Nueces River, and leave out New Mexico. After the Mexican-American War, Texas was given all lands down to the Rio Grande east of New Mexico, though the Yankees could have made a new state. There is no legal basis to claim any other lands.;;;;;;;;;;;;x
-abandon_claim_greater_mongolia_title;외몽골주의;Outher Mongolism;;;;;;;;;;;;x
-abandon_claim_greater_mongolia_desc;범몽골주의를 철회합니다. 범몽골주의는 몽골인끼리의 문화적, 정치적 연대를 표방하는 민족통일주의적 발상입니다. "대몽골"로 일컬어지는 영토는 보통 외몽골, 내몽골, 중가리아, 그리고 러시아령 부랴티야를 포함합니다.;Reject Greater Mongolia. Pan-Mongolism is an irredentist idea that advocates cultural and political solidarity of Mongols.The proposed territory, called "Greater Mongolia" usually includes the independent state of Mongolia,the Chinese regions of Inner Mongolia and Dzungaria, and the Russian subjects of Buryatia.;;;;;;;;;;;;x
-abandon_claim_greater_bangladesh_title;소방글라데시;Smaller Bangladesh;;;;;;;;;;;;x
-abandon_claim_greater_bangladesh_desc;벵골어 사용 지역에 서벵골 일부와 아삼과 트리푸라의 일부를 포함했던 것을 철회합니다. 힌두교 세나 왕조 벵골의 통치 동안, 대방글라데시의 개념은 오리사, 비하르 그리고 인도 북동부까지 확장되었습니다.;Reject the proposal for a ethno-linguistic region of Bengal encompasses the territory of Bangladesh and the Indian state of West Bengal, as well as parts of Assam and Tripura. During the rule of the Hindu Sena dynasty in Bengal the notion of a Greater Bangladesh first emerged with the idea of uniting Bengali-speaking people in the areas now known as Orissa, Bihar and Indian North East (Assam, Tripura, and Meghalaya) along with the Bengal.;;;;;;;;;;;;x
-abandon_claim_greater_germany_title;오데르-나이세선 수용;German Reunification;Accept The OderNeisse line;;;;;;;;;;;x
-abandon_claim_greater_germany_desc;오데르-나이세선을 수용합니다. "적법한" 독일 국경의 정의는 "포츠담 협정"의 결정에 근거하여 오데르-나이세선 동쪽의 독일 영토를 "폴란드 정부의 통치하에" 넘기고 "폴란드 서부 국경에 평화가 정착되기를 기다려야 한다"는 것입니다. 따라서 오데르-나이세선을 영구적으로 인정했던 것은 재통일된 독일에 평화를 정착시키기 위한 마지막 조치였을 뿐입니다.;;Accept the jure borders. The German definition of the "de jure" borders of Germany was based on the determinations of the Potsdam Agreement, which placed the German territories (as of 31 December 1937) east of the OderNeisse line "under the administration of the Polish State" while "the final delimitation of the western frontier of Poland should await the peace settlement". The recognition of the Oder-Neisse Line as permanent was thus only reserved to a final peace settlement with reunited Germany.;;;;;;;;;;;;x
-claim_greater_finland;대핀란드 선포;Greater Finland;;;;;;;;;;;;x
-claim_greater_finland_title;대핀란드 선포;Greater Finland;;;;;;;;;;;;x
-claim_greater_finland_desc;대핀란드는 범핀란드주의적 맥락에서 핀란드의 영토 확장을 강조하는 실지회복주의적이자 범민족주의적인 발상입니다. 설명에 따르면 대핀란드의 범위는 백해에서 오네가호 그리고 스비리강과 네바강을 따라 핀란드인과 카렐리야인들의 거주지를 포함하는 자연경계에 의해 제한됩니다.;Greater Finland is an irredentist and nationalist idea which emphasized territorial expansion of Finland in the context of pan-Fennicism. The most coined version of Greater Finland was thought to be limited by natural borders encompassing the territories inhabited by Finns and Karelians, ranging from the White Sea to Lake Onega and along the Svir River and Neva River;;;;;;;;;;;;x
-abandon_claim_greater_finland_title;대핀란드 철회;Abandon Greater Finland;;;;;;;;;;;;x
-abandon_claim_greater_finland_desc;계속전쟁 이후 대핀란드는 사실상 철회되었습니다. 왜냐하면 이제 대핀란드를 주장할만한 정치적 또는 군사적 조건을 만족하지 못하기 때문입니다. 전쟁에서 승리한 소련은 핀란드에게 가혹한 평화 조약을 요구했으며, 핀란드 영토를 빼앗아갔습니다.;After the Continuation War, the Greater Finland idea was practically shut down, because its concept was no longer possible by political or military condition. The Soviet Union had won the war and Finland was prepared for harsh peace treaties, which, among other things, made the Finnish territory further decrease. In addition to nazism and fascism, Lebensraum-expansive thoughts were no longer considered to be a good thing.;;;;;;;;;;;;x
-claim_greater_karelia;대카렐리야 선포;Greater Karelia;;;;;;;;;;;;x
-claim_greater_karelia_title;대카렐리야 선포;Greater Karelia;;;;;;;;;;;;x
-claim_greater_karelia_desc;대카렐리야는 카렐리야인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '카렐리야인이 거주하는가', '카렐리야의 지배를 받았는가'를 근거로 합니다.;Greater Karelia is an irredentist concept of lands that are considered to form the national homeland by many Karelians, based on claims on the present-day or historical presence of Karelian populations in those areas.;;;;;;;;;;;;x
-abandon_claim_greater_karelia_title;대카렐리야 철회;Abandon Greater Karelia;;;;;;;;;;;;x
-abandon_claim_greater_karelia_desc;대카렐리야는 카렐리야인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '카렐리야인이 거주하는가', '카렐리야의 지배를 받았는가'를 근거로 합니다.;Greater Karelia is an irredentist concept of lands that are considered to form the national homeland by many Karelians, based on claims on the present-day or historical presence of Karelian populations in those areas.;;;;;;;;;;;;x
-claim_greater_fer_title;캄차카 영유권 주장;Control over Kamchatka;;;;;;;;;;;;x
-claim_greater_fer_desc;러시아 내전 당시 극동 공화국의 국경은 불분명해 변화하기 쉬웠습니다. 그리고 극동 공화국이 볼셰비키에 흡수된 마지막 주이며 용감하게 싸웠다는 사실도 분명합니다. 우리 국민에 대한 의무는 전략, 경제, 안보상의 이유로 제1공화국이 한때 지배했던 베링해 연안을 점령하는 것입니다. 그래야만 "블라디보스토크"가 동방의 통치차하는 이름값을 할 수 있습니다.;During the Russian Civil War, the borders of the Far Eastern Republic were unclear and prone to change. It is clear that the socialist democracy fought valiantly, being the last state to be absorbed into the Bolshevik union, its constitution all but forgotten. We have revived it, and established ourselves as the sucessor to the Far Eastern Republic and a free nation. Our duty to our people is to seize the Bering Sea coast, which the First Republic once controlled, for strategic, economic, and security reasons. Only then can we become, as our great city claims, the "Vladivostok" - the Ruler of the East!;;;;;;;;;;;;x
-abandon_claim_greater_fer_title;캄차카 영유권 포기;Abandon Kamchatkan claims;;;;;;;;;;;;x
-abandon_claim_greater_fer_desc;우리나라는 신생국으로, 독립이 확실하며 국민들의 충성심 또한 보장되었지만, 그럼에도 불구하고 안쪽을 향하는게 나을 수도 있습니다. 이전의 극동 제1공화국처럼 파벌주의에 빠져서는 안 됩니다. 국민 통합이 완료되어야만 우리의 위대함을 세계에 보여줄 수 있습니다.;We are a young nation, and, though our independence was undoubtedly earned and the loyalty of our people assured, it might nevertheless be better to look inward. Like the First Far Eastern Republic before us, we must not fall to political factionalism. We will foster national unity, and then, surely, we will be able to show the world our greatness.;;;;;;;;;;;;x
-claim_greater_iran;대이란 선포;Greater Iran;;;;;;;;;;;;x
-claim_greater_iran_title;대이란 선포;Greater Iran;;;;;;;;;;;;x
-claim_greater_iran_desc;대이란은 페르시아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '페르시아인이 거주하는가', '페르시아의 지배를 받았는가'를 근거로 합니다.;Greater Iran or the Iranian Cultural Continent, refers to the regions of West, Central and South Asia that have significant Iranian cultural influence due to having been either long historically ruled by the various Iranian and Persian empires, having considerable aspects of Persian culture in their own culture due to extensive contact with the various Empires based in Persia;;;;;;;;;;;;x
-abandon_claim_greater_iran_title;대이란 철회;Abandon Greater Iran;;;;;;;;;;;;x
-abandon_claim_greater_iran_desc;대이란을 철회합니다. 대이란은 페르시아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '페르시아인이 거주하는가', '페르시아의 지배를 받았는가'를 근거로 합니다.;Abandon the claim for a greater Iran. Greater Iran or the Iranian Cultural Continent, refers to the regions of West, Central and South Asia that have significant Iranian cultural influence due to having been either long historically ruled by the various Iranian and Persian empires, having considerable aspects of Persian culture in their own culture due to extensive contact with the various Empires based in Persia;;;;;;;;;;;;x
-claim_greater_samoa;대사모아 선포;Greater Samoa;;;;;;;;;;;;x
-claim_greater_samoa_title;대사모아 선포;Greater Samoa;;;;;;;;;;;;x
-claim_greater_samoa_desc;정부는 헌법을 개정하여 서사모아에서 사모아로 국가명을 변경하여야 합니다. 미국령 사모아도 사모아의 일부입니다. 미국령 사모아인들은 여전히 사모아와 그 주민들을 일컬어 서사모아 및 서사모아인라는 용어를 사용합니다.;The government shall amended the constitution to change the country's name from Western Samoa to Samoa. The US territory of American Samoa is part of Samoa. American Samoans still use the terms Western Samoa and Western Samoans to describe the independent State of Samoa and its inhabitants.;;;;;;;;;;;;x
-abandon_claim_greater_samoa_title;대사모아 철회;Abandon Greater Samoa;;;;;;;;;;;;x
-abandon_claim_greater_samoa_desc;사모아의 동서 분단을 수용합니다.;Accept the division of Samoa in to a West Samoa and East Samoa;;;;;;;;;;;;x
-claim_greater_morocco;대모로코 선포;Greater Morocco;;;;;;;;;;;;x
-claim_greater_morocco_title;대모로코 선포;Greater Morocco;;;;;;;;;;;;x
-claim_greater_morocco_desc;대모로코는 에스파냐, 포르투갈, 알제리, 프랑스의 지배에 항의하는 모로코 반식민주의 지도자들이 역사적으로 모로코 술탄국과 연관이 있던 넓은 영토를 가리키기 위해 사용한 용어입니다.;Greater Morocco is a label historically used by some Moroccan anti-colonial political leaders[citation needed] protesting against Spanish, Portuguese, Algerian and French rule, to refer to wider territories historically associated with the Moroccan Sultan.;;;;;;;;;;;;x
-abandon_claim_greater_morocco_title;대모로코 철회;Abandon Greater Morocco;;;;;;;;;;;;x
-abandon_claim_greater_morocco_desc;대모로코를 철회합니다. 대모로코는 에스파냐, 포르투갈, 알제리, 프랑스의 지배에 항의하는 모로코 반식민주의 지도자들이 역사적으로 모로코 술탄국과 연관이 있던 넓은 영토를 가리키기 위해 사용한 용어입니다.;Abandon the idea of Greater Morocco;;;;;;;;;;;;x
-claim_greater_northern_mariana;대북마리아나 선포;Greater Northern Mariana Islands;;;;;;;;;;;;x
-claim_greater_northern_mariana_title;대북마리아나 선포;Greater Northern Mariana Islands;;;;;;;;;;;;x
-claim_greater_northern_mariana_desc;북마리아나 인민들은 괌과 함께해야 합니다.;The people of the Northern Mariana Islands shall strive for unification with Guam.;;;;;;;;;;;;x
-abandon_claim_greater_northern_mariana_title;대북마리아나 철회;Abandon Greater Northern Mariana Islands Idea;;;;;;;;;;;;x
-abandon_claim_greater_northern_mariana_desc;대북마리아나를 철회합니다. 괌과의 분단을 수용합니다.;Abandon the Greater Northern Mariana Islands idea. Accept that Guam is lost.;;;;;;;;;;;;x
-claim_greater_ethiopia;대에티오피아 선포;Ethiopian Access to the Sea;;;;;;;;;;;;x
-claim_greater_ethiopia_title;에티오피아에 항구를!;Ethiopian Access to the Sea;;;;;;;;;;;;x
-claim_greater_ethiopia_desc;1950년대 에티오피아 정부는 에리트레아와 이탈리아령 소말리아의 합병을 추진했습니다. 에티오피아 황제는 파리 평화회의와 유엔 제1차 회의에서 프랭클린 D. 루스벨트에게 보낸 서한에서 두 영토 모두에 대해 영유권을 주장했습니다. 유엔에서는 옛 이탈리아 식민지에 대한 논쟁이 계속되었습니다. 영국과 미국은 제2차 세계대전 당시 에티오피아의 지원에 대한 보상으로 서부 지방을 제외한 모든 에리트레아를 에티오피아에게 양도하기를 원했습니다. 에리트레아 정당들은 국민투표를 유엔 총회에 지속적으로 요청했습니다.;In the 1950s, the Ethiopian administration under Emperor Haile Selassie sought to annex Eritrea and Italian Somaliland. He laid claim to both territories in a letter to Franklin D. Roosevelt at the Paris Peace Conference and at the First Session of the United Nations. In the United Nations, the debate over the fate of the former Italian colonies continued. The British and Americans preferred to cede all of Eritrea except the Western province to the Ethiopians as a reward for their support during World War II. The Independence Bloc of Eritrean parties consistently requested from the UN General Assembly that a referendum be held immediately to settle the Eritrean question of sovereignty.;;;;;;;;;;;;x
-claim_greater_latinamerica_title;라틴아메리카 통합;Latin American integration;;;;;;;;;;;X
-claim_greater_latinamerica_desc;라틴아메리카의 모든이들은 자유를 지키기 위해 단결해야 합니다. 이것은 라틴아메리카의 통합을 위한 10년 간의 노력의 결실입니다. 중남미 및 카리브해 국가 공동체는 중남미 통합을 진전시키는 동시에 라틴아메리카에서의 미국의 영향을 줄이기 위해 만들어졌습니다. 그것을 완성합시다!;All of Latin america should unite to protect our liberty. This has been decade-long push for deeper integration within Latin America. CELAC was created to deepen Latin American integration and by some to reduce the significant influence of the United States on the politics and economics of Latin America. Let's bring it to completion!;;;;;;;;;;;X
-claim_greater_europe_title;범유럽적 정체성;Pan-European identity;;;;;;;;;;;X
-claim_greater_europe_desc;범유럽적 정체성은 유럽 국적뿐 아니라 유럽과의 개인 식별 의식입니다. 유럽의 정체성에 대한 감각은 전통적으로 유럽의 역사적 서술에 대한 생각에서 유래합니다. 다시, 그것은 가장 근본적인 유럽의 가치의 원천으로 여겨집니다. 모든 유럽인이 단결해야 합니다!;Pan-European identity is the sense of personal identification with Europe as well as their country nationality. A sense of European identity traditionally derives from the idea of a common European historical narrative. In turn, that is assumed to be the source of the most fundamental European values. All of Europe should unite!;;;;;;;;;;;X
-claim_greater_turkculuk_title;범튀르크주의 선포;Turkculuk;;;;;;;;;;;X
-claim_greater_turkculuk_desc;범위르크주의는 1880년대 아제르바이잔(당시 러시아 제국의 일부)과 오스만 제국(현대 터키의 일부)의 튀르크 지식인들 사이에서 시작된 운동으로, 모든 튀르크인의 문화적 정치적 통일을 목표로 합니다. 튀르크인이 있다면 $COUNTRY$에도 속해야 합니다.;Pan-Turkism is a movement which emerged during the 1880s among Turkic intellectuals of Azerbaijan (part of the Russian Empire at the time) and the Ottoman Empire (modern day Turkey), with its aim the cultural and political unification of all Turkic peoples. Where there are Turkic people, should be part of the $COUNTRY$;;;;;;;;;;;X
-claim_greater_arabia_title;범아랍주의 선포;Pan-Arabia;;;;;;;;;;;X
-claim_greater_arabia_desc;범아랍주의 또는 아랍주의는 대서양에서 아라비아해에 이르는 북아프리카~서아시아의 국가들의 통합을 지지하는 이념입니다다. 이는 아랍인들이 하나의 국가를 구성해야 한다고 주장하는 아랍민족주의와 밀접한 관련이 있습니다. 아랍인이 있다면 $COUNTRY$에도 속해야 합니다.;Pan-Arabism or Arabism is an ideology espousing the unification of the countries of North Africa and West Asia from the Atlantic Ocean to the Arabian Sea, referred to as the Arab world. It is closely connected to Arab nationalism, which asserts that the Arabs constitute a single nation. Any area where there are arbas, should be part of the $COUNTRY$;;;;;;;;;;;X
+CODE;ENGLISH;;;;;;;;;;;x
+greek_epirus_title;$COUNTRY_ADJ$ 이피로스 개칭;;;;;;;;;;;x
+greek_epirus_desc;북부 이피로스가 우리의 통치를 받고 있으므로, 그곳의 도시와 마을들을 $COUNTRYCULTURE$식 이름으로 바꾸어야 합니다.;;;;;;;;;;;x
+albanian_epirus_title;$COUNTRY_ADJ$ 이피로스 개칭;;;;;;;;;;;x
+albanian_epirus_desc;북부 이피로스가 우리의 통치를 받고 있으므로, 그곳의 도시와 마을들을 $COUNTRYCULTURE$식 이름으로 바꾸어야 합니다.;;;;;;;;;;;x
+claim_greater_italy_title;이탈리아 실지회복주의;;;;;;;;;;;x
+claim_greater_italy_desc;이탈리아 실지회복주의란 이탈리아인과 이탈리아어를 사용하는 사람들이 인구의 과반수 또는 상당수를 차지하는 지역을 이탈리아에 통합하고자하는 민족주의 운동입니다. 이탈리아를 위대하게!;;;;;;;;;;;x
+abandon_claim_greater_italy_title;대이탈리아 주장 포기;;;;;;;;;;;x
+abandon_claim_greater_italy_desc;대이탈리아를 만들려했었던 그간의 노력을 포기합니다. 이탈리아 실지회복주의란 이탈리아인과 이탈리아어를 사용하는 사람들이 인구의 과반수 또는 상당수를 차지하는 지역을 이탈리아에 통합하고자하는 민족주의 운동입니다.;;;;;;;;;;;x
+claim_greater_mexico_title;재정복;;;;;;;;;;;x
+claim_greater_mexico_desc;멕시코-미국 전쟁의 결과로 일어난 텍사스의 합병(1845년)과 북부 영토의 할양(1848년) 이전에 멕시코와 접점이 있었던 미국 남서부를 되찾을 것입니다.;;;;;;;;;;;x
+abandon_claim_greater_mexico_title;재정복 포기;;;;;;;;;;;x
+abandon_claim_greater_mexico_desc;멕시코-미국 전쟁의 결과로 일어난 텍사스의 합병(1845년)과 북부 영토의 할양(1848년) 이전에 멕시코와 접점이 있었던 미국 남서부를 되찾으려던 일련의 노력을 포기합니다.;;;;;;;;;;;x
+claim_greater_afghanistan;대아프가니스탄 선포;;;;;;;;;;;x
+claim_greater_afghanistan_title;듀랜드선 거부;;;;;;;;;;;x
+claim_greater_afghanistan_desc;듀랜드선은 아프가니스탄과 파키스탄 사이의 국경으로, 1893년 듀랜드 공이 지정했습니다. 이 선은 정치적으로 파슈툰족, 발루치족과 다른 집단을 구분합니다.;;;;;;;;;;;x
+claim_greater_argentina;말비나스 분쟁;;;;;;;;;;;x
+claim_greater_argentina_title;말비나스 영유권 주장;;;;;;;;;;;x
+claim_greater_argentina_desc;영국과 아르헨티나 사이에 포클랜드 제도(에스파냐어: 말비나스)의 주권이 논란이 되고 있습니다. 영국의 주권은 빠르면 1690년부터, 늦어도 1833년부터 거의 지속적으로 포클랜드에 실질적인 주권을 행사해 왔습니다. 아르헨티나는 1833년 이전부터 이 섬들을 관리해 오면서 오랫동안 영국에게 이의를 제기해 왔습니다.;;;;;;;;;;;x
+claim_greater_bolivia;대볼리비아 선포;;;;;;;;;;;x
+claim_greater_bolivia_title;태평양 전쟁 평화조약 파기;;;;;;;;;;;x
+claim_greater_bolivia_desc;볼리비아의 헌법은 볼리비아가 태평양 등의 해양에 접근할 수 있는 영토에 대하여 불가침권을 가지고 있다고 명시하고 있습니다. 이는 볼리비아와 페루가 태평양전쟁 이후 칠레에 영토를 할양하여 볼리비아가 내륙국이 된 사연과 관련이 깊습니다.;;;;;;;;;;;x
+claim_greater_cambodia;메콩 삼각주 영유권 재주장;;;;;;;;;;;x
+claim_greater_cambodia_title;메콩 삼각주 영유권 재주장;;;;;;;;;;;x
+claim_greater_cambodia_desc;메콩 삼각주는 수백년간 캄보디아의 지배를 받아왔습니다. 캄보디아의 지배는 그들이 프랑스령 인도차이나에 편입되면서 끝났습니다. 메콩 삼각주의 관할이 베트남으로 넘어갔기 때문입니다.;;;;;;;;;;;x
+claim_greater_china;새로운 중화질서 선포;;;;;;;;;;;x
+claim_greater_china_title;대중국 선포;;;;;;;;;;;x
+claim_greater_china_desc;대중국은 중화인민공화국(중국 본토와 홍콩 또는 마카오의 특별행정구역)과 중화민국(대만)을 하나로 지칭할 때 사용하는 용어입니다.;;;;;;;;;;;x
+claim_greater_taiwan;새로운 중화질서 선포;;;;;;;;;;;x
+claim_greater_taiwan_title;대중국 선포;;;;;;;;;;;x
+claim_greater_taiwan_desc;중화민국 헌법 제4조는 "기존의 국경에 있는 중화민국의 영토는 국회의 결의 이외에는 변경할 수 없다"고 명시했습니다. 1950년대와 1960년대 내내 대만의 중화민국 정부는 중국 본토의 합법적인 통치자이기도 했습니다. 중화민국은 현재 '현상' 정책의 일환으로 중화인민공화국, 몽골, 러시아, 버마 및 일부 중앙아시아 국가들이 통치하고 있는 영토에 대한 영유권 주장을 철회하지 않고 있습니다.;;;;;;;;;;;x
+claim_greater_comoros;대코모로 선포;;;;;;;;;;;x
+claim_greater_comoros_title;대코모로 선포;;;;;;;;;;;x
+claim_greater_comoros_desc;코모로 연합은 모엘리, 마요트, 앙주앙, 그랑드코모로 자치섬으로 구성된 공화국입니다.;;;;;;;;;;;x
+claim_greater_india;아칸드 바라트 선포;;;;;;;;;;;x
+claim_greater_india_title;아칸드 바라트;;;;;;;;;;;x
+claim_greater_india_desc;아칸드 바라트란 인도, 파키스탄, 방글라데시를 통합하여 1947년 이전의 마우리아, 굽타, 무굴, 마라타 제국 때처럼 하나의 인도를 요구하는 민족 통일주의 운동입니다.;;;;;;;;;;;x
+claim_tamil_ceylon;드라비다나두 선포;;;;;;;;;;;x
+claim_tamil_ceylon_title;드라비다나두;;;;;;;;;;;x
+claim_tamil_ceylon_desc;우리나라가 드라비다 사람들의 국가라고 주장하기 위해서는 실론의 타밀어 사용 지역에 대한 그들의 영유권 주장을 인정해야 합니다. 또한 동포 힌두교도들이 모국인 $COUNTRY$에서 종교를 자유롭게 믿을 수 있도록 해야 합니다.;;;;;;;;;;;x
+abandon_claim_tamil_ceylon_title;실론 영유권 포기;;;;;;;;;;;x
+abandon_claim_tamil_ceylon_desc;신할라 사람들은 수천 년 동안 실론에서 살아왔으며 그 모든 것은 그들 소유입니다. 타밀 동포들이 $COUNTRY$(으)로 돌아가도록 격려해야 합니다.;;;;;;;;;;;x
+claim_greater_chechnya;잉구시 통합;;;;;;;;;;;x
+claim_greater_chechnya_title;잉구시 통합;;;;;;;;;;;x
+claim_greater_chechnya_desc;잉구시인과 체첸인은 '바야흐'(체첸어와 잉구쉬어로 "우리 민족"을 의미)로 알려져 있습니다. 바야흐어는 두 주요 집단인 체첸어와 잉구시어 등의 사투리 연속체로 구성됩니다. 두 민족은 공통의 기원, 종교, 언어를 공유하며, 최근의 역사에서 하나의 자치공화국으로 통일됐습니다. 점점 더 다극성을 띄게 된 세계에서, 형제 민족이 외국의 영향력에 지배당하지 않도록 보호하는 것이 우리의 의무입니다. 이제 잉구시인들을 체첸인의 국가에 통합해야 할 때입니다!;;;;;;;;;;;x
+claim_greater_indonesia;대인도네시아 선포;;;;;;;;;;;x
+claim_greater_indonesia_title;인도네시아 라야;;;;;;;;;;;x
+claim_greater_indonesia_desc;대인도네시아는 영국령 말라야와 보르네오를 네덜란드령 동인도제도와 통합함으로써 말레이족을 하나로 묶으려는 정치적 개념입니다.;;;;;;;;;;;x
+claim_greater_ingushetia;대잉구셰티아 선포;;;;;;;;;;;x
+claim_greater_ingushetia_title;대잉구셰티아 선포;;;;;;;;;;;x
+claim_greater_ingushetia_desc;잉구셰티아는 블라디카브카즈와 다리알협곡을 포함하는 서쪽으로 뻗어 있습니다. 1800년대 후반, 잉구세티아의 땅은 손상을 받고 오세티아인에게 넘어갔습니다. 이제 조상들의 땅을 되찾고, 오세티아인을 영원히 추방할 때입니다!;;;;;;;;;;;x
+claim_greater_israel;수정주의적 시온주의 선포;;;;;;;;;;;x
+claim_greater_israel_title;수정주의적 시온주의 선포;;;;;;;;;;;x
+claim_greater_israel_desc;시온주의의 수정주의는 영토 최대주의를 통해 기존 사상과 구별됩니다. 시온주의 수정주의자들은 (이러한 주장을 펼친 유일한 집단은 아니지만) 팔레스타인을 둘러싸고 있는 에라츠 이스라엘의 전역에 유대인들의 통치권을 주장합니다.;;;;;;;;;;;x
+claim_greater_israel_1;젖과 꿀이 흐르는 땅;;;;;;;;;;;x
+claim_greater_israel_1_title;젖과 꿀이 흐르는 땅;;;;;;;;;;;x
+claim_greater_israel_1_desc;'약속된 땅'은 신이 아브라함의 후손인 유대인들에게 내려준 땅을 일컫습니다. 우리나라는 이미 약속된 땅의 상당 부분을 얻었지만, 아직도 절반 가량은 그렇지 못합니다. 그곳들을 반드시 되찾아야 합니다. 그들의 성서도 우리나라의 확실한 영유권을 증명하고 있습니다.;;;;;;;;;;;x
+claim_greater_korea;고토 회복 주장;;;;;;;;;;;x
+claim_greater_korea_title;고토 회복 주장 철회;;;;;;;;;;;x
+claim_greater_korea_desc;'더 큰 한국'은 한국인이 거주하는 모든 지역을 통합하자는 범민족주의이고 실지회복주의적인 개념입니다. 이 개념에는 주로 간도(좁게는 백두산 인근, 넓게는 남만주를 이름)가 포함되며, 한국에 더 가깝다는 이유로 가끔 대마도(일본어:쓰시마)를 포함하는 경우도 있습니다.;;;;;;;;;;;x
+claim_greater_albania;대알바니아 선포;;;;;;;;;;;x
+claim_greater_albania_title;대알바니아 선포;;;;;;;;;;;x
+claim_greater_albania_desc;대알바니아는 알바니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 알바니아인 또는 역사적 국경을 근거로 합니다. 이 용어는 알바니아 공화국 외에도 세르비아의 코소보 및 프레셰보, 남부 몬테네그로, 서북부 그리스(테스프로티아, 프레베자, 차메리아, 얀니나(그리스어:이오아니아) 빌레이트의 일부)와 서부 마케도니아를 포함합니다.;;;;;;;;;;;x
+claim_greater_france;프랑스의 자연 국경 주장;;;;;;;;;;;x
+claim_greater_france_title;프랑스의 자연 국경;;;;;;;;;;;x
+claim_greater_france_desc;프랑스의 자연 국경은 프랑스 혁명 동안 발달한 정치지리적 이론입니다. 혁명가들에 따르면 이 자연 국경은 랭강(독일어:라인강), 대서양, 지중해, 피레네와 알프스 산맥에 해당한다고 합니다.;;;;;;;;;;;x
+claim_greater_serbia;대세르비아 선포;;;;;;;;;;;x
+claim_greater_serbia_title;대세르비아 선포;;;;;;;;;;;x
+claim_greater_serbia_desc;대세르비아는 세르비아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '세르비아인이 거주하는가', '세르비아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+claim_greater_croatia;대크로아티아 선포;;;;;;;;;;;x
+claim_greater_croatia_title;대크로아티아 선포;;;;;;;;;;;x
+claim_greater_croatia_desc;대크로아티아는 크로아티아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '크로아티아인이 거주하는가', '크로아티아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+claim_greater_bosnia;대보스니아 선포;;;;;;;;;;;x
+claim_greater_bosnia_title;산자크 영유권 주장;;;;;;;;;;;x
+claim_greater_bosnia_desc;대보스니아는 보스니아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '보스니아인이 거주하는가', '보스니아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+claim_greater_bulgaria;대불가리아 선포;;;;;;;;;;;x
+claim_greater_bulgaria_title;대불가리아 선포;;;;;;;;;;;x
+claim_greater_bulgaria_desc;대불가리아는 1878년 산 스테파노 조약에 국경으로 명시되었던 마케도니아, 트라키아, 모에시아를 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다.;;;;;;;;;;;x
+claim_greater_denmark;대덴마크 선포;;;;;;;;;;;x
+claim_greater_denmark_title;대덴마크 선포;;;;;;;;;;;x
+claim_greater_denmark_desc;$COUNTRY$의 잠재력을 최대로 끌어올리기 위해서는 확장이 필요합니다. 그 확장의 명분으로는 주변 해안과 섬에 대한 역사적인 영유권이 있습니다.;;;;;;;;;;;x
+claim_greater_greece;위대한 이상 선포;;;;;;;;;;;x
+claim_greater_greece_title;위대한 이상;;;;;;;;;;;x
+claim_greater_greece_desc;위대한 이상(Megali Idea, 메갈리 이데아)는 범그리스주의적, 민족통일주의적인 개념입니다. 1830년, 그리스가 오스만 제국에게서 독립했으나 여전히 많은 그리스인들이 오스만의 지배 아래 있었습니다. 이후 이 이상은 오스만의 지배를 받는 그리스인들까지 모두 뭉쳐 그리스인의 민족국가를 수립하자는 운동으로 확대되었습니다.;;;;;;;;;;;x
+abandon_claim_northern_epirus_title;북부 이피로스 영유권 포기;;;;;;;;;;;x
+abandon_claim_northern_epirus_desc;북부 이피로스는 전통적으로 그리스인들이 살았었으나, 알바니아의 지배가 너무 오랫동안 지속되었습니다. 북부 이피로스가 알바니아의 일부라는 것을 받아들여야 합니다.;;;;;;;;;;;x
+claim_northern_epirus;북부 이피로스 영유권 주장;;;;;;;;;;;x
+claim_northern_epirus_title;북부 이피로스 영유권 주장;;;;;;;;;;;x
+claim_northern_epirus_desc;북부 이피로스는 전통적으로 그리스인들이 살았었으나, 알바니아의 지배가 너무 오랫동안 지속되었습니다. 지금이 잃어버린 영토를 되찾을 때입니다.;;;;;;;;;;;x
+claim_greater_hungary;헝가리 실지회복주의 선포;;;;;;;;;;;x
+claim_greater_hungary_title;헝가리 실지회복주의;;;;;;;;;;;x
+claim_greater_hungary_desc;헝가리 실지회복주의는 민족통일주의와 범민족주의적 정치 사상을 포괄하는 광범위한 용어로, 헝가리 수정주의와도 연관이 있습니다. 헝가리 실지회복주의자들의 주요 목표는 헝가리의 국경을 제1차 세계대전 이전으로 되돌리는 것입니다.;;;;;;;;;;;x
+claim_greater_ireland;통일 아일랜드 선포;;;;;;;;;;;x
+claim_greater_ireland_title;통일 아일랜드;;;;;;;;;;;x
+claim_greater_ireland_desc;통일 아일랜드는 아일랜드를 구성하는 32개 지방을 모두 포함하는 주권 국가를 일컫는 개념입니다. 현재 아일랜드에는 두 개의 독립된 주권국이 자리합니다. 26개 지방을 다스리는 아일랜드 공화국, 그리고 6개 지방을 다스리는 북아일랜드(영국)이 바로 그들입니다.;;;;;;;;;;;x
+claim_greater_macedonia;통일 마케도니아;;;;;;;;;;;x
+claim_greater_macedonia_title;통일 마케도니아;;;;;;;;;;;x
+claim_greater_macedonia_desc;통일 마케도니아는 마케도니아 민족주의자들의 민족통일주의적 개념으로, 1913년의 부쿠레슈티 조약에서 잘못 분할된 마케도니아를 단일 국가로 통합하는 것을 목표로 합니다. 이러한 통일 마케도니아의 수도는 그리스령 마케도니아의 테살로니키 또는 살로니카가 유력한데, 때문에 그리스령 마케도니아의 슬라브계 주민들과 유고슬라비아의 지도자 티토는 이들과의 통합을 바랍니다.;;;;;;;;;;;x
+claim_greater_romania;몰도바-루마니아 통합;;;;;;;;;;;x
+claim_greater_romania_title;몰도바에 대한 영유권 선포;;;;;;;;;;;x
+claim_greater_romania_desc;대루마니아의 주요 목표는 모든 루마니아어 화자를 포함하는 국민 국가를 재창조하는 것입니다. 이는 범루마니아주의들의 목표의 실현으로 여겨졌던 1918-1940년의 루마니아 왕국과 강하게 연관되어 있습니다. 1918년, 트란실바니아, 부코비나, 베사라비아가 통합되면서 루마니아는 역사상 가장 큰 영토에 도달했습니다.;;;;;;;;;;;x
+claim_greater_russia;대러시아 선포;;;;;;;;;;;x
+claim_greater_russia_title;대러시아 선포;;;;;;;;;;;x
+claim_greater_russia_desc;대러시아는 소련에서 분리된 공화국 및 러시아 제국의 영토의 일부 또는 전부를 재탈환하여 통일 러시아에 통합하려는 범러시아주의자들과 민족통합주의자들의 정치적 열망입니다.;;;;;;;;;;;x
+claim_greater_sgf;대남독일;;;;;;;;;;;x
+claim_greater_sgf_title;대남독일 선포;;;;;;;;;;;x
+claim_greater_sgf_desc;그 조건은 이상적이지 않을지 모르지만, 국가 안보를 유지하고 남독일의 패권을 위해서는 남독일의 동맹국들에 접근해 연방을 만들어야 합니다. 단 하나의 깃발 아래 단결된 전선을 가지고 성공하기를 바랍니다!;;;;;;;;;;;x
+claim_greater_novorossiya;대노보러시아 선포;;;;;;;;;;;x
+claim_greater_novorossiya_title;대노보러시아;;;;;;;;;;;x
+claim_greater_novorossiya_desc;대노보러시아는 흑해 북쪽의 노보러시아 지방의 일부 또는 전부를 재탈환하여 통일 러시아에 통합하려는 범러시아주의자들과 민족통합주의자들의 정치적 열망입니다.Greater Novorossiya is a political aspiration of Russian nationalists and irredentists to retake some or all of the territories of the historic Russian Empire region New Russia north of the Black Sea and amalgamate them into a single Novorossiya state.;;;;;;;;;;;x
+claim_greater_armenia;통일 아르메니아 선포;;;;;;;;;;;x
+claim_greater_armenia_title;통일 아르메니아;;;;;;;;;;;x
+claim_greater_armenia_desc;통일 아르메니아 또는 대아르메니아는 아르메니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 아르메니아인 또는 역사적 국경을 근거로 삼습니다.;;;;;;;;;;;x
+claim_greater_azerbaijan;대아제르바이잔 선포;;;;;;;;;;;x
+claim_greater_azerbaijan_title;대아제르바이잔 선포;;;;;;;;;;;x
+claim_greater_azerbaijan_desc;아제르바이잔의 국경은 데르벤트에서 페르시아만까지 확장되어야 합니다. 아제르바이잔에게는 이 지역들을 통치할 권리가 있습니다.;;;;;;;;;;;x
+claim_greater_yemen;대예멘 선포;;;;;;;;;;;x
+claim_greater_yemen_title;대예멘 선포;;;;;;;;;;;x
+claim_greater_yemen_desc;대예멘은 현 예멘 공화국의 영토 뿐만 아니라 사우디아라비아의 '아시르, 나지란, 지잔, 홍해의 인접한 섬들, 티하마, 도파르'까지 포함하는 지리적 개념입니다.;;;;;;;;;;;x
+claim_greater_somalia;대소말리아 선포;;;;;;;;;;;x
+claim_greater_somalia_title;대소말리아;;;;;;;;;;;x
+claim_greater_somalia_desc;대소말리아는 아프리카의 뿔 지역에 있는 소말리아인이 거주하는 소말리아, 지부티, 에티오피아의 오가덴과 케냐의 북동부 지방을 아우릅니다. 범소말리아주의자들은 이러한 영토를 단일 국가로 통합하려 합니다.;;;;;;;;;;;x
+claim_greater_venezuela;대베네수엘라 선포;;;;;;;;;;;x
+claim_greater_venezuela_title;과야나에세키바 영유권 선포;;;;;;;;;;;x
+claim_greater_venezuela_desc;과야나에세키바는 베네수엘라가 영유권을 주장하는 가이아나의 영토입니다. 처음에는 에스파냐의 누에바그라나다 부왕령에만 포함되었으나, 후에 에세키보강의 동쪽이 네덜란드와 영국에 의해 가이아나로 분리되면서 문제가 생겼습니다. 베네수엘라는 가이아나의 독립을 인정하면서도 에세키보 강의 서쪽은 자신들의 땅이라고 주장하기 시작했습니다.;;;;;;;;;;;x
+abandon_claim_greater_venezuela_title;과야나에세키바 영유권 포기;;;;;;;;;;;x
+abandon_claim_greater_venezuela_desc;과야나에세키바는 베네수엘라가 영유권을 주장했었던 가이아나의 영토입니다. 처음에는 에스파냐의 누에바그라나다 부왕령에만 포함되었으나, 후에 에세키보강의 동쪽이 네덜란드와 영국에 의해 가이아나로 분리되면서 문제가 생겼습니다. 베네수엘라는 가이아나의 독립을 인정하면서도 에세키보 강의 서쪽은 자신들의 땅이라고 주장하기 시작했습니다.;;;;;;;;;;;x
+claim_greater_guatemala;대과테말라 선포;;;;;;;;;;;x
+claim_greater_guatemala_title;과테말라-벨리즈 영토 분쟁;;;;;;;;;;;x
+claim_greater_guatemala_desc;과테말라-벨리즈 영토 분쟁은 과테말라와 그의 이웃인 벨리즈와 사이의 해결되지 않은 영토 분쟁을 일컫습니다. 1940년 이래로 과테말라는 벨리즈 영토의 일부 또는 전부에 영유권을 주장해왔습니다.;;;;;;;;;;;x
+abandon_claim_greater_guatemala_title;벨리즈 공인;;;;;;;;;;;x
+abandon_claim_greater_guatemala_desc;과테말라-벨리즈 영토 분쟁은 과테말라와 그의 이웃인 벨리즈와 사이의 해결되지 않은 영토 분쟁을 일컫습니다. 1940년 이래로 과테말라는 벨리즈 영토의 일부 또는 전부에 영유권을 주장해왔었습니다. 이제는 이 주장을 철회할 때입니다.;;;;;;;;;;;x
+claim_greater_south;새로운 연합국;;;;;;;;;;;x
+claim_greater_south_title;새로운 연합국;;;;;;;;;;;x
+claim_greater_south_desc;미국 남부 노예주의자들은 자신들을 이류 시민으로 만드는 나라에 남기를 거부한채 아메리카 연합국, 속칭 남부맹방을 세웠었습니다. 옛 남부는 부활할 것입니다.;;;;;;;;;;;x
+claim_greater_texas;텍사스의 원래 국경;;;;;;;;;;;x
+claim_greater_texas_desc;텍사스 공화국이 멕시코를 상대로 독립을 쟁취했을 때, 지도부는 리오그란데강을 기준으로 영토를 주장했으나 실제로는 뉴에세스강을 기준으로 삼는데 만족해야 했습니다. 연방에 가입하고 미국-멕시코 전쟁에 참전한 이후에도 리오그란데 북쪽 땅은 텍사스에게 넘겨지지 않았습니다. 이제 그 땅의 일부를 차지해야 할 때입니다.;;;;;;;;;;;x
+claim_greater_mongolia;범몽골주의 선포;;;;;;;;;;;x
+claim_greater_mongolia_title;범몽골주의 선포;;;;;;;;;;;x
+claim_greater_mongolia_desc;범몽골주의는 몽골인끼리의 문화적, 정치적 연대를 표방하는 민족통일주의적 발상입니다. "대몽골"로 일컬어지는 영토는 보통 외몽골, 내몽골, 중가리아, 그리고 러시아령 부랴티야를 포함합니다.;;;;;;;;;;;x
+claim_greater_bangladesh;대방글라데시 선포;;;;;;;;;;;x
+claim_greater_bangladesh_title;대방글라데시 선포;;;;;;;;;;;x
+claim_greater_bangladesh_desc;벵골어를 사용하는 지역은 방글라데시, 서벵골 일부에 더해 아삼과 트리푸라의 일부도 포함합니다. 힌두교 세나 왕조 벵골의 통치 동안, 대방글라데시의 개념은 오리사, 비하르 그리고 인도 북동부까지 확장되었습니다.;;;;;;;;;;;x
+claim_greater_germany;대독일;;;;;;;;;;;x
+claim_greater_germany_title;오데르-나이세선 거부;;;;;;;;;;;x
+claim_greater_germany_desc;"적법한" 독일 국경의 정의는 "포츠담 협정"의 결정에 근거하여 오데르-나이세선 동쪽의 독일 영토를 "폴란드 정부의 통치하에" 넘기고 "폴란드 서부 국경에 평화가 정착되기를 기다려야 한다"는 것입니다. 따라서 오데르-나이세선을 영구적으로 인정했던 것은 재통일된 독일에 평화를 정착시키기 위한 마지막 조치였을 뿐입니다.;;;;;;;;;;;x
+abandon_claim_greater_afghanistan_title;듀랜드선 수용;;;;;;;;;;;x
+abandon_claim_greater_afghanistan_desc;듀랜드선은 아프가니스탄과 파키스탄 사이의 국경으로, 1893년 듀랜드 공이 지정했습니다. 이 선은 정치적으로 파슈툰족, 발루치족과 다른 집단을 구분합니다.;;;;;;;;;;;x
+abandon_claim_greater_argentina_title;말비나스 영유권 포기;;;;;;;;;;;x
+abandon_claim_greater_argentina_desc;영국과 아르헨티나 사이에 포클랜드 제도(에스파냐어: 말비나스)의 주권이 논란이 되고 있습니다. 영국의 주권은 빠르면 1690년부터, 늦어도 1833년부터 거의 지속적으로 포클랜드에 실질적인 주권을 행사해 왔습니다. 아르헨티나는 1833년 이전부터 이 섬들을 관리해 오면서 오랫동안 영국에게 이의를 제기해 왔습니다.;;;;;;;;;;;x
+abandon_claim_greater_bolivia_title;태평양 전쟁 평화조약 수용;;;;;;;;;;;x
+abandon_claim_greater_bolivia_desc;볼리비아의 헌법은 볼리비아가 태평양 등의 해양에 접근할 수 있는 영토에 대하여 불가침권을 가지고 있다고 명시하고 있습니다. 이는 볼리비아와 페루가 태평양전쟁 이후 칠레에 영토를 할양하여 볼리비아가 내륙국이 된 사연과 관련이 깊습니다.;;;;;;;;;;;x
+abandon_claim_greater_cambodia_title;메콩 삼각주 영유권 포기;;;;;;;;;;;x
+abandon_claim_greater_cambodia_desc;메콩 삼각주는 수백년간 캄보디아의 지배를 받아왔습니다. 캄보디아의 지배는 그들이 프랑스령 인도차이나에 편입되면서 끝났습니다. 메콩 삼각주의 관할이 베트남으로 넘어갔기 때문입니다.;;;;;;;;;;;x
+abandon_claim_greater_china_title;대중국 철회;;;;;;;;;;;x
+abandon_claim_greater_china_desc;이웃 국가들과 좋은 친선 관계를 유지합시다. 대중국은 중화인민공화국(중국 본토와 홍콩 또는 마카오의 특별행정구역)과 중화민국(대만)을 하나로 지칭할 때 사용하는 용어입니다.;;;;;;;;;;;x
+abandon_claim_greater_taiwan_title;대중국 철회;;;;;;;;;;;x
+abandon_claim_greater_taiwan_desc;헌법 제4조를 삭제합니다.;;;;;;;;;;;x
+abandon_claim_greater_comoros_title;대코모로 철회;;;;;;;;;;;x
+abandon_claim_greater_comoros_desc;코모로 연합은 모엘리, 마요트, 앙주앙, 그랑드코모로 자치섬으로 구성된 공화국입니다.;;;;;;;;;;;x
+abandon_claim_greater_chechnya;잉구시 통합;;;;;;;;;;;x
+abandon_claim_greater_chechnya_title;잉구시 통합;;;;;;;;;;;x
+abandon_claim_greater_chechnya_desc;잉구시인과 체첸인은 '바야흐'(체첸어와 잉구쉬어로 "우리 민족"을 의미)로 알려져 있습니다. 바야흐어는 두 주요 집단인 체첸어와 잉구시어 등의 사투리 연속체로 구성됩니다. 두 민족은 공통의 기원, 종교, 언어를 공유하며, 최근의 역사에서 하나의 자치공화국으로 통일됐습니다. 점점 더 다극성을 띄게 된 세계에서, 형제 민족이 외국의 영향력에 지배당하지 않도록 보호하는 것이 우리의 의무입니다. 이제 잉구시인들을 체첸인의 국가에 통합해야 할 때입니다!;;;;;;;;;;;x
+abandon_claim_greater_india_title;아칸드 바라트 철회;;;;;;;;;;;x
+abandon_claim_greater_india_desc;인도의 분단을 수용합시다. 아칸드 바라트란 인도, 파키스탄, 방글라데시를 통합하여 1947년 이전의 마우리아, 굽타, 무굴, 마라타 제국 때처럼 하나의 인도를 요구하는 민족 통일주의 운동입니다.;;;;;;;;;;;x
+abandon_claim_greater_indonesia_title;대인도네시아 철회;;;;;;;;;;;x
+abandon_claim_greater_indonesia_desc;대인도네시아를 철회합니다. 대인도네시아는 영국령 말라야와 보르네오를 네덜란드령 동인도제도와 통합함으로써 말레이족을 하나로 묶으려는 정치적 개념입니다.;;;;;;;;;;;x
+abandon_claim_greater_ingushetia;대잉구셰티아 선포;;;;;;;;;;;x
+abandon_claim_greater_ingushetia_title;대잉구셰티아 선포;;;;;;;;;;;x
+abandon_claim_greater_ingushetia_desc;잉구셰티아는 블라디카브카즈와 다리알협곡을 포함하는 서쪽으로 뻗어 있습니다. 1800년대 후반, 잉구세티아의 땅은 손상을 받고 오세티아인에게 넘어갔습니다. 이제 조상들의 땅을 되찾고, 오세티아인을 영원히 추방할 때입니다!;;;;;;;;;;;x
+abandon_claim_greater_israel_title;평화의 땅;;;;;;;;;;;x
+abandon_claim_greater_israel_desc;수정주의를 철회합니다. 시온주의의 수정주의는 영토 최대주의를 통해 기존 사상과 구별됩니다. 시온주의 수정주의자들은 (이러한 주장을 펼친 유일한 집단은 아니지만) 팔레스타인을 둘러싸고 있는 에라츠 이스라엘의 전역에 유대인들의 통치권을 주장합니다.;;;;;;;;;;;x
+abandon_claim_greater_korea_title;압록-두만선 재공인;;;;;;;;;;;x
+abandon_claim_greater_korea_desc;'더 큰 한국'은 한국인이 거주하는 모든 지역을 통합하자는 범민족주의이고 실지회복주의적인 개념입니다. 이 개념에는 주로 간도(좁게는 백두산 인근, 넓게는 남만주를 이름)가 포함되며, 한국에 더 가깝다는 이유로 가끔 대마도(일본어:쓰시마)를 포함하는 경우도 있습니다.;;;;;;;;;;;x
+abandon_claim_greater_albania_title;대알바니아 철회;;;;;;;;;;;x
+abandon_claim_greater_albania_desc;대알바니아를 철회합니다. 대알바니아는 알바니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 알바니아인 또는 역사적 국경을 근거로 합니다. 이 용어는 알바니아 공화국 외에도 세르비아의 코소보 및 프레셰보, 남부 몬테네그로, 서북부 그리스(테스프로티아, 프레베자, 차메리아, 얀니나(그리스어:이오아니아) 빌레이트의 일부)와 서부 마케도니아를 포함합니다.;;;;;;;;;;;x
+abandon_claim_greater_france_title;자연 국경 철회;;;;;;;;;;;x
+abandon_claim_greater_france_desc;독일과의 갈등이 감소하고 있습니다. 자연 국경 주장을 철회합니다. 프랑스의 자연 국경은 프랑스 혁명 동안 발달한 정치지리적 이론입니다. 혁명가들에 따르면 이 자연 국경은 랭강(독일어:라인강), 대서양, 지중해, 피레네와 알프스 산맥에 해당한다고 합니다.;;;;;;;;;;;x
+abandon_claim_greater_serbia_title;대세르비아 철회;;;;;;;;;;;x
+abandon_claim_greater_serbia_desc;대세르비아를 철회합니다. 대세르비아는 세르비아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '세르비아인이 거주하는가', '세르비아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+abandon_claim_greater_croatia_title;대크로아티아 철회;;;;;;;;;;;x
+abandon_claim_greater_croatia_desc;대크로아티아를 철회합니다. 대크로아티아는 크로아티아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '크로아티아인이 거주하는가', '크로아티아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+abandon_claim_greater_bosnia_title;산자크 영유권 포기;;;;;;;;;;;x
+abandon_claim_greater_bosnia_desc;대보스니아를 철회합니다. 대보스니아는 보스니아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '보스니아인이 거주하는가', '보스니아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+abandon_claim_greater_bulgaria_title;대불가리아 철회;;;;;;;;;;;x
+abandon_claim_greater_bulgaria_desc;대불가리아를 철회합니다. 대불가리아는 1878년 산 스테파노 조약에 국경으로 명시되었던 마케도니아, 트라키아, 모에시아를 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다.;;;;;;;;;;;x
+abandon_claim_greater_denmark_title;대덴마크 철회;;;;;;;;;;;x
+abandon_claim_greater_denmark_desc;우리나라는 우리 손을 떠난지 수백년이 넘는 곳들에 영유권을 주장하고 있었습니다. 냉혹하지만 그곳에는 덴마크인들이 거의 없습니다. 우리 생각을 어리석었습니다.;;;;;;;;;;;x
+abandon_claim_greater_greece_title;위대한 이상 포기;;;;;;;;;;;x
+abandon_claim_greater_greece_desc;위대한 이상을 포기합니다. 위대한 이상(Megali Idea, 메갈리 이데아)는 범그리스주의적, 민족통일주의적인 개념입니다. 1830년, 그리스가 오스만 제국에게서 독립했으나 여전히 많은 그리스인들이 오스만의 지배 아래 있었습니다. 이는 오스만의 지배를 받는 그리스인들까지 한데 뭉쳐 그리스인의 국가를 수립하자는 운동으로 확대되었습니다.;;;;;;;;;;;x
+abandon_claim_greater_hungary_title;현재의 국경 수용;;;;;;;;;;;x
+abandon_claim_greater_hungary_desc;제1차 세계대전에서 정해진 국경선을 수용합니다. 헝가리 실지회복주의는 민족통일주의와 범민족주의적 정치 사상을 포괄하는 광범위한 용어로, 헝가리 수정주의와도 연관이 있습니다. 헝가리 실지회복주의자들의 주요 목표는 헝가리의 국경을 제1차 세계대전 이전으로 되돌리는 것입니다.;;;;;;;;;;;x
+abandon_claim_greater_ireland_title;분단 수용;;;;;;;;;;;x
+abandon_claim_greater_ireland_desc;아일랜드의 분단을 수용합니다. 그러나 북아일랜드는 반드시 미래를 결정해야 합니다.;;;;;;;;;;;x
+abandon_claim_greater_macedonia_title;통일 마케도니아 철회;;;;;;;;;;;x
+abandon_claim_greater_macedonia_desc;통일 마케도니아는 마케도니아 민족주의자들의 민족통일주의적 개념으로, 1913년의 부쿠레슈티 조약에서 잘못 분할된 마케도니아를 단일 국가로 통합하는 것을 목표로 합니다. 이러한 통일 마케도니아의 수도는 그리스령 마케도니아의 테살로니키 또는 살로니카가 유력한데, 때문에 그리스령 마케도니아의 슬라브계 주민들과 유고슬라비아의 지도자 티토는 이들과의 통합을 바랍니다.;;;;;;;;;;;x
+abandon_claim_greater_romania_title;대루마니아 철회;;;;;;;;;;;x
+abandon_claim_greater_romania_desc;모든 루마니어 화자들을 통합한 국민 국가를 다시 만들겠다는 목표를 포기합니다. 이는 범루마니아주의들의 목표의 실현으로 여겨졌던 1918-1940년의 루마니아 왕국과 강하게 연관되어 있습니다. 1918년, 트란실바니아, 부코비나, 베사라비아가 통합되면서 루마니아는 역사상 가장 큰 영토에 도달했습니다.;;;;;;;;;;;x
+abandon_claim_greater_russia_title;신러시아;;;;;;;;;;;x
+abandon_claim_greater_russia_desc;대러시아를 철회합니다. 대러시아는 소련에서 분리된 공화국 및 러시아 제국의 영토의 일부 또는 전부를 재탈환하여 통일 러시아에 통합하려는 범러시아주의자들과 민족통합주의자들의 정치적 열망입니다.;;;;;;;;;;;x
+abandon_claim_greater_sgf_title;오스트리아-바이에른 잔류;;;;;;;;;;;x
+abandon_claim_greater_sgf_desc;우리가 $COUNTRY$의 일부라고 주장한 지역은 종교와 문화 면에서 의심할 여지 없이 독일의 일부입니다.;;;;;;;;;;;x
+abandon_claim_greater_armenia_title;통일 아르메니아 철회;;;;;;;;;;;x
+abandon_claim_greater_armenia_desc;통일 아르메니아 또는 대아르메니아는 아르메니아인이 거주하는 모든 지역을 통합하자는 실지회복주의적 개념으로, 이 지역들에 거주하는 아르메니아인 또는 역사적 국경을 근거로 삼습니다.;;;;;;;;;;;x
+abandon_claim_greater_azerbaijan_title;대아제르바이잔 철회;;;;;;;;;;;x
+abandon_claim_greater_azerbaijan_desc;아제르바이잔의 국경이 데르벤트에서 페르시아만까지 확장되어서는 안됩니다. 아제르바이잔에게는 이 지역들을 통치할 권리가 없습니다.;;;;;;;;;;;x
+abandon_claim_greater_yemen_title;대예멘 철회;;;;;;;;;;;x
+abandon_claim_greater_yemen_desc;대예멘을 철회합니다. 대예멘은 현 예멘 공화국의 영토 뿐만 아니라 사우디아라비아의 '아시르, 나지란, 지잔, 홍해의 인접한 섬들, 티하마, 도파르'까지 포함하는 지리적 개념입니다.;;;;;;;;;;;x
+abandon_claim_greater_somalia_title;대소말리아 철회;;;;;;;;;;;x
+abandon_claim_greater_somalia_desc;대소말리아를 철회합니다. 대소말리아는 아프리카의 뿔 지역에 있는 소말리아인이 거주하는 소말리아, 지부티, 에티오피아의 오가덴과 케냐의 북동부 지방을 아우릅니다. 범소말리아주의자들은 이러한 영토를 단일 국가로 통합하려 합니다.;;;;;;;;;;;x
+abandon_claim_greater_south_title;최남동부 지역;;;;;;;;;;;x
+abandon_claim_greater_south_desc;미국 남부 노예주의자들은 그들을 이류 시민으로 만드는 나라에 남기를 거부한채 아메리카 연합국, 속칭 남부맹방을 세웠었습니다. 옛 남부가 부활해서는 안됩니다.;;;;;;;;;;;x
+abandon_claim_greater_texas_title;텍사스 주 경계 인정;;;;;;;;;;;x
+abandon_claim_greater_texas_desc;텍사스는 미국에 가입하면서 뉴에세스 강 남쪽의 일부만 소유하기로 합의하고 뉴멕시코는 제외했습니다. 미국-멕시코 전쟁 후, 텍사스는 뉴멕시코의 동쪽인 리오그란데까지의 땅을 빼앗겼고, 미국은 주가 하나 더 늘었습니다. 다른 땅에 영유권을 주장할 법적 근거가 없습니다.;;;;;;;;;;;x
+abandon_claim_greater_mongolia_title;외몽골주의;;;;;;;;;;;x
+abandon_claim_greater_mongolia_desc;범몽골주의를 철회합니다. 범몽골주의는 몽골인끼리의 문화적, 정치적 연대를 표방하는 민족통일주의적 발상입니다. "대몽골"로 일컬어지는 영토는 보통 외몽골, 내몽골, 중가리아, 그리고 러시아령 부랴티야를 포함합니다.;;;;;;;;;;;x
+abandon_claim_greater_bangladesh_title;소방글라데시;;;;;;;;;;;x
+abandon_claim_greater_bangladesh_desc;벵골어 사용 지역에 서벵골 일부와 아삼과 트리푸라의 일부를 포함했던 것을 철회합니다. 힌두교 세나 왕조 벵골의 통치 동안, 대방글라데시의 개념은 오리사, 비하르 그리고 인도 북동부까지 확장되었습니다.;;;;;;;;;;;x
+abandon_claim_greater_germany_title;오데르-나이세선 수용;;;;;;;;;;;x
+abandon_claim_greater_germany_desc;오데르-나이세선을 수용합니다. "적법한" 독일 국경의 정의는 "포츠담 협정"의 결정에 근거하여 오데르-나이세선 동쪽의 독일 영토를 "폴란드 정부의 통치하에" 넘기고 "폴란드 서부 국경에 평화가 정착되기를 기다려야 한다"는 것입니다. 따라서 오데르-나이세선을 영구적으로 인정했던 것은 재통일된 독일에 평화를 정착시키기 위한 마지막 조치였을 뿐입니다.;;;;;;;;;;;x
+claim_greater_finland;대핀란드 선포;;;;;;;;;;;x
+claim_greater_finland_title;대핀란드 선포;;;;;;;;;;;x
+claim_greater_finland_desc;대핀란드는 범핀란드주의적 맥락에서 핀란드의 영토 확장을 강조하는 실지회복주의적이자 범민족주의적인 발상입니다. 설명에 따르면 대핀란드의 범위는 백해에서 오네가호 그리고 스비리강과 네바강을 따라 핀란드인과 카렐리야인들의 거주지를 포함하는 자연경계에 의해 제한됩니다.;;;;;;;;;;;x
+abandon_claim_greater_finland_title;대핀란드 철회;;;;;;;;;;;x
+abandon_claim_greater_finland_desc;계속전쟁 이후 대핀란드는 사실상 철회되었습니다. 왜냐하면 이제 대핀란드를 주장할만한 정치적 또는 군사적 조건을 만족하지 못하기 때문입니다. 전쟁에서 승리한 소련은 핀란드에게 가혹한 평화 조약을 요구했으며, 핀란드 영토를 빼앗아갔습니다.;;;;;;;;;;;x
+claim_greater_karelia;대카렐리야 선포;;;;;;;;;;;x
+claim_greater_karelia_title;대카렐리야 선포;;;;;;;;;;;x
+claim_greater_karelia_desc;대카렐리야는 카렐리야인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '카렐리야인이 거주하는가', '카렐리야의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+abandon_claim_greater_karelia_title;대카렐리야 철회;;;;;;;;;;;x
+abandon_claim_greater_karelia_desc;대카렐리야는 카렐리야인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '카렐리야인이 거주하는가', '카렐리야의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+claim_greater_fer_title;캄차카 영유권 주장;;;;;;;;;;;x
+claim_greater_fer_desc;러시아 내전 당시 극동 공화국의 국경은 불분명해 변화하기 쉬웠습니다. 그리고 극동 공화국이 볼셰비키에 흡수된 마지막 주이며 용감하게 싸웠다는 사실도 분명합니다. 우리 국민에 대한 의무는 전략, 경제, 안보상의 이유로 제1공화국이 한때 지배했던 베링해 연안을 점령하는 것입니다. 그래야만 "블라디보스토크"가 동방의 통치차하는 이름값을 할 수 있습니다.;;;;;;;;;;;x
+abandon_claim_greater_fer_title;캄차카 영유권 포기;;;;;;;;;;;x
+abandon_claim_greater_fer_desc;우리나라는 신생국으로, 독립이 확실하며 국민들의 충성심 또한 보장되었지만, 그럼에도 불구하고 안쪽을 향하는게 나을 수도 있습니다. 이전의 극동 제1공화국처럼 파벌주의에 빠져서는 안 됩니다. 국민 통합이 완료되어야만 우리의 위대함을 세계에 보여줄 수 있습니다.;;;;;;;;;;;x
+claim_greater_norway;대노르웨이;;;;;;;;;;;x
+claim_greater_norway_title;대노르웨이;;;;;;;;;;;x
+claim_greater_norway_desc;중세 동안, 노르웨이 왕국은 아이슬란드, 그린란드, 페로, 스코틀랜드 북방군도, 콜라반도와 옘틀란드, 헤리에달렌, 보후슬렌 지방 등 현재는 국경 밖에 있는 방대한 영토를 지배했습니다. 노르웨이가 이전의 영광을 되찾으려면 이 영토들을 절대적으로 수복해야 합니다.;;;;;;;;;;;x
+abandon_claim_greater_norway_title;대노르웨이 철회;;;;;;;;;;;x
+abandon_claim_greater_norway_desc;공격적 팽창주의의 시대는 끝났습니다. 번영하는 동시에 존경받는 나라가 되려면 과거를 잊고 이웃과의 우호적 유대관계 및 협력 발전에 힘써야 합니다.;;;;;;;;;;;x
+claim_greater_iran;대이란 선포;;;;;;;;;;;x
+claim_greater_iran_title;대이란 선포;;;;;;;;;;;x
+claim_greater_iran_desc;대이란은 페르시아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '페르시아인이 거주하는가', '페르시아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+abandon_claim_greater_iran_title;대이란 철회;;;;;;;;;;;x
+abandon_claim_greater_iran_desc;대이란을 철회합니다. 대이란은 페르시아인이 거주하는 모든 지역을 통합하자는 범민족주의적이고 실지회복주의적인 개념입니다. 이 용어는 '페르시아인이 거주하는가', '페르시아의 지배를 받았는가'를 근거로 합니다.;;;;;;;;;;;x
+claim_greater_samoa;대사모아 선포;;;;;;;;;;;x
+claim_greater_samoa_title;대사모아 선포;;;;;;;;;;;x
+claim_greater_samoa_desc;정부는 헌법을 개정하여 서사모아에서 사모아로 국가명을 변경하여야 합니다. 미국령 사모아도 사모아의 일부입니다. 미국령 사모아인들은 여전히 사모아와 그 주민들을 일컬어 서사모아 및 서사모아인라는 용어를 사용합니다.;;;;;;;;;;;x
+abandon_claim_greater_samoa_title;대사모아 철회;;;;;;;;;;;x
+abandon_claim_greater_samoa_desc;사모아의 동서 분단을 수용합니다.;;;;;;;;;;;x
+claim_greater_morocco;대모로코 선포;;;;;;;;;;;x
+claim_greater_morocco_title;대모로코 선포;;;;;;;;;;;x
+claim_greater_morocco_desc;대모로코는 에스파냐, 포르투갈, 알제리, 프랑스의 지배에 항의하는 모로코 반식민주의 지도자들이 역사적으로 모로코 술탄국과 연관이 있던 넓은 영토를 가리키기 위해 사용한 용어입니다.;;;;;;;;;;;x
+abandon_claim_greater_morocco_title;대모로코 철회;;;;;;;;;;;x
+abandon_claim_greater_morocco_desc;대모로코를 철회합니다. 대모로코는 에스파냐, 포르투갈, 알제리, 프랑스의 지배에 항의하는 모로코 반식민주의 지도자들이 역사적으로 모로코 술탄국과 연관이 있던 넓은 영토를 가리키기 위해 사용한 용어입니다.;;;;;;;;;;;x
+claim_greater_northern_mariana;대북마리아나 선포;;;;;;;;;;;x
+claim_greater_northern_mariana_title;대북마리아나 선포;;;;;;;;;;;x
+claim_greater_northern_mariana_desc;북마리아나 인민들은 괌과 함께해야 합니다.;;;;;;;;;;;x
+abandon_claim_greater_northern_mariana_title;대북마리아나 철회;;;;;;;;;;;x
+abandon_claim_greater_northern_mariana_desc;대북마리아나를 철회합니다. 괌과의 분단을 수용합니다.;;;;;;;;;;;x
+claim_greater_ethiopia;대에티오피아 선포;;;;;;;;;;;x
+claim_greater_ethiopia_title;에티오피아에 항구를!;;;;;;;;;;;x
+claim_greater_ethiopia_desc;1950년대 에티오피아 정부는 에리트레아와 이탈리아령 소말리아의 합병을 추진했습니다. 에티오피아 황제는 파리 평화회의와 유엔 제1차 회의에서 프랭클린 D. 루스벨트에게 보낸 서한에서 두 영토 모두에 대해 영유권을 주장했습니다. 유엔에서는 옛 이탈리아 식민지에 대한 논쟁이 계속되었습니다. 영국과 미국은 제2차 세계대전 당시 에티오피아의 지원에 대한 보상으로 서부 지방을 제외한 모든 에리트레아를 에티오피아에게 양도하기를 원했습니다. 에리트레아 정당들은 국민투표를 유엔 총회에 지속적으로 요청했습니다.;;;;;;;;;;;x
+claim_greater_paraguay_title;삼국동맹 전쟁;;;;;;;;;;;x
+claim_greater_paraguay_desc;파라과이가 아르헨티나, 브라질, 우루과이의 삼국동맹과 치룬 삼국동맹 전쟁은 파라과이에게 엄청난 손실을 초래했습니다. 40만명이 사망한 것으로 추산되는 이 전쟁은 라틴아메리카 역사상에서 가장 치명적이고 피비린내 나는 전쟁입니. 특히 파라과이는 인구가 치명적인 손실을 입었으며 아르헨티나와 브라질에 영토를 양도해야 했습니다. 이 때의 실지들을 되찾아야 합니다!;;;;;;;;;;;x
+abandon_claim_greater_paraguay_title;현재 국경 수용;;;;;;;;;;;x
+abandon_claim_greater_paraguay_desc;파라과이가 아르헨티나, 브라질, 우루과이의 삼국동맹과 치룬 삼국동맹 전쟁은 파라과이에게 엄청난 손실을 초래했습니다. 40만명이 사망한 것으로 추산되는 이 전쟁은 라틴아메리카 역사상에서 가장 치명적이고 피비린내 나는 전쟁입니. 특히 파라과이는 인구가 치명적인 손실을 입었으며 아르헨티나와 브라질에 영토를 양도해야 했습니다. 이미 지나간 일이니 다 잊도록 합시다!;;;;;;;;;;;x
+claim_greater_poland_title;크레시 영유권 주장;;;;;;;;;;;x
+claim_greater_poland_desc;크레시는 전간기 폴란드 동부 국경에 속했던 지역으로, 폴란드 내 최대 인구집단인 폴란드인이 소수민족이던 곳입니다. 오늘날, 이 곳은 서부 우크라이나, 서부 벨라루스, 남동부 리투아니아로 각기 나뉘어 있으며, 르부프(우크라이나어:리비우), 그로드노(벨라루스어:흐로즈나), 빌노(리투아니아어:빌뉴스) 등의 주요 도시들이 있습니다. 이 지역이 폴란드 땅임을 주장합시다!;;;;;;;;;;;x
+abandon_claim_greater_poland_title;커즌선 수용;;;;;;;;;;;x
+abandon_claim_greater_poland_desc;크레시는 이제 폴란드령이 아닙니다. 현실을 받아들여야 합니다. 크레시는 전간기 폴란드 동부 국경에 속했던 지역으로, 폴란드 내 최대 인구집단인 폴란드인이 소수민족이던 곳입니다.;;;;;;;;;;;x
+claim_greater_tibet_title;대티베트 선포;;;;;;;;;;;x
+claim_greater_tibet_desc;대티베트에 속하는 지역은 한때 많은 티베트인들이 거주했으며, 청나라가 지배하기 전까지 달라이 라마의 지배를 받았습니다. 오늘날 이 영토들은 중국의 일부이며, 상당수의 티베트인들이 이 지역에 살고 있습니다. 이 지역에 티베트의 영유권을 주장합시니다!;;;;;;;;;;;x
+abandon_claim_greater_tibet_title;현재 국경 수용;;;;;;;;;;;x
+abandon_claim_greater_tibet_desc;해당 지역이 이제 우리 영토가 아님을 인정해야 합니다.;;;;;;;;;;;x
+claim_greater_turkey_title;로잔 조약 거부;;;;;;;;;;;x
+claim_greater_turkey_desc;터키 독립전쟁을 끝낸 로잔 조약에 따르면, 새로 독립한 터키인의 민족국가는 시리아, 이라크, 일부 그리스에 대한 영유권을 포기했습니다. 지금 우리는 이 잃어버린 영토를 되찾고 이 땅에서 소수민족으로 살아가는 터키인을 압제자들로부터 보호해야 할 입장에 있습니다.;;;;;;;;;;;x
+abandon_claim_greater_turkey_title;로잔 조약 재수용;;;;;;;;;;;x
+abandon_claim_greater_turkey_desc;법에 따른 국경을 수용해야 합니다. 터키 독립전쟁을 끝낸 로잔 조약에 따르면, 새로 독립한 터키인의 민족국가는 시리아, 이라크, 일부 그리스에 대한 영유권을 포기했습니다. 지금 우리는 이 잃어버린 영토를 되찾고 이 땅에서 소수민족으로 살아가는 터키인을 압제자들로부터 보호해야 할 처지가 아닙니다.;;;;;;;;;;;x
+claim_greater_togo_title;대토고;;;;;;;;;;;x
+claim_greater_togo_desc;제1차 세계대전 동안이던 1914년, 영국과 프랑스군은 독일령 토골란트 식민지를 빠르게 점령했습니다. 2년 후인 1916년, 양국은 토골란트를 프랑스령과 영국령으로 분할했고, 1922년 국제연맹은 공식적으로 토고를 B급 위임통치령으로 지정했습니다. 서부 토고에 사는 우리 형제 자매들과 떨어져 산 지 너무 오랜 시간이 흐른 지금, 에웨족과 토고는 하나가 돼야 합니다.;;;;;;;;;;;x
+abandon_claim_greater_togo_title;대토고 철회;;;;;;;;;;;x
+abandon_claim_greater_togo_desc;대토고에 관한 이상을 포기해야 합니다. 제1차 세계대전 동안이던 1914년, 영국과 프랑스군은 독일령 토골란트 식민지를 빠르게 점령했습니다. 2년 후인 1916년, 양국은 토골란트를 프랑스령과 영국령으로 분할했고, 1922년 국제연맹은 공식적으로 토고를 B급 위임통치령으로 지정했습니다.;;;;;;;;;;;x
+claim_greater_lithuania_title;대리투아니아;;;;;;;;;;;x
+claim_greater_lithuania_desc;리투아니아는 리투아니아 대공국의 법적 계승국입니다. 과거 러시아령 코브노(리투아니아어:코우나스), 빌나(리투아니아어:빌뉴스), 그로드노(리투아니아어:가르디나스), 수발키(리투아니아어: 수발카이) 총독령에 속했던 영토들에 영유권을 주장해야 합니다. 이 지역들은 한때 리투아니아인이 대다수였습니다.;;;;;;;;;;;x
+abandon_claim_greater_lithuania_title;소리투아니아;;;;;;;;;;;x
+abandon_claim_greater_lithuania_desc;대리투아니아에 대한 주장을 포기해야 합니다. 국민의 권리는 민족국가와 편협한 민족주의가 아닌 민주적 제도와 인권의 확산에 따라 발전합니다. 주전주의 정책 대신 국내 쟁점에 집중해야 합니다.;;;;;;;;;;;x
+claim_greater_latinamerica_title;라틴아메리카 통합;;;;;;;;;;;x
+claim_greater_latinamerica_desc;라틴아메리카의 모든이들은 자유를 지키기 위해 단결해야 합니다. 이것은 라틴아메리카의 통합을 위한 10년 간의 노력의 결실입니다. 중남미 및 카리브해 국가 공동체는 중남미 통합을 진전시키는 동시에 라틴아메리카에서의 미국의 영향을 줄이기 위해 만들어졌습니다. 그것을 완성합시다!;;;;;;;;;;;x
+claim_greater_europe_title;범유럽적 정체성;;;;;;;;;;;x
+claim_greater_europe_desc;범유럽적 정체성은 유럽 국적뿐 아니라 유럽과의 개인 식별 의식입니다. 유럽의 정체성에 대한 감각은 전통적으로 유럽의 역사적 서술에 대한 생각에서 유래합니다. 다시, 그것은 가장 근본적인 유럽의 가치의 원천으로 여겨집니다. 모든 유럽인이 단결해야 합니다!;;;;;;;;;;;x
+claim_greater_turkculuk_title;범튀르크주의 선포;;;;;;;;;;;x
+claim_greater_turkculuk_desc;범위르크주의는 1880년대 아제르바이잔(당시 러시아 제국의 일부)과 오스만 제국(현대 터키의 일부)의 튀르크 지식인들 사이에서 시작된 운동으로, 모든 튀르크인의 문화적 정치적 통일을 목표로 합니다. 튀르크인이 있다면 $COUNTRY$에도 속해야 합니다.;;;;;;;;;;;x
+claim_greater_arabia_title;범아랍주의 선포;;;;;;;;;;;x
+claim_greater_arabia_desc;범아랍주의 또는 아랍주의는 대서양에서 아라비아해에 이르는 북아프리카-서아시아의 국가들의 통합을 지지하는 이념입니다다. 이는 아랍인들이 하나의 국가를 구성해야 한다고 주장하는 아랍민족주의와 밀접한 관련이 있습니다. 아랍인이 있다면 $COUNTRY$에도 속해야 합니다.;;;;;;;;;;;x

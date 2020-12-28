@@ -1,150 +1,168 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-market_communist_focus;[SUB_A7]Y시장사회주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Y market communist[SUB_A7]W;;;;;;;;x;;;;;;;;;;;;;
-market_communist_focus_short;[SUB_A7]Y시장사회주의자[SUB_A7]W 애당심;[SUB_A7]YMarket communist[SUB_A7]W loyalty;;;;;;;;x;;;;;;;;;;;;;
-centrist_focus;[SUB_A7]Y중도주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Ycentrist moderates[SUB_A7]W;;;;;;;;x;;;;;;;;;;;;;
-centrist_focus_short;[SUB_A7]Y중도주의자[SUB_A7]W 애당심;[SUB_A7]YCentrist[SUB_A7]W loyalty;;;;;;;;x;;;;;;;;;;;;;
-market_communist_ngo_focus;[SUB_A7]Y시장사회주의자[SUB_A7]W 운영 비정부기구 지원!;;Support [SUB_A7]Ymarket communist[SUB_A7]W-oriented NGOs!;;;;;;;;;;;;;x,,,,
-market_communist_ngo_focus_short;[SUB_A7]Y시장사회주의자[SUB_A7]W 운영 비정부기구 지원!;[SUB_A7]YMarket communist[SUB_A7]W NGOs;;;;;;;;;;;;;x,,,,
-centrist_ngo_focus;[SUB_A7]Y중도주의자[SUB_A7]W 운영 비정부기구 지원!;Support [SUB_A7]Ycentrist moderate[SUB_A7]W-oriented NGOs!;;;;;;;;;;;;;x,,,,
-centrist_ngo_focus_short;[SUB_A7]Y중도주의자[SUB_A7]W 운영 비정부기구 지원!;;[SUB_A7]YCentrist[SUB_A7]W NGOs;;;;;;;;;;;;;x,,,,
-no_meetings_l;불법;Illegal;;;;;;;;x;;;;;;;;;;;;;
-limited_meetings_l;허가증 필요;License only;;;;;;;;x;;;;;;;;;;;;;
-free_meetings_l;제한 없음;Unrestricted;;;;;;;;x;;;;;;;;;;;;;
-public_meetings;공공 집회;Public Meetings;;;;;;;;x;;;;;;;;;;;;;
-no_meetings;불법;Illegal;;;;;;;;x;;;;;;;;;;;;;
-limited_meetings;허가증 필요;License only;;;;;;;;x;;;;;;;;;;;;;
-free_meetings;제한 없음;Unrestricted;;;;;;;;x;;;;;;;;;;;;;
-no_meetings_desc;공공 집회를 전면 금지합니다.;Public meetings are prohibited.;;;;;;;;x;;;;;;;;;;;;;
-limited_meetings_desc;허가를 받은 경우에 한하여 시위를 제외한 공공 결사를 허락합니다.;Public gatherings, excluding protests, are allowed if a state license is given.;;;;;;;;x;;;;;;;;;;;;;
-free_meetings_desc;공공 집회를 전면 허용합니다.;Public meetings and rallies are allowed.;;;;;;;;x;;;;;;;;;;;;;
-EVT_4431_NAME;탈세속화;The Desecularisation of $COUNTRY$;;;;;;;;x;;;;;;;;;;;;;
-EVT_4431_DESC;새 집권정부는 통치에 있어서의 종교의 존재에 대한 규제를 완화해왔습니다. 법원의 판사들은 전통적인 도덕성에 입각해 판결을 내리기 시작했고, 예산은 종교기관에 대한 지출을 더 많이 포함하기 시작했습니다. 선교사 및 종교단체의 국가후원법이 입법됨에 따라, 오래된 정교분리 체제가 마침내 끝났다고 말할 수 있습니다.[SUB_A7]b;The new ruling government has been loosening restrictions on the presence of religion in governance. At first, judges appointed to the courts began ruling more traditionally on morality, and budgets began to include more spending on religious institutions. With the latest law signed, the state sponsorship of missionaries and religious establishments, it could be said that the old secular system of government has at last come to an end.;;;;;;;;x;;;;;;;;;;;;;
-EVT_4431_A;우리나라의 일부를 되찾았다.;We have regained part of our national fabric;;;;;;;;x;;;;;;;;;;;;;
-EVT_4432_NAME;정교분리;Separation of Church and State;;;;;;;;x;;;;;;;;;;;;;
-EVT_4432_DESC;$COUNTRY$의 신정부는 출범 첫날부터 종교에 대해서 기존과 다른 태도를 가지고 있음을 분명히 했습니다. 이는 판사들의 판결 기준 변경과 종교 기관에 대한 지출 삭감으로 시작되었습니다. 국가 기관에서 특정 종교에 대한 선호를 밝히지 말라는 최근의 지침으로 인하여, 종교는 더 이상 정부의 일부가 아니라는 것이 확실해졌습니다.;From the first day of rule, it was obvious that the new $COUNTRY$ government had a different attitude towards religion than the old government apparatus. It began with the attitudes of judges appointed to the courts and cuts in spending to religion institutions. With the latest instructions, the prevention of outward preference toward any religion in state institutions, it is clear that religion is no longer part of government.;;;;;;;;x;;;;;;;;;;;;;
-EVT_4432_A;확실하고도 진실된 전진이다.;Real, visible progress;;;;;;;;x;;;;;;;;;;;;;
-absolute_monarchy;전제군주제;Absolute Monarchy;Monarchie absolue;Absolute Monarchie;;Monarqu[SUB_A7]W absoluta;;;;;;;;;x;;;;;;;;;;;;;;;;
-absolute_monarchy_ruler;국왕 폐하;King;Roi;K[SUB_A7]Wig;;Rey;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist;공산주의;Communist;Communiste;Kommunistisch;;Comunista;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_faction;공산주의 당파;Communist Faction;;;;;;;;;;;;;x,
-communist_focus;[SUB_A7]Y공산주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Ycommunist[SUB_A7]W ;Loyaut[SUB_A7]Wenvers le parti [SUB_A7]Ycommuniste[SUB_A7]W ;Parteiloyalit[SUB_A7]W gegen[SUB_A7]Wer [SUB_A7]Ycommunist[SUB_A7]W ;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_focus_short;[SUB_A7]Y공산주의자[SUB_A7]W 애당심;[SUB_A7]YCommunists[SUB_A7]W loyalty;Loyaut[SUB_A7]W[SUB_A7]Ycommuniste[SUB_A7]W;[SUB_A7]YKommunistische[SUB_A7]W Loyalit[SUB_A7]W;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_rebels_army;$COUNTRY$ 홍위병;$COUNTRY$ Red Guards;Gardes rouges $COUNTRY$;$COUNTRY$e Rote Garden;;Guardias rojos de $COUNTRY$;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_rebels_desc;홍위병들은 정부에 대해 공공연하게 반란을 일으키는 공산주의자들입니다. 그들은 부르주아 국가, 그리고 이를 넘어서 사회의 반동적으로 여겨지는 모든 것에 반대합니다. 이 혁명가들은 종교, 전통, 개인 재산, 가족 제도와 대비되는 '공산주의 낙원'를 원하며, 이를 위해 그 첫걸음인 '공산주의 독재제'를 설립하려 합니다.;The Red Guards are communists who have risen in open rebellion against the government, and, more importantly, against all of what they consider to be the reactionary trappings of the bourgeois state, and even society. In opposition to the institutions of religion, tradition, private ownership and family, these revolutionaries seek instead to establish a 'Dictatorship of The Proletariat', the first step on the long, corpse-strewn way to the promised classless utopia of Communism.;"Les Gardes Rouges sont des communistes qui sont entr[SUB_A7]W en rebellion ouverte contre le gouvernement,et, plus important encore, contre tout ce qu'ils consid[SUB_A7]Went [SUB_A7]Wre des attributs r[SUB_A7]Wctionnaires de l'Etat bourgeois, jusqu'[SUB_A7]W[SUB_A7]Wre contre la soci[SUB_A7]W[SUB_A7]W En opposition aux institutions religieuses, [SUB_A7]Wla tradition, [SUB_A7]Wla propri[SUB_A7]W[SUB_A7]Wpriv[SUB_A7]W et [SUB_A7]Wla famille, ces r[SUB_A7]Wolutionnaires cherchent [SUB_A7]W[SUB_A7]Wablir une ""dictature du prol[SUB_A7]Wariat"", premier pas sur le long chemin jonch[SUB_A7]Wde corps menant vers l'utopie sans classes du communisme.";Die Roten Garden sind Kommunisten, die in offener Rebellion gegen die Regierung angehen und, noch wichtiger, gegen alles, das sie als reaktion[SUB_A7]Wes Machwerk des bourgeoisen Staats und selbst der Gesellschaft ansehen. In Opposition gegen die Institutionen der Religionen, Traditionen, privaten Eigentums und Familie streben diese Revolution[SUB_A7]We statt dessen eine 'Diktatur des Proletariats' an, den ersten Schritt auf dem langen, leichengepflasterten Weg zur verhei[SUB_A7]Wnen Utopie des Kommunismus.;;Los Guardias Rojos son comunistas que se han alzado en rebeli[SUB_A7]W abierta contra el gobierno y, lo que es m[SUB_A7]W importante, contra todo aquello que consideran los cimientos reaccionarios del estado burgu[SUB_A7]W, incluida la sociedad misma. Frente a las instituciones de la religi[SUB_A7]W, la tradici[SUB_A7]W, la propiedad privada y la familia, estos revolucionarios aspiran a establecer una 'Dictadura del proletariado', primer paso del camino largo y sembrado de cad[SUB_A7]Weres que conduce a la utop[SUB_A7]W sin clases del Comunismo.;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_rebels_name;$COUNTRY$ 공산주의자;$COUNTRY$ Communists;$COUNTRY$ - Communistes;$COUNTRY$e Kommunisten;;Comunistas de $COUNTRY$;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_rebels_title;공산주의자;Communist;Communistes;Kommunist;;Comunista;;;;;;;;;x;;;;;;;;;;;;;;;;
-communist_stronghold;공산주의자 근거지;Communist Stronghold;;;;;;;;;;;;;x,
-communist_stronghold_desc;이 지방은 국내 공산주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of communist support within the country.;;;;;;;;;;;;;x,
-communist_uh;공산주의자들은 사회 개혁의 시행과 정치 개혁의 후퇴를 원합니다.;Communists want to enact social reforms, but want to see political reforms rolled back.;Les communistes veulent davantage de r?ormes sociales et le retrait des r?ormes politiques.;Kommunisten sind an zus?zlichen Sozialreformen interessiert, setzen sich aber f? die Au?rkraftsetzung von Politikreformen ein.;;Los comunistas quieren promulgar reformas sociales, pero rechazan las reformas pol?icas.;;;;;;;;;x;;;;;;;;;;;;;;;;
-conservative;보수주의;Conservative;Conservateur;Konservativ;;Conservadora;;;;;;;;;x;;;;;;;;;;;;;;;;
-conservative_focus;[SUB_A7]Y보수주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Yconservative? ;Loyaut?envers le parti [SUB_A7]Yconservateur? ;Parteiloyalit? gegen?er [SUB_A7]Yconservative? ;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-conservative_focus_short;[SUB_A7]Y보수주의자[SUB_A7]W 애당심;[SUB_A7]YConservative? loyalty;Loyaut?[SUB_A7]Yconservatrice?;[SUB_A7]YKonservative? Loyalit?;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-conservative_group;보수주의 및 반동주의 정당;Conservative & Reactionary parties;Partis conservateurs & r?ctionnaires;konservativen & reaktion?en Parteien;;Partidos conservadores y reaccionarios;;;;;;;;;x;;;;;;;;;;;;;;;;
-conservative_reaction;보수주의 야당;Conservative Opposition;Opposition conservatrice;Konservative Opposition;;Oposici? conservadora;;;;;;;;;x;;;;;;;;;;;;;;;;
-conservative_stronghold;보수주의자 근거지;Conservative Stronghold;;;;;;;;;;;;;x,
-conservative_stronghold_desc;이 지방은 국내 보수주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of conservative support within the country.;;;;;;;;;;;;;x,
-conservative_uh;보수주의자들은 현상 유지를 선호하지만, 불만도가 높다면 개혁의 모든 후퇴를 원합니다.;Conservatives prefer the status-quo, but may back reforms under conditions of high militancy.;Les conservateurs pr??ent le statu quo, mais peuvent soutenir les r?ormes en cas d'extr?e n?essit?;Konservative bevorzugen den Status Quo, k?nen aber in extremen Situationen Reformen unterst?zen.;;Los conservadores prefieren el statu quo, pero pueden apoyar reformas en condiciones de elevada militancia.;;;;;;;;;x;;;;;;;;;;;;;;;;
-democracy;공화제;Republic;D?ocratie;Demokratie;;Democracia;;;;;;;;;x;;;;;;;;;;;;;;;;
-democracy1;공화제;Republic;D?ocratie;Demokratie;;Democracia;;;;;;;;;x;;;;;;;;;;;;;;;;
-democracy_ruler;대통령 각하;President;Pr?ident;Pr?ident;;Presidente;;;;;;;;;x;;;;;;;;;;;;;;;;
-democracy1_ruler;대통령 각하;President;Pr?ident;Pr?ident;;Presidente;;;;;;;;;x;;;;;;;;;;;;;;;;
-colonial_government_ruler;총독 각하;Governor-General;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-colonial_government;자치령;Dominion Government;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist_democracy_ruler;제1서기 동무;Premier;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist_democracy;민주집중제;Socialist Democracy;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-mandate_government;위임통치령;Mandatory Government;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-mandate_government_ruler;총독 각하;Governor-General;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-sar_government_ruler;행정장관 각하;Chief Executive;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-sar_government;특별행정구;Special Administrative Region;Special Administrative Region;Special Administrative Region;;Special Administrative Region;;;;;;;;;x;;;;;;;;;;;;;;;;
-hms_government1_ruler;총리 각하;Prime Minister;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-hms_government_ruler;총리 각하;Prime Minister;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-traditionalist;전통주의;Traditionalist;;;;;;;;;;;;;x,,,,
-theocracy;신정제;Theocracy;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-theocracy_ruler;신관님;Supreme Leader;Pr?ident;Pr?ident;;Presidente;;;;;;;;;x;;;;;;;;;;;;;;;;
-traditionalist_focus;[SUB_A7]Y전통주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Ytraditionalist?;;;;;;;;;;;;;x,,,,
-traditionalist_focus_short;[SUB_A7]Y전통주의자[SUB_A7]W 애당심;[SUB_A7]YTraditionalist? loyalty;;;;;;;;;;;;;x,,,,
-traditionalist_group;전통주의 정당;Traditionalist parties;;;;;;;;;;;;;x,,,,
-islamist_rebels_army;$COUNTRY$ 성전주의자;$COUNTRY$ Jihadist;;;;;;;;;;;;;x,,,,
-islamist_rebels_army_desc;성전주의자들은 어떤 대가를 치르더라도 문화적 자유를 보호하고자 하는 정부와 국가 기관의 실제적이거나 인지된 억압적인 관행에 반기를 든 호전적인 전통주의자입니다. 이 혁명가들은 종파 국가와 맞서 싸우는 자신들을 진정한 의미로서 '신들의 투사'라고 생각합니다.;Jihadists are militant traditionalists who have risen up in rebellion against the, real or perceived, oppressive practices of the government and the state apparatus, seeking to protect their cultural liberty whatever the cost. Fighting against the sectarian state, these revolutionaries consider themselves Gods-fighters in the true sense of the word.;;;;;;;;;;;;;x,,,,
-islamist_rebels_name;$COUNTRY$ 성전주의자;$COUNTRY$ Jihadist;;;;;;;;;;;;;x,,,,
-islamist_rebels_title;성전주의자;Jihadist;;;;;;;;;;;;;x,,,,
-islamist_rebels_desc;성전주의자들은 어떤 대가를 치르더라도 문화적 자유를 보호하고자 하는 정부와 국가 기관의 실제적이거나 인지된 억압적인 관행에 반기를 든 호전적인 전통주의자입니다. 이 혁명가들은 종파 국가와 맞서 싸우는 자신들을 진정한 의미에서 '신들의 투사'로 여깁니다.;Jihadists are militant traditionalists who have risen up in rebellion against the, real or perceived, oppressive practices of the government and the state apparatus, seeking to protect their cultural liberty whatever the cost. Fighting against the sectarian state, these revolutionaries consider themselves Gods-fighters in the true sense of the word.;;;;;;;;;;;;;x,,,,
-traditionalist_stronghold;전통주의자 근거지;Traditionalist Stronghold;;;;;;;;;;;;;x,,,,
-traditionalist_stronghold_desc;이 지방은 국내 전통주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of traditionalist support within the country.;;;;;;;;;;;;;x,
-traditionalist_uh;전통주의자들은 신의 법을 지상의 법으로 도입하기를 원하며, 여론에 따라 개혁을 지지합니다.;Traditionalists wants to introduce the law of God as the law of the land, they will support reforms depending on public opinion.;;;;;;;;;;;;;x,,,,
-liberal;자유주의;Liberal;Lib?al;Liberal;;Liberal;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_agitation;자유주의자 소요;Liberal Agitation;Agitation lib?ale;Liberale Agitation;;Agitaci? liberal;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_focus;[SUB_A7]Y자유주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Yliberal? ;Loyaut?envers le parti [SUB_A7]Ylib?al? ;Parteiloyalit? gegen?er [SUB_A7]Yliberal? ;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_focus_short;[SUB_A7]Y자유주의자[SUB_A7]W 애당심;[SUB_A7]YLiberal? loyalty;Loyaut?[SUB_A7]Ylib?ale?;[SUB_A7]YLiberale? Loyalit?;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_group;자유주의 및 아나르코자본주의 정당;Liberal & Anarcho-Liberal parties;Partis lib?aux & lib?aux-anarchistes;liberalen & anarcho-liberalen Parteien;;Partidos liberales y anarcoliberales;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_reaction;자유주의 야당;Liberal Opposition;Opposition lib?ale;Liberale Opposition;;Oposici? liberal;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_rebels_army;공화국 수비대;Republican Guard;Garde r?ublicaine;Republikanische Wache;;Guardia republicana;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_rebels_desc;자유주의 반군은 더 많은 계층을 국가 정부에 포함시키기 위해 노력하고 있습니다. 이들은 전제군주제를 입헌군주제로 바꾸기를 원하며, 동시에 민주주의를 확립하기 위해 노력합니다.;Liberal Rebels strive for the inclusion of broader stratas of the population in the government of the nation. In an absolute monarchy they will rise to impose a constitutional monarchy, whereas they in all other cases seek to establish a democracy.;Les rebelles Jacobins lib?aux luttent pour inclure des classes plus larges de la population dans le gouvernement de la nation. En pr?ence d'une monarchie absolue, ils se dresseront pour imposer une monarchie constitutionnelle, s'ils ne cherchent pas ??ablir une d?ocratie.;Liberale jakobinische Rebellen streben danach, gr秤ere Teile unserer Bev?kerung in die Regierung unseres Landes zu integrieren. In einer absoluten Monarchie werden sie sich zur Erzwingung einer konstitutionellen Monarchie erheben. In anderen Situationen werden sie sich f? die Errichtung einer Demokratie einsetzen.;;Los rebeldes jacobinos liberales pugnan por la inclusi? de estratos m? amplios de la poblaci? en el gobierno de la naci?. En una monarqu? absoluta, se alzar? para imponer una monarqu? constitucional, mientras que en cualquier otro caso buscar? establecer una democracia.;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_rebels_name;자유주의 반군;Liberal Rebels;Rebelles Jacobins;Jakobinische Rebellen;;Rebeldes jacobinos;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_rebels_title;자유주의 반군;Liberal Rebels;Rebelles Jacobins;Jakobinische Rebellen;;Rebeldes jacobinos;;;;;;;;;x;;;;;;;;;;;;;;;;
-liberal_stronghold;자유주의자 근거지;Liberal Stronghold;;;;;;;;;;;;;x,
-liberal_stronghold_desc;이 지역방은 국내 자유주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of liberal support within the country.;;;;;;;;;;;;;x,
-liberal_uh;자유주의자들은 정치 개혁의 시행만을 원하지만, 불만도가 높다면 사회 개혁의 시행도 원합니다.;Liberals want to enact further political reforms, but will also support social reform under conditions of high militancy.;Les lib?aux veulent davantage de r?ormes politiques.;Liberale sind an zus?zlichen Politikreformen interessiert.;;Los liberales abogan por m? reformas pol?icas, pero apoyar? tambi? reformas sociales bajo condiciones de elevada militancia.;;;;;;;;;x;;;;;;;;;;;;;;;;
-nationalist;민족주의;Nationalist;;;;;;;;;;;;;x,,,,
-nationalist_agitation;민족주의자 소요;Nationalist Agitation;;;;;;;;;;;;x,;
-nationalist_dictatorship;배타적 민족주의 체제;Sectarian Regime;;;;;;;;;;;;;x,,,,
-nationalist_dictatorship_ruler;대통령 각하;President;Pr?ident;Pr?ident;;Presidente;;;;;;;;;x;;;;;;;;;;;;;;;;
-nationalist_focus;[SUB_A7]Y민족주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Ynationalist?;;;;;;;;;;;;;x,,,,
-nationalist_focus_short;[SUB_A7]Y민족주의자[SUB_A7]W 애당심;[SUB_A7]YNationalsit? loyalty;;;;;;;;;;;;;x,,,,
-nationalist_rebels_army;$COUNTRY$ 민족주의자;;;$COUNTRY$ Nationalists;$INDEP$ - Nationalistes;$INDEP$-Nationalisten;;Nacionalistas de $INDEP$;;;;;;;;;x;;;;;;;;;;;;;;;;
-nationalist_rebels_desc;민족주의 반군들은 $COUNTRY$의 자유를 추구합니다. 그들은 질서정연한 동시에 좋은 장비를 갖추고 있으며, 국가의 독립에 주력합니다.;Nationalist rebels seek freedom for $COUNTRY$. They are well led and equipped, and they will focus on achieving independence for their nation.;Les rebelles nationalistes veulent la libert?pour leur peuple. Bien men? et bien ?uip?, ils vont tout mettre en 쐕vre pour obtenir l'ind?endance de leur nation.;Nationalistische Rebellen k?pfen f? die Freiheit ihres Volkes. Gut diszipliniert und ausger?tet konzentrieren sich auf die Erlangung der Unabh?gigkeit f? ihr Land.;;Los rebeldes nacionalistas buscan la libertad de su pueblo. Est? bien dirigidos y equipados, y se afanar? en lograr la independencia de su naci?.;;;;;;;;;x;;;;;;;;;;;;;;;;
-nationalist_rebels_name;$COUNTRY$ 민족주의자;$COUNTRY$ Nationalists;$INDEP$ - Nationalistes;$INDEP$-Nationalisten;;Nacionalistas de $INDEP$;;;;;;;;;x;;;;;;;;;;;;;;;;
-nationalist_rebels_title;민족주의자;Nationalist;Nationalistes;Nationalist;;Nacionalistas;;;;;;;;;x;;;;;;;;;;;;;;;;
-nationalist_stronghold;민족주의자 근거지;Nationalist Stronghold;;;;;;;;;;;;;x,,,,
-nationalist_stronghold_desc;이 지역은 국내 민족주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of nationalist support within the country.;;;;;;;;;;;;;x,
-nationalist_uh;민족주의자들은 핵심 문화의 권리를 보호하며, 여론에 따라 개혁을 지지합니다.;Nationalists protect the rights of the primary culture, they will support reforms depending on public opinion.;;;;;;;;;;;;;x,,,,
-nogovernment;무정부;nogovernment;nogovernment;nogovernment;brak budynk?;nogovernment;nobuilding;nobuilding;bez staveb;;;;;;x;;;;;;;;;;;;;;;;
-nogovernment_ruler;무정부;nogovernment_ruler;nogovernment_ruler;nogovernment_ruler;brakrz퉐u;nogovernment_ruler;nogovernment;nogovernment;bez vl?y;;;;;;x;;;;;;;;;;;;;;;;
-populist;대중주의;Populists;;;;;;;;;;;;;x,,,,
-populist_dictatorship;대중주의자 독재제;Nationalist Dictatorship;;;;;;;;;;;;;x,,,,
-populist_dictatorship_ruler;대통령 각하;President;;;;;;;;;;;;;x,,,,
-populist_focus;[SUB_A7]Y대중주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Ypopulist?;;;;;;;;;;;;;x,,,,
-populist_focus_short;[SUB_A7]Y대중주의자[SUB_A7]W 애당심;[SUB_A7]YPopulist? loyalty;;;;;;;;;;;;;x,,,,
-populist_rebels_army;$COUNTRY$ 자경단;$COUNTRY$ Citizen Guard;;;;;;;;;;;;;x,,,,
-populist_rebels_desc;자경단들은 어떤 대가를 치르더라도 문화적 자유를 보호하고자 하는 정부와 국가 기구의 실제적이거나 인지된 억압적인 관행에 반란을 일으킨 호전적인 대중주의자입니다. 이 혁명가들은 종파 국가와 맞서 싸우는 자신들을 진정한 의미에서 스스로를 '자유 투사'로 여깁니다.;The Citizen Guard are militant populists who have risen up in rebellion against the, real or perceived, oppressive practices of the government and the state apparatus, seeking to protect their cultural liberty whatever the cost. Fighting against the sectarian state, these revolutionaries consider themselves freedom-fighters in the true sense of the word.;;;;;;;;;;;;;x,,,,
-populist_rebels_name;$COUNTRY$ 대중주의자;$COUNTRY$ Populists;;;;;;;;;;;;;x,,,,
-populist_rebels_title;대중주의자;Populist;;;;;;;;;;;;;x,,,,
-populist_stronghold;대중주의자 근거지;Populists Stronghold;;;;;;;;;;;;;x,,,,
-populist_stronghold_desc;이 지방은 국내 대중주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of populist support within the country.;;;;;;;;;;;;;x,
-populist_uh;대중주의자들은 정치 엘리트들과 배치되는 대중을 대표하여 정치 개혁의 후퇴를 원합니다.;Populists represent the common people against a political elite, they will roll back political reforms.;;;;;;;;;;;;;x,,,,
-presidential_dictatorship;대통령 독재제;Presidential Dictatorship;Dictature pr?identielle;Pr?idiale Diktatur;;Dictadura presidencialista;;;;;;;;;x;;;;;;;;;;;;;;;;
-presidential_dictatorship_ruler;대통령 각하;President;Pr?ident;Pr?ident;;Presidente;;;;;;;;;x;;;;;;;;;;;;;;;;
-progressive;진보주의;Progressive;;;;;;;;;;;;;x,,,,
-progressive_focus;[SUB_A7]Y진보주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]YProgressive and Green parties?;;;;;;;;;;;;;x,,,,
-progressive_focus_short;[SUB_A7]Y진보주의자[SUB_A7]W 애당심;[SUB_A7]YProgressive? loyalty;;;;;;;;;;;;;x,,,,
-progressive_stronghold;진보주의자 근거지;Progressive and Green Stronghold;;;;;;;;;;;;;x,,,,
-progressive_stronghold_desc;이 지방은 국내 진보주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of progressive and green support within the country.;;;;;;;;;;;;;x,
-progressive_uh;진보주의자들은 미래에 대하여 녹색/진보적인 비전을 가지고 있어 사회 및 정치 개혁의 시행을 원합니다.;Progressive has a green progressive vision of the future, they will support political both social and political reforms.;;;;;;;;;;;;;x,,,,
-communist_social_uh;시장사회주의자들은 시장경제의 틀에서 생산수단에 대한 공공, 협동 또는 사회적 소유를 포함하는 일종의 경제체제를 옹호하는 공산주의자입니다. 시장사회주의는 시장제도를 자본 분배과 생산수단에 활용한다는 점에서 비시장사회주의와 다릅니다. 시장사회자들은 정치개혁을 지지하지 않고 사회개혁을 지지합니다.;Market socialists are communists that advocate a type of economic system involving the public, cooperative or social ownership of the means of production in the framework of a market economy. Market socialism differs from non-market socialism in that the market mechanism is utilised for the allocation of capital goods and the means of production. They will not support political reforms but will support social reforms.;;;;;;;;;;;;;x,,,,
-proletarian_dictatorship1;공산당 일당독재제;Communist Dictatorship;Dictature prol?aire;Proletarische Diktatur;;Dictadura del proletariado;;;;;;;;;x;;;;;;;;;;;;;;;;
-proletarian_dictatorship;공산당 일당독재제;Communist Dictatorship;Dictature prol?aire;Proletarische Diktatur;;Dictadura del proletariado;;;;;;;;;x;;;;;;;;;;;;;;;;
-proletarian_dictatorship1_ruler;주석 동무;Chairman;Pr?ident;Vorsitzender;;Presidente del consejo;;;;;;;;;x;;;;;;;;;;;;;;;;
-proletarian_dictatorship_ruler;서기장 동무;General Secretary;Pr?ident;Vorsitzender;;Presidente del consejo;;;;;;;;;x;;;;;;;;;;;;;;;;
-prussian_constitutionalism;반입헌군주제;Prussian Constitutionalism;Constitutionalisme prusse;Konstitutionelle Monarchie;;Constitucionalismo prusiano;;;;;;;;;x;;;;;;;;;;;;;;;;
-prussian_constitutionalism_ruler;국왕 폐하;King;Roi;K?ig;;Rey;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist;사회주의;Socialist;Socialiste;Sozialistisch;;Socialista;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist_contemporary_science;사회주의 현대 과학;Socialist Contemporary Science;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;
-socialist_focus;[SUB_A7]Y사회주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]Ysocialist? ;Loyaut?envers le parti [SUB_A7]Ysocialiste? ;Parteiloyalit? gegen?er [SUB_A7]Ysocialist? ;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist_focus_short;[SUB_A7]Y사회주의자[SUB_A7]W 애당심;[SUB_A7]YSocialist? loyalty;Loyaut?[SUB_A7]Ysocialiste?;[SUB_A7]YSozialistische? Loyalit?;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist_group;사회주의 및 공산주의 정당;Socialist & Communist parties;Partis socialistes & communistes;sozialistischen & kommunistischen Parteien;;Partidos socialistas y comunistas;;;;;;;;;x;;;;;;;;;;;;;;;;
-socialist_rebels_army;호전적 사회주의자;Militant Socialists;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
-socialist_rebels_desc;호전적 사회주의자들은 민주공화제 하에서 사회주의 정부를 수립하려 합니다. 또한 이에 그치지 않고 다른 나라에서도 사회주의 정부를 수립하려 것입니다.;In a democracy, militant conservatives will seek to enforce a socialist government. In any other country, they will seek to establish a democracy with a socialist government.;;;;;;;;;;;;x,;;;;;;;;;;;;;;;;;
-socialist_rebels_name;호전적 사회주의자;Militant Socialists;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
-socialist_rebels_title;호전적 사회주의자;Militant Socialist;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
-socialist_stronghold;사회주의자 근거지;Socialist Stronghold;;;;;;;;;;;;;x,
-socialist_stronghold_desc;이 지방은 국내 사회주의자들의 거점으로 여겨집니다.;This region is considered a stronghold of socialist support within the country.;;;;;;;;;;;;;x,
-socialist_uh;사회주의자들은 사회 개혁의 시행을 원하지만, 불만도가 높다면 정치 개혁의 후퇴를 원합니다.;Socialists want to see the enactment of further social reforms, but may back political reforms under conditions of high militancy.;Les socialistes veulent davantage de r?ormes sociales.;Sozialisten sind an zus?zlichen Sozialreformen interessiert.;;Los socialistas abogan por promulgar m? reformas sociales, pero pueden apoyar reformas pol?icas en condiciones de elevada militancia.;;;;;;;;;x;;;;;;;;;;;;;;;;
-big_tent;중도주의;Centrist Moderates;;;;;;;;x;;;;;;;;;;;;;
-communist_social;시장사회주의;Market Communists;;;;;;;;x;;;;;;;;;;;;;
-big_tent_focus;[SUB_A7]Y중도주의자[SUB_A7]W 애당심;Party loyalty towards [SUB_A7]YBig Tent parties?;;;;;;;;x;;;;;;;;;;;;;
-big_tent_focus_short;[SUB_A7]Y중도주의자[SUB_A7]W 애당심;[SUB_A7]YBig Tent? loyalty;;;;;;;;x;;;;;;;;;;;;;
-big_tent_stronghold;중도주의자 근거지;Conservative Big Tent Stronghold;;;;;;;;x;;;;;;;;;;;;;
-big_tent_stronghold_desc;이 지방은 국내 중도주의자들의 근거지입니다.;This region is considered a stronghold of coneservative support within the country.;;;;;;;;x;;;;;;;;;;;;;
-big_tent_uh;중도주의자들은 나라를 안정시키기 위해서라면 무엇이든지 합니다.;Moderates will do whatever needs to be done to keep the country stable.;;;;;;;;x;;;;;;;;;;;;;
-switch_to_traditional_academic_title;국가 연구 우선순위 수정;Revise our national research priorities;R?ablir l'acad?ie;Akademische Ausrichtung wiederherstellen;;Restauraci? de la academia;;;;;;;;;x;;;;;;;;;;;;;;;;
-switch_to_traditional_academic_desc;우리 학계 대다수는 현 학계가 지나친 관심 부족으로 인해 고통받고 있기 때문에 우리나라에 더 큰 이익을 가져다줄 수 있는 유용한 학문적 인지도로 전환해야 한다고 생각합니다.;Many within our academic circles feel that the present direction of our academia suffers from an undue lack of attention to the present needs of our nation, and that we should switch to a more useful academic profile that would bring greater practical benefits for our nation's interests.;Nombreux sont les membres des cercles acad?iques ?penser que l'orientation actuelle de notre acad?ie fait l'objet d'injustes pr?ug? et qu'il serait pr??able que nous r?doptions un profil acad?ique plus classique.;Viele Angeh?ige unserer akademischen Kreise sind der Ansicht, dass unsere aktuelle akademische Ausrichtung unter unangemessenen Vorurteilen leidet, und dass wir zu einem traditionelleren akademischen Profil zur?kkehren sollten.;;En nuestros c?culos acad?icos, muchos opinan que la direcci? actual de nuestra academia sufre de una excesiva parcialidad y que debemos volver a un perfil m? tradicional.;;;;;;;;;x;;;;;;;;;;;;;;;;
+CODE;ENGLISH;;;;;;;;;;;x
+market_communist_focus;쬨시장사회주의자쬦 애당심;;;;;;;;;;;x
+market_communist_focus_short;쬨시장사회주의자쬦 애당심;;;;;;;;;;;x
+centrist_focus;쬨중도주의자쬦 애당심;;;;;;;;;;;x
+centrist_focus_short;쬨중도주의자쬦 애당심;;;;;;;;;;;x
+market_communist_ngo_focus;쬨시장사회주의자쬦 운영 비정부기구 지원!;;;;;;;;;;;x
+market_communist_ngo_focus_short;쬨시장사회주의자쬦 운영 비정부기구 지원!;;;;;;;;;;;x
+centrist_ngo_focus;쬨중도주의자쬦 운영 비정부기구 지원!;;;;;;;;;;;x
+centrist_ngo_focus_short;쬨중도주의자쬦 운영 비정부기구 지원!;;;;;;;;;;;x
+naturalization_l;귀화;;;;;;;;;;;x
+public_education_l;공교육;;;;;;;;;;;x
+no_meetings_l;불법;;;;;;;;;;;x
+limited_meetings_l;허가증 필요;;;;;;;;;;;x
+free_meetings_l;제한 없음;;;;;;;;;;;x
+public_meetings;Public Meetings;;;;;;;;;;;x
+no_meetings;불법;;;;;;;;;;;x
+limited_meetings;허가증 필요;;;;;;;;;;;x
+free_meetings;제한 없음;;;;;;;;;;;x
+no_meetings_desc;공공 집회를 전면 금지합니다.;;;;;;;;;;;x
+limited_meetings_desc;허가를 받은 경우에 한하여 시위를 제외한 공공 결사를 허락합니다.;;;;;;;;;;;x
+free_meetings_desc;공공 집회를 전면 허용합니다.;;;;;;;;;;;x
+EVT_4431_NAME;탈세속화;;;;;;;;;;;x
+EVT_4431_DESC;새 집권정부는 통치에 있어서의 종교의 존재에 대한 규제를 완화해왔습니다. 법원의 판사들은 전통적인 도덕성에 입각해 판결을 내리기 시작했고, 예산은 종교기관에 대한 지출을 더 많이 포함하기 시작했습니다. 선교사 및 종교단체의 국가후원법이 입법됨에 따라, 오래된 정교분리 체제가 마침내 끝났다고 말할 수 있습니다.쬫;;;;;;;;;;;x
+EVT_4431_A;우리나라의 일부를 되찾았다.;;;;;;;;;;;x
+EVT_4432_NAME;정교분리;;;;;;;;;;;x
+EVT_4432_DESC;$COUNTRY$의 신정부는 출범 첫날부터 종교에 대해서 기존과 다른 태도를 가지고 있음을 분명히 했습니다. 이는 판사들의 판결 기준 변경과 종교 기관에 대한 지출 삭감으로 시작되었습니다. 국가 기관에서 특정 종교에 대한 선호를 밝히지 말라는 최근의 지침으로 인하여, 종교는 더 이상 정부의 일부가 아니라는 것이 확실해졌습니다.;;;;;;;;;;;x
+EVT_4432_A;확실하고도 진실된 전진이다.;;;;;;;;;;;x
+absolute_monarchy;전제군주제;;;;;;;;;;;x
+absolute_monarchy_ruler;국왕 폐하;;;;;;;;;;;x
+communist;공산주의;;;;;;;;;;;x
+communist_faction;공산주의 당파;;;;;;;;;;;x
+communist_focus;쬨공산주의자쬦 애당심;;;;;;;;;;;x
+communist_focus_short;쬨공산주의자쬦 애당심;;;;;;;;;;;x
+communist_rebels_army;$COUNTRY_ADJ$ 적위대;;;;;;;;;;;x
+communist_rebels_desc;적위대는 정부에 대해 공공연하게 반란을 일으키는 공산주의자들입니다. 그들은 부르주아 국가, 그리고 이를 넘어서 사회의 반동적으로 여겨지는 모든 것에 반대합니다. 이 혁명가들은 종교, 전통, 개인 재산, 가족 제도와 대비되는 '공산주의 낙원'를 원하며, 이를 위해 그 첫걸음인 '공산주의 독재제'를 설립하려 합니다.;;;;;;;;;;;x
+communist_rebels_name;$COUNTRY$ 공산주의자;;;;;;;;;;;x
+communist_rebels_title;공산주의자;;;;;;;;;;;x
+communist_stronghold;공산주의자 근거지;;;;;;;;;;;x
+communist_stronghold_desc;이 지방은 국내 공산주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+communist_uh;공산주의자들은 사회 개혁의 시행과 정치 개혁의 후퇴를 원합니다.;;;;;;;;;;;x
+conservative;보수주의;;;;;;;;;;;x
+conservative_focus;쬨보수주의자쬦 애당심;;;;;;;;;;;x
+conservative_focus_short;쬨보수주의자쬦 애당심;;;;;;;;;;;x
+conservative_group;보수주의 및 반동주의 정당;;;;;;;;;;;x
+conservative_reaction;보수주의 야당;;;;;;;;;;;x
+conservative_stronghold;보수주의자 근거지;;;;;;;;;;;x
+conservative_stronghold_desc;이 지방은 국내 보수주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+conservative_uh;보수주의자들은 현상 유지를 선호하지만, 불만도가 높다면 개혁의 모든 후퇴를 원합니다.;;;;;;;;;;;x
+democracy;공화제;;;;;;;;;;;x
+democracy1;공화제;;;;;;;;;;;x
+democracy_ruler;대통령 각하;;;;;;;;;;;x
+democracy1_ruler;대통령 각하;;;;;;;;;;;x
+colonial_government_ruler;총독 각하;;;;;;;;;;;x
+colonial_government;자치령;;;;;;;;;;;x
+socialist_democracy_ruler;제1서기 동무;;;;;;;;;;;x
+socialist_democracy;민주집중제;;;;;;;;;;;x
+mandate_government;위임통치령;;;;;;;;;;;x
+mandate_government_ruler;총독 각하;;;;;;;;;;;x
+sar_government_ruler;행정장관 각하;;;;;;;;;;;x
+sar_government;특별행정구;;;;;;;;;;;x
+hms_government1_ruler;총리 각하;;;;;;;;;;;x
+hms_government_ruler;총리 각하;;;;;;;;;;;x
+traditionalist;전통주의;;;;;;;;;;;x
+theocracy;신정제;;;;;;;;;;;x
+theocracy_ruler;신관님;;;;;;;;;;;x
+traditionalist_focus;쬨전통주의자쬦 애당심;;;;;;;;;;;x
+traditionalist_focus_short;쬨전통주의자쬦 애당심;;;;;;;;;;;x
+traditionalist_group;전통주의 정당;;;;;;;;;;;x
+islamist_rebels_army;$COUNTRY_ADJ$ 성전주의 반군;;;;;;;;;;;x
+islamist_rebels_army_desc;성전주의자는 어떤 대가를 치르더라도 문화적 자유를 보호하고자 하는 정부와 국가 기관의 실제적이거나 인지된 억압적인 관행에 반기를 든 호전적인 전통주의자입니다. 이 혁명가들은 종파 국가와 맞서 싸우는 자신들을 진정한 의미로서 '신들의 투사'라고 생각합니다.;;;;;;;;;;;x
+islamist_rebels_name;$COUNTRY$ 성전주의자;;;;;;;;;;;x
+islamist_rebels_title;성전주의자;;;;;;;;;;;x
+islamist_rebels_desc;성전주의자는 어떤 대가를 치르더라도 문화적 자유를 보호하고자 하는 정부와 국가 기관의 실제적이거나 인지된 억압적인 관행에 반기를 든 호전적인 전통주의자입니다. 이 혁명가들은 종파 국가와 맞서 싸우는 자신들을 진정한 의미에서 '신들의 투사'로 여깁니다.;;;;;;;;;;;x
+traditionalist_stronghold;전통주의자 근거지;;;;;;;;;;;x
+traditionalist_stronghold_desc;이 지방은 국내 전통주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+traditionalist_uh;전통주의자들은 신의 법을 지상의 법으로 도입하기를 원하며, 여론에 따라 개혁을 지지합니다.;;;;;;;;;;;x
+liberal;자유주의;;;;;;;;;;;x
+liberal_agitation;자유주의자 소요;;;;;;;;;;;x
+liberal_focus;쬨자유주의자쬦 애당심;;;;;;;;;;;x
+liberal_focus_short;쬨자유주의자쬦 애당심;;;;;;;;;;;x
+liberal_group;자유주의 및 아나르코자본주의 정당;;;;;;;;;;;x
+liberal_reaction;자유주의 야당;;;;;;;;;;;x
+liberal_rebels_army;공화정 수호대;;;;;;;;;;;x
+liberal_rebels_desc;자유주의 반군은 더 많은 계층을 국가 정부에 포함시키기 위해 노력하고 있습니다. 이들은 전제군주제를 입헌군주제로 바꾸기를 원하며, 동시에 민주주의를 확립하기 위해 노력합니다.;;;;;;;;;;;x
+liberal_rebels_name;급진적 자유주의자;;;;;;;;;;;x
+liberal_rebels_title;급진적 자유주의자;;;;;;;;;;;x
+liberal_stronghold;자유주의자 근거지;;;;;;;;;;;x
+liberal_stronghold_desc;이 지역방은 국내 자유주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+liberal_uh;자유주의자들은 정치 개혁의 시행만을 원하지만, 불만도가 높다면 사회 개혁의 시행도 원합니다.;;;;;;;;;;;x
+nationalist;민족주의;;;;;;;;;;;x
+nationalist_agitation;민족주의자 소요;;;;;;;;;;;x
+nationalist_dictatorship;배타적 민족주의 체제;;;;;;;;;;;x
+nationalist_dictatorship_ruler;대통령 각하;;;;;;;;;;;x
+nationalist_focus;쬨민족주의자쬦 애당심;;;;;;;;;;;x
+nationalist_focus_short;쬨민족주의자쬦 애당심;;;;;;;;;;;x
+nationalist_rebels_army;$COUNTRY$ 민족주의자;;;;;;;;;;;x
+nationalist_rebels_desc;민족주의 반군들은 $COUNTRY$의 자유를 추구합니다. 그들은 질서정연한 동시에 좋은 장비를 갖추고 있으며, 국가의 독립에 주력합니다.;;;;;;;;;;;x
+nationalist_rebels_name;$COUNTRY$ 민족주의자;;;;;;;;;;;x
+nationalist_rebels_title;민족주의자;;;;;;;;;;;x
+nationalist_stronghold;민족주의자 근거지;;;;;;;;;;;x
+nationalist_stronghold_desc;이 지역은 국내 민족주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+nationalist_uh;민족주의자들은 핵심 문화의 권리를 보호하며, 여론에 따라 개혁을 지지합니다.;;;;;;;;;;;x
+nogovernment;무정부;;;;;;;;;;;x
+nogovernment_ruler;무정부;;;;;;;;;;;x
+populist;대중주의;;;;;;;;;;;x
+populist_dictatorship;대중주의자 독재제;;;;;;;;;;;x
+populist_dictatorship_ruler;대통령 각하;;;;;;;;;;;x
+populist_focus;쬨대중주의자쬦 애당심;;;;;;;;;;;x
+populist_focus_short;쬨대중주의자쬦 애당심;;;;;;;;;;;x
+populist_rebels_army;$COUNTRY_ADJ$ 자경단;;;;;;;;;;;x
+populist_rebels_desc;자경단원들은 어떤 대가를 치르더라도 문화적 자유를 보호하고자 하는 정부와 국가 기구의 실제적이거나 인지된 억압적인 관행에 반란을 일으킨 호전적인 대중주의자입니다. 이 혁명가들은 종파 국가와 맞서 싸우는 자신들을 진정한 의미에서 스스로를 '자유 투사'로 여깁니다.;;;;;;;;;;;x
+populist_rebels_name;$COUNTRY$ 대중주의자;;;;;;;;;;;x
+populist_rebels_title;대중주의자;;;;;;;;;;;x
+populist_stronghold;대중주의자 근거지;;;;;;;;;;;x
+populist_stronghold_desc;이 지방은 국내 대중주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+populist_uh;대중주의자들은 정치 엘리트들과 대치되는 대중을 대표하여 정치 개혁의 후퇴를 원합니다.;;;;;;;;;;;x
+presidential_dictatorship;대통령 독재제;;;;;;;;;;;x
+presidential_dictatorship_ruler;대통령 각하;;;;;;;;;;;x
+progressive;진보주의;;;;;;;;;;;x
+progressive_focus;쬨진보주의자쬦 애당심;;;;;;;;;;;x
+progressive_focus_short;쬨진보주의자쬦 애당심;;;;;;;;;;;x
+progressive_stronghold;진보주의자 근거지;;;;;;;;;;;x
+progressive_stronghold_desc;이 지방은 국내 진보주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+progressive_uh;진보주의자들은 미래에 대하여 녹색/진보적인 비전을 가지고 있어 사회 및 정치 개혁의 시행을 원합니다.;;;;;;;;;;;x
+communist_social_uh;시장사회주의자들은 시장경제의 틀에서 생산수단에 대한 공공, 협동 또는 사회적 소유를 포함하는 일종의 경제체제를 옹호하는 공산주의자입니다. 시장사회주의는 시장제도를 자본 분배과 생산수단에 활용한다는 점에서 비시장사회주의와 다릅니다. 시장사회자들은 정치개혁을 지지하지 않고 사회개혁을 지지합니다.;;;;;;;;;;;x
+proletarian_dictatorship1;공산당 일당독재제;;;;;;;;;;;x
+proletarian_dictatorship;공산당 일당독재제;;;;;;;;;;;x
+proletarian_dictatorship1_ruler;주석 동무;;;;;;;;;;;x
+proletarian_dictatorship_ruler;서기장 동무;;;;;;;;;;;x
+prussian_constitutionalism;반입헌군주제;;;;;;;;;;;x
+prussian_constitutionalism_ruler;국왕 폐하;;;;;;;;;;;x
+socialist;사회주의;;;;;;;;;;;x
+socialist_contemporary_science;사회주의 현대 과학;;;;;;;;;;;x
+socialist_focus;쬨사회주의자쬦 애당심;;;;;;;;;;;x
+socialist_focus_short;쬨사회주의자쬦 애당심;;;;;;;;;;;x
+socialist_group;사회주의 및 공산주의 정당;;;;;;;;;;;x
+socialist_rebels_army;호전적 사회주의 반군;;;;;;;;;;;x
+socialist_rebels_desc;호전적 사회주의자들은 독재제 하에서 사회민주주의 정부를 수립하려 합니다. 사회민주주의 정부라면, 사회주의 정부를 수립하려 할 것입니다.;;;;;;;;;;;x
+socialist_rebels_name;호전적 사회주의자;;;;;;;;;;;x
+socialist_rebels_title;호전적 사회주의자;;;;;;;;;;;x
+anti_colonial_rebels_army;반식민주의 반군;;;;;;;;;;;x
+anti_colonial_rebels_desc;반식민주의 반군은 외세의 지배로부터 모국의 독립을 추구합니다. 이들은 공동의 대의명분인 독립을 위해 투쟁하는 민족주의 정파들의 연합체입니다.;;;;;;;;;;;x
+anti_colonial_rebels_name;반식민주의 반군;;;;;;;;;;;x
+anti_colonial_rebels_title;반식민주의 반군;;;;;;;;;;;x
+sectarian_rebels_army;종파주의 무장단체;;;;;;;;;;;x
+sectarian_rebels_desc;종파주의 무장단체는 주요문화와 수용문화의 기득권을 보호하는 분리주의 정부를 수립하기를 원합니다.;;;;;;;;;;;x
+sectarian_rebels_name;종파주의자 투사;;;;;;;;;;;x
+sectarian_rebels_title;종파주의자 투사;;;;;;;;;;;x
+royalist_rebels_army;복벽주의자 반군;;;;;;;;;;;x
+royalist_rebels_desc;복벽주의자는 왕정복고를 지지합니다.;;;;;;;;;;;x
+royalist_rebels_name;복벽주의자 반군;;;;;;;;;;;x
+royalist_rebels_title;복벽주의자 반군;;;;;;;;;;;x
+militant_environmentalists_army;호전적 환경운동가;;;;;;;;;;;x
+militant_environmentalists_desc;호전적 환경운동가는 정부가 기후변화를 막기 위한 충분한 조치를 취하지 않고 있다고 느끼는 급진적 진보주의자입니다. 따라서 그들은 정부가 녹색정책을 시행하도록 강제하기 위해 권력을 자신들의 손에 넣기로 결정했습니다.;;;;;;;;;;;x
+militant_environmentalists_name;호전적 환경운동가;;;;;;;;;;;x
+militant_environmentalists_title;호전적 환경운동가;;;;;;;;;;;x
+socialist_stronghold;사회주의자 근거지;;;;;;;;;;;x
+socialist_stronghold_desc;이 지방은 국내 사회주의자들의 거점으로 여겨집니다.;;;;;;;;;;;x
+socialist_uh;사회주의자들은 사회 개혁의 시행을 원하지만, 불만도가 높다면 정치 개혁의 후퇴를 원합니다.;;;;;;;;;;;x
+big_tent;중도주의;;;;;;;;;;;x
+communist_social;시장사회주의;;;;;;;;;;;x
+big_tent_focus;쬨중도주의자쬦 애당심;;;;;;;;;;;x
+big_tent_focus_short;쬨중도주의자쬦 애당심;;;;;;;;;;;x
+big_tent_stronghold;중도주의자 근거지;;;;;;;;;;;x
+big_tent_stronghold_desc;이 지방은 국내 중도주의자들의 근거지입니다.;;;;;;;;;;;x
+big_tent_uh;중도주의자들은 나라를 안정시키기 위해서라면 무엇이든지 합니다.;;;;;;;;;;;x
+switch_to_traditional_academic_title;국가 연구 우선순위 수정;;;;;;;;;;;x
+switch_to_traditional_academic_desc;우리 학계 대다수는 현 학계가 지나친 관심 부족으로 인해 고통받고 있기 때문에 우리나라에 더 큰 이익을 가져다줄 수 있는 유용한 학문적 인지도로 전환해야 한다고 생각합니다.;;;;;;;;;;;x

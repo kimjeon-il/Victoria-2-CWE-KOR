@@ -1,44 +1,44 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-manchurian_programme1_title;상대 초강대국에 대한 잠자는 첩보원 계획 착수;Initiate a Sleeper Agent Program in Rival Superpower;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme2_title;잠자는 첩보원들에게 상대 초강대국 기업 침투 명령;Direct Sleeper Agents to Infiltrate Corporate Sector in Rival Superpower;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme3_title;잠자는 첩보원들에게 상대 초강대국 정부 침투 명령;Direct Sleeper Agents to Infiltrate Government of Rival Superpower;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme4_title;상대 초강대국에 정변 사주;Attempt a Palace Coup d'?at in Rival Superpower;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme1_desc;잠자는 요원은 대상 국가나 조직에 배치되어 즉시 임무를 수행하지 않고 의심받을 행동을 하지 않으며 지내는 요원을 말합니다. 활동은 없더라도 '잠자는 요원'은 여전히 자산이고, 활성화되면 행동하기로 합의해 진정, 반역, 첩보 활동에 적극적인 역할을 하고 있습니다.;A sleeper agent is a spy who is placed in a target country or organisation not to undertake an immediate mission but to act as a potential asset if activated. Even if unactivated, the "sleeper agent" is still an asset and is still playing an active role in sedition, treason or espionage by virtue of agreeing to act if activated.;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme2_desc;잠자는 요원은 대상 국가나 조직에 배치되어 즉시 임무를 수행하지 않고 의심받을 행동을 하지 않으며 지내는 요원을 말합니다. 활동은 없더라도 '잠자는 요원'은 여전히 자산이고, 활성화되면 행동하기로 합의해 진정, 반역, 첩보 활동에 적극적인 역할을 하고 있습니다.;An agent of influence is an agent of some stature who uses his or her position to influence public opinion or decision making to produce results beneficial to the country whose intelligence service operates the agent. Agents of influence are often the most difficult agents to detect, as there is seldom material evidence that connects them with a foreign power, but they can be among the most effective means of influencing foreign opinion and actions as they hold considerable credibility among the target audience.;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme3_desc;잠자는 요원은 대상 국가나 조직에 배치되어 즉시 임무를 수행하지 않고 의심받을 행동을 하지 않으며 지내는 요원을 말합니다. 활동은 없더라도 '잠자는 요원'은 여전히 자산이고, 활성화되면 행동하기로 합의해 진정, 반역, 첩보 활동에 적극적인 역할을 하고 있습니다.;An agent of influence is an agent of some stature who uses his or her position to influence public opinion or decision making to produce results beneficial to the country whose intelligence service operates the agent. Agents of influence are often the most difficult agents to detect, as there is seldom material evidence that connects them with a foreign power, but they can be among the most effective means of influencing foreign opinion and actions as they hold considerable credibility among the target audience.;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme4_desc;잠자는 요원들이 상대국의 경제 및 정치 분야 내부에 성공적으로 침투했기 때문에, 괴뢰 지도부를 세우는 작전에 착수할 수 있습니다. 하지만 성공하지 못한다면 우리나라의 국제적 지위에 해를 끼칠 것입니다.;As our sleeper agents have managed to infiltrate the inner circle of both the Economic and Political Sector, they are now in a position to launch an operation to install a puppet leader in the rival superpower to inflict maximum chaos on the nation. They may not succeed though and a failed operation will be highly detrimental to our nation's international standing.;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme1;상대 초강대국에 잠자는 첩보원 침투 중;Planting sleeper agents in rival superpower;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme2;잠자는 첩보원들의 상대 초강대국 기업 침투;Sleeper agents infiltrating the corporate sector of rival superpower;;;;;;;;x;;;;;;;;;;;;;
-manchurian_programme3;잠자는 첩보원들의 상대 초강대국 정부 침투;Sleeper agents infiltrating the political ccene of rival superpower;;;;;;;;x;;;;;;;;;;;;;
-MANCAN_RESULT_NAME;만주국 후보자;Manchurian Candidate program;;;;;;;;;;x
-MANCAN_RESULT_DESC;만주국 후보자는 만주사변으로 세워진 괴뢰국인 만주국에서 따온 말로, 꼭두각시 또는 괴뢰를 뜻합니다. 우리 요원들은 상대 초강대국에 친$COUNTRY$ 성향을 가진 독재자를 세우려 합니다.;Our agents are now attempting to install a pro-$COUNTRY$ dictator in the rival superpower.;;;;;;;;;;x
-MANCAN_RESULT_A;결과를 보자고!;Let's see the result!;;;;;;;;;;x
-MANCAN_WIN_NAME;만주국 후보자 계획 성공;Manchurian Candidate succeeds;;;;;;;;;;x
-MANCAN_WIN_DESC;잠자는 요원들이 우리의 '만주국 후보자'를 상대 초강대국의 지도자로 세워주었습니다. 그는 이제 상대 초강대국에 가능한 한 많은 혼란을 줄 것입니다.;Our sleeper agents planted in the upper strata of society have enabled our "Manchurian Candidate" to become the leader of their nation. He will now inflict as much chaos as possible on the rival superpower.;;;;;;;;;;x
-MANCAN_WIN_A;대단해!;Terrific!;;;;;;;;;;x
-MANCAN_LOSE_NAME;만주국 후보자 계획 실패;Manchurian Candidate fails;;;;;;;;;;x
-MANCAN_LOSE_DESC;그들의 정부를 장악하려던 시도가 이중 첩자의 제보로 인해 실패했습니다. 우리 요원들은 체포당했으며, 우리나라 또한 이 음모에 철저히 연루되어 있습니다.;Our attempt to sieze control of their government has failed due to a tip-off by a double agent. Our agents were apprehended and our country has been throughly implicated in the plot.;;;;;;;;;;x
-MANCAN_LOSE_A;끔찍해!;Terrible!;;;;;;;;;;x
-MANCAN_1_NAME;새 미치광이 $MONARCHTITLE$;Our new $MONARCHTITLE$ is crazy;;;;;;;;;;x
-MANCAN_1_DESC;우리나라의 새 지도자는 행동의 기준에 줏대가 없고 불규칙한 것 같습니다. 정부의 신뢰도는 심각하게 떨어졌으며 여러 국민들이 이에 항의하고 있습니다.;Our nation's new leader is apparently quite erratic in his behaviour. This has severly undermined the government's credibility and people are now protesting against his administration;;;;;;;;;;x
-MANCAN_2_NAME;$MONARCHTITLE$에 대한 탄핵 항의;Protest to impeach $MONARCHTITLE$;;;;;;;;;;x
-MANCAN_2_DESC;우리나라의 통수권자가 권력을 남용하고 우스꽝스러운 짓을 한다는 이유로 탄핵 요구에 직면했습니다.;Our national leader has been caught abusing his power and doing ludicrously stupid things such that he is now facing demands for his impeachment.;;;;;;;;;;x
-MANCAN_2_A;우리 $MONARCHTITLE$(은)는 진정한 어릿광대이시다!;Our $MONARCHTITLE$ is truly a buffoon!;;;;;;;;;;x
-MANCAN_3_NAME;$MONARCHTITLE$의 계엄령 선포;$MONARCHTITLE$ declares martial law;;;;;;;;;;x
-MANCAN_3_DESC;우리나라의 통수권자께서 탄핵을 막고 질서를 회복한다는 명목으로 계엄령을 선포하고 민주주의 제도를 중단시켰습니다.;Our national leader, in order to prevent his impeachment and restore order, declares martial law on the nation to suspending the our country's democratic institutions. This was bizzarely not stopped by the nation's power brokers.;;;;;;;;;;x
-MANCAN_3_A;민주주의에 대한 도전이다!;This is a blow against democracy!;;;;;;;;;;x
-MANCAN_4_NAME;$COUNTRY$ 내전 발발!;A civil war in $COUNTRY$!;;;;;;;;;;x
-MANCAN_4_DESC;여러 주들이 독립을 원하며, 대중들은 현 정부를 믿지 않습니다. 이는 이윽고 본격적인 내전으로 번졌습니다.;Various states in our nation have sought to break free, and public confidence in the current government has collasped, causing a full-scale civil war.;;;;;;;;;;x
-MANCAN_4_A;분리독립을 봐줄 수는 없다!;We must stop this secession!;;;;;;;;;;x
-MANCAN_5_NAME;$FROMCOUNTRY$에게서 $COUNTRY$ 독립!;$COUNTRY$ breaks free from $FROMCOUNTRY$!;;;;;;;;;;x
-MANCAN_5_DESC;$FROMCOUNTRY$의 민주주의가 손상될 것을 우려한 $COUNTRY$(은)는 점점 더 혼란스러워지는 정국을 틈타 독립하기로 결정했습니다.;$COUNTRY$, fearing the loss of democracy in $FROMCOUNTRY$, has decided to secede to be a democractic nation free from the increasingly chaotic state of affairs in $FROMCOUNTRY$.;;;;;;;;;;x
-MANCAN_5_A;자유!;Liberty!;;;;;;;;;;x
-MANCAN_FOIL_NAME;$FROMCOUNTRY$의 음모 실패!;$FROMCOUNTRY$'s conspiracy foiled!;;;;;;;;;;x
-MANCAN_FOIL_DESC;$FROMCOUNTRY$(은)는 잠자는 요원을 이용하여 우리 정부의 통제력을 훼손하려 했습니다. 고맙게도 우리 정보요원들이 그 음모를 찾아내준 덕분에 제때에 상대 요원을 체포할 수 있었습니다.;$FROMCOUNTRY$ attempted to undermine and seize control of our government with sleeper agents. Thankfully, our intelligence agents were able to discover the plot and apprehend the agents in time.;;;;;;;;;;x
-MANCAN_FOIL_A;악몽이나 다름없군!;A nightmare averted!;;;;;;;;;;x
-MANCAN_CSA_NAME;남부맹방의 확장;Enlargement of the CSA;;;;;;;;;;x
-MANCAN_CSA_DESC;더 많은 옛 남부맹방 지역들이 $COUNTRY$에 재가입하여 양키에 대항하는 자유 투쟁에 참여하기로 결정했습니다.;More former Confederate territories have decided to rejoin $COUNTRY$ and the fight for freedom against the Yanks.;;;;;;;;;;x
-MANCAN_CSA_A;남부는 떠오른다!;The South has risen!;;;;;;;;;;x
-MANCAN_UN_NAME;국제연합 본부 $CAPITAL$(으)로 이전;UN Headquarters Relocates to $CAPITAL$;;;;;;;;;;x
-MANCAN_UN_DESC;$FROMCOUNTRY$의 정치 상황으로 인해 위험을 느낀 국제연합은 $CAPITAL$의 중심가에 있는 건물로 본부를 영구 이전할 것을 요청했습니다.;Due to existential danger caused by the political situation in $FROMCOUNTRY$, the United Nations have humbly requested to relocate to a building in the center of $CAPITAL$ - permanently.;;;;;;;;;;x
-MANCAN_UN_A;물론. 그들은 자유의 보루를 선택했다.;Of course. They have chosen a bastion of freedom.;;;;;;;;;;x
+CODE;ENGLISH;;;;;;;;;;;x
+manchurian_programme1_title;상대 초강대국에 대한 잠복 첩보원 계획 착수;;;;;;;;;;;x
+manchurian_programme2_title;잠복 첩보원들에게 상대 초강대국 기업 침투 명령;;;;;;;;;;;x
+manchurian_programme3_title;잠복 첩보원들에게 상대 초강대국 정부 침투 명령;;;;;;;;;;;x
+manchurian_programme4_title;상대 초강대국에 정변 사주;;;;;;;;;;;x
+manchurian_programme1_desc;잠복 첩보원은 대상 국가나 조직에 배치돼 즉시 임무를 수행하지 않고 의심받을 행동을 하지 않으며 지내는 요원을 말합니다. 활동은 없더라도 '잠복 첩보원'은 여전히 자산이고, 활성화되면 행동하기로 합의해 진정, 반역, 첩보 활동에 적극적인 역할을 하고 있습니다.;;;;;;;;;;;x
+manchurian_programme2_desc;잠복 첩보원은 대상 국가나 조직에 배치돼 즉시 임무를 수행하지 않고 의심받을 행동을 하지 않으며 지내는 요원을 말합니다. 활동은 없더라도 '잠복 첩보원'은 여전히 자산이고, 활성화되면 행동하기로 합의해 진정, 반역, 첩보 활동에 적극적인 역할을 하고 있습니다.;;;;;;;;;;;x
+manchurian_programme3_desc;잠복 첩보원은 대상 국가나 조직에 배치돼 즉시 임무를 수행하지 않고 의심받을 행동을 하지 않으며 지내는 요원을 말합니다. 활동은 없더라도 '잠복 첩보원'은 여전히 자산이고, 활성화되면 행동하기로 합의해 진정, 반역, 첩보 활동에 적극적인 역할을 하고 있습니다.;;;;;;;;;;;x
+manchurian_programme4_desc;잠복 첩보원들이 상대국의 경제 및 정치 분야 내부에 성공적으로 침투했기 때문에, 괴뢰 지도부를 세우는 작전에 착수할 수 있습니다. 하지만 성공하지 못한다면 우리나라의 국제적 지위에 해를 끼칠 것입니다.;;;;;;;;;;;x
+manchurian_programme1;상대 초강대국에 잠복 첩보원 침투 중;;;;;;;;;;;x
+manchurian_programme2;잠복 첩보원들의 상대 초강대국 기업 침투;;;;;;;;;;;x
+manchurian_programme3;잠복 첩보원들의 상대 초강대국 정부 침투;;;;;;;;;;;x
+MANCAN_RESULT_NAME;만주국 후보자;;;;;;;;;;;x
+MANCAN_RESULT_DESC;만주국 후보자는 만주사변으로 세워진 괴뢰국인 만주국에서 따온 말로, 꼭두각시 또는 괴뢰를 뜻합니다. 우리 요원들은 상대 초강대국에 친$COUNTRY$ 성향을 가진 독재자를 세우려 합니다.;;;;;;;;;;;x
+MANCAN_RESULT_A;결과를 보자고!;;;;;;;;;;;x
+MANCAN_WIN_NAME;만주국 후보자 계획 성공;;;;;;;;;;;x
+MANCAN_WIN_DESC;잠복 첩보원들이 우리의 '만주국 후보자'를 상대 초강대국의 지도자로 세워주었습니다. 그는 이제 상대 초강대국에 가능한 한 많은 혼란을 줄 것입니다.;;;;;;;;;;;x
+MANCAN_WIN_A;대단해!;;;;;;;;;;;x
+MANCAN_LOSE_NAME;만주국 후보자 계획 실패;;;;;;;;;;;x
+MANCAN_LOSE_DESC;그들의 정부를 장악하려던 시도가 이중 첩자의 제보로 인해 실패했습니다. 우리 요원들은 체포당했으며, 우리나라 또한 이 음모에 철저히 연루돼 있습니다.;;;;;;;;;;;x
+MANCAN_LOSE_A;끔찍해!;;;;;;;;;;;x
+MANCAN_1_NAME;새 미치광이 $MONARCHTITLE$;;;;;;;;;;;x
+MANCAN_1_DESC;우리나라의 새 지도자는 행동의 기준에 줏대가 없고 불규칙한 것 같습니다. 정부의 신뢰도는 심각하게 떨어졌으며 여러 국민들이 이에 항의하고 있습니다.;;;;;;;;;;;x
+MANCAN_2_NAME;$MONARCHTITLE$에 대한 탄핵 항의;;;;;;;;;;;x
+MANCAN_2_DESC;우리나라의 통수권자가 권력을 남용하고 우스꽝스러운 짓을 한다는 이유로 탄핵 요구에 직면했습니다.;;;;;;;;;;;x
+MANCAN_2_A;우리 $MONARCHTITLE$(은)는 진정한 어릿광대이시다!;;;;;;;;;;;x
+MANCAN_3_NAME;$MONARCHTITLE$의 계엄령 선포;;;;;;;;;;;x
+MANCAN_3_DESC;우리나라의 통수권자께서 탄핵을 막고 질서를 회복한다는 명목으로 계엄령을 선포하고 민주주의 제도를 중단시켰습니다.;;;;;;;;;;;x
+MANCAN_3_A;민주주의에 대한 도전이다!;;;;;;;;;;;x
+MANCAN_4_NAME;$COUNTRY$ 내전 발발!;;;;;;;;;;;x
+MANCAN_4_DESC;여러 주들이 독립을 원하며, 대중들은 현 정부를 믿지 않습니다. 이는 이윽고 본격적인 내전으로 번졌습니다.;;;;;;;;;;;x
+MANCAN_4_A;분리독립을 봐줄 수는 없다!;;;;;;;;;;;x
+MANCAN_5_NAME;$FROMCOUNTRY$에게서 $COUNTRY$ 독립!;;;;;;;;;;;x
+MANCAN_5_DESC;$FROMCOUNTRY$의 민주주의가 손상될 것을 우려한 $COUNTRY$(은)는 점점 더 혼란스러워지는 정국을 틈타 독립하기로 결정했습니다.;;;;;;;;;;;x
+MANCAN_5_A;자유!;;;;;;;;;;;x
+MANCAN_FOIL_NAME;$FROMCOUNTRY$의 음모 실패!;;;;;;;;;;;x
+MANCAN_FOIL_DESC;$FROMCOUNTRY$(은)는 잠복 첩보원을 이용해 우리 정부의 통제력을 훼손하려 했습니다. 고맙게도 우리 정보요원들이 그 음모를 찾아내준 덕분에 제때에 상대 요원을 체포할 수 있었습니다.;;;;;;;;;;;x
+MANCAN_FOIL_A;악몽이나 다름없군!;;;;;;;;;;;x
+MANCAN_CSA_NAME;남부연합국의 확장;;;;;;;;;;;x
+MANCAN_CSA_DESC;더 많은 옛 남부연합국 지역들이 $COUNTRY$에 다시 합류해 양키에 대항하는 자유 투쟁에 참여하기로 결정했습니다.;;;;;;;;;;;x
+MANCAN_CSA_A;남부는 떠오른다!;;;;;;;;;;;x
+MANCAN_UN_NAME;국제연합 본부 $CAPITAL$(으)로 이전;;;;;;;;;;;x
+MANCAN_UN_DESC;$FROMCOUNTRY$의 정치 상황으로 인해 위험을 느낀 국제연합은 $CAPITAL$의 중심가에 있는 건물로 본부를 영구 이전할 것을 요청했습니다.;;;;;;;;;;;x
+MANCAN_UN_A;물론. 그들은 자유의 보루를 선택했다.;;;;;;;;;;;x

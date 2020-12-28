@@ -1,13 +1,13 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-proxy_involvement;인접국 내전 당사국;Currently Involved in a nearby civil war;;;;;;;;x;;;;;;;;;;;;;
-support_rebels;반군 지원국;Foreign Powers backing rebels;;;;;;;;x;;;;;;;;;;;;;
-support_government;정부군 지원국;Foreign Powers backing the Government;;;;;;;;x;;;;;;;;;;;;;
-support_called;초강대국 원조 요청;Called for Superpower Aid;;;;;;;;x;;;;;;;;;;;;;
-crisis_timer;대리전 분쟁 지속중;Proxy War Crisis Ongoing;;;;;;;;x;;;;;;;;;;;;;
-stalemate;국제연합의 개입;United Nations Intervention in our Country;;;;;;;;x;;;;;;;;;;;;;
-support_rebels_title;인접국 반군 지원;Support rebels in Neighbouring Country;;;;;;;;x;;;;;;;;;;;;;
-support_government_title;인접국 정부군 지원;Support Government of Neighbouring Country Currently Facing Civil Strife;;;;;;;;x;;;;;;;;;;;;;
-support_rebels_desc;대리전은 두 국가 또는 비국가 주체(예:반군, 테러 단체) 간의 갈등으로, 핵심 정의는 그 분쟁에 자신들의 이익이나 상대국의 견제를 위하여 둘 이상의 강대국이 개입한 분쟁을 말합니다. 이는 종종 두 나라가 상대방의 동맹국들과 싸우거나 그들의 동맹국들을 도와 상대와 싸우는 행위 또한 포함합니다.;A proxy war is a conflict between two states or non-state actors where neither entity directly engages the other. While this can encompass a breadth of armed confrontation, its core definition hinges on two separate powers utilising external strife to somehow attack the interests or territorial holdings of the other. This frequently involves both countries fighting their opponent's allies, or assisting their allies in fighting their opponent.;;;;;;;;x;;;;;;;;;;;;;
-support_government_desc;대리전은 두 국가 또는 비국가 주체(예:반군, 테러 단체) 간의 갈등으로, 핵심 정의는 그 분쟁에 자신들의 이익이나 상대국의 견제를 위하여 둘 이상의 강대국이 개입한 분쟁을 말합니다. 이는 종종 두 나라가 상대방의 동맹국들과 싸우거나 그들의 동맹국들을 도와 상대와 싸우는 행위 또한 포함합니다.;A proxy war is a conflict between two states or non-state actors where neither entity directly engages the other. While this can encompass a breadth of armed confrontation, its core definition hinges on two separate powers utilising external strife to somehow attack the interests or territorial holdings of the other. This frequently involves both countries fighting their opponent's allies, or assisting their allies in fighting their opponent.;;;;;;;;x;;;;;;;;;;;;;
-international_support_title;초강대국에 원조 요청;Request Superpower Intervention in Regional Proxy War;;;;;;;;x;;;;;;;;;;;;;
-international_support_desc;대리전은 두 국가 또는 비국가 주체(예:반군, 테러 단체) 간의 갈등으로, 핵심 정의는 그 분쟁에 자신들의 이익이나 상대국의 견제를 위하여 둘 이상의 강대국이 개입한 분쟁을 말합니다. 이는 종종 두 나라가 상대방의 동맹국들과 싸우거나 그들의 동맹국들을 도와 상대와 싸우는 행위 또한 포함합니다.;A proxy war is a conflict between two states or non-state actors where neither entity directly engages the other. While this can encompass a breadth of armed confrontation, its core definition hinges on two separate powers utilising external strife to somehow attack the interests or territorial holdings of the other. This frequently involves both countries fighting their opponent's allies, or assisting their allies in fighting their opponent.;;;;;;;;x;;;;;;;;;;;;;
+CODE;ENGLISH;;;;;;;;;;;x
+proxy_involvement;인접국 내전 당사국;;;;;;;;;;;x
+support_rebels;반군 지원국;;;;;;;;;;;x
+support_government;정부군 지원국;;;;;;;;;;;x
+support_called;초강대국 원조 요청;;;;;;;;;;;x
+crisis_timer;대리전 분쟁 지속중;;;;;;;;;;;x
+stalemate;국제연합의 개입;;;;;;;;;;;x
+support_rebels_title;인접국 반군 지원;;;;;;;;;;;x
+support_government_title;인접국 정부군 지원;;;;;;;;;;;x
+support_rebels_desc;대리전은 두 국가 또는 비국가 주체(예:반군, 테러 단체) 간의 갈등으로, 핵심 정의는 그 분쟁에 자신들의 이익이나 상대국의 견제를 위하여 둘 이상의 강대국이 개입한 분쟁을 말합니다. 이는 종종 두 나라가 상대방의 동맹국들과 싸우거나 그들의 동맹국들을 도와 상대와 싸우는 행위 또한 포함합니다.;;;;;;;;;;;x
+support_government_desc;대리전은 두 국가 또는 비국가 주체(예:반군, 테러 단체) 간의 갈등으로, 핵심 정의는 그 분쟁에 자신들의 이익이나 상대국의 견제를 위하여 둘 이상의 강대국이 개입한 분쟁을 말합니다. 이는 종종 두 나라가 상대방의 동맹국들과 싸우거나 그들의 동맹국들을 도와 상대와 싸우는 행위 또한 포함합니다.;;;;;;;;;;;x
+international_support_title;초강대국에 원조 요청;;;;;;;;;;;x
+international_support_desc;대리전은 두 국가 또는 비국가 주체(예:반군, 테러 단체) 간의 갈등으로, 핵심 정의는 그 분쟁에 자신들의 이익이나 상대국의 견제를 위하여 둘 이상의 강대국이 개입한 분쟁을 말합니다. 이는 종종 두 나라가 상대방의 동맹국들과 싸우거나 그들의 동맹국들을 도와 상대와 싸우는 행위 또한 포함합니다.;;;;;;;;;;;x

@@ -1,0 +1,57 @@
+CODE;ENGLISH;;;;;;;;;;;x
+USA;아메리카 합중국;;;;;;;;;;;x
+USA_presidential_dictatorship;아메리카 합중국;;;;;;;;;;;x
+USA_nationalist_dictatorship;아메리카국;;;;;;;;;;;x
+USA_populist_dictatorship;아메리카 국가연합;;;;;;;;;;;x
+USA_socialist_democracy;아메리카 연맹;;;;;;;;;;;x
+USA_theocracy;아메리카 기독공화국;;;;;;;;;;;x
+USA_democracy;아메리카 합중국;;;;;;;;;;;x
+USA_absolute_monarchy;아메리카 왕국;;;;;;;;;;;x
+USA_hms_government;아메리카 왕국;;;;;;;;;;;x
+USA_proletarian_dictatorship;아메리카 연맹;;;;;;;;;;;x
+CNG;콩고;;;;;;;;;;;x
+CNG_democracy;콩고 민주공화국;;;;;;;;;;;x
+CNG_democracy1;콩고 공화국;;;;;;;;;;;x
+CNG_nationalist_dictatorship;자이르 공화국;;;;;;;;;;;x
+CNG_populist_dictatorship;자이르 공화국;;;;;;;;;;;x
+CNG_proletarian_dictatorship;자이르 인민공화국;;;;;;;;;;;x
+CNG_proletarian_dictatorship1;콩고 인민공화국;;;;;;;;;;;x
+CNG_socialist_democracy;콩고 인민공화국;;;;;;;;;;;x
+CNG_presidential_dictatorship;콩고 공화국;;;;;;;;;;;x
+CNG_theocracy;자이르국;;;;;;;;;;;x
+CNG_hms_government;콩고 자유국;;;;;;;;;;;x
+CNG_colonial_government;콩고;;;;;;;;;;;x
+rusyn;루신;;;;;;;;;;;x
+nationalize_title;$COUNTRY$ 내 외국 자본 전면 국유화;;;;;;;;;;;x
+liberal_rebels_name;$COUNTRY$ 민주주의 반군;;;;;;;;;;;x
+islamist_rebels_name;$COUNTRY$ 급진 근본주의 반군;;;;;;;;;;;x
+communist_rebels_name;$COUNTRY$ 공산혁명군;;;;;;;;;;;x
+populist_rebels_name;$COUNTRY$ 대중주의 반군;;;;;;;;;;;x
+reactionary_rebels_name;$COUNTRY$ 백군;;;;;;;;;;;x
+liberal_rebels_title;민주주의 반군;;;;;;;;;;;x
+islamist_rebels_title;급진 근본주의 반군;;;;;;;;;;;x
+communist_rebels_title;공산혁명군;;;;;;;;;;;x
+populist_rebels_title;대중주의 반군;;;;;;;;;;;x
+reactionary_rebels_title;백군;;;;;;;;;;;x
+liberal_rebels_army;$COUNTRY_ADJ$ 민주주의 반군;;;;;;;;;;;x
+islamist_rebels_army;$COUNTRY_ADJ$ 급진 근본주의 반군;;;;;;;;;;;x
+communist_rebels_army;$COUNTRY_ADJ$ 공산혁명군;;;;;;;;;;;x
+populist_rebels_army;$COUNTRY_ADJ$ 대중주의 반군;;;;;;;;;;;x
+reactionary_rebels_army;$COUNTRY_ADJ$ 백군;;;;;;;;;;;x
+new_zealander;백인계 뉴질랜드;;;;;;;;;;;x
+RHO;로디지아;;;;;;;;;;;x
+RHO_ADJ;로디지아령;;;;;;;;;;;x
+RHO_hms_government;남로디지아;;;;;;;;;;;x
+RHO_hms_government_ADJ;남로디지아령;;;;;;;;;;;x
+RHO_hms_government1;남로디지아;;;;;;;;;;;x
+RHO_hms_government1_ADJ;남로지디아령;;;;;;;;;;;x
+RHO_absolute_monarchy;남로디지아;;;;;;;;;;;x
+RHO_absolute_monarchy_ADJ;남로디지아령;;;;;;;;;;;x
+RHO_colonial_government;남로디지아;;;;;;;;;;;x
+RHO_colonial_government_ADJ;남로디지아령;;;;;;;;;;;x
+RHO_mandate_government;남로디지아;;;;;;;;;;;x
+RHO_mandate_government_ADJ;남로디지아령;;;;;;;;;;;x
+pan_nationalist_rebels_army;$UNION_ADJ$ 범민족주의 반군;;;;;;;;;;;x
+pan_nationalist_rebels_name;$UNION_ADJ$ 범민족주의 반군;;;;;;;;;;;x
+pan_nationalist_rebels_title;$UNION_ADJ$ 범민족주의 반군;;;;;;;;;;;x
+DIPLOMACY_CIVILIZEDNATION_STATUS;약소국;;;;;;;;;;;x

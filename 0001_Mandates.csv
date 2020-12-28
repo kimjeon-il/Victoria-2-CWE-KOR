@@ -1,16 +1,16 @@
-ALW_conservative;대시리아당;Greater Syria Party;x
-ALW_nationalist;알라위 신시대;New Alawite Dynasty;x
-ALW_colonial_government;알라위국;Alawite State;x
-LEB_colonial_government;대레바논;Greater Lebanon;x
-ALW;알라위;Alawite;x
-ALW_ADJ;알라위령;Northern Syrian;x
-french_syria_redrawn_title;시리아 연방 위임통치령;Federalise Syrian Mandate;x
-french_syria_redrawn_desc;1930년까지 알레포와 다마스쿠스를 포함한 대부분의 시리아를 연방화하는데 성공했습니다. 이제 시아파와 드루즈교로 확대해봅시다.;Most of Syria up until 1930 was Federalised following different Mandate reforms uniting the State of Aleppo and the State of Damascus, let us extend this to the Shia and Druze states.;x
-EVT_99977_NAME;시리아 통합;Syrian Unification;x
-EVT_99977_DESC;프랑스 제국의 지배를 받고난 지금이 모국인 시리아에 합류할 때입니다. 지방 사람들 대부분은 이 방법이 식민주의를 줄이면서 세속적인 민주주의와 우리 국민들을 위한 목소리를 보장하는 최선의 방법이라는 데 동의하지만, 동시에 우리의 자치 또한 제한할 것입니다.;After years under French Imperial control, it is our nations time to once again join our mother state of Syria. Most country fellows agree this is best to ensure secular democracy and a voice for our people while lessening colonialism, however, this will limit our self rule.;x
-EVT_99978_NAME;시리아-레바논 세속공화국;Syrian-Lebanese Secular Republic;x
-EVT_99978_DESC;프랑스의 시리아 통합 시도를 접한 외무부 장관들이 가입을 권고했습니다. 권고에 따른다면 위임통치령 정부에서 발언권을 얻겠지만, 베이루트(레바논의 수도)만큼은 아닙니다. 그러므로 기독교인들은 이 목적을 위해 흥분하지 않을 것입니다.;Hearing of the French attempt to unify Syria, foreign ministers recommend we join the proposed state due to our shared heritage. This would give Maronites a say in the government but not to the same extent we currently possess in Beirut. Therefore, the Christian populations will not be excited undertaking this endevour.;x
-EVT_99977_A;알라께서 새 시리아를 내려주셨도다!;Let Allah bless this New Syria!;x
-EVT_99977_B;자치는 절대 사람을 해치지 않는다.;Self rule never hurt a man.;x
-EVT_99977_A;회의적인 태도로 접근해야지, 부정하는거 말고.;Approach with skepticism, not denial.;x
-EVT_99977_B;레바논은 반드시 기독교 국가가 될 것이다.;Lebanon will be a Christian state foremost.;x
+ALW_conservative;대시리아당;;;;;;;;;;;x
+ALW_nationalist;알라위 신시대;;;;;;;;;;;x
+ALW_colonial_government;알라위국;;;;;;;;;;;x
+LEB_colonial_government;대레바논;;;;;;;;;;;x
+ALW;알라위;;;;;;;;;;;x
+ALW_ADJ;알라위령;;;;;;;;;;;x
+french_syria_redrawn_title;시리아 연방 위임통치령;;;;;;;;;;;x
+french_syria_redrawn_desc;1930년까지 알레포와 다마스쿠스를 포함한 대부분의 시리아를 연방화하는데 성공했습니다. 이제 시아파와 드루즈교로 확대해봅시다.;;;;;;;;;;;x
+EVT_99977_NAME;시리아 통합;;;;;;;;;;;x
+EVT_99977_DESC;프랑스 제국의 지배를 받고난 지금이 모국인 시리아에 합류할 때입니다. 지방 사람들 대부분은 이 방법이 식민주의를 줄이면서 세속적인 민주주의와 우리 국민들을 위한 목소리를 보장하는 최선의 방법이라는 데 동의하지만, 동시에 우리의 자치 또한 제한할 것입니다.;;;;;;;;;;;x
+EVT_99978_NAME;시리아-레바논 세속공화국;;;;;;;;;;;x
+EVT_99978_DESC;프랑스의 시리아 통합 시도를 접한 외무부 장관들이 가입을 권고했습니다. 권고에 따른다면 위임통치령 정부에서 발언권을 얻겠지만, 베이루트(레바논의 수도)만큼은 아닙니다. 그러므로 기독교인들은 이 목적을 위해 흥분하지 않을 것입니다.;;;;;;;;;;;x
+EVT_99977_A;알라께서 새 시리아를 내려주셨도다!;;;;;;;;;;;x
+EVT_99977_B;자치는 절대 사람을 해치지 않는다.;;;;;;;;;;;x
+EVT_99977_A;알라께서 새 시리아를 내려주셨도다!;;;;;;;;;;;x
+EVT_99977_B;자치는 절대 사람을 해치지 않는다.;;;;;;;;;;;x

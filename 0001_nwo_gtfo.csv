@@ -1,831 +1,831 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-gtfo_off_title;'속국 해방' 결정 숨김;Disable 'Release Vassal' decisions;;;;;;;;;;;;x,,
-gtfo_off_desc;결정 목록에서 숨깁니다!;Your decision list will now be uncluttered!;;;;;;;;;;;;x,,
-gtfo_on_title;'속국 해방' 표시;Enable 'Release Vassal' decisions;;;;;;;;;;;;x,,
-gtfo_on_desc;속국을 해방할 수 있게 해주며, 결정 목록을 흐트러뜨리는 것을 원하지 않는다면 숨길 수 있습니다.;The Release Vassal decisions allow you to release vassals, and are otherwise kept hidden from view to avoid having them clutter up your decision list.;;;;;;;;;;;;x,
-gtfo_AAB_title;앤티가바부다 독립 수락;Grant Antigua And Barbuda Independence;;;;;;;;;;;;x,,
-gtfo_AAB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Antigua And Barbuda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ABK_title;압하지야 독립 수락;Grant Abkhazia Independence;;;;;;;;;;;;x,,
-gtfo_ABK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Abkhazia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ABZ_title;암바조니아 독립 수락;Grant Ambazonia Independence;;;;;;;;;;;;x,,
-gtfo_ABZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ambazonia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ADJ_title;아자리야 독립 수락;Grant Adjara Independence;;;;;;;;;;;;x,,
-gtfo_ADJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Adjara: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ADL_title;안달루시아 독립 수락;Grant Andalusia Independence;;;;;;;;;;;;x,,
-gtfo_ADL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Andalusia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AFG_title;아프가니스탄 독립 수락;Grant Afghanistan Independence;;;;;;;;;;;;x,,
-gtfo_AFG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Afghanistan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ALA_title;올란드 독립 수락;Grant Aland Independence;;;;;;;;;;;;x,,
-gtfo_ALA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Aland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ALB_title;알바니아 독립 수락;Grant Albania Independence;;;;;;;;;;;;x,,
-gtfo_ALB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Albania: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ALG_title;알제리 독립 수락;Grant Algeria Independence;;;;;;;;;;;;x,,
-gtfo_ALG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Algeria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ALT_title;알타이 독립 수락;Grant Altai Independence;;;;;;;;;;;;x,,
-gtfo_ALT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Altai: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ANG_title;앙골라 독립 수락;Grant Angola Independence;;;;;;;;;;;;x,,
-gtfo_ANG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Angola: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AOS_title;아오스타 독립 수락;Grant Aosta Independence;;;;;;;;;;;;x,,
-gtfo_AOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Aosta: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ARG_title;아르헨티나 독립 수락;Grant Argentina Independence;;;;;;;;;;;;x,,
-gtfo_ARG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Argentina: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ARM_title;아르메니아 독립 수락;Grant Armenia Independence;;;;;;;;;;;;x,,
-gtfo_ARM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Armenia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ARU_title;아루바 독립 수락;Grant Aruba Independence;;;;;;;;;;;;x,,
-gtfo_ARU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Aruba: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ASM_title;아삼 독립 수락;Grant Assam Independence;;;;;;;;;;;;x,,
-gtfo_ASM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Assam: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AST_title;오스트레일리아 독립 수락;Grant Australia Independence;;;;;;;;;;;;x,,
-gtfo_AST_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Australia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ATJ_title;아체 독립 수락;Grant Atjeh Independence;;;;;;;;;;;;x,,
-gtfo_ATJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Atjeh: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ATL_title;아틀란티코 독립 수락;Grant Atlantico Independence;;;;;;;;;;;;x,,
-gtfo_ATL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Atlantico: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AUS_title;오스트리아 독립 수락;Grant Austria Independence;;;;;;;;;;;;x,,
-gtfo_AUS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Austria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AZA_title;아자와드 독립 수락;Grant Azawad Independence;;;;;;;;;;;;x,,
-gtfo_AZA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Azawad: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AZB_title;아제르바이잔 독립 수락;Grant Azerbaijan Independence;;;;;;;;;;;;x,,
-gtfo_AZB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Azerbaijan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AZK_title;부족 지역 독립 수락;Grant Tribal Areas Independence;;;;;;;;;;;;x,,
-gtfo_AZK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tribal Areas: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_AZO_title;아조레스 독립 수락;Grant Azores Independence;;;;;;;;;;;;x,,
-gtfo_AZO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Azores: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BAH_title;바하마 독립 수락;Grant Bahamas Independence;;;;;;;;;;;;x,,
-gtfo_BAH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bahamas: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BAK_title;바슈코르토스탄 독립 수락;Grant Bashkortostan Independence;;;;;;;;;;;;x,,
-gtfo_BAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bashkortostan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BAR_title;바베이도스 독립 수락;Grant Barbados Independence;;;;;;;;;;;;x,,
-gtfo_BAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Barbados: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BAV_title;바이에른 독립 수락;Grant Bavaria Independence;;;;;;;;;;;;x,,
-gtfo_BAV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bavaria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BEL_title;벨기에 독립 수락;Grant Belgium Independence;;;;;;;;;;;;x,,
-gtfo_BEL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Belgium: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BEN_title;베냉 독립 수락;Grant Benin Independence;;;;;;;;;;;;x,,
-gtfo_BEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Benin: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BER_title;베로다 독립 수락;Grant Beroda Independence;;;;;;;;;;;;x,,
-gtfo_BER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Beroda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BEU_title;버뮤다 독립 수락;Grant Bermuda Independence;;;;;;;;;;;;x,,
-gtfo_BEU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bermuda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BHR_title;바레인 독립 수락;Grant Bahrain Independence;;;;;;;;;;;;x,,
-gtfo_BHR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bahrain: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BHU_title;부탄 독립 수락;Grant Bhutan Independence;;;;;;;;;;;;x,,
-gtfo_BHU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bhutan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BIF_title;비아프라 독립 수락;Grant Biafra Independence;;;;;;;;;;;;x,,
-gtfo_BIF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Biafra: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BLO_title;발루치스탄 독립 수락;Grant Balochistan Independence;;;;;;;;;;;;x,,
-gtfo_BLO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Balochistan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BLZ_title;벨리즈 독립 수락;Grant Belize Independence;;;;;;;;;;;;x,,
-gtfo_BLZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Belize: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BNG_title;방글라데시 독립 수락;Grant Bangladesh Independence;;;;;;;;;;;;x,,
-gtfo_BNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bangladesh: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BNL_title;저지대 독립 수락;Grant Benelux Independence;;;;;;;;;;;;x,,
-gtfo_BNL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Benelux: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOD_title;보도랜드 독립 수락;Grant Bodoland Independence;;;;;;;;;;;;x,,
-gtfo_BOD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bodoland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOH_title;보헤미아 독립 수락;Grant Bohemia Independence;;;;;;;;;;;;x,,
-gtfo_BOH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bohemia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOL_title;볼리비아 독립 수락;Grant Bolivia Independence;;;;;;;;;;;;x,,
-gtfo_BOL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bolivia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOP_title;보푸타츠와나 독립 수락;Grant Bophuthatswana Independence;;;;;;;;;;;;x,,
-gtfo_BOP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bophuthatswana: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOS_title;보스니아 독립 수락;Grant Bosnia Independence;;;;;;;;;;;;x,,
-gtfo_BOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bosnia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOT_title;보츠나와 독립 수락;Grant Botswana Independence;;;;;;;;;;;;x,,
-gtfo_BOT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Botswana: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BOU_title;부겐빌 독립 수락;Grant Bougainville Independence;;;;;;;;;;;;x,,
-gtfo_BOU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bougainville: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BRI_title;브르타뉴 독립 수락;Grant Brittany Independence;;;;;;;;;;;;x,,
-gtfo_BRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Brittany: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BRN_title;부룬디 독립 수락;Grant Burundi Independence;;;;;;;;;;;;x,,
-gtfo_BRN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Burundi: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BRU_title;브루나이 독립 수락;Grant Brunei Independence;;;;;;;;;;;;x,,
-gtfo_BRU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Brunei: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BRZ_title;브라질 독립 수락;Grant Brazil Independence;;;;;;;;;;;;x,,
-gtfo_BRZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Brazil: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BUF_title;부르키나파소 독립 수락;Grant Burkina Faso Independence;;;;;;;;;;;;x,,
-gtfo_BUF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Burkina Faso: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BUL_title;불가리아 독립 수락;Grant Bulgaria Independence;;;;;;;;;;;;x,,
-gtfo_BUL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bulgaria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BUR_title;버마 독립 수락;Grant Burma Independence;;;;;;;;;;;;x,,
-gtfo_BUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Burma: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BUY_title;부랴티야 독립 수락;Grant Buryatia Independence;;;;;;;;;;;;x,,
-gtfo_BUY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Buryatia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_BYE_title;벨라루스 독립 수락;Grant Belarus Independence;;;;;;;;;;;;x,,
-gtfo_BYE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Belarus: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CAM_title;캄보디아 독립 수락;Grant Cambodia Independence;;;;;;;;;;;;x,,
-gtfo_CAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cambodia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CAN_title;캐나다 독립 수락;Grant Canada Independence;;;;;;;;;;;;x,,
-gtfo_CAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Canada: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CAR_title;중앙아프리카 독립 수락;Grant Central African Republic Independence;;;;;;;;;;;;x,,
-gtfo_CAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Central African Republic: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CAT_title;카탈루냐 독립 수락;Grant Catalonia Independence;;;;;;;;;;;;x,,
-gtfo_CAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Catalonia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CBA_title;카빈다 독립 수락;Grant Cabinda Independence;;;;;;;;;;;;x,,
-gtfo_CBA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cabinda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CHA_title;차드 독립 수락;Grant Chad Independence;;;;;;;;;;;;x,,
-gtfo_CHA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Chad: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CHC_title;체체니야 독립 수락;Grant Chechnya Independence;;;;;;;;;;;;x,,
-gtfo_CHC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Chechnya: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CHI_title;중국 독립 수락;Grant China Independence;;;;;;;;;;;;x,,
-gtfo_CHI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of China: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CHL_title;칠레 독립 수락;Grant Chile Independence;;;;;;;;;;;;x,,
-gtfo_CHL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Chile: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CHS_title;친 독립 수락;Grant Chin State Independence;;;;;;;;;;;;x,,
-gtfo_CHS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Chin State: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CHU_title;추바시야 독립 수락;Grant Chuvashia Independence;;;;;;;;;;;;x,,
-gtfo_CHU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Chuvashia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CIR_title;체르케시야 독립 수락;Grant Circassia Independence;;;;;;;;;;;;x,,
-gtfo_CIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Circassia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CIS_title;시스케이 독립 수락;Grant Ciskei Independence;;;;;;;;;;;;x,,
-gtfo_CIS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ciskei: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CLM_title;콜롬비아 독립 수락;Grant Colombia Independence;;;;;;;;;;;;x,,
-gtfo_CLM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Colombia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CMR_title;카메룬 독립 수락;Grant Cameroon Independence;;;;;;;;;;;;x,,
-gtfo_CMR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cameroon: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CNG_title;콩고 자유국 독립 수락;Grant Congo Free State Independence;;;;;;;;;;;;x,,
-gtfo_CNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Congo Free State: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_COI_title;쿡 독립 수락;Grant Cook Islands Independence;;;;;;;;;;;;x,,
-gtfo_COI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cook Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_COM_title;코모로 독립 수락;Grant Comoros Independence;;;;;;;;;;;;x,,
-gtfo_COM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Comoros: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_COR_title;코르시카 독립 수락;Grant Corsica Independence;;;;;;;;;;;;x,,
-gtfo_COR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Corsica: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_COS_title;코스타리카 독립 수락;Grant Costa Rica Independence;;;;;;;;;;;;x,,
-gtfo_COS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Costa Rica: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CPV_title;카보베르데 독립 수락;Grant Cape Verde Independence;;;;;;;;;;;;x,,
-gtfo_CPV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cape Verde: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CRI_title;크리미야 독립 수락;Grant Crimea Independence;;;;;;;;;;;;x,,
-gtfo_CRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Crimea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CRO_title;크로아티아 독립 수락;Grant Croatia Independence;;;;;;;;;;;;x,,
-gtfo_CRO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Croatia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CSA_title;남부맹방 독립 수락;Grant CSA Independence;;;;;;;;;;;;x,,
-gtfo_CSA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of CSA: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CUB_title;쿠바 독립 수락;Grant Cuba Independence;;;;;;;;;;;;x,,
-gtfo_CUB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cuba: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CUR_title;퀴라소 독립 수락;Grant Curacao Independence;;;;;;;;;;;;x,,
-gtfo_CUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Curacao: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CYI_title;케이맨 독립 수락;Grant Cayman Islands Independence;;;;;;;;;;;;x,,
-gtfo_CYI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cayman Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CYP_title;키프로스 독립 수락;Grant Cyprus Independence;;;;;;;;;;;;x,,
-gtfo_CYP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Cyprus: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_CZH_title;체코슬로바키아 독립 수락;Grant Czechoslovakia Independence;;;;;;;;;;;;x,,
-gtfo_CZH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Czechoslovakia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DAG_title;다게스탄 독립 수락;Grant Dagestan Independence;;;;;;;;;;;;x,,
-gtfo_DAG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Dagestan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DAI_title;베트남 독립 수락;Grant Vietnam Independence;;;;;;;;;;;;x,,
-gtfo_DAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Vietnam: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DAR_title;다르푸르 독립 수락;Grant Darfur Independence;;;;;;;;;;;;x,,
-gtfo_DAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Darfur: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DDR_title;동독 독립 수락;Grant East Germany Independence;;;;;;;;;;;;x,,
-gtfo_DDR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of East Germany: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DEN_title;덴마크 독립 수락;Grant Denmark Independence;;;;;;;;;;;;x,,
-gtfo_DEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Denmark: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DJI_title;지부티 독립 수락;Grant Djibouti Independence;;;;;;;;;;;;x,,
-gtfo_DJI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Djibouti: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DMC_title;도미니카 독립 수락;Grant Dominica Independence;;;;;;;;;;;;x,,
-gtfo_DMC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Dominica: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DOM_title;도미니카 독립 수락;Grant Dominican Republic Independence;;;;;;;;;;;;x,,
-gtfo_DOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Dominican Republic: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DRA_title;드라비다스탄 독립 수락;Grant Dravidastan Independence;;;;;;;;;;;;x,,
-gtfo_DRA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Dravidastan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DYA_title;다야크 독립 수락;Grant Dyak Independence;;;;;;;;;;;;x,,
-gtfo_DYA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Dyak: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_DZG_title;단치히 독립 수락;Grant Danzig Independence;;;;;;;;;;;;x,,
-gtfo_DZG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Danzig: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_EAI_title;라파누이 독립 수락;Grant Easter Island Independence;;;;;;;;;;;;x,,
-gtfo_EAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Easter Island: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ECA_title;동카프리비 독립 수락;Grant East Caprivi Independence;;;;;;;;;;;;x,,
-gtfo_ECA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of East Caprivi: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ECU_title;에콰도르 독립 수락;Grant Ecuador Independence;;;;;;;;;;;;x,,
-gtfo_ECU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ecuador: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_EGY_title;이집트 독립 수락;Grant Egypt Independence;;;;;;;;;;;;x,,
-gtfo_EGY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Egypt: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_EID_title;동인도네시아 독립 수락;Grant East Indonesia Independence;;;;;;;;;;;;x,,
-gtfo_EID_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of East Indonesia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ELS_title;엘살바도르 독립 수락;Grant El Salvador Independence;;;;;;;;;;;;x,,
-gtfo_ELS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of El Salvador: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ENG_title;영국 독립 수락;Grant United Kingdom Independence;;;;;;;;;;;;x,,
-gtfo_ENG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of United Kingdom: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_EQG_title;적도기니 독립 수락;Grant Equatorial Guinea Independence;;;;;;;;;;;;x,,
-gtfo_EQG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Equatorial Guinea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ERI_title;에리트레아 독립 수락;Grant Eritrea Independence;;;;;;;;;;;;x,,
-gtfo_ERI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Eritrea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_EST_title;에스토니아 독립 수락;Grant Estonia Independence;;;;;;;;;;;;x,,
-gtfo_EST_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Estonia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ETH_title;에티오피아 독립 수락;Grant Ethiopia Independence;;;;;;;;;;;;x,,
-gtfo_ETH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ethiopia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ETS_title;동튀르키스탄 독립 수락;Grant East Turkestan Independence;;;;;;;;;;;;x,,
-gtfo_ETS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of East Turkestan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_EUS_title;바스크 독립 수락;Grant Basque Country Independence;;;;;;;;;;;;x,,
-gtfo_EUS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Basque Country: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FAR_title;페로 독립 수락;Grant Faroe Islands Independence;;;;;;;;;;;;x,,
-gtfo_FAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Faroe Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FER_title;극동 독립 수락;Grant Far Eastern Republic Independence;;;;;;;;;;;;x,,
-gtfo_FER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Far Eastern Republic: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FIJ_title;피지 독립 수락;Grant Fiji Independence;;;;;;;;;;;;x,,
-gtfo_FIJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Fiji: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FIN_title;핀란드 독립 수락;Grant Finland Independence;;;;;;;;;;;;x,,
-gtfo_FIN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Finland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FLA_title;플란데런 독립 수락;Grant Flanders Independence;;;;;;;;;;;;x,,
-gtfo_FLA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Flanders: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FRA_title;프랑스 독립 수락;Grant France Independence;;;;;;;;;;;;x,,
-gtfo_FRA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of France: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FUJ_title;복건 독립 수락;Grant Fujan Independence;;;;;;;;;;;;x,,
-gtfo_FUJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Fujan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_FVG_title;프리울리-베네치아-줄리아 독립 수락;Grant Friuli-Venezia Giulia Independence;;;;;;;;;;;;x,,
-gtfo_FVG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Friuli-Venezia Giulia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GAB_title;가봉 독립 수락;Grant Gabon Independence;;;;;;;;;;;;x,,
-gtfo_GAB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gabon: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GAG_title;가가우지아 독립 수락;Grant Gagauzia Independence;;;;;;;;;;;;x,,
-gtfo_GAG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gagauzia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GAL_title;갈리시아 독립 수락;Grant Galicia Independence;;;;;;;;;;;;x,,
-gtfo_GAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Galicia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GAM_title;감비아 독립 수락;Grant Gambia Independence;;;;;;;;;;;;x,,
-gtfo_GAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gambia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GAZ_title;가자 독립 수락;Grant Gaza Independence;;;;;;;;;;;;x,,
-gtfo_GAZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gaza: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GEO_title;그루지야 독립 수락;Grant Georgia Independence;;;;;;;;;;;;x,,
-gtfo_GEO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Georgia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GER_title;독일 독립 수락;Grant Germany Independence;;;;;;;;;;;;x,,
-gtfo_GER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Germany: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GGX_title;광서 독립 수락;Grant Guangxi Independence;;;;;;;;;;;;x,,
-gtfo_GGX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Guangxi: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GHA_title;가나 독립 수락;Grant Ghana Independence;;;;;;;;;;;;x,,
-gtfo_GHA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ghana: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GIB_title;지브롤터 독립 수락;Grant Gibraltar Independence;;;;;;;;;;;;x,,
-gtfo_GIB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gibraltar: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GOB_title;고르노바다흐샨 독립 수락;Grant Gorno-Badakhshan Independence;;;;;;;;;;;;x,,
-gtfo_GOB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gorno-Badakhshan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GRD_title;그레나다 독립 수락;Grant Grenada Independence;;;;;;;;;;;;x,,
-gtfo_GRD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Grenada: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GRE_title;그리스 독립 수락;Grant Greece Independence;;;;;;;;;;;;x,,
-gtfo_GRE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Greece: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GRN_title;그린란드 독립 수락;Grant Greenland Independence;;;;;;;;;;;;x,,
-gtfo_GRN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Greenland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GUA_title;과테말라 독립 수락;Grant Guatemala Independence;;;;;;;;;;;;x,,
-gtfo_GUA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Guatemala: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GUB_title;기니비사우 독립 수락;Grant Guinea Bissau Independence;;;;;;;;;;;;x,,
-gtfo_GUB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Guinea Bissau: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GUI_title;기니 독립 수락;Grant Guinea Independence;;;;;;;;;;;;x,,
-gtfo_GUI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Guinea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GUY_title;가이아나 독립 수락;Grant Guyana Independence;;;;;;;;;;;;x,,
-gtfo_GUY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Guyana: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GWA_title;괄리오르 독립 수락;Grant Gwalior Independence;;;;;;;;;;;;x,,
-gtfo_GWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gwalior: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_GZA_title;가장쿨루 독립 수락;Grant Gazankulu Independence;;;;;;;;;;;;x,,
-gtfo_GZA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gazankulu: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HAI_title;아이티 독립 수락;Grant Haiti Independence;;;;;;;;;;;;x,,
-gtfo_HAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Haiti: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HAW_title;하와이 독립 수락;Grant Hawaii Independence;;;;;;;;;;;;x,,
-gtfo_HAW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Hawaii: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HKG_title;홍콩 독립 수락;Grant HongKong Independence;;;;;;;;;;;;x,,
-gtfo_HKG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of HongKong: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HNB_title;방가부미 독립 수락;Grant Bangabhumi Independence;;;;;;;;;;;;x,,
-gtfo_HNB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Bangabhumi: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HND_title;인도 독립 수락;Grant India Independence;;;;;;;;;;;;x,,
-gtfo_HND_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of India: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HON_title;온두라스 독립 수락;Grant Honduras Independence;;;;;;;;;;;;x,,
-gtfo_HON_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Honduras: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HOU_title;후티 독립 수락;Grant Houthis Independence;;;;;;;;;;;;x,,
-gtfo_HOU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Houthis: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HUN_title;헝가리 독립 수락;Grant Hungary Independence;;;;;;;;;;;;x,,
-gtfo_HUN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Hungary: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HYD_title;하이데라바드 독립 수락;Grant Hyderabad Independence;;;;;;;;;;;;x,,
-gtfo_HYD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Hyderabad: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_HZB_title;헤르체그보스니아 독립 수락;Grant Herceg-Bosa Independence;;;;;;;;;;;;x,,
-gtfo_HZB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Herceg-Bosa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IAR_title;루르 독립 수락;Grant International Authority for the Ruhr Independence;;;;;;;;;;;;x,,
-gtfo_IAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of International Authority for the Ruhr: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ICL_title;아이슬란드 독립 수락;Grant Iceland Independence;;;;;;;;;;;;x,,
-gtfo_ICL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Iceland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ICU_title;인도차이나 독립 수락;Grant Indochina Independence;;;;;;;;;;;;x,,
-gtfo_ICU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Indochina: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IDO_title;인도네시아 독립 수락;Grant Indonesia Independence;;;;;;;;;;;;x,,
-gtfo_IDO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Indonesia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IGU_title;잉구셰티야 독립 수락;Grant Ingushetia Independence;;;;;;;;;;;;x,,
-gtfo_IGU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ingushetia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IMN_title;우브르몽골 독립 수락;Grant Inner Mongolia Independence;;;;;;;;;;;;x,,
-gtfo_IMN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Inner Mongolia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IND_title;인도르 독립 수락;Grant Indore Independence;;;;;;;;;;;;x,,
-gtfo_IND_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Indore: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IOM_title;맨 독립 수락;Grant Isle of Man Independence;;;;;;;;;;;;x,,
-gtfo_IOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Isle of Man: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IRE_title;아일랜드 독립 수락;Grant Ireland Independence;;;;;;;;;;;;x,,
-gtfo_IRE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ireland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IRQ_title;이라크 독립 수락;Grant Iraq Independence;;;;;;;;;;;;x,,
-gtfo_IRQ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Iraq: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ISI_title;이슬람국가 독립 수락;Grant Islamic State Independence;;;;;;;;;;;;x,,
-gtfo_ISI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Islamic State: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ISR_title;이스라엘 독립 수락;Grant Israel Independence;;;;;;;;;;;;x,,
-gtfo_ISR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Israel: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ITA_title;이탈리아 독립 수락;Grant Italy Independence;;;;;;;;;;;;x,,
-gtfo_ITA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Italy: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ITU_title;이투리 독립 수락;Grant Ituri Independence;;;;;;;;;;;;x,,
-gtfo_ITU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ituri: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_IVC_title;코트디부아르 독립 수락;Grant Ivory Coast Independence;;;;;;;;;;;;x,,
-gtfo_IVC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ivory Coast: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JAK_title;잠무-카슈미르 독립 수락;Grant Jammu and Kashmir Independence;;;;;;;;;;;;x,,
-gtfo_JAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Jammu and Kashmir: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JAM_title;자메이카 독립 수락;Grant Jamaica Independence;;;;;;;;;;;;x,,
-gtfo_JAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Jamaica: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JAP_title;일본 독립 수락;Grant Japan Independence;;;;;;;;;;;;x,,
-gtfo_JAP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Japan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JDO_title;제주 독립 수락;Grant Jeju-do Independence;;;;;;;;;;;;x,,
-gtfo_JDO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Jeju-do: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JER_title;저지 독립 수락;Grant Jersey Independence;;;;;;;;;;;;x,,
-gtfo_JER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Jersey: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JOR_title;요르단 독립 수락;Grant Jordan Independence;;;;;;;;;;;;x,,
-gtfo_JOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Jordan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KAB_title;카바르디노발카르 독립 수락;Grant Kabardino-Balkaria Independence;;;;;;;;;;;;x,,
-gtfo_KAB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kabardino-Balkaria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KAC_title;카친 독립 수락;Grant Kachin Independence;;;;;;;;;;;;x,,
-gtfo_KAC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kachin: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KAM_title;칼미키야 독립 수락;Grant Kalmykia Independence;;;;;;;;;;;;x,,
-gtfo_KAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kalmykia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KAT_title;카탕가 독립 수락;Grant Katanga Independence;;;;;;;;;;;;x,,
-gtfo_KAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Katanga: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KAY_title;카인 독립 수락;Grant Kayin Independence;;;;;;;;;;;;x,,
-gtfo_KAY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kayin: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KAZ_title;카자흐스탄 독립 수락;Grant Kazakhstan Independence;;;;;;;;;;;;x,,
-gtfo_KAZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kazakhstan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KCH_title;카라차예보-체르케시야 독립 수락;Grant Karachay-Cherkessia Independence;;;;;;;;;;;;x,,
-gtfo_KCH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Karachay-Cherkessia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KEN_title;케냐 독립 수락;Grant Kenya Independence;;;;;;;;;;;;x,,
-gtfo_KEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kenya: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KIR_title;키리바시 독립 수락;Grant Kiribati Independence;;;;;;;;;;;;x,,
-gtfo_KIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kiribati: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KKP_title;카라칼파크스탄 독립 수락;Grant Karakalpakstan Independence;;;;;;;;;;;;x,,
-gtfo_KKP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Karakalpakstan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KMT_title;중화민국 독립 수락;Grant Republic of China Independence;;;;;;;;;;;;x,,
-gtfo_KMT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Republic of China: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KOM_title;코미 독립 수락;Grant Komi Independence;;;;;;;;;;;;x,,
-gtfo_KOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Komi: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KOR_title;한국 독립 수락;Grant Korea Independence;;;;;;;;;;;;x,,
-gtfo_KOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Korea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KOS_title;코소보 독립 수락;Grant Kosovo Independence;;;;;;;;;;;;x,,
-gtfo_KOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kosovo: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KRL_title;카렐리야 독립 수락;Grant Karelia Independence;;;;;;;;;;;;x,,
-gtfo_KRL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Karelia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KUR_title;쿠르디스탄 독립 수락;Grant Kurdistan Independence;;;;;;;;;;;;x,,
-gtfo_KUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kurdistan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KUW_title;쿠웨이트 독립 수락;Grant Kuwait Independence;;;;;;;;;;;;x,,
-gtfo_KUW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kuwait: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KWA_title;광동 독립 수락;Grant Guangdong Independence;;;;;;;;;;;;x,,
-gtfo_KWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Guangdong: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KYR_title;키르기스스탄 독립 수락;Grant Kyrgyzstan Independence;;;;;;;;;;;;x,,
-gtfo_KYR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Kyrgyzstan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LAT_title;라트비아 독립 수락;Grant Latvia Independence;;;;;;;;;;;;x,,
-gtfo_LAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Latvia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LBW_title;레보와 독립 수락;Grant Lebowa Independence;;;;;;;;;;;;x,,
-gtfo_LBW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Lebowa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LEB_title;레바논 독립 수락;Grant Lebanon Independence;;;;;;;;;;;;x,,
-gtfo_LEB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Lebanon: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LES_title;레소토 독립 수락;Grant Lesotho Independence;;;;;;;;;;;;x,,
-gtfo_LES_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Lesotho: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LIB_title;라이베리아 독립 수락;Grant Liberia Independence;;;;;;;;;;;;x,,
-gtfo_LIB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Liberia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LIT_title;리투아니아 독립 수락;Grant Lithuania Independence;;;;;;;;;;;;x,,
-gtfo_LIT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Lithuania: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LOU_title;루이지안느 독립 수락;Grant Louisiana Independence;;;;;;;;;;;;x,,
-gtfo_LOU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Louisiana: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LUA_title;라오스 독립 수락;Grant Luang Prabang Independence;;;;;;;;;;;;x,,
-gtfo_LUA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Luang Prabang: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_LUX_title;룩셈부르크 독립 수락;Grant Luxemburg Independence;;;;;;;;;;;;x,,
-gtfo_LUX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Luxemburg: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MAC_title;마케도니아 독립 수락;Grant Macedonia Independence;;;;;;;;;;;;x,,
-gtfo_MAC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Macedonia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MAD_title;마다가스카르 독립 수락;Grant Madagascar Independence;;;;;;;;;;;;x,,
-gtfo_MAD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Madagascar: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MAE_title;마데이라 독립 수락;Grant Madeira Independence;;;;;;;;;;;;x,,
-gtfo_MAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Madeira: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MAL_title;몰타 독립 수락;Grant Malta Independence;;;;;;;;;;;;x,,
-gtfo_MAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Malta: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MAR_title;마셜 독립 수락;Grant Marshall Islands Independence;;;;;;;;;;;;x,,
-gtfo_MAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Marshall Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MAU_title;모리타니 독립 수락;Grant Mauritania Independence;;;;;;;;;;;;x,,
-gtfo_MAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mauritania: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MCA_title;마카오 독립 수락;Grant Macau Independence;;;;;;;;;;;;x,,
-gtfo_MCA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Macau: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MCK_title;만주 독립 수락;Grant Manchukuo Independence;;;;;;;;;;;;x,,
-gtfo_MCK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Manchukuo: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MEX_title;멕시코 독립 수락;Grant Mexico Independence;;;;;;;;;;;;x,,
-gtfo_MEX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mexico: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MGL_title;몽골 독립 수락;Grant Mongolia Independence;;;;;;;;;;;;x,,
-gtfo_MGL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mongolia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MGY_title;마자르 독립 수락;Grant Magyar Region Independence;;;;;;;;;;;;x,,
-gtfo_MGY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Magyar Region: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MIC_title;미크로네시아 독립 수락;Grant Micronesia Independence;;;;;;;;;;;;x,,
-gtfo_MIC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Micronesia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MIN_title;민다나오 독립 수락;Grant Mindanao Independence;;;;;;;;;;;;x,,
-gtfo_MIN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mindanao: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MIZ_title;미조람 독립 수락;Grant Mizoram Independence;;;;;;;;;;;;x,,
-gtfo_MIZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mizoram: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MLD_title;몰디브 독립 수락;Grant Maldives Independence;;;;;;;;;;;;x,,
-gtfo_MLD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Maldives: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MLI_title;말리 독립 수락;Grant Mali Independence;;;;;;;;;;;;x,,
-gtfo_MLI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mali: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MLW_title;말라와 독립 수락;Grant Malawa Independence;;;;;;;;;;;;x,,
-gtfo_MLW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Malawa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MNP_title;마니푸르 독립 수락;Grant Manipur Independence;;;;;;;;;;;;x,,
-gtfo_MNP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Manipur: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MOL_title;몰도바 독립 수락;Grant Moldavia Independence;;;;;;;;;;;;x,,
-gtfo_MOL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Moldavia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MON_title;몬테네그로 독립 수락;Grant Montenegro Independence;;;;;;;;;;;;x,,
-gtfo_MON_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Montenegro: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MOR_title;모로코 독립 수락;Grant Morocco Independence;;;;;;;;;;;;x,,
-gtfo_MOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Morocco: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MOS_title;몬 독립 수락;Grant Mon State Independence;;;;;;;;;;;;x,,
-gtfo_MOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mon State: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MOZ_title;모잠비크 독립 수락;Grant Mozambique Independence;;;;;;;;;;;;x,,
-gtfo_MOZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mozambique: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MRD_title;모르도바 독립 수락;Grant Mordovia Independence;;;;;;;;;;;;x,,
-gtfo_MRD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mordovia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MRI_title;마리옐 독립 수락;Grant Mari El Independence;;;;;;;;;;;;x,,
-gtfo_MRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mari El: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MRT_title;모리셔스 독립 수락;Grant Mauritius Independence;;;;;;;;;;;;x,,
-gtfo_MRT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mauritius: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MSU_title;모술 독립 수락;Grant Mosul Independence;;;;;;;;;;;;x,,
-gtfo_MSU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mosul: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MSY_title;말레이시아 독립 수락;Grant Malaysia Independence;;;;;;;;;;;;x,,
-gtfo_MSY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Malaysia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_MYS_title;마이소르 독립 수락;Grant Mysore Independence;;;;;;;;;;;;x,,
-gtfo_MYS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mysore: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NAG_title;나그푸르 독립 수락;Grant Nagpur Independence;;;;;;;;;;;;x,,
-gtfo_NAG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nagpur: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NAK_title;나고르노카라바흐 독립 수락;Grant Nagorno-Karabakh Independence;;;;;;;;;;;;x,,
-gtfo_NAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nagorno-Karabakh: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NAM_title;나미비아 독립 수락;Grant Namibia Independence;;;;;;;;;;;;x,,
-gtfo_NAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Namibia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NAU_title;나우루 독립 수락;Grant Nauru Independence;;;;;;;;;;;;x,,
-gtfo_NAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nauru: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NAX_title;낙살라이트 인도 독립 수락;Grant Naxalite India Independence;;;;;;;;;;;;x,,
-gtfo_NAX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Naxalite India: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NCA_title;누벨칼레도니 독립 수락;Grant New Caledonia Independence;;;;;;;;;;;;x,,
-gtfo_NCA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of New Caledonia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NCY_title;북키프로스 독립 수락;Grant Northern Cyprus Independence;;;;;;;;;;;;x,,
-gtfo_NCY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Northern Cyprus: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NDB_title;크와은벨레 독립 수락;Grant KwaNdebele Independence;;;;;;;;;;;;x,,
-gtfo_NDB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of KwaNdebele: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NEP_title;네팔 독립 수락;Grant Nepal Independence;;;;;;;;;;;;x,,
-gtfo_NEP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nepal: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NET_title;네덜란드 독립 수락;Grant Netherlands Independence;;;;;;;;;;;;x,,
-gtfo_NET_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Netherlands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NFL_title;뉴펀들랜드 독립 수락;Grant Newfoundland Independence;;;;;;;;;;;;x,,
-gtfo_NFL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Newfoundland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NGE_title;니이지리아 독립 수락;Grant Nigeria Independence;;;;;;;;;;;;x,,
-gtfo_NGE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nigeria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NGW_title;카응과네 독립 수락;Grant KaNgwane Independence;;;;;;;;;;;;x,,
-gtfo_NGW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of KaNgwane: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NGX_title;영하 독립 수락;Grant Ningxia Independence;;;;;;;;;;;;x,,
-gtfo_NGX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ningxia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NIC_title;니카라과 독립 수락;Grant Nicaragua Independence;;;;;;;;;;;;x,,
-gtfo_NIC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nicaragua: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NIG_title;니제르 독립 수락;Grant Niger Independence;;;;;;;;;;;;x,,
-gtfo_NIG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Niger: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NIR_title;북아일랜드 독립 수락;Grant Northern Ireland Independence;;;;;;;;;;;;x,,
-gtfo_NIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Northern Ireland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NIU_title;니우에 독립 수락;Grant Niue Independence;;;;;;;;;;;;x,,
-gtfo_NIU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Niue: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NKH_title;나히체반 독립 수락;Grant Nakhichevan Independence;;;;;;;;;;;;x,,
-gtfo_NKH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Nakhichevan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NKO_title;북조선 독립 수락;Grant North Korea Independence;;;;;;;;;;;;x,,
-gtfo_NKO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of North Korea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NMI_title;북마리아나 독립 수락;Grant Northern Mariana Islands Independence;;;;;;;;;;;;x,,
-gtfo_NMI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Northern Mariana Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NOR_title;노르웨이 독립 수락;Grant Norway Independence;;;;;;;;;;;;x,,
-gtfo_NOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Norway: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NOS_title;북오세티야 독립 수락;Grant North Ossetia Independence;;;;;;;;;;;;x,,
-gtfo_NOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of North Ossetia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NRI_title;노퍽 독립 수락;Grant Norfolk Island Independence;;;;;;;;;;;;x,,
-gtfo_NRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Norfolk Island: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NRO_title;노보러시아 독립 수락;Grant Novorossiya Independence;;;;;;;;;;;;x,,
-gtfo_NRO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Novorossiya: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_NZL_title;뉴질랜드 독립 수락;Grant New Zealand Independence;;;;;;;;;;;;x,,
-gtfo_NZL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of New Zealand: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_OMA_title;오만 독립 수락;Grant Oman Independence;;;;;;;;;;;;x,,
-gtfo_OMA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Oman: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ORI_title;오리사 독립 수락;Grant Orissa Independence;;;;;;;;;;;;x,,
-gtfo_ORI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Orissa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ORM_title;오로미아 독립 수락;Grant Oromia Independence;;;;;;;;;;;;x,,
-gtfo_ORM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Oromia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PAK_title;파키스탄 독립 수락;Grant Pakistan Independence;;;;;;;;;;;;x,,
-gtfo_PAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Pakistan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PAL_title;팔레스타인 독립 수락;Grant Palestine Independence;;;;;;;;;;;;x,,
-gtfo_PAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Palestine: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PAP_title;교황령 독립 수락;Grant Papal States Independence;;;;;;;;;;;;x,,
-gtfo_PAP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Papal States: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PAT_title;파타니 독립 수락;Grant Patani Independence;;;;;;;;;;;;x,,
-gtfo_PAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Patani: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PAU_title;팔라우 독립 수락;Grant Palau Independence;;;;;;;;;;;;x,,
-gtfo_PAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Palau: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PER_title;페르시아 독립 수락;Grant Persia Independence;;;;;;;;;;;;x,,
-gtfo_PER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Persia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PEU_title;페루 독립 수락;Grant Peru Independence;;;;;;;;;;;;x,,
-gtfo_PEU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Peru: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PHI_title;필리핀 독립 수락;Grant Philippines Independence;;;;;;;;;;;;x,,
-gtfo_PHI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Philippines: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PNJ_title;펀자브 독립 수락;Grant Panjab Independence;;;;;;;;;;;;x,,
-gtfo_PNJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Panjab: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PNM_title;파나마 독립 수락;Grant Panama Independence;;;;;;;;;;;;x,,
-gtfo_PNM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Panama: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_POL_title;폴란드 독립 수락;Grant Poland Independence;;;;;;;;;;;;x,,
-gtfo_POL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Poland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_POR_title;포르투갈 독립 수락;Grant Portugal Independence;;;;;;;;;;;;x,,
-gtfo_POR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Portugal: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_POY_title;폴리네시아 독립 수락;Grant Polynesia Independence;;;;;;;;;;;;x,,
-gtfo_POY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Polynesia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PPN_title;파푸아뉴기니 독립 수락;Grant Papua New Guinea Independence;;;;;;;;;;;;x,,
-gtfo_PPN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Papua New Guinea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PRG_title;파라과이 독립 수락;Grant Paraguay Independence;;;;;;;;;;;;x,,
-gtfo_PRG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Paraguay: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PUL_title;푼틀란드 독립 수락;Grant Puntland Independence;;;;;;;;;;;;x,,
-gtfo_PUL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Puntland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_PUR_title;푸에르토리코 독립 수락;Grant Puerto Rico Independence;;;;;;;;;;;;x,,
-gtfo_PUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Puerto Rico: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_QAT_title;카타르 독립 수락;Grant Qatar Independence;;;;;;;;;;;;x,,
-gtfo_QAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Qatar: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_QNG_title;청 독립 수락;Grant Qing China Independence;;;;;;;;;;;;x,,
-gtfo_QNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Qing China: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_QUE_title;퀘벡 독립 수락;Grant Quebec Independence;;;;;;;;;;;;x,,
-gtfo_QUE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Quebec: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_QWA_title;콰콰 독립 수락;Grant QwaQwa Independence;;;;;;;;;;;;x,,
-gtfo_QWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of QwaQwa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RAA_title;라지푸타나 독립 수락;Grant Rajputana Independence;;;;;;;;;;;;x,,
-gtfo_RAA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Rajputana: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RAJ_title;인도 독립 수락;Grant India Independence;;;;;;;;;;;;x,,
-gtfo_RAJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Raj: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RAK_title;라킨 독립 수락;Grant Rakhine Independence;;;;;;;;;;;;x,,
-gtfo_RAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Rakhine: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RGS_title;히우그란지두술 독립 수락;Grant Rio Grande do Sul Independence;;;;;;;;;;;;x,,
-gtfo_RGS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Rio Grande do Sul: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RHO_title;남로디지아 독립 수락;Grant Southern Rhodesia Independence;;;;;;;;;;;;x,,
-gtfo_RHO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Southern Rhodesia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ROA_title;서오스트리아 독립 수락;Grant West Austria Independence;;;;;;;;;;;;x,,
-gtfo_ROA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of West Austria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ROC_title;자이르 독립 수락;Grant Rep Of The Congo Independence;;;;;;;;;;;;x,,
-gtfo_ROC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Rep Of The Congo: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ROJ_title;로자바 독립 수락;Grant Rojava Independence;;;;;;;;;;;;x,,
-gtfo_ROJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Rojava: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ROM_title;루마니아 독립 수락;Grant Romania Independence;;;;;;;;;;;;x,,
-gtfo_ROM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Romania: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RSR_title;스릅스카 독립 수락;Grant Republica Srpska Independence;;;;;;;;;;;;x,,
-gtfo_RSR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Republica Srpska: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RUS_title;러시아 독립 수락;Grant Russia Independence;;;;;;;;;;;;x,,
-gtfo_RUS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Russia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RUT_title;루테니아 독립 수락;Grant Ruthenia Independence;;;;;;;;;;;;x,,
-gtfo_RUT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ruthenia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RWA_title;르완다 독립 수락;Grant Rwanda Independence;;;;;;;;;;;;x,,
-gtfo_RWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Rwanda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_RYK_title;류큐 독립 수락;Grant Ryukyu Independence;;;;;;;;;;;;x,,
-gtfo_RYK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ryukyu: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SAA_title;사우디아라비아 독립 수락;Grant Saudi Arabia Independence;;;;;;;;;;;;x,,
-gtfo_SAA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Saudi Arabia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SAF_title;남아프리카 독립 수락;Grant South Africa Independence;;;;;;;;;;;;x,,
-gtfo_SAF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Africa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SAL_title;자를란트 독립 수락;Grant Saarland Independence;;;;;;;;;;;;x,,
-gtfo_SAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Saarland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SAM_title;사모아 독립 수락;Grant Samoa Independence;;;;;;;;;;;;x,,
-gtfo_SAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Samoa: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SAR_title;사르데냐 독립 수락;Grant Sardinia Independence;;;;;;;;;;;;x,,
-gtfo_SAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sardinia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SCA_title;스칸디나비아 독립 수락;Grant Scandinavia Independence;;;;;;;;;;;;x,,
-gtfo_SCA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Scandinavia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SCI_title;시칠리아 독립 수락;Grant Sicily Independence;;;;;;;;;;;;x,,
-gtfo_SCI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sicily: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SCO_title;스코틀랜드 독립 수락;Grant Scotland Independence;;;;;;;;;;;;x,,
-gtfo_SCO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Scotland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SEL_title;셀레카 독립 수락;Grant Seleka Independence;;;;;;;;;;;;x,,
-gtfo_SEL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Seleka: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SEN_title;세네갈 독립 수락;Grant Senegalia Independence;;;;;;;;;;;;x,,
-gtfo_SEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Senegalia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SER_title;세르비아 독립 수락;Grant Serbia Independence;;;;;;;;;;;;x,,
-gtfo_SER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Serbia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SEY_title;세이셀 독립 수락;Grant Seychelles Independence;;;;;;;;;;;;x,,
-gtfo_SEY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Seychelles: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SGF_title;남독일 독립 수락;Grant The South German Federation Independence;;;;;;;;;;;;x,,
-gtfo_SGF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of The South German Federation: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SHA_title;샨 독립 수락;Grant Shan Independence;;;;;;;;;;;;x,,
-gtfo_SHA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Shan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SIK_title;시킴 독립 수락;Grant Sikkim Independence;;;;;;;;;;;;x,,
-gtfo_SIK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sikkim: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SIN_title;신드 독립 수락;Grant Sind Independence;;;;;;;;;;;;x,,
-gtfo_SIN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sind: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SKN_title;세인트키츠네비스 독립 수락;Grant St Kits And Nevis Independence;;;;;;;;;;;;x,,
-gtfo_SKN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of St Kits And Nevis: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SKO_title;남한 독립 수락;Grant South Korea Independence;;;;;;;;;;;;x,,
-gtfo_SKO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Korea: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SLO_title;슬로베니아 독립 수락;Grant Slovenia Independence;;;;;;;;;;;;x,,
-gtfo_SLO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Slovenia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SLV_title;슬로바키아 독립 수락;Grant Slovakia Independence;;;;;;;;;;;;x,,
-gtfo_SLV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Slovakia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SMA_title;신트마르턴 독립 수락;Grant Sint Maarten Independence;;;;;;;;;;;;x,,
-gtfo_SMA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sint Maarten: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SML_title;소말릴랜드 독립 수락;Grant Somaliland Independence;;;;;;;;;;;;x,,
-gtfo_SML_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Somaliland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SMU_title;남말루쿠 독립 수락;Grant South Maluku Independence;;;;;;;;;;;;x,,
-gtfo_SMU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Maluku: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SNG_title;싱카포르 독립 수락;Grant Singapore Independence;;;;;;;;;;;;x,,
-gtfo_SNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Singapore: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SOL_title;솔로몬 독립 수락;Grant Solomon Islands Independence;;;;;;;;;;;;x,,
-gtfo_SOL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Solomon Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SOM_title;소말리아 독립 수락;Grant Somalia Independence;;;;;;;;;;;;x,,
-gtfo_SOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Somalia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SOT_title;남오세티야 독립 수락;Grant South Ossetia Independence;;;;;;;;;;;;x,,
-gtfo_SOT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Ossetia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SPA_title;에스파냐 독립 수락;Grant Spain Independence;;;;;;;;;;;;x,,
-gtfo_SPA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Spain: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SPM_title;생피에르미클롱 독립 수락;Grant Saint Pierre and Miquelon Independence;;;;;;;;;;;;x,,
-gtfo_SPM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Saint Pierre and Miquelon: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SRK_title;크라이나 독립 수락;Grant Krajina Independence;;;;;;;;;;;;x,,
-gtfo_SRK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Krajina: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SRL_title;스리랑카 독립 수락;Grant Sri Lanka Independence;;;;;;;;;;;;x,,
-gtfo_SRL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sri Lanka: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SRN_title;시에라리온 독립 수락;Grant Sierra Leone Independence;;;;;;;;;;;;x,,
-gtfo_SRN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sierra Leone: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SSU_title;남수단 독립 수락;Grant South Sudan Independence;;;;;;;;;;;;x,,
-gtfo_SSU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Sudan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_STL_title;세인트루시아 독립 수락;Grant St Lucia Independence;;;;;;;;;;;;x,,
-gtfo_STL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of St Lucia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_STP_title;상투메프린시페 독립 수락;Grant Sao Tome And Principe Independence;;;;;;;;;;;;x,,
-gtfo_STP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sao Tome And Principe: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SUD_title;수단 독립 수락;Grant Sudan Independence;;;;;;;;;;;;x,,
-gtfo_SUD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sudan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SUR_title;수리남 독립 수락;Grant Suriname Independence;;;;;;;;;;;;x,,
-gtfo_SUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Suriname: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SUT_title;쥐트티롤 독립 수락;Grant South Tyrol Independence;;;;;;;;;;;;x,,
-gtfo_SUT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Tyrol: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SVG_title;세인트빈센트그레나딘 독립 수락;Grant St Vincent And Grenadines Independence;;;;;;;;;;;;x,,
-gtfo_SVG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of St Vincent And Grenadines: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SVI_title;남베트남 독립 수락;Grant South Vietnam Independence;;;;;;;;;;;;x,,
-gtfo_SVI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Vietnam: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SWA_title;스와질랜드 독립 수락;Grant Swaziland Independence;;;;;;;;;;;;x,,
-gtfo_SWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Swaziland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SWE_title;스웨덴 독립 수락;Grant Sweden Independence;;;;;;;;;;;;x,,
-gtfo_SWE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Sweden: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SWI_title;스위스 독립 수락;Grant Switzerland Independence;;;;;;;;;;;;x,,
-gtfo_SWI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Switzerland: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SYE_title;남예멘 독립 수락;Grant South Yemen Independence;;;;;;;;;;;;x,,
-gtfo_SYE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of South Yemen: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SYR_title;시리아 독립 수락;Grant Syria Independence;;;;;;;;;;;;x,,
-gtfo_SYR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Syria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TAE_title;타밀일람 독립 수락;Grant Tamil Eelam Independence;;;;;;;;;;;;x,,
-gtfo_TAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tamil Eelam: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TAI_title;대만 독립 수락;Grant Taiwan Independence;;;;;;;;;;;;x,,
-gtfo_TAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Taiwan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TAJ_title;타지키스탄 독립 수락;Grant Tajikistan Independence;;;;;;;;;;;;x,,
-gtfo_TAJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tajikistan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TAN_title;탄자니아 독립 수락;Grant Tanzania Independence;;;;;;;;;;;;x,,
-gtfo_TAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tanzania: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TAR_title;타타르스탄 독립 수락;Grant Tatarstan Independence;;;;;;;;;;;;x,,
-gtfo_TAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tatarstan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TAT_title;트리니다드토바고 독립 수락;Grant Trinidad and Tobago Independence;;;;;;;;;;;;x,,
-gtfo_TAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Trinidad and Tobago: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TCI_title;터크스-케이커스 독립 수락;Grant Turks and Caicos Islands Independence;;;;;;;;;;;;x,,
-gtfo_TCI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Turks and Caicos Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TEX_title;텍사스 독립 수락;Grant Texas Independence;;;;;;;;;;;;x,,
-gtfo_TEX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Texas: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TGZ_title;탕헤르 독립 수락;Grant Tangier Independence;;;;;;;;;;;;x,,
-gtfo_TGZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tangier: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_THI_title;타이 독립 수락;Grant Thailand Independence;;;;;;;;;;;;x,,
-gtfo_THI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Thailand: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TIB_title;티베트 독립 수락;Grant Tibet Independence;;;;;;;;;;;;x,,
-gtfo_TIB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tibet: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TIM_title;동티모르 독립 수락;Grant East Timor Independence;;;;;;;;;;;;x,,
-gtfo_TIM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of East Timor: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TKR_title;튀르키스탄 독립 수락;Grant Turkestan Independence;;;;;;;;;;;;x,,
-gtfo_TKR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Turkestan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TNT_title;투바 독립 수락;Grant Tuva Independence;;;;;;;;;;;;x,,
-gtfo_TNT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tuva: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TOG_title;토고 독립 수락;Grant Togo Independence;;;;;;;;;;;;x,,
-gtfo_TOG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Togo: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TOK_title;토켈라우 독립 수락;Grant Tokelau Independence;;;;;;;;;;;;x,,
-gtfo_TOK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tokelau: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TON_title;통가 독립 수락;Grant Tonga Independence;;;;;;;;;;;;x,,
-gtfo_TON_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tonga: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TRA_title;트라방코르 독립 수락;Grant Travancore Independence;;;;;;;;;;;;x,,
-gtfo_TRA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Travancore: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TRD_title;트란스니스트리아 독립 수락;Grant Transnistria Independence;;;;;;;;;;;;x,,
-gtfo_TRD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Transnistria: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TRE_title;트리에스테 독립 수락;Grant Trieste Independence;;;;;;;;;;;;x,,
-gtfo_TRE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Trieste: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TRI_title;리비아 독립 수락;Grant Libya Independence;;;;;;;;;;;;x,,
-gtfo_TRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tripoli: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TRK_title;트란스케이 독립 수락;Grant Transkei Independence;;;;;;;;;;;;x,,
-gtfo_TRK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Transkei: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TUN_title;튀니지 독립 수락;Grant Tunis Independence;;;;;;;;;;;;x,,
-gtfo_TUN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tunis: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TUR_title;터키 독립 수락;Grant Ottoman Empire Independence;;;;;;;;;;;;x,,
-gtfo_TUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ottoman Empire: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TUV_title;투발루 독립 수락;Grant Tuvalu Independence;;;;;;;;;;;;x,,
-gtfo_TUV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Tuvalu: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UAE_title;아랍토후국 연합 독립 수락;Grant United Arab Emirates Independence;;;;;;;;;;;;x,,
-gtfo_UAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of United Arab Emirates: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UAR_title;아랍 연합 독립 수락;Grant United Arab Republic Independence;;;;;;;;;;;;x,,
-gtfo_UAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of United Arab Republic: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UBD_title;발트 독립 수락;Grant United Baltic Provinces Independence;;;;;;;;;;;;x,,
-gtfo_UBD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of United Baltic Provinces: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UCH_title;국민정부 독립 수락;Grant Reorganized Government of China Independence;;;;;;;;;;;;x,,
-gtfo_UCH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Reorganized Government of China: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UCS_title;스탠리빌 독립 수락;Grant Congo Stanleyville Independence;;;;;;;;;;;;x,,
-gtfo_UCS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Congo Stanleyville: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UDM_title;우드무르트 독립 수락;Grant Udmurtia Independence;;;;;;;;;;;;x,,
-gtfo_UDM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Udmurtia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UFR_title;자유프랑스 독립 수락;Grant Free France Independence;;;;;;;;;;;;x,,
-gtfo_UFR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Free France: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UGA_title;우간다 독립 수락;Grant Uganda Independence;;;;;;;;;;;;x,,
-gtfo_UGA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Uganda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UGR_title;민주그리스 독립 수락;Grant Provincial Democratic Greece Independence;;;;;;;;;;;;x,,
-gtfo_UGR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Provincial Democratic Greece: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UKR_title;우크라이나 독립 수락;Grant Ukraine Independence;;;;;;;;;;;;x,,
-gtfo_UKR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ukraine: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_URU_title;우루과이 독립 수락;Grant Uruguay Independence;;;;;;;;;;;;x,,
-gtfo_URU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Uruguay: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_USA_title;미합중국 독립 수락;Grant USA Independence;;;;;;;;;;;;x,,
-gtfo_USA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of USA: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_USY_title;시리아 임시정부 독립 수락;Grant Syrian Interim Government Independence;;;;;;;;;;;;x,,
-gtfo_USY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Syrian Interim Government: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_UZB_title;우즈베키스탄 독립 수락;Grant Uzbekistan Independence;;;;;;;;;;;;x,,
-gtfo_UZB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Uzbekistan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_VAN_title;바누아투 독립 수락;Grant Vanuatu Independence;;;;;;;;;;;;x,,
-gtfo_VAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Vanuatu: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_VED_title;벤다 독립 수락;Grant Venda Independence;;;;;;;;;;;;x,,
-gtfo_VED_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Venda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_VIR_title;버진 독립 수락;Grant Virgin Islands Independence;;;;;;;;;;;;x,,
-gtfo_VIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Virgin Islands: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_VNZ_title;베네수엘라 독립 수락;Grant Venezuela Independence;;;;;;;;;;;;x,,
-gtfo_VNZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Venezuela: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_VOJ_title;보이보디나 독립 수락;Grant Vojvodina Independence;;;;;;;;;;;;x,,
-gtfo_VOJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Vojvodina: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_WAE_title;웨일스 독립 수락;Grant Wales Independence;;;;;;;;;;;;x,,
-gtfo_WAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Wales: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_WAF_title;왈리스푸투나 독립 수락;Grant Wallis And Futuna Independence;;;;;;;;;;;;x,,
-gtfo_WAF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Wallis And Futuna: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_WEI_title;웨이하이 독립 수락;Grant Weihai Independence;;;;;;;;;;;;x,,
-gtfo_WEI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Weihai: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_WLL_title;왈롱 독립 수락;Grant Wallonia Independence;;;;;;;;;;;;x,,
-gtfo_WLL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Wallonia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_WPA_title;서파푸아 독립 수락;Grant West Papua Independence;;;;;;;;;;;;x,,
-gtfo_WPA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of West Papua: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_WSA_title;서사하라 독립 수락;Grant Western Sahara Independence;;;;;;;;;;;;x,,
-gtfo_WSA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Western Sahara: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XAC_title;안데스 공동체 독립 수락;Grant Andean Community Independence;;;;;;;;;;;;x,,
-gtfo_XAC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Andean Community: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XAL_title;아랍 연맹 독립 수락;Grant Arab League Independence;;;;;;;;;;;;x,,
-gtfo_XAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Arab League: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XAN_title;아세안 독립 수락;Grant ASEAN Independence;;;;;;;;;;;;x,,
-gtfo_XAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of ASEAN: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XAU_title;아프리카 연합 독립 수락;Grant African Union Independence;;;;;;;;;;;;x,,
-gtfo_XAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of African Union: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XCC_title;카리브 공동체 독립 수락;Grant CARICOM Independence;;;;;;;;;;;;x,,
-gtfo_XCC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of CARICOM: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XCI_title;중앙아메리카 통합체제 독립 수락;Grant Central American Integration System Independence;;;;;;;;;;;;x,,
-gtfo_XCI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Central American Integration System: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XEA_title;유라시아 경제 공동체 독립 수락;Grant Eurasian Economic Community Independence;;;;;;;;;;;;x,,
-gtfo_XEA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Eurasian Economic Community: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XEC_title;중앙아프리카 경제 공동체 독립 수락;Grant ECCAS Independence;;;;;;;;;;;;x,,
-gtfo_XEC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of ECCAS: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XEF_title;동아프리카 독립 수락;Grant East African Federation Independence;;;;;;;;;;;;x,,
-gtfo_XEF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of East African Federation: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XEU_title;유럽 연합 독립 수락;Grant Europena Union Independence;;;;;;;;;;;;x,,
-gtfo_XEU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Europena Union: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XEW_title;서아프리카 경제 공동체 독립 수락;Grant ECOWAS Independence;;;;;;;;;;;;x,,
-gtfo_XEW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of ECOWAS: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XGC_title;걸프 협력 회의 독립 수락;Grant Gulf Cooperation Council Independence;;;;;;;;;;;;x,,
-gtfo_XGC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Gulf Cooperation Council: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XIO_title;남아시아 지역 협력 연합 독립 수락;Grant SAARC Independence;;;;;;;;;;;;x,,
-gtfo_XIO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of SAARC: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XMS_title;남아메리카 공동시장 독립 수락;Grant Mercosur Independence;;;;;;;;;;;;x,,
-gtfo_XMS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Mercosur: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XMU_title;마그레브 연합 독립 수락;Grant Arab Maghreb Union Independence;;;;;;;;;;;;x,,
-gtfo_XMU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Arab Maghreb Union: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XNA_title;북아메리카 자유무역협정 독립 수락;Grant NAFTA Independence;;;;;;;;;;;;x,,
-gtfo_XNA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of NAFTA: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XPI_title;태평양 연방 독립 수락;Grant Pacific Islands Federation Independence;;;;;;;;;;;;x,,
-gtfo_XPI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Pacific Islands Federation: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XSA_title;남아프리카 개발 공동체 독립 수락;Grant Southern African Development Community Independence;;;;;;;;;;;;x,,
-gtfo_XSA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Southern African Development Community: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XSU_title;남아메리카 국가 연합 독립 수락;Grant Union of South American Nations Independence;;;;;;;;;;;;x,,
-gtfo_XSU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Union of South American Nations: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XTC_title;튀르크 평의회 독립 수락;Grant Turkic Council Independence;;;;;;;;;;;;x,,
-gtfo_XTC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Turkic Council: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_XUM_title;움마 독립 수락;Grant Ummah Independence;;;;;;;;;;;;x,,
-gtfo_XUM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Ummah: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_YAK_title;야쿠티야 독립 수락;Grant Yakutia Independence;;;;;;;;;;;;x,,
-gtfo_YAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Yakutia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_YEM_title;예멘 독립 수락;Grant Yemen Independence;;;;;;;;;;;;x,,
-gtfo_YEM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Yemen: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_YNN_title;운남 독립 수락;Grant Yunnan Independence;;;;;;;;;;;;x,,
-gtfo_YNN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Yunnan: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_YOG_title;욕야카르타 독립 수락;Grant Yogyakarta Independence;;;;;;;;;;;;x,,
-gtfo_YOG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Yogyakarta: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_YUG_title;유고슬라비아 독립 수락;Grant Yugoslavia Independence;;;;;;;;;;;;x,,
-gtfo_YUG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Yugoslavia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ZAM_title;잠비아 독립 수락;Grant Zambia Independence;;;;;;;;;;;;x,,
-gtfo_ZAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Zambia: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ZAN_title;잔지바르 독립 수락;Grant Zanzibar Independence;;;;;;;;;;;;x,,
-gtfo_ZAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Zanzibar: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ZIM_title;짐바브웨 독립 수락;Grant Zimbabwe Independence;;;;;;;;;;;;x,,
-gtfo_ZIM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Zimbabwe: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_ZUL_title;줄루 독립 수락;Grant Zulu Independence;;;;;;;;;;;;x,,
-gtfo_ZUL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;We've had a good run, but it's time to end our rulership of Zulu: if you love something, let it go!;;;;;;;;;;;;x
+CODE;ENGLISH;;;;;;;;;;;x
+gtfo_off_title;'속국 해방' 결정 숨김;;;;;;;;;;;x
+gtfo_off_desc;결정 목록에서 숨깁니다!;;;;;;;;;;;x
+gtfo_on_title;'속국 해방' 표시;;;;;;;;;;;x
+gtfo_on_desc;속국을 해방할 수 있게 해주며, 결정 목록을 흐트러뜨리는 것을 원하지 않는다면 숨길 수 있습니다.;;;;;;;;;;;x
+gtfo_AAB_title;앤티가바부다 독립 수락;;;;;;;;;;;x
+gtfo_AAB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ABK_title;압하지야 독립 수락;;;;;;;;;;;x
+gtfo_ABK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ABZ_title;암바조니아 독립 수락;;;;;;;;;;;x
+gtfo_ABZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ADJ_title;아자리야 독립 수락;;;;;;;;;;;x
+gtfo_ADJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ADL_title;안달루시아 독립 수락;;;;;;;;;;;x
+gtfo_ADL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AFG_title;아프가니스탄 독립 수락;;;;;;;;;;;x
+gtfo_AFG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ALA_title;올란드 독립 수락;;;;;;;;;;;x
+gtfo_ALA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ALB_title;알바니아 독립 수락;;;;;;;;;;;x
+gtfo_ALB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ALG_title;알제리 독립 수락;;;;;;;;;;;x
+gtfo_ALG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ALT_title;알타이 독립 수락;;;;;;;;;;;x
+gtfo_ALT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ANG_title;앙골라 독립 수락;;;;;;;;;;;x
+gtfo_ANG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AOS_title;아오스타 독립 수락;;;;;;;;;;;x
+gtfo_AOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ARG_title;아르헨티나 독립 수락;;;;;;;;;;;x
+gtfo_ARG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ARM_title;아르메니아 독립 수락;;;;;;;;;;;x
+gtfo_ARM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ARU_title;아루바 독립 수락;;;;;;;;;;;x
+gtfo_ARU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ASM_title;아삼 독립 수락;;;;;;;;;;;x
+gtfo_ASM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AST_title;오스트레일리아 독립 수락;;;;;;;;;;;x
+gtfo_AST_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ATJ_title;아체 독립 수락;;;;;;;;;;;x
+gtfo_ATJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ATL_title;아틀란티코 독립 수락;;;;;;;;;;;x
+gtfo_ATL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AUS_title;오스트리아 독립 수락;;;;;;;;;;;x
+gtfo_AUS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AZA_title;아자와드 독립 수락;;;;;;;;;;;x
+gtfo_AZA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AZB_title;아제르바이잔 독립 수락;;;;;;;;;;;x
+gtfo_AZB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AZK_title;부족 지역 독립 수락;;;;;;;;;;;x
+gtfo_AZK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_AZO_title;아조레스 독립 수락;;;;;;;;;;;x
+gtfo_AZO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BAH_title;바하마 독립 수락;;;;;;;;;;;x
+gtfo_BAH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BAK_title;바슈코르토스탄 독립 수락;;;;;;;;;;;x
+gtfo_BAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BAR_title;바베이도스 독립 수락;;;;;;;;;;;x
+gtfo_BAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BAV_title;바이에른 독립 수락;;;;;;;;;;;x
+gtfo_BAV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BEL_title;벨기에 독립 수락;;;;;;;;;;;x
+gtfo_BEL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BEN_title;베냉 독립 수락;;;;;;;;;;;x
+gtfo_BEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BER_title;베로다 독립 수락;;;;;;;;;;;x
+gtfo_BER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BEU_title;버뮤다 독립 수락;;;;;;;;;;;x
+gtfo_BEU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BHR_title;바레인 독립 수락;;;;;;;;;;;x
+gtfo_BHR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BHU_title;부탄 독립 수락;;;;;;;;;;;x
+gtfo_BHU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BIF_title;비아프라 독립 수락;;;;;;;;;;;x
+gtfo_BIF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BLO_title;발루치스탄 독립 수락;;;;;;;;;;;x
+gtfo_BLO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BLZ_title;벨리즈 독립 수락;;;;;;;;;;;x
+gtfo_BLZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BNG_title;방글라데시 독립 수락;;;;;;;;;;;x
+gtfo_BNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BNL_title;저지대 독립 수락;;;;;;;;;;;x
+gtfo_BNL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOD_title;보도랜드 독립 수락;;;;;;;;;;;x
+gtfo_BOD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOH_title;보헤미아 독립 수락;;;;;;;;;;;x
+gtfo_BOH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOL_title;볼리비아 독립 수락;;;;;;;;;;;x
+gtfo_BOL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOP_title;보푸타츠와나 독립 수락;;;;;;;;;;;x
+gtfo_BOP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOS_title;보스니아 독립 수락;;;;;;;;;;;x
+gtfo_BOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOT_title;보츠나와 독립 수락;;;;;;;;;;;x
+gtfo_BOT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BOU_title;부겐빌 독립 수락;;;;;;;;;;;x
+gtfo_BOU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BRI_title;브르타뉴 독립 수락;;;;;;;;;;;x
+gtfo_BRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BRN_title;부룬디 독립 수락;;;;;;;;;;;x
+gtfo_BRN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BRU_title;브루나이 독립 수락;;;;;;;;;;;x
+gtfo_BRU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BRZ_title;브라질 독립 수락;;;;;;;;;;;x
+gtfo_BRZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BUF_title;부르키나파소 독립 수락;;;;;;;;;;;x
+gtfo_BUF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BUL_title;불가리아 독립 수락;;;;;;;;;;;x
+gtfo_BUL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BUR_title;버마 독립 수락;;;;;;;;;;;x
+gtfo_BUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BUY_title;부랴티야 독립 수락;;;;;;;;;;;x
+gtfo_BUY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_BYE_title;벨라루스 독립 수락;;;;;;;;;;;x
+gtfo_BYE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CAM_title;캄보디아 독립 수락;;;;;;;;;;;x
+gtfo_CAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CAN_title;캐나다 독립 수락;;;;;;;;;;;x
+gtfo_CAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CAR_title;중앙아프리카 독립 수락;;;;;;;;;;;x
+gtfo_CAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CAT_title;카탈루냐 독립 수락;;;;;;;;;;;x
+gtfo_CAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CBA_title;카빈다 독립 수락;;;;;;;;;;;x
+gtfo_CBA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CHA_title;차드 독립 수락;;;;;;;;;;;x
+gtfo_CHA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CHC_title;Grant Chechnya Independence;;;;;;;;;;;x
+gtfo_CHC_desc;We've had a good run, but it's time to end our rulership of Chechnya: if you love something, let it go!;;;;;;;;;;;x
+gtfo_CHI_title;중국 독립 수락;;;;;;;;;;;x
+gtfo_CHI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CHL_title;칠레 독립 수락;;;;;;;;;;;x
+gtfo_CHL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CHS_title;친 독립 수락;;;;;;;;;;;x
+gtfo_CHS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CHU_title;추바시야 독립 수락;;;;;;;;;;;x
+gtfo_CHU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CIR_title;체르케시야 독립 수락;;;;;;;;;;;x
+gtfo_CIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CIS_title;시스케이 독립 수락;;;;;;;;;;;x
+gtfo_CIS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CLM_title;콜롬비아 독립 수락;;;;;;;;;;;x
+gtfo_CLM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CMR_title;카메룬 독립 수락;;;;;;;;;;;x
+gtfo_CMR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CNG_title;콩고 자유국 독립 수락;;;;;;;;;;;x
+gtfo_CNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_COI_title;쿡 독립 수락;;;;;;;;;;;x
+gtfo_COI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_COM_title;코모로 독립 수락;;;;;;;;;;;x
+gtfo_COM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_COR_title;코르시카 독립 수락;;;;;;;;;;;x
+gtfo_COR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_COS_title;코스타리카 독립 수락;;;;;;;;;;;x
+gtfo_COS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CPV_title;카보베르데 독립 수락;;;;;;;;;;;x
+gtfo_CPV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CRI_title;크리미야 독립 수락;;;;;;;;;;;x
+gtfo_CRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CRO_title;크로아티아 독립 수락;;;;;;;;;;;x
+gtfo_CRO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CSA_title;남부맹방 독립 수락;;;;;;;;;;;x
+gtfo_CSA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CUB_title;쿠바 독립 수락;;;;;;;;;;;x
+gtfo_CUB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CUR_title;퀴라소 독립 수락;;;;;;;;;;;x
+gtfo_CUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CYI_title;케이맨 독립 수락;;;;;;;;;;;x
+gtfo_CYI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CYP_title;키프로스 독립 수락;;;;;;;;;;;x
+gtfo_CYP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_CZH_title;체코슬로바키아 독립 수락;;;;;;;;;;;x
+gtfo_CZH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DAG_title;Grant Dagestan Independence;;;;;;;;;;;x
+gtfo_DAG_desc;We've had a good run, but it's time to end our rulership of Dagestan: if you love something, let it go!;;;;;;;;;;;x
+gtfo_DAI_title;베트남 독립 수락;;;;;;;;;;;x
+gtfo_DAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DAR_title;다르푸르 독립 수락;;;;;;;;;;;x
+gtfo_DAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DDR_title;동독 독립 수락;;;;;;;;;;;x
+gtfo_DDR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DEN_title;덴마크 독립 수락;;;;;;;;;;;x
+gtfo_DEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DJI_title;지부티 독립 수락;;;;;;;;;;;x
+gtfo_DJI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DMC_title;도미니카 독립 수락;;;;;;;;;;;x
+gtfo_DMC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DOM_title;도미니카 독립 수락;;;;;;;;;;;x
+gtfo_DOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DRA_title;드라비다스탄 독립 수락;;;;;;;;;;;x
+gtfo_DRA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DYA_title;다야크 독립 수락;;;;;;;;;;;x
+gtfo_DYA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_DZG_title;단치히 독립 수락;;;;;;;;;;;x
+gtfo_DZG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_EAI_title;라파누이 독립 수락;;;;;;;;;;;x
+gtfo_EAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ECA_title;동카프리비 독립 수락;;;;;;;;;;;x
+gtfo_ECA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ECU_title;에콰도르 독립 수락;;;;;;;;;;;x
+gtfo_ECU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_EGY_title;이집트 독립 수락;;;;;;;;;;;x
+gtfo_EGY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_EID_title;동인도네시아 독립 수락;;;;;;;;;;;x
+gtfo_EID_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ELS_title;엘살바도르 독립 수락;;;;;;;;;;;x
+gtfo_ELS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ENG_title;영국 독립 수락;;;;;;;;;;;x
+gtfo_ENG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_EQG_title;적도기니 독립 수락;;;;;;;;;;;x
+gtfo_EQG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ERI_title;에리트레아 독립 수락;;;;;;;;;;;x
+gtfo_ERI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_EST_title;에스토니아 독립 수락;;;;;;;;;;;x
+gtfo_EST_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ETH_title;에티오피아 독립 수락;;;;;;;;;;;x
+gtfo_ETH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ETS_title;동튀르키스탄 독립 수락;;;;;;;;;;;x
+gtfo_ETS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_EUS_title;바스크 독립 수락;;;;;;;;;;;x
+gtfo_EUS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FAR_title;페로 독립 수락;;;;;;;;;;;x
+gtfo_FAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FER_title;극동 독립 수락;;;;;;;;;;;x
+gtfo_FER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FIJ_title;피지 독립 수락;;;;;;;;;;;x
+gtfo_FIJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FIN_title;핀란드 독립 수락;;;;;;;;;;;x
+gtfo_FIN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FLA_title;플란데런 독립 수락;;;;;;;;;;;x
+gtfo_FLA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FRA_title;프랑스 독립 수락;;;;;;;;;;;x
+gtfo_FRA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FUJ_title;복건 독립 수락;;;;;;;;;;;x
+gtfo_FUJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_FVG_title;프리울리-베네치아-줄리아 독립 수락;;;;;;;;;;;x
+gtfo_FVG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GAB_title;가봉 독립 수락;;;;;;;;;;;x
+gtfo_GAB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GAG_title;가가우지아 독립 수락;;;;;;;;;;;x
+gtfo_GAG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GAL_title;갈리시아 독립 수락;;;;;;;;;;;x
+gtfo_GAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GAM_title;감비아 독립 수락;;;;;;;;;;;x
+gtfo_GAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GAZ_title;가자 독립 수락;;;;;;;;;;;x
+gtfo_GAZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GEO_title;그루지야 독립 수락;;;;;;;;;;;x
+gtfo_GEO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GER_title;독일 독립 수락;;;;;;;;;;;x
+gtfo_GER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GGX_title;광서 독립 수락;;;;;;;;;;;x
+gtfo_GGX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GHA_title;가나 독립 수락;;;;;;;;;;;x
+gtfo_GHA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GIB_title;지브롤터 독립 수락;;;;;;;;;;;x
+gtfo_GIB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GOB_title;고르노바다흐샨 독립 수락;;;;;;;;;;;x
+gtfo_GOB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GRD_title;그레나다 독립 수락;;;;;;;;;;;x
+gtfo_GRD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GRE_title;그리스 독립 수락;;;;;;;;;;;x
+gtfo_GRE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GRN_title;그린란드 독립 수락;;;;;;;;;;;x
+gtfo_GRN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GUA_title;과테말라 독립 수락;;;;;;;;;;;x
+gtfo_GUA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GUB_title;기니비사우 독립 수락;;;;;;;;;;;x
+gtfo_GUB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GUI_title;기니 독립 수락;;;;;;;;;;;x
+gtfo_GUI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GUY_title;가이아나 독립 수락;;;;;;;;;;;x
+gtfo_GUY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GWA_title;괄리오르 독립 수락;;;;;;;;;;;x
+gtfo_GWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_GZA_title;가장쿨루 독립 수락;;;;;;;;;;;x
+gtfo_GZA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HAI_title;아이티 독립 수락;;;;;;;;;;;x
+gtfo_HAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HAW_title;하와이 독립 수락;;;;;;;;;;;x
+gtfo_HAW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HKG_title;홍콩 독립 수락;;;;;;;;;;;x
+gtfo_HKG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HNB_title;방가부미 독립 수락;;;;;;;;;;;x
+gtfo_HNB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HND_title;인도 독립 수락;;;;;;;;;;;x
+gtfo_HND_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HON_title;온두라스 독립 수락;;;;;;;;;;;x
+gtfo_HON_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HOU_title;후티 독립 수락;;;;;;;;;;;x
+gtfo_HOU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HUN_title;헝가리 독립 수락;;;;;;;;;;;x
+gtfo_HUN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HYD_title;하이데라바드 독립 수락;;;;;;;;;;;x
+gtfo_HYD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_HZB_title;헤르체그보스니아 독립 수락;;;;;;;;;;;x
+gtfo_HZB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IAR_title;루르 독립 수락;;;;;;;;;;;x
+gtfo_IAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ICL_title;아이슬란드 독립 수락;;;;;;;;;;;x
+gtfo_ICL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ICU_title;인도차이나 독립 수락;;;;;;;;;;;x
+gtfo_ICU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IDO_title;인도네시아 독립 수락;;;;;;;;;;;x
+gtfo_IDO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IGU_title;잉구셰티야 독립 수락;;;;;;;;;;;x
+gtfo_IGU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IMN_title;우브르몽골 독립 수락;;;;;;;;;;;x
+gtfo_IMN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IND_title;인도르 독립 수락;;;;;;;;;;;x
+gtfo_IND_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IOM_title;맨 독립 수락;;;;;;;;;;;x
+gtfo_IOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IRE_title;아일랜드 독립 수락;;;;;;;;;;;x
+gtfo_IRE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IRQ_title;이라크 독립 수락;;;;;;;;;;;x
+gtfo_IRQ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ISI_title;이슬람국가 독립 수락;;;;;;;;;;;x
+gtfo_ISI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ISR_title;이스라엘 독립 수락;;;;;;;;;;;x
+gtfo_ISR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ITA_title;이탈리아 독립 수락;;;;;;;;;;;x
+gtfo_ITA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ITU_title;이투리 독립 수락;;;;;;;;;;;x
+gtfo_ITU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_IVC_title;코트디부아르 독립 수락;;;;;;;;;;;x
+gtfo_IVC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_JAK_title;잠무-카슈미르 독립 수락;;;;;;;;;;;x
+gtfo_JAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_JAM_title;자메이카 독립 수락;;;;;;;;;;;x
+gtfo_JAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_JAP_title;일본 독립 수락;;;;;;;;;;;x
+gtfo_JAP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_JDO_title;제주 독립 수락;;;;;;;;;;;x
+gtfo_JDO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_JER_title;저지 독립 수락;;;;;;;;;;;x
+gtfo_JER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_JOR_title;요르단 독립 수락;;;;;;;;;;;x
+gtfo_JOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KAB_title;카바르디노발카르 독립 수락;;;;;;;;;;;x
+gtfo_KAB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KAC_title;카친 독립 수락;;;;;;;;;;;x
+gtfo_KAC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KAM_title;칼미키야 독립 수락;;;;;;;;;;;x
+gtfo_KAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KAT_title;카탕가 독립 수락;;;;;;;;;;;x
+gtfo_KAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KAY_title;카인 독립 수락;;;;;;;;;;;x
+gtfo_KAY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KAZ_title;카자흐스탄 독립 수락;;;;;;;;;;;x
+gtfo_KAZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KCH_title;카라차예보-체르케시야 독립 수락;;;;;;;;;;;x
+gtfo_KCH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KEN_title;케냐 독립 수락;;;;;;;;;;;x
+gtfo_KEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KIR_title;키리바시 독립 수락;;;;;;;;;;;x
+gtfo_KIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KKP_title;카라칼파크스탄 독립 수락;;;;;;;;;;;x
+gtfo_KKP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KMT_title;중화민국 독립 수락;;;;;;;;;;;x
+gtfo_KMT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KOM_title;코미 독립 수락;;;;;;;;;;;x
+gtfo_KOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KOR_title;한국 독립 수락;;;;;;;;;;;x
+gtfo_KOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KOS_title;코소보 독립 수락;;;;;;;;;;;x
+gtfo_KOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KRL_title;카렐리야 독립 수락;;;;;;;;;;;x
+gtfo_KRL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KUR_title;쿠르디스탄 독립 수락;;;;;;;;;;;x
+gtfo_KUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KUW_title;쿠웨이트 독립 수락;;;;;;;;;;;x
+gtfo_KUW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KWA_title;광동 독립 수락;;;;;;;;;;;x
+gtfo_KWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_KYR_title;키르기스스탄 독립 수락;;;;;;;;;;;x
+gtfo_KYR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LAT_title;라트비아 독립 수락;;;;;;;;;;;x
+gtfo_LAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LBW_title;레보와 독립 수락;;;;;;;;;;;x
+gtfo_LBW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LEB_title;레바논 독립 수락;;;;;;;;;;;x
+gtfo_LEB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LES_title;레소토 독립 수락;;;;;;;;;;;x
+gtfo_LES_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LIB_title;라이베리아 독립 수락;;;;;;;;;;;x
+gtfo_LIB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LIT_title;리투아니아 독립 수락;;;;;;;;;;;x
+gtfo_LIT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LOU_title;루이지안느 독립 수락;;;;;;;;;;;x
+gtfo_LOU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LUA_title;라오스 독립 수락;;;;;;;;;;;x
+gtfo_LUA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_LUX_title;룩셈부르크 독립 수락;;;;;;;;;;;x
+gtfo_LUX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MAC_title;마케도니아 독립 수락;;;;;;;;;;;x
+gtfo_MAC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MAD_title;마다가스카르 독립 수락;;;;;;;;;;;x
+gtfo_MAD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MAE_title;마데이라 독립 수락;;;;;;;;;;;x
+gtfo_MAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MAL_title;몰타 독립 수락;;;;;;;;;;;x
+gtfo_MAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MAR_title;마셜 독립 수락;;;;;;;;;;;x
+gtfo_MAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MAU_title;모리타니 독립 수락;;;;;;;;;;;x
+gtfo_MAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MCA_title;마카오 독립 수락;;;;;;;;;;;x
+gtfo_MCA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MCK_title;만주 독립 수락;;;;;;;;;;;x
+gtfo_MCK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MEX_title;멕시코 독립 수락;;;;;;;;;;;x
+gtfo_MEX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MGL_title;몽골 독립 수락;;;;;;;;;;;x
+gtfo_MGL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MGY_title;마자르 독립 수락;;;;;;;;;;;x
+gtfo_MGY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MIC_title;미크로네시아 독립 수락;;;;;;;;;;;x
+gtfo_MIC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MIN_title;민다나오 독립 수락;;;;;;;;;;;x
+gtfo_MIN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MIZ_title;미조람 독립 수락;;;;;;;;;;;x
+gtfo_MIZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MLD_title;몰디브 독립 수락;;;;;;;;;;;x
+gtfo_MLD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MLI_title;말리 독립 수락;;;;;;;;;;;x
+gtfo_MLI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MLW_title;말라와 독립 수락;;;;;;;;;;;x
+gtfo_MLW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MNP_title;마니푸르 독립 수락;;;;;;;;;;;x
+gtfo_MNP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MOL_title;몰도바 독립 수락;;;;;;;;;;;x
+gtfo_MOL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MON_title;몬테네그로 독립 수락;;;;;;;;;;;x
+gtfo_MON_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MOR_title;모로코 독립 수락;;;;;;;;;;;x
+gtfo_MOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MOS_title;몬 독립 수락;;;;;;;;;;;x
+gtfo_MOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MOZ_title;모잠비크 독립 수락;;;;;;;;;;;x
+gtfo_MOZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MRD_title;모르도바 독립 수락;;;;;;;;;;;x
+gtfo_MRD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MRI_title;마리옐 독립 수락;;;;;;;;;;;x
+gtfo_MRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MRT_title;모리셔스 독립 수락;;;;;;;;;;;x
+gtfo_MRT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MSU_title;모술 독립 수락;;;;;;;;;;;x
+gtfo_MSU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MSY_title;말레이시아 독립 수락;;;;;;;;;;;x
+gtfo_MSY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_MYS_title;마이소르 독립 수락;;;;;;;;;;;x
+gtfo_MYS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NAG_title;나그푸르 독립 수락;;;;;;;;;;;x
+gtfo_NAG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NAK_title;나고르노카라바흐 독립 수락;;;;;;;;;;;x
+gtfo_NAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NAM_title;나미비아 독립 수락;;;;;;;;;;;x
+gtfo_NAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NAU_title;나우루 독립 수락;;;;;;;;;;;x
+gtfo_NAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NAX_title;낙살라이트 인도 독립 수락;;;;;;;;;;;x
+gtfo_NAX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NCA_title;누벨칼레도니 독립 수락;;;;;;;;;;;x
+gtfo_NCA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NCY_title;북키프로스 독립 수락;;;;;;;;;;;x
+gtfo_NCY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NDB_title;크와은벨레 독립 수락;;;;;;;;;;;x
+gtfo_NDB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NEP_title;네팔 독립 수락;;;;;;;;;;;x
+gtfo_NEP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NET_title;네덜란드 독립 수락;;;;;;;;;;;x
+gtfo_NET_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NFL_title;뉴펀들랜드 독립 수락;;;;;;;;;;;x
+gtfo_NFL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NGE_title;니이지리아 독립 수락;;;;;;;;;;;x
+gtfo_NGE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NGW_title;카응과네 독립 수락;;;;;;;;;;;x
+gtfo_NGW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NGX_title;영하 독립 수락;;;;;;;;;;;x
+gtfo_NGX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NIC_title;니카라과 독립 수락;;;;;;;;;;;x
+gtfo_NIC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NIG_title;니제르 독립 수락;;;;;;;;;;;x
+gtfo_NIG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NIR_title;북아일랜드 독립 수락;;;;;;;;;;;x
+gtfo_NIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NIU_title;니우에 독립 수락;;;;;;;;;;;x
+gtfo_NIU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NKH_title;나히체반 독립 수락;;;;;;;;;;;x
+gtfo_NKH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NKO_title;북조선 독립 수락;;;;;;;;;;;x
+gtfo_NKO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NMI_title;북마리아나 독립 수락;;;;;;;;;;;x
+gtfo_NMI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NOR_title;노르웨이 독립 수락;;;;;;;;;;;x
+gtfo_NOR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NOS_title;북오세티야 독립 수락;;;;;;;;;;;x
+gtfo_NOS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NRI_title;노퍽 독립 수락;;;;;;;;;;;x
+gtfo_NRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NRO_title;노보러시아 독립 수락;;;;;;;;;;;x
+gtfo_NRO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_NZL_title;뉴질랜드 독립 수락;;;;;;;;;;;x
+gtfo_NZL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_OMA_title;오만 독립 수락;;;;;;;;;;;x
+gtfo_OMA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ORI_title;오리사 독립 수락;;;;;;;;;;;x
+gtfo_ORI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ORM_title;오로미아 독립 수락;;;;;;;;;;;x
+gtfo_ORM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PAK_title;파키스탄 독립 수락;;;;;;;;;;;x
+gtfo_PAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PAL_title;팔레스타인 독립 수락;;;;;;;;;;;x
+gtfo_PAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PAP_title;교황령 독립 수락;;;;;;;;;;;x
+gtfo_PAP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PAT_title;파타니 독립 수락;;;;;;;;;;;x
+gtfo_PAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PAU_title;팔라우 독립 수락;;;;;;;;;;;x
+gtfo_PAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PER_title;페르시아 독립 수락;;;;;;;;;;;x
+gtfo_PER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PEU_title;페루 독립 수락;;;;;;;;;;;x
+gtfo_PEU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PHI_title;필리핀 독립 수락;;;;;;;;;;;x
+gtfo_PHI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PNJ_title;펀자브 독립 수락;;;;;;;;;;;x
+gtfo_PNJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PNM_title;파나마 독립 수락;;;;;;;;;;;x
+gtfo_PNM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_POL_title;폴란드 독립 수락;;;;;;;;;;;x
+gtfo_POL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_POR_title;포르투갈 독립 수락;;;;;;;;;;;x
+gtfo_POR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_POY_title;폴리네시아 독립 수락;;;;;;;;;;;x
+gtfo_POY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PPN_title;파푸아뉴기니 독립 수락;;;;;;;;;;;x
+gtfo_PPN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PRG_title;파라과이 독립 수락;;;;;;;;;;;x
+gtfo_PRG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PUL_title;푼틀란드 독립 수락;;;;;;;;;;;x
+gtfo_PUL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_PUR_title;푸에르토리코 독립 수락;;;;;;;;;;;x
+gtfo_PUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_QAT_title;카타르 독립 수락;;;;;;;;;;;x
+gtfo_QAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_QNG_title;청 독립 수락;;;;;;;;;;;x
+gtfo_QNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_QUE_title;퀘벡 독립 수락;;;;;;;;;;;x
+gtfo_QUE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_QWA_title;콰콰 독립 수락;;;;;;;;;;;x
+gtfo_QWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RAA_title;라지푸타나 독립 수락;;;;;;;;;;;x
+gtfo_RAA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RAJ_title;인도 독립 수락;;;;;;;;;;;x
+gtfo_RAJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RAK_title;라킨 독립 수락;;;;;;;;;;;x
+gtfo_RAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RGS_title;히우그란지두술 독립 수락;;;;;;;;;;;x
+gtfo_RGS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RHO_title;남로디지아 독립 수락;;;;;;;;;;;x
+gtfo_RHO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ROA_title;서오스트리아 독립 수락;;;;;;;;;;;x
+gtfo_ROA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ROC_title;자이르 독립 수락;;;;;;;;;;;x
+gtfo_ROC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ROJ_title;로자바 독립 수락;;;;;;;;;;;x
+gtfo_ROJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ROM_title;루마니아 독립 수락;;;;;;;;;;;x
+gtfo_ROM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RSR_title;스릅스카 독립 수락;;;;;;;;;;;x
+gtfo_RSR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RUS_title;러시아 독립 수락;;;;;;;;;;;x
+gtfo_RUS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RUT_title;루테니아 독립 수락;;;;;;;;;;;x
+gtfo_RUT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RWA_title;르완다 독립 수락;;;;;;;;;;;x
+gtfo_RWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_RYK_title;류큐 독립 수락;;;;;;;;;;;x
+gtfo_RYK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SAA_title;사우디아라비아 독립 수락;;;;;;;;;;;x
+gtfo_SAA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SAF_title;남아프리카 독립 수락;;;;;;;;;;;x
+gtfo_SAF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SAL_title;자를란트 독립 수락;;;;;;;;;;;x
+gtfo_SAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SAM_title;사모아 독립 수락;;;;;;;;;;;x
+gtfo_SAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SAR_title;사르데냐 독립 수락;;;;;;;;;;;x
+gtfo_SAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SCA_title;스칸디나비아 독립 수락;;;;;;;;;;;x
+gtfo_SCA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SCI_title;시칠리아 독립 수락;;;;;;;;;;;x
+gtfo_SCI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SCO_title;스코틀랜드 독립 수락;;;;;;;;;;;x
+gtfo_SCO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SEL_title;셀레카 독립 수락;;;;;;;;;;;x
+gtfo_SEL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SEN_title;세네갈 독립 수락;;;;;;;;;;;x
+gtfo_SEN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SER_title;세르비아 독립 수락;;;;;;;;;;;x
+gtfo_SER_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SEY_title;세이셀 독립 수락;;;;;;;;;;;x
+gtfo_SEY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SGF_title;남독일 독립 수락;;;;;;;;;;;x
+gtfo_SGF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SHA_title;샨 독립 수락;;;;;;;;;;;x
+gtfo_SHA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SIK_title;시킴 독립 수락;;;;;;;;;;;x
+gtfo_SIK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SIN_title;신드 독립 수락;;;;;;;;;;;x
+gtfo_SIN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SKN_title;세인트키츠네비스 독립 수락;;;;;;;;;;;x
+gtfo_SKN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SKO_title;남한 독립 수락;;;;;;;;;;;x
+gtfo_SKO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SLO_title;슬로베니아 독립 수락;;;;;;;;;;;x
+gtfo_SLO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SLV_title;슬로바키아 독립 수락;;;;;;;;;;;x
+gtfo_SLV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SMA_title;신트마르턴 독립 수락;;;;;;;;;;;x
+gtfo_SMA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SML_title;소말릴랜드 독립 수락;;;;;;;;;;;x
+gtfo_SML_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SMU_title;남말루쿠 독립 수락;;;;;;;;;;;x
+gtfo_SMU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SNG_title;싱카포르 독립 수락;;;;;;;;;;;x
+gtfo_SNG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SOL_title;솔로몬 독립 수락;;;;;;;;;;;x
+gtfo_SOL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SOM_title;소말리아 독립 수락;;;;;;;;;;;x
+gtfo_SOM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SOT_title;남오세티야 독립 수락;;;;;;;;;;;x
+gtfo_SOT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SPA_title;에스파냐 독립 수락;;;;;;;;;;;x
+gtfo_SPA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SPM_title;생피에르미클롱 독립 수락;;;;;;;;;;;x
+gtfo_SPM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SRK_title;크라이나 독립 수락;;;;;;;;;;;x
+gtfo_SRK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SRL_title;스리랑카 독립 수락;;;;;;;;;;;x
+gtfo_SRL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SRN_title;시에라리온 독립 수락;;;;;;;;;;;x
+gtfo_SRN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SSU_title;남수단 독립 수락;;;;;;;;;;;x
+gtfo_SSU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_STL_title;세인트루시아 독립 수락;;;;;;;;;;;x
+gtfo_STL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_STP_title;상투메프린시페 독립 수락;;;;;;;;;;;x
+gtfo_STP_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SUD_title;수단 독립 수락;;;;;;;;;;;x
+gtfo_SUD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SUR_title;수리남 독립 수락;;;;;;;;;;;x
+gtfo_SUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SUT_title;쥐트티롤 독립 수락;;;;;;;;;;;x
+gtfo_SUT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SVG_title;세인트빈센트그레나딘 독립 수락;;;;;;;;;;;x
+gtfo_SVG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SVI_title;남베트남 독립 수락;;;;;;;;;;;x
+gtfo_SVI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SWA_title;스와질랜드 독립 수락;;;;;;;;;;;x
+gtfo_SWA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SWE_title;스웨덴 독립 수락;;;;;;;;;;;x
+gtfo_SWE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SWI_title;스위스 독립 수락;;;;;;;;;;;x
+gtfo_SWI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SYE_title;남예멘 독립 수락;;;;;;;;;;;x
+gtfo_SYE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_SYR_title;시리아 독립 수락;;;;;;;;;;;x
+gtfo_SYR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TAE_title;타밀일람 독립 수락;;;;;;;;;;;x
+gtfo_TAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TAI_title;대만 독립 수락;;;;;;;;;;;x
+gtfo_TAI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TAJ_title;타지키스탄 독립 수락;;;;;;;;;;;x
+gtfo_TAJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TAN_title;탄자니아 독립 수락;;;;;;;;;;;x
+gtfo_TAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TAR_title;타타르스탄 독립 수락;;;;;;;;;;;x
+gtfo_TAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TAT_title;트리니다드토바고 독립 수락;;;;;;;;;;;x
+gtfo_TAT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TCI_title;터크스-케이커스 독립 수락;;;;;;;;;;;x
+gtfo_TCI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TEX_title;텍사스 독립 수락;;;;;;;;;;;x
+gtfo_TEX_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TGZ_title;탕헤르 독립 수락;;;;;;;;;;;x
+gtfo_TGZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_THI_title;타이 독립 수락;;;;;;;;;;;x
+gtfo_THI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TIB_title;티베트 독립 수락;;;;;;;;;;;x
+gtfo_TIB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TIM_title;동티모르 독립 수락;;;;;;;;;;;x
+gtfo_TIM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TKR_title;튀르키스탄 독립 수락;;;;;;;;;;;x
+gtfo_TKR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TNT_title;투바 독립 수락;;;;;;;;;;;x
+gtfo_TNT_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TOG_title;토고 독립 수락;;;;;;;;;;;x
+gtfo_TOG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TOK_title;토켈라우 독립 수락;;;;;;;;;;;x
+gtfo_TOK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TON_title;통가 독립 수락;;;;;;;;;;;x
+gtfo_TON_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TRA_title;트라방코르 독립 수락;;;;;;;;;;;x
+gtfo_TRA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TRD_title;트란스니스트리아 독립 수락;;;;;;;;;;;x
+gtfo_TRD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TRE_title;트리에스테 독립 수락;;;;;;;;;;;x
+gtfo_TRE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TRI_title;리비아 독립 수락;;;;;;;;;;;x
+gtfo_TRI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TRK_title;트란스케이 독립 수락;;;;;;;;;;;x
+gtfo_TRK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TUN_title;튀니지 독립 수락;;;;;;;;;;;x
+gtfo_TUN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TUR_title;터키 독립 수락;;;;;;;;;;;x
+gtfo_TUR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_TUV_title;투발루 독립 수락;;;;;;;;;;;x
+gtfo_TUV_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UAE_title;아랍토후국 연합 독립 수락;;;;;;;;;;;x
+gtfo_UAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UAR_title;아랍 연합 독립 수락;;;;;;;;;;;x
+gtfo_UAR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UBD_title;발트 독립 수락;;;;;;;;;;;x
+gtfo_UBD_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UCH_title;국민정부 독립 수락;;;;;;;;;;;x
+gtfo_UCH_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UCS_title;스탠리빌 독립 수락;;;;;;;;;;;x
+gtfo_UCS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UDM_title;우드무르트 독립 수락;;;;;;;;;;;x
+gtfo_UDM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UFR_title;자유프랑스 독립 수락;;;;;;;;;;;x
+gtfo_UFR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UGA_title;우간다 독립 수락;;;;;;;;;;;x
+gtfo_UGA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UGR_title;민주그리스 독립 수락;;;;;;;;;;;x
+gtfo_UGR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UKR_title;우크라이나 독립 수락;;;;;;;;;;;x
+gtfo_UKR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_URU_title;우루과이 독립 수락;;;;;;;;;;;x
+gtfo_URU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_USA_title;미합중국 독립 수락;;;;;;;;;;;x
+gtfo_USA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_USY_title;시리아 임시정부 독립 수락;;;;;;;;;;;x
+gtfo_USY_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_UZB_title;우즈베키스탄 독립 수락;;;;;;;;;;;x
+gtfo_UZB_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_VAN_title;바누아투 독립 수락;;;;;;;;;;;x
+gtfo_VAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_VED_title;벤다 독립 수락;;;;;;;;;;;x
+gtfo_VED_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_VIR_title;버진 독립 수락;;;;;;;;;;;x
+gtfo_VIR_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_VNZ_title;베네수엘라 독립 수락;;;;;;;;;;;x
+gtfo_VNZ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_VOJ_title;보이보디나 독립 수락;;;;;;;;;;;x
+gtfo_VOJ_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_WAE_title;웨일스 독립 수락;;;;;;;;;;;x
+gtfo_WAE_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_WAF_title;왈리스푸투나 독립 수락;;;;;;;;;;;x
+gtfo_WAF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_WEI_title;웨이하이 독립 수락;;;;;;;;;;;x
+gtfo_WEI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_WLL_title;왈롱 독립 수락;;;;;;;;;;;x
+gtfo_WLL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_WPA_title;서파푸아 독립 수락;;;;;;;;;;;x
+gtfo_WPA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_WSA_title;서사하라 독립 수락;;;;;;;;;;;x
+gtfo_WSA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XAC_title;안데스 공동체 독립 수락;;;;;;;;;;;x
+gtfo_XAC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XAL_title;아랍 연맹 독립 수락;;;;;;;;;;;x
+gtfo_XAL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XAN_title;아세안 독립 수락;;;;;;;;;;;x
+gtfo_XAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XAU_title;아프리카 연합 독립 수락;;;;;;;;;;;x
+gtfo_XAU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XCC_title;카리브 공동체 독립 수락;;;;;;;;;;;x
+gtfo_XCC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XCI_title;중앙아메리카 통합체제 독립 수락;;;;;;;;;;;x
+gtfo_XCI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XEA_title;유라시아 경제 공동체 독립 수락;;;;;;;;;;;x
+gtfo_XEA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XEC_title;중앙아프리카 경제 공동체 독립 수락;;;;;;;;;;;x
+gtfo_XEC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XEF_title;동아프리카 독립 수락;;;;;;;;;;;x
+gtfo_XEF_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XEU_title;유럽 연합 독립 수락;;;;;;;;;;;x
+gtfo_XEU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XEW_title;서아프리카 경제 공동체 독립 수락;;;;;;;;;;;x
+gtfo_XEW_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XGC_title;걸프 협력 회의 독립 수락;;;;;;;;;;;x
+gtfo_XGC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XIO_title;남아시아 지역 협력 연합 독립 수락;;;;;;;;;;;x
+gtfo_XIO_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XMS_title;남아메리카 공동시장 독립 수락;;;;;;;;;;;x
+gtfo_XMS_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XMU_title;마그레브 연합 독립 수락;;;;;;;;;;;x
+gtfo_XMU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XNA_title;북아메리카 자유무역협정 독립 수락;;;;;;;;;;;x
+gtfo_XNA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XPI_title;태평양 연방 독립 수락;;;;;;;;;;;x
+gtfo_XPI_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XSA_title;남아프리카 개발 공동체 독립 수락;;;;;;;;;;;x
+gtfo_XSA_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XSU_title;남아메리카 국가 연합 독립 수락;;;;;;;;;;;x
+gtfo_XSU_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XTC_title;튀르크 평의회 독립 수락;;;;;;;;;;;x
+gtfo_XTC_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_XUM_title;움마 독립 수락;;;;;;;;;;;x
+gtfo_XUM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_YAK_title;야쿠티야 독립 수락;;;;;;;;;;;x
+gtfo_YAK_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_YEM_title;예멘 독립 수락;;;;;;;;;;;x
+gtfo_YEM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_YNN_title;운남 독립 수락;;;;;;;;;;;x
+gtfo_YNN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_YOG_title;욕야카르타 독립 수락;;;;;;;;;;;x
+gtfo_YOG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_YUG_title;유고슬라비아 독립 수락;;;;;;;;;;;x
+gtfo_YUG_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ZAM_title;잠비아 독립 수락;;;;;;;;;;;x
+gtfo_ZAM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ZAN_title;잔지바르 독립 수락;;;;;;;;;;;x
+gtfo_ZAN_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ZIM_title;짐바브웨 독립 수락;;;;;;;;;;;x
+gtfo_ZIM_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
+gtfo_ZUL_title;줄루 독립 수락;;;;;;;;;;;x
+gtfo_ZUL_desc;지금껏 잘 해왔지만, 이제 그들을 놓아줄 때인 것 같습니다.;;;;;;;;;;;x
