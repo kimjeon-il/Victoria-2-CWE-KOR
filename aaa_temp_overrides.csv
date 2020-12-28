@@ -2,7 +2,7 @@ CODE;ENGLISH;;;;;;;;;;;;x;
 in_bankrupcy;파산;;;;;;;;;;;;x;
 in_bankrupcy_desc;차관 할부금을 상환하지 못해 공식적으로 파산했습니다.;;;;;;;;;;;;x;
 gas;천연가스;;;;;;;;;;;;x;
-TOPBAR_AVG_LITERACY;쬨대학교육쬦을 받은 주민들의 비율은 쬨$AVG$쬦%입니다.;;;;;;;;;;;;x;
+TOPBAR_AVG_LITERACY;[SUB_A7]Y대학교육[SUB_A7]W을 받은 주민들의 비율은 [SUB_A7]Y$AVG$[SUB_A7]W%입니다.;;;;;;;;;;;;x;
 TRIGMOD_HEADER;내각 보고서;;;;;;;;;;;;x;
 party_communist_0_CYR;공산당;;;;;;;;;;;;x;
 party_nationalist_0_CYR;카다피주의자당;;;;;;;;;;;;x;
