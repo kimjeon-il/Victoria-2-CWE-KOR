@@ -1,810 +1,810 @@
-CODE;ENGLISH;;;;;;;;;;;x
-noculture;¹®È­¾øÀ½;;;;;;;;;;;x
-nocasusbelli;ÀüÀï¸íºĞ ¾øÀ½;;;;;;;;;;;x
-nocasusbelli_desc;ÀüÀï¸íºĞÀÌ ¾ø½À´Ï´Ù.;;;;;;;;;;;x
-nocasusbelli_setup;ÀüÀï¸íºĞÀÌ ¾ø½À´Ï´Ù.;;;;;;;;;;;x
-nocasusbelli_short;ÀüÀï¸íºĞ ¾øÀ½;;;;;;;;;;;x
-developing_tech_school;ÇĞÆÄ °³¹ß Áß;;;;;;;;;;;x
-detente_efforts;±äÀå ¿ÏÈ­ ³ë·Â;;;;;;;;;;;x
-religion_flag;Á¾±³;;;;;;;;;;;x
-socialist_contemporary_science;»çÈ¸ÁÖÀÇÀû Çö´ë °úÇĞ;;;;;;;;;;;x
-space_station;¿ìÁÖ Á¤°ÅÀå;;;;;;;;;;;x
-superstate_integration_boost;ÃÊ±¹°¡ ÅëÇÕ °¡¼Ó;;;;;;;;;;;x
-joinnam;ºñµ¿¸ÍÁø¿µ;;;;;;;;;;;x
-joindemo;ÀÚÀ¯Áø¿µ;;;;;;;;;;;x
-joincomm;°ø»êÁø¿µ;;;;;;;;;;;x
-finnish_question;ÇÉ¶õµå ¹®Á¦;;;;;;;;;;;x
-is_disabled_for_now;ÇöÀç ºñÈ°¼º »óÅÂ;;;;;;;;;;;x
-occupation_zones_in_germany;µ¶ÀÏ Á¡·É±¸;;;;;;;;;;;x
-policy_on_germany;µ¶ÀÏ Á¡·ÉÁ¤Ã¥;;;;;;;;;;;x
-no_partition_of_west_germany;¼­µ¶ ºĞÇÒÇÏÁö ¾ÊÀ½;;;;;;;;;;;x
-partition_of_west_germany;¼­µ¶ ºĞÇÒ;;;;;;;;;;;x
-saar_option;ÀÚ¸¦¶õÆ® ¼±ÅÃ;;;;;;;;;;;x
-rhineland_option;¶óÀÎ¶õÆ® ¼±ÅÃ;;;;;;;;;;;x
-morgenthau_plan;¸ğ°Õ½î °èÈ¹;;;;;;;;;;;x
-decide_german_economy_morgenthau;¸ğ°Õ½î °èÈ¹ °áÁ¤;;;;;;;;;;;x
-deutsche_mark;µµÀÌÄ¡¸¶¸£Å©;;;;;;;;;;;x
-divided_berlin;º£¸¦¸° ºĞ´Ü;;;;;;;;;;;x
-accept_united_germany;µ¶ÀÏ ÅëÀÏ ¼ö¶ô;;;;;;;;;;;x
-oder_line_claim;¿Àµ¥¸£-³ªÀÌ¼¼¼± ¿µÀ¯±Ç;;;;;;;;;;;x
-german_general_treaty;µ¶ÀÏ ÀÏ¹İÁ¶¾à;;;;;;;;;;;x
-event_fired_8204302;'º£¸¦¸° ÅëÇÕ' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8204303;'µ¿º£¸¦¸°' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8204304;'º£¸¦¸°' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-stalins_note_ok_nato;ºÏ´ë¼­¾ç Á¶¾à±â±¸ °¡ÀÔÀ» Á¶°ÇÀ¸·Î ½ºÅ»¸° ¸Ş¸ğ ¼ö¿ë;;;;;;;;;;;x
-stalins_note_ok;½ºÅ»¸° ¸Ş¸ğ ¼ö¿ë;;;;;;;;;;;x
-declared_neutrality_active;Áß¸³ ¼±¾ğ È°¼º »óÅÂ
-neutrality;Áß¸³;;;;;;;;;;;x
-indo_con;ÀÎµµ ¾Æ´ë·ú;;;;;;;;;;;x
-inc_support;ÀÎµµ ¾Æ´ë·ú Áö¿ø;;;;;;;;;;;x
-commerce_raiding;»ó¼± °İÄ§;;;;;;;;;;;x
-claim_greater_afghanistan;´ë¾ÆÇÁ°¡´Ï½ºÅº ÁÖÀå;;;;;;;;;;;x
-right_set_up;¿ìÆÄÀû Á¶Á÷;;;;;;;;;;;x
-far_right_set_up;±Ø¿ìÀû Á¶Á÷;;;;;;;;;;;x
-centre_set_up;ÁßµµÀû Á¶Á÷;;;;;;;;;;;x
-left_set_up;ÁÂÆÄÀû Á¶Á÷;;;;;;;;;;;x
-far_left_set_up;±ØÁÂÀû Á¶Á÷;;;;;;;;;;;x
-leadership_election;ÁöµµºÎ ¼±°Å;;;;;;;;;;;x
-nuke_protection;ÇÙ º¸È£;;;;;;;;;;;x
-UNSG_aggressive;´Éµ¿Àû ±¹Á¦¿¬ÇÕ »ç¹«ÃÑÀå;;;;;;;;;;;x
-UNSG_normal;Æò¹üÇÑ ±¹Á¦¿¬ÇÕ »ç¹«ÃÑÀå;;;;;;;;;;;x
-UNSG_passive;¼öµ¿Àû ±¹Á¦¿¬ÇÕ »ç¹«ÃÑÀå;;;;;;;;;;;x
-UNDHR;¼¼°èÀÎ±Ç¼±¾ğ;;;;;;;;;;;x
-human_rights_watch;;;;;;;;;;;x
-truman_doctrine;Æ®·ç¸Õ µ¶Æ®¸°;;;;;;;;;;;x
-nuclear_power_ge;¿øÀÚ·Â ¹ßÀü;;;;;;;;;;;x
-wind_power_ge;Ç³·Â ¹ßÀü;;;;;;;;;;;x
-bioenergy_ge;»ıÃ¼ ¿¡³ÊÁö ¹ßÀü;;;;;;;;;;;x
-solar_energy_ge;ÅÂ¾ç¿­ ¹ßÀü;;;;;;;;;;;x
-geothermal_energy_ge;Áö¿­ ¹ßÀü;;;;;;;;;;;x
-fusion_power_ge;ÇÙÀ¶ÇÕ ¹ßÀü;;;;;;;;;;;x
-stop_loan;Â÷°ü ÁßÁö;;;;;;;;;;;x
-space_moon_develop;´Ş Å½»ç¼± °³¹ß;;;;;;;;;;;x
-dzg_puppet;´ÜÄ¡È÷ ±«·Ú±¹;;;;;;;;;;;x
-united_HND_PAK;ÀÎµµ-ÆÄÅ°½ºÅº ÅëÇÕ;;;;;;;;;;;x
-far_dominion;Æä·Î ÀÚÄ¡;;;;;;;;;;;x
-decolonise_yes;Å»½Ä¹ÎÈ­ ¼ö¿ë;;;;;;;;;;;x
-return_to_free_meetings;ÀÚÀ¯ ÁıÈ¸·ÎÀÇ È¸±Í;;;;;;;;;;;x
-return_to_limited_meetings;Á¦ÇÑÀû ÁıÈ¸·ÎÀÇ È¸±Í;;;;;;;;;;;x
-return_to_responsible_publishing;Ã¥ÀÓ ¾ğ·ĞÀ¸·ÎÀÇ È¸±Í;;;;;;;;;;;x
-return_to_unregulated_publishing;¾ğ·Ğ ±ÔÁ¦ Ã¶Æó·ÎÀÇ È¸±Í;;;;;;;;;;;x
-return_to_firewall_publishing;ÃâÆÇ¹° °Ë¿­·ÎÀÇ È¸±Í;;;;;;;;;;;x
-germania;°Ô¸£¸¶´Ï¾Æ;;;;;;;;;;;x
-vtshigh;Á¶°ø ¸¹À½;;;;;;;;;;;x
-vtslow;Á¶°ø ³·À½;;;;;;;;;;;x
-vtsmedium;Á¶°ø Áß°£;;;;;;;;;;;x
-tito_uprising_successful;Æ¼Åä ºÀ±â ¼º°ø;;;;;;;;;;;x
-tito_dead_flag;Æ¼Åä »ç¸Á;;;;;;;;;;;x
-tito_stalin_split;Æ¼Åä-½ºÅ»¸° ºÒÈ­;;;;;;;;;;;x
-military_intervention_aginst_tito;¹İÆ¼ÅäÀû ±º»ç °³ÀÔ;;;;;;;;;;;x
-macedonia_independence;¸¶ÄÉµµ´Ï¾Æ µ¶¸³;;;;;;;;;;;x
-ten_day_war;½½·Îº£´Ï¾Æ µ¶¸³ÀüÀï;;;;;;;;;;;x
-bosnian_war_prelude;º¸½º´Ï¾Æ ÀüÀïÀÇ ¼­°î;;;;;;;;;;;x
-bosnian_war_prelude2;º¸½º´Ï¾Æ ÀüÀïÀÇ ¼­°î Á¦2¸·;;;;;;;;;;;x
-operation_storm;ÆøÇ³ ÀÛÀü;;;;;;;;;;;x
-cores_returned;¿µÀ¯±Ç º¸À¯ Áö¿ª ¼öº¹;;;;;;;;;;;x
-arab_spring;¾Æ¶øÀÇ º½;;;;;;;;;;;x
-yemeni_civil_war;¿¹¸à ³»Àü;;;;;;;;;;;x
-CHI_won_civil_war;°ø»ê´çÀÇ ±¹°ø ³»Àü ½Â¸®;;;;;;;;;;;x
-1956_vietnam_unification_election;1956³â º£Æ®³² ÃÑ¼±°Å;;;;;;;;;;;x
-vietnamese_elections_rigged_by_DAI;ºÏº£Æ®³²ÀÇ ÃÑ¼±°Å Á¶ÀÛ;;;;;;;;;;;x
-vietnamese_elections_rigged_by_SVI;³²º£Æ®³²ÀÇ ÃÑ¼±°Å Á¶ÀÛ;;;;;;;;;;;x
-punto_fijo;Ç¬ÅäÇÇÈ£ ÇùÁ¤;;;;;;;;;;;x
-marshall_plan_west_only;¼­¹æ Àü¿ë ¸¶¼È °èÈ¹;;;;;;;;;;;x
-marshall_plan_west_plus_two;Ã¼ÄÚ Æú¶õµå¸¦ Æ÷ÇÔÇÑ ¸¶¼È °èÈ¹;;;;;;;;;;;x
-marshall_plan_for_all;¸ğµÎ¸¦ À§ÇÑ ¸¶¼È °èÈ¹;;;;;;;;;;;x
-elections_disabled;¼±°Å ¾øÀ½;;;;;;;;;;;x
-jfk_elected;Á¸ F. ÄÉ³×µğ ´ç¼±;;;;;;;;;;;x
-lbj_elected;¸°µç B. Á¸½¼ ´ç¼±;;;;;;;;;;;x
-goldwater_elected;°ñµå¿öÅÍ ´ç¼±;;;;;;;;;;;x
-nixon_elected;´Ğ½¼ ´ç¼±;;;;;;;;;;;x
-mcgovern_elected;¸Æ°Å¹ø ´ç¼±;;;;;;;;;;;x
-nixon_resigns;´Ğ½¼ »çÀÓ;;;;;;;;;;;x
-nixon_entrenched;´Ğ½¼ °á»ç¿ËÀ§;;;;;;;;;;;x
-reagan_elected;·¹ÀÌ°Ç ´ç¼±;;;;;;;;;;;x
-obama_presidency;¿À¹Ù¸¶ ´ëÅë·É;;;;;;;;;;;x
-911;9.11;;;;;;;;;;;x
-world_trade_center;¼¼°è¹«¿ª¼¾ÅÍ;;;;;;;;;;;x
-watergate_scandal_flag;¿öÅÍ°ÔÀÌÆ® »ç°Ç;;;;;;;;;;;x
-event_fired_8011024;'ÆÄÅ°½ºÅºÀÇ ¹æÀ§ÇùÁ¤ ¼ö¶ô' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-george_vi_funeral;Á¶Áö 6¼¼ Àå·Ê½Ä;;;;;;;;;;;x
-united_balkans;ÅëÀÏ ¹ßÄ­;;;;;;;;;;;x
-end_of_uar;¾Æ¶ø ¿¬ÇÕ°øÈ­±¹ ÇØÃ¼;;;;;;;;;;;x
-reject_uar;¾Æ¶ø ¿¬ÇÕ°øÈ­±¹ °ÅºÎ;;;;;;;;;;;x
-euromaidan_UKR;Ä£À¯·´ ¼ºÇâ ¿ìÅ©¶óÀÌ³ªÀÎ;;;;;;;;;;;x
-former_colonial_nation;°ú°Å ½Ä¹ÎÁö;;;;;;;;;;;x
-full_independance;¿ÏÀüÇÑ µ¶¸³;;;;;;;;;;;x
-event_fired_8015107;'Æ¼º£Æ® Ç×º¹' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-KMT_won_civil_war;±¹¹Î´çÀÇ ±¹°ø ³»Àü ½Â¸®;;;;;;;;;;;x
-xef_zan_union;µ¿¾ÆÇÁ¸®Ä«-ÀÜÁö¹Ù¸£ ¿¬ÇÕ;;;;;;;;;;;x
-syrian_civil_war;½Ã¸®¾Æ ³»Àü;;;;;;;;;;;x
-claim_the_suez;¼ö¿¡Áî ¿µÀ¯±Ç ÁÖÀå;;;;;;;;;;;x
-operation_kadesh;Ä«µ¥½Ã ÀÛÀü;;;;;;;;;;;x
-claim_the_sudan;¼ö´Ü ¿µÀ¯±Ç ÁÖÀå;;;;;;;;;;;x
-juan_carlos;ÈÄ¾È Ä«¸¦·Î½º;;;;;;;;;;;x
-USA_rocket_engineers;¹Ì±¹ ·ÎÄÏ °øÇĞÀÚ;;;;;;;;;;;x
-SOV_rocket_engineers;¼Ò·Ã ·ÎÄÏ °øÇĞÀÚ;;;;;;;;;;;x
-RUS_satellite_first;·¯½Ã¾ÆÀÇ Ã¹ ÀÎ°øÀ§¼º;;;;;;;;;;;x
-RUS_space_man_first;·¯½Ã¾ÆÀÇ Ã¹ ¿ìÁÖÀÎ;;;;;;;;;;;x
-space_moon;´Ş Å½»ç¼±;;;;;;;;;;;x
-RUS_space_moon_first;·¯½Ã¾ÆÀÇ Ã¹ ´Ş Å½»ç¼±;;;;;;;;;;;x
-self_immolation;ºĞ½Å;;;;;;;;;;;x
-unban_the_anc;¾ÆÇÁ¸®Ä« ¹ÎÁ·È¸ÀÇ ÇØ»ê Ãë¼Ò;;;;;;;;;;;x
-force_trigger_saf;¾ÆÆÄ¸£Æ®ÇìÀÌÆ®;;;;;;;;;;;x
-CHI_leadership_struggle;Áß±¹±º ÁöµµºÎÀÇ °í±ººĞÅõ;;;;;;;;;;;x
-CHC_won_civil_war;°ø»ê´çÀÇ ±¹°ø ³»Àü ½Â¸®;;;;;;;;;;;x
-kuril_islands_dispute;Äí¸±¿­µµ ºĞÀï;;;;;;;;;;;x
-chechen_war_no;Ã¼Ã¾ ÀüÀï ¹İ´ë;;;;;;;;;;;x
-oligarchs;°úµÎÀç¹ú;;;;;;;;;;;x
-oligarchs_constrained;°úµÎÀç¹ú ±ÔÁ¦;;;;;;;;;;;x
-nikita_khrushchev;´ÏÅ°Å¸ Èå·ç¼îÇÁ;;;;;;;;;;;x
-breakup_of_ussr;¼Ò·Ã ºØ±«;;;;;;;;;;;x
-event_fired_8014254;'º£¸®¾ßÀÇ ¼Ò·Ã' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8014258;'º£¸®¾ßÀÇ Á¦¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8014259;'º£¸®¾ßÀÇ Á¦¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8014260;'º£¸®¾ßÀÇ Á¦¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8014257;'º£¸®¾ßÀÇ Á¦¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8014262;'¼­±¸ÀÇ °æÁ¦¿øÁ¶' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-de_stalinization;Å»½ºÅ»¸°È­;;;;;;;;;;;x
-event_fired_8014222;'°¨½Ã¿ë U-2 Ãâ°İ' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-sino_soviet_split;Áß¼Ò°á·Ä;;;;;;;;;;;x
-leonid_brezhnev;·¹¿À´ÏÆ® ºê·¹ÁÖ³×ÇÁ;;;;;;;;;;;x
-yuri_andropov;À¯¸® ¾Èµå·ÎÆ÷ÇÁ;;;;;;;;;;;x
-konstantin_chernenko;ÄÜ½ºÅºÆ¾ Ã¼¸£³ÙÄÚ;;;;;;;;;;;x
-mikhail_gorbachev;¹ÌÇÏÀÏ °í¸£¹ÙÃÊÇÁ;;;;;;;;;;;x
-begin_reforms_of_ussr;¼Ò·Ã °³Çõ ½ÃÀÛ;;;;;;;;;;;x
-democratisation_intention;¹ÎÁÖÈ­ ÀÇµµ;;;;;;;;;;;x
-perestroika_intention;Æä·¹½ºÆ®·ÎÀÌÄ« ÀÇµµ;;;;;;;;;;;x
-glasnost_intention;±Û¶ó½º³ë½ºÆ® ÀÇµµ;;;;;;;;;;;x
-autumn_of_nations;±¹°¡ÀÇ °¡À»;;;;;;;;;;;x
-august_coup;8¿ù Á¤º¯;;;;;;;;;;;x
-perestroika;Æä·¹½ºÆ®·ÎÀÌÄ«;;;;;;;;;;;x
-eussr;À¯¶ó½Ã¾Æ ¿¬ÇÕ;;;;;;;;;;;x
-cold_warusa;¹Ì±¹ÀÇ ³ÃÀü ½Â¸®;;;;;;;;;;;x
-putin_path;ÇªÆ¾ÀÇ ±æ;;;;;;;;;;;x
-vrancea_earthquake;ºê¶õÃ¼¾Æ ÁöÁø;;;;;;;;;;;x
-prague_spring;ÇÁ¶óÇÏÀÇ º½;;;;;;;;;;;x
-carnation_revolution;Ä«³×ÀÌ¼Ç Çõ¸í;;;;;;;;;;;x
-demographic_init;ÀÎ±¸ÇĞÀû ÃµÀÌ °³½Ã;;;;;;;;;;;x
-paramilitaries_outlawed;ÁØ±º»çÁ¶Á÷ ºÒ¹ı;;;;;;;;;;;x
-wants_to_unify;´Ü°á ¿°¿ø;;;;;;;;;;;x
-does_not_want_to_unify;´Ü°á ¿°¿øÇÏÁö ¾ÊÀ½;;;;;;;;;;;x
-rebels_in_capital;¼öµµÀÇ ¹İ±º;;;;;;;;;;;x
-former_sphere_leader;°ú°Å ¿µÇâ±Ç ¸ÍÁÖ;;;;;;;;;;;x
-former_overlord;°ú°Å Á¾ÁÖ±¹;;;;;;;;;;;x
-soi_demand_install;¿µÇâ±ÇÀÇ Ã¼Á¦ ¼ö¸³ ¿ä±¸;;;;;;;;;;;x
-liberal_revolution_fired;ÀÚÀ¯Çõ¸í ¹ß¹ß;;;;;;;;;;;x
-liberal_revolution_in_progress;ÀÚÀ¯ Çõ¸í ÁøÇà Áß;;;;;;;;;;;x
-had_liberal_revolution;ÀÚÀ¯ Çõ¸í Á¾·á;;;;;;;;;;;x
-called_for_help;µµ¿ò ¿äÃ»;;;;;;;;;;;x
-post_colonial_country;½Ä¹ÎÁö½Ã´ë ÀÌÈÄ ±¹°¡;;;;;;;;;;;x
-unregulated_publishing_noway;°áÄÚ ÃâÆÇ ±ÔÁ¦ ÆóÁö ¾ÊÀ½;;;;;;;;;;;x
-unregulated_publishing_promised;ÃâÆÇ ±ÔÁ¦ ÆóÁö ¾à¼Ó;;;;;;;;;;;x
-dead_code;ºÒÇÊ¿äÇÑ ÄÚµå;;;;;;;;;;;x
-liberal_revolution_somewhere;¾îµğ¼±°¡ ÀÚÀ¯Çõ¸í ¹ß¹ß;;;;;;;;;;;x
-liberal_revolutions_should_now_fire;ÀÚÀ¯Çõ¸íÀº ¹İµå½Ã ÀÏ¾î³¯ °ÍÀÌ´Ù;;;;;;;;;;;x
-accept_differances_in_gov_by_democracy;¹ÎÁÖÁÖÀÇ Ã¼Á¦ÀÇ Ã¼Á¦ Â÷ÀÌ ¼ö¿ë;;;;;;;;;;;x
-accept_differances_in_gov_by_communist;°ø»êÁÖÀÇ Ã¼Á¦ÀÇ Ã¼Á¦ Â÷ÀÌ ¼ö¿ë;;;;;;;;;;;x
-accept_differances_in_gov_by_authoritarian_regime;±ÇÀ§ÁÖÀÇ Ã¼Á¦ÀÇ Ã¼Á¦ Â÷ÀÌ ¼ö¿ë;;;;;;;;;;;x
-botanical_expedition_in_progress;½Ä¹° Å½Çè ÁøÇà Áß;;;;;;;;;;;x
-participates_in_botanical_expedition;½Ä¹° Å½Çè Âü°¡±¹;;;;;;;;;;;x
-botanical_expedition_threatened;½Ä¹° Å½Çè À§Çé;;;;;;;;;;;x
-victoria_regina_found;ºòÅä¸®¾Æ ¿©¿Õ ÆÄ¿îµå;;;;;;;;;;;x
-victoria_regina;ºòÅä¸®¾Æ ¿©¿Õ;;;;;;;;;;;x
-great_wars_enabled;¼¼°è´ëÀü È°¼º »óÅÂ;;;;;;;;;;;x
-NWO_v1_06;³ÃÀü¸ğµå 1.06¹öÀü;;;;;;;;;;;x
-doctrineschool;±³¸®ÇĞÆÄ;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,
-unclos_1;Á¦1Â÷ ±¹Á¦¿¬ÇÕ ÇØ¾ç¹ıÇù¾à;;;;;;;;;;;x
-unclos_3;Á¦3Â÷ ±¹Á¦¿¬ÇÕ ÇØ¾ç¹ıÇù¾à;;;;;;;;;;;x
-claim_12;12ÇØ¸® ÁÖÀå;;;;;;;;;;;x
-claim_24;24ÇØ¸® ÁÖÀå;;;;;;;;;;;x
-claim_200;200ÇØ¸® ÁÖÀå;;;;;;;;;;;x
-special_imf_dr;±¹Á¦ÅëÈ­±â±İ Æ¯º°ÀÎÃâ±Ç;;;;;;;;;;;x
-gatt_member;°ü¼¼ ¹× ¹«¿ª¿¡ °üÇÑ ÀÏ¹İ ÇùÁ¤ Á¶ÀÎ±¹;;;;;;;;;;;x
-tory_election_win;ÁßµµÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-socialist_election_win;»çÈ¸ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-liberal_election_win;ÀÚÀ¯ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-communist_election_win;°ø»êÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-fascist_election_win;ÆÄ¼î ¼±°Å ½Â¸®;;;;;;;;;;;x
-reactionary_election_win;¹İµ¿ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-anarcho_liberal_election_win;¾Æ³ª¸£ÄÚÀÚº»ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-social_liberal_election_win;»çÈ¸ÀÚÀ¯ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-friendly_democracy;¹ÎÁÖÁÖÀÇ Ã¼Á¦ ¿ì¹æ±¹;;;;;;;;;;;x
-traditionalist_election_win;ÀüÅëÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-populist_election_win;´ëÁßÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-nationalist_election_win;¹ÎÁ·ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-progressive_election_win;Áøº¸ÁÖÀÇÀÚ ¼±°Å ½Â¸®;;;;;;;;;;;x
-friendly_authoritarian_regime;±ÇÀ§ÁÖÀÇ Ã¼Á¦ ¿ì¹æ±¹;;;;;;;;;;;x
-was_commi;°ø»ê±¹°¡;;;;;;;;;;;x
-desecularized;Å»¼¼¼ÓÈ­;;;;;;;;;;;x
-muslim;¹«½½¸²;;;;;;;;;;;x
-polish_martial_law;Æú¶õµå °è¾ö·É;;;;;;;;;;;x
-event_fired_8023232;'Æ÷Áî³­ ½ÃÀ§' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-poland_west_littlegains;Æú¶õµå ¼­ºÎ ¹Ì¼öº¹;;;;;;;;;;;x
-event_fired_8222000;'¹Ù¸£»ş¹Ù ºÀ±â' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222001;'¹Ù¸£»ş¹Ù ºÀ±â' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222002;'¹Ù¸£»ş¹Ù ºÀ±â¿¡ ´ëÇÑ ¿¬ÇÕ±ºÀÇ µµ¿ò' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222003;'¿¬ÇÕ±¹ÀÇ Áö¿ø ¹°ÀÚ ¼ö¼Û' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222004;'¹Ù¸£»ş¹Ù ºÀ±â Áö¿ø' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222005;'¼Ò·ÃÀÇ ¹Ù¸£»ş¹Ù ºÀ±â ÈÄ¿ø' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222006;'¹Ù¸£»ş¹Ù ºÀ±â ½ÇÆĞ' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8222007;'¹Ù¸£»ş¹Ù ºÀ±â ¼º°ø' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-time_of_peace;Æò½Ã;;;;;;;;;;;x
-war_time;Àü½Ã;;;;;;;;;;;x
-olympic_bid;¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤;;;;;;;;;;;x
-olympic_bid_10000;¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤ - 10000´Ş·¯;;;;;;;;;;;x
-olympic_bid_20000;¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤ - 20000´Ş·¯;;;;;;;;;;;x
-olympic_bid_100000;¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤ - 100000´Ş·¯;;;;;;;;;;;x
-winter_olympics_bid;µ¿°è ¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤;;;;;;;;;;;x
-winter_olympic_bid_10000;µ¿°è ¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤ - 10000´Ş·¯;;;;;;;;;;;x
-winter_olympic_bid_20000;µ¿°è ¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤ - 20000´Ş·¯;;;;;;;;;;;x
-winter_olympic_bid_100000;µ¿°è ¿Ã¸²ÇÈ °³ÃÖÁö ¼±Á¤ - 100000´Ş·¯;;;;;;;;;;;x
-arranged_olympics_games;¿Ã¸²ÇÈ ÁØºñ;;;;;;;;;;;x
-arranged_winter_olympics_games;µ¿°è ¿Ã¸²ÇÈ ÁØºñ;;;;;;;;;;;x
-provisional_peoples_committee;ÀÓ½ÃÀÎ¹ÎÀ§¿øÈ¸;;;;;;;;;;;x
-korea_trusteeship;Á¶¼± ½ÅÅ¹ÅëÄ¡;;;;;;;;;;;x
-keep_austria;¿À½ºÆ®¸®¾Æ Á¡·É À¯Áö;;;;;;;;;;;x
-communist_austria_flag;°ø»ê ¿À½ºÆ®¸®¾Æ;;;;;;;;;;;x
-communist_austria;°ø»ê ¿À½ºÆ®¸®¾Æ;;;;;;;;;;;x
-renounced_war_rights;ÀüÀï ¼öÇà ±Ç¸® Æ÷±â;;;;;;;;;;;x
-islamist_revolution_in_progress;ÀÌ½½¶÷ÁÖÀÇ Çõ¸í ÁøÇà Áß;;;;;;;;;;;x
-event_fired_8010410;'»êµğ´Ï½ºÅ¸ ¿îµ¿' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-bougainville_conflict;ºÎ°Õºô °¥µî;;;;;;;;;;;x
-bougainville_conflict_escalates;ºÎ°Õºô °¥µî ÁõÆø;;;;;;;;;;;x
-sandline_mercs;»÷µå¶óÀÎ ÇĞ»ì;;;;;;;;;;;x
-bougainville_2001;2001³â ºÎ°Õºô ÆòÈ­ÇùÁ¤;;;;;;;;;;;x
-bougainville_independence;ºÎ°Õºô µ¶¸³;;;;;;;;;;;x
-dutch_monarch;³×´ú¶õµå ±ºÁÖ;;;;;;;;;;;x
-event_fired_8009509;'¸ß½ÃÄÚÀÇ °æÁ¦±âÀû' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-capital_flag;¼öµµ;;;;;;;;;;;x
-luxembourgish_monarch;·è¼ÀºÎ¸£Å© ±ºÁÖ;;;;;;;;;;;x
-king_idris_of_libya;ÀÌµå¸®½º ¸®ºñ¾Æ ±¹¿Õ;;;;;;;;;;;x
-korea_war;6.25 ÀüÀï;;;;;;;;;;;x
-korea_war_second_phase;6.25 ÀüÀï Á¦2±¹¸é;;;;;;;;;;;x
-korean_war_armistice;6.25 ÀüÀï ÈŞÀü;;;;;;;;;;;x
-fourth_republic;Á¦4°øÈ­±¹;;;;;;;;;;;x
-american_japanese_treaty_flag;¹ÌÀÏ ÆòÈ­Á¶¾à;;;;;;;;;;;x
-moderate_ICP;¿Â°ÇÀûÀÎ ÀÌÅ»¸®¾Æ °ø»ê´ç;;;;;;;;;;;x
-radical_ICP;±ŞÁøÀûÀÎ ÀÌÅ»¸®¾Æ °ø»ê´ç;;;;;;;;;;;x
-very_moderate_ICP;¸Å¿ì ¿Â°ÇÀûÀÎ ÀÌÅ»¸®¾Æ °ø»ê´ç;;;;;;;;;;;x
-very_radical_ICP;¸Å¿ì ±ŞÁøÀûÀÎ ÀÌÅ»¸®¾Æ °ø»ê´ç;;;;;;;;;;;x
-promised_post_war_pensions;ÀüÈÄ ¿¬±İ ¾à¼Ó;;;;;;;;;;;x
-dissolve_the_palestine_mandate;ÆÈ·¹½ºÅ¸ÀÎ À§ÀÓÅëÄ¡·É ÇØÃ¼;;;;;;;;;;;x
-support_zionism;½Ã¿ÂÁÖÀÇ Áö¿ø;;;;;;;;;;;x
-zionist_defeat;½Ã¿ÂÁÖÀÇ ÆĞ¹è;;;;;;;;;;;x
-yom_kippur_war;¿èÅ°Çª¸£ ÀüÀï;;;;;;;;;;;x
-refused_camp_david;Ä·ÇÁ µ¥ÀÌºñµå ÇùÁ¤ °ÅºÎ;;;;;;;;;;;x
-islamist_revolution_fired;ÀÌ½½¶÷ÁÖÀÇ Çõ¸í ¹ß¹ß;;;;;;;;;;;x
-had_islamist_revolution;ÀÌ½½¶÷ÁÖÀÇ Çõ¸í Á¾·á;;;;;;;;;;;x
-islamist_revolutions_should_now_fire;ÀÌ½½¶÷ÁÖÀÇ Çõ¸íÀº ¹İµå½Ã ÀÏ¾î³¯ °ÍÀÌ´Ù;;;;;;;;;;;x
-islamist_revolution_somewhere;¾îµğ¼±°¡ ÀÌ½½¶÷ÁÖÀÇ Çõ¸í ¹ß¹ß;;;;;;;;;;;x
-ira_is_interned;¾ÆÀÏ·£µå °øÈ­±¹±º ¾ï·ù;;;;;;;;;;;x
-ira_is_ignored;¾ÆÀÏ·£µå °øÈ­±¹±º ¹«½Ã;;;;;;;;;;;x
-ira_is_supported;¾ÆÀÏ·£µå °øÈ­±¹±º Áö¿ø;;;;;;;;;;;x
-1990_gulf_war_fired_flag;°ÉÇÁ ÀüÀï ¹ß¹ß;;;;;;;;;;;x
-1990_gulf_war_kuw_annexed;°ÉÇÁ ÀüÀï°ú Äí¿şÀÌÆ® ÇÕº´;;;;;;;;;;;x
-iraq_war;ÀÌ¶óÅ© ÀüÀï;;;;;;;;;;;x
-iraqi_insurgency_2011_2014;2011-14³â ÀÌ¶óÅ© ¹İ¶õ;;;;;;;;;;;x
-iraqi_civil_war;ÀÌ¶óÅ© ³»Àü;;;;;;;;;;;x
-the_future_of_iraq;ÀÌ¶óÅ©ÀÇ ¹Ì·¡;;;;;;;;;;;x
-mohammed_mossadegh_in_power;¹«ÇÔ¸¶µå ¸ğ»çµ¥Å© Áı±Ç Áß;;;;;;;;;;;x
-event_fired_8501001;'¿µ±¹-ÀÌ¶õ ¼®À¯È¸»ç ±¹À¯È­' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-abadan_crisis;¾Æ¹Ù´Ü À§±â;;;;;;;;;;;x
-event_fired_8501003;'¾Æ¹Ù´Ü À§±â¿¡ ´ëÇÑ ¿µ±¹ÀÇ ¹İÀÀ' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-seek_soviet_help;¼Ò·ÃÀÇ ¿øÁ¶ ¸ğ»ö;;;;;;;;;;;x
-operation_ajax;¿¡ÀÌÁ§½º ÀÛÀü;;;;;;;;;;;x
-event_fired_8501004;'±¹Á¦Àû Áö¿ø ¹°»ö' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8501006;'¼Ò·ÃÀÇ ¾Æ¹Ù´Ü À§±â °³ÀÔ' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-ussr_supports_iran_1953;1953³â ¼Ò·ÃÀÇ ÀÌ¶õ ¿øÁ¶;;;;;;;;;;;x
-event_fired_8011403;'Á¤ºÎ º¯µ¿' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-white_revolution_started;¹é»ö Çõ¸í ½ÃÀÛ;;;;;;;;;;;x
-unkingset;ÃÊ°­´ë±¹ ÁöÀ§;;;;;;;;;;;x
-ultimatum_delivered;ÃÖÈÄÅëÃ¸ Àü¼Û;;;;;;;;;;;x
-ultimatum_refused;ÃÖÈÄÅëÃ¸ °ÅºÎ;;;;;;;;;;;x
-ultimatum_accepted;ÃÖÈÄÅëÃ¸ ¼ö¿ë;;;;;;;;;;;x
-coalition_member;¹İ±¹°¡¿¬ÇÕ ÀÏ¿ø;;;;;;;;;;;x
-princely_states;ÀÎµµ ¹ø±¹;;;;;;;;;;;x
-por_hnd_colonies;Æ÷¸£Åõ°¥·É ÀÎµµ ½Ä¹ÎÁö;;;;;;;;;;;x
-second_kashmir_war_all;Á¦2Â÷ Ä«½´¹Ì¸£ ÀüÀï;;;;;;;;;;;x
-second_kashmir_war_girgit;Á¦2Â÷ Ä«½´¹Ì¸£ ÀüÀï º¯ÀıÀÚ;;;;;;;;;;;x
-naxalite_insurgency;³«»ì¶óÀÌÆ® ¹İ¶õ;;;;;;;;;;;x
-USA_pressure_the_dutch_on_indonesia;¹Ì±¹ÀÇ ÀÎµµ³×½Ã¾Æ µ¶¸³ ¾Ğ¹Ú;;;;;;;;;;;x
-linggadjati_agreement;¸µ°¡ÀÚÆ¼ ÇùÁ¤;;;;;;;;;;;x
-renville_agreement;·»ºô ÇùÁ¤;;;;;;;;;;;x
-rusi_agreement;·ç½Ã ÇùÁ¤;;;;;;;;;;;x
-federated_indonesia;ÀÎµµ³×½Ã¾Æ ÇÕÁß±¹;;;;;;;;;;;x
-princely_state_stay_independent;ÀÎµµ ¹ø±¹ µ¶¸³ À¯Áö;;;;;;;;;;;x
-hungarian_revolution_1956;1956³â Çë°¡¸® Çõ¸í;;;;;;;;;;;x
-event_fired_8510802;'Çë°¡¸® Çõ¸í¿¡ °üÇÑ ±¹Á¦¿¬ÇÕ °áÀÇ¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8510803;'Çë°¡¸® Çõ¸í¿¡ °üÇÑ ±¹Á¦¿¬ÇÕ °áÀÇ¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8510804;'Çë°¡¸® Çõ¸í¿¡ °üÇÑ ±¹Á¦¿¬ÇÕ °áÀÇ¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8510805;'Çë°¡¸® Çõ¸í¿¡ °üÇÑ ±¹Á¦¿¬ÇÕ °áÀÇ¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8510806;'Çë°¡¸® Çõ¸í¿¡ °üÇÑ ±¹Á¦¿¬ÇÕ °áÀÇ¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8510808;'Çë°¡¸® Çõ¸í¿¡ °üÇÑ ±¹Á¦¿¬ÇÕ °áÀÇ¾È' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-not_participating_UNSC;±¹Á¦¿¬ÇÕ ¾ÈÀüº¸ÀåÀÌ»çÈ¸ ºñÂü¿©±¹;;;;;;;;;;;x
-un_hungary_totalveto;±¹Á¦¿¬ÇÕÀÇ Çë°¡¸® Çõ¸í¿¡ °üÇÑ °áÀÇ¾È °ÅºÎ;;;;;;;;;;;x
-blz_indy_enable;º§¸®Áî µ¶¸³ °¡´É;;;;;;;;;;;x
-dismantle_declared;ÇØÃ¼ ¼±¾ğ;;;;;;;;;;;x
-in_great_war;¼¼°è´ëÀü Áß;;;;;;;;;;;x
-enemy_of_my_enemy;ÀûÀÇ Àû;;;;;;;;;;;x
-calling_all_allies;µ¿¸Í ÀüÃ¼ ¼ÒÁı;;;;;;;;;;;x
-total_collapse;ÃÑÃ¼Àû ºØ±«;;;;;;;;;;;x
-dismantling_treaty;ÇØÃ¼ Á¶¾à;;;;;;;;;;;x
-will_not_surrender;ºÒ±¼ÀÇ ÀÇÁö;;;;;;;;;;;x
-czechoslovakia_formed;Ã¼ÄÚ½½·Î¹ÙÅ°¾Æ °á¼º;;;;;;;;;;;x
-not_want_colonies;½Ä¹ÎÁö¸¦ ¿øÇÏÁö ¾ÊÀ½;;;;;;;;;;;x
-newly_released_nation;½Å»ı ÇØ¹æ±¹;;;;;;;;;;;x
-end_of_monarchy;±ºÁÖÁ¤ ÆóÁö;;;;;;;;;;;x
-event_fired_8004526;'µ¿¹æÁ¤Ã¥' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-reject_oder_neisse;¿Àµ¥¸£-³ªÀÌ¼¼¼± °ÅºÎ;;;;;;;;;;;x
-berlin_wall;º£¸¦¸° Àåº®;;;;;;;;;;;x
-treaty_of_zgorzelec;Áî°íÁ©·¹Ã÷ Á¶¾à;;;;;;;;;;;x
-event_fired_8004318;'º£¸¦¸° ºĞ´Ü' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-Wilhelm_III;ºôÇï¸§ 3¼¼;;;;;;;;;;;x
-event_fired_8231000;'µ¶ÀÏ ³­¹Î ¼ö¿ë' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8231001;'µ¶ÀÏ ³­¹Î ¼ö¿ë' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-event_fired_8231004;'µ¶ÀÏ ³­¹Î ¼ö¿ë' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-expulsion_of_germans;µ¶ÀÏÀÎ ÃàÃâ;;;;;;;;;;;x
-endoffra;ÇÁ¶û½º ½Ä¹ÎÁ¦±¹ ÇØÃ¼;;;;;;;;;;;x
-fifth_republic;Á¦5°øÈ­±¹;;;;;;;;;;;x
-disabled_for_now_1;ÇöÀç ºñÈ°¼º »óÅÂ;;;;;;;;;;;x
-fra_hnd_colonies;ÇÁ¶û½º·É ÀÎµµ ½Ä¹ÎÁö;;;;;;;;;;;x
-matignon_agreements;¸¶Æ¼´¨ ÇùÁ¤;;;;;;;;;;;x
-noumea_accords;´©¸Ş¾Æ Á¶¾à;;;;;;;;;;;x
-ww3;Á¦3Â÷ ¼¼°è´ëÀü;;;;;;;;;;;x
-un_falkland_intervention;±¹Á¦¿¬ÇÕ Æ÷Å¬·£µå °³ÀÔ;;;;;;;;;;;x
-un_falkland_interventionveto;±¹Á¦¿¬ÇÕ Æ÷Å¬·£µå °³ÀÔ °ÅºÎ;;;;;;;;;;;x
-un_falkland_totalveto;±¹Á¦¿¬ÇÕ Æ÷Å¬·£µå °ÅºÎ;;;;;;;;;;;x
-schuman_declaration;½´¸¸ ¼±¾ğ;;;;;;;;;;;x
-trade_block_ambition;¹«¿ªºí·Ï ¾ß¸Á;;;;;;;;;;;x
-european_coal_and_steel_community;À¯·´ ¼®ÅºÃ¶°­°øµ¿Ã¼;;;;;;;;;;;x
-xeu_ambition;À¯·´ ¿¬ÇÕÀÇ ¾ß¸Á;;;;;;;;;;;x
-disabled_for_now;ÇöÀç ºñÈ°¼º »óÅÂ;;;;;;;;;;;x
-derg;ÀÓ½Ã±º»çÇàÁ¤À§¿øÈ¸;;;;;;;;;;;x
-hide_1973_famine;1973³â ±â±Ù ÀºÆó;;;;;;;;;;;x
-alleviate_1973_famine;1973³â ±â±Ù ¿ÏÈ­;;;;;;;;;;;x
-decolonise_yes;Å»½Ä¹ÎÈ­ ¼ö¿ë;;;;;;;;;;;x
-namformed;ºñµ¿¸Í¿îµ¿ Á¸Àç;;;;;;;;;;;x
-sectarianism;ÆÄ¹úÁÖÀÇ;;;;;;;;;;;x
-grant_independence;±¤º¹;;;;;;;;;;;x
-colonial_peristance;½Ä¹ÎÁö À¯Áö;;;;;;;;;;;x
-great_war_mandate_un;±¹Á¦¿¬ÇÕ À§ÀÓÅëÄ¡·É;;;;;;;;;;;x
-event_fired_8004615;'Àü¿øÇÔ ÀÛÀü' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-dissolve_warsaw_pact;¹Ù¸£»ş¹Ù Á¶¾à±â±¸ ÇØÃ¼;;;;;;;;;;;x
-depuppetize_warsaw_pact;¹Ù¸£»ş¹Ù Á¶¾à±â±¸ ±«·Ú»óÅÂ ÇØ¼Ò;;;;;;;;;;;x
-annexation_of_uk;¿µ±¹ ÇÕº´;;;;;;;;;;;x
-isolation_of_uk;¿µ±¹ °í¸³;;;;;;;;;;;x
-dissolution_of_uk;¿µ±¹ ÇØÃ¼;;;;;;;;;;;x
-event_8370010;'¿¬ÇÕ±¹ Å»Åğ' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-indian_ocean_tsunami;ÀÎµµ¾ç ÁöÁøÇØÀÏ;;;;;;;;;;;x
-hurricane_mitch;ÅÂÇ³ ¹ÌÄ¡;;;;;;;;;;;x
-end_the_spring;º½ÀÇ Á¾¸»;;;;;;;;;;;x
-missiles_in_cuba;Äí¹Ù ¹Ì»çÀÏ±âÁö;;;;;;;;;;;x
-american_nuclear_advantage;¹Ì±¹ÀÇ ÇÙ ¿ìÀ§;;;;;;;;;;;x
-castro_rebellion;Ä«½ºÆ®·ÎÀÇ ºÀ±â;;;;;;;;;;;x
-joint_aid_receipt;°øµ¿ ¿øÁ¶ ¼ö·É;;;;;;;;;;;x
-congo_crisis;Äá°í À§±â;;;;;;;;;;;x
-communist_plebiscite;°ø»ê´ç ±¹¹ÎÅõÇ¥;;;;;;;;;;;x
-market_communism;½ÃÀå»çÈ¸ÁÖÀÇ;;;;;;;;;;;x
-reject_western_allies;¼­±¸ ¿¬ÇÕ±¹ °ÅºÎ;;;;;;;;;;;x
-alliance_nato;ºÏ´ë¼­¾ç Á¶¾à±â±¸ µ¿¸Í;;;;;;;;;;;x
-treaty_of_brussels;ºê·ò¼¿ Á¶¾à;;;;;;;;;;;x
-isolationist_usa;°í¸³ÁÖÀÇ ¹Ì±¹;;;;;;;;;;;x
-invitation_to_nato;ºÏ´ë¼­¾ç Á¶¾à±â±¸ ÃÊÃ»;;;;;;;;;;;x
-neutral_germany;Áß¸³±¹ µ¶ÀÏ;;;;;;;;;;;x
-form_nato;ºÏ´ë¼­¾ç Á¶¾à±â±¸ °á¼º;;;;;;;;;;;x
-warsaw_pact_active;¹Ù¸£»ş¹Ù Á¶¾à±â±¸ Á¸Àç;;;;;;;;;;;x
-isolationist_ussr;°í¸³ÁÖÀÇ ¼Ò·Ã;;;;;;;;;;;x
-invitation_to_warsaw_pact;¹Ù¸£»ş¹Ù Á¶¾à±â±¸ ÃÊÃ»;;;;;;;;;;;x
-soviet_friendship;¼Ò·Ã°úÀÇ ¿ìÈ£;;;;;;;;;;;x
-recognized_government;°øÀÎ¹ŞÀº Á¤ºÎ;;;;;;;;;;;x
-economic_malaise;°æÁ¦ ¹®Á¦;;;;;;;;;;;x
-prc;ÁßÈ­ÀÎ¹Î°øÈ­±¹;;;;;;;;;;;x
-us_politics_special;¹Ì±¹ÀÇ Æ¯º°ÇÑ Á¤Ä¡;;;;;;;;;;;x
-namformformed;ºñµ¿¸Í¿îµ¿ °á¼º;;;;;;;;;;;x
-cold_warussr;¼Ò·ÃÀÇ ³ÃÀü ½Â¸®;;;;;;;;;;;x
-endofthecoldwar;³ÃÀü Á¾·á;;;;;;;;;;;x
-cold_war_winner;³ÃÀü ½ÂÀü±¹;;;;;;;;;;;x
-demohigh;ÀÚÀ¯Áø¿µ ÁßÁ¡: ¹«Àå ³ôÀ½, °æÁ¦ ³·À½;;;;;;;;;;;x
-demomedium;ÀÚÀ¯Áø¿µ ÁßÁ¡: ¹«Àå Áß°£, °æÁ¦ Áß°£;;;;;;;;;;;x
-demolow;ÀÚÀ¯Áø¿µ ÁßÁ¡: ¹«Àå ³·À½, °æÁ¦ ³ôÀ½;;;;;;;;;;;x
-cold_warussr1;¼Ò·ÃÀÇ ³ÃÀü ½Â¸®;;;;;;;;;;;x
-disable_demo_event;¹ÎÁÖÈ­ »ç°Ç ¹ß»ı ºñÈ°¼º »óÅÂ;;;;;;;;;;;x
-event_fired_8002626;'´ÜÇ³ÀÙ ±ê¹ß' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-belgian_monarch;º§±â¿¡ ±ºÁÖ;;;;;;;;;;;x
-1971_war_hnd_bng;1971³â ÀÎµµ-¹æ±Û¶óµ¥½Ã ÀüÀï;;;;;;;;;;;x
-arab_league;¾Æ¶ø ¿¬¸Í;;;;;;;;;;;x
-algerian_civil_war;¾ËÁ¦¸® ³»Àü;;;;;;;;;;;x
-afghani_coup_1973;1973³â ¾ÆÇÁ°¡´Ï½ºÅº Á¤º¯;;;;;;;;;;;x
-soviet_intervention_in_afghanistan;¼Ò·ÃÀÇ ¾ÆÇÁ°¡´Ï½ºÅº ÀüÀï °³ÀÔ;;;;;;;;;;;x
-trade_war_initiator;¹«¿ªÀüÀï ¹ß¹ß±¹;;;;;;;;;;;x
-trade_war;¹«¿ªÀüÀï;;;;;;;;;;;x
-former_devolved_nation;°ú°Å ±Ç·ÂÀ» À§ÀÓ¹ŞÀº ±¹°¡;;;;;;;;;;;x
-unsc_non_permanent_on;±¹Á¦¿¬ÇÕ ¾ÈÀüº¸ÀåÀÌ»çÈ¸ ºñ»óÀÓÀÌ»ç±¹;;;;;;;;;;;x
-unsc_non_permanent_member_selected;±¹Á¦¿¬ÇÕ ¾ÈÀüº¸ÀåÀÌ»çÈ¸ ºñ»óÀÓÀÌ»ç±¹À¸·Î ¼±Á¤;;;;;;;;;;;x
-legalitychecked1;ÀüÀïÀÇ ÇÕ¹ı¼º È®ÀÎ;;;;;;;;;;;x
-uninterventioninwar;±¹Á¦¿¬ÇÕ ÀüÀï °³ÀÔ;;;;;;;;;;;x
-resolution_passed_unsc;±¹Á¦¿¬ÇÕ ¾ÈÀüº¸ÀåÀÌ»çÈ¸ °áÀÇ¾È °¡°á;;;;;;;;;;;x
-na;;;;;;;;;;;x
-uninterventionactive;±¹Á¦¿¬ÇÕ °³ÀÔ È°µ¿;;;;;;;;;;;x
-un_trust_ongoing;±¹Á¦¿¬ÇÕ ½ÅÅ¹ ÁøÇà Áß;;;;;;;;;;;x
-1963_un_terror_convention;1963³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1970_un_terror_convention;1970³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1971_un_terror_convention;1971³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1973_un_terror_convention;1973³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1979_un_terror_convention;1979³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1988_un_terror_convention;1988³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1991_un_terror_convention;1991³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1997_un_terror_convention;1997³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-1999_un_terror_convention;1999³â ´ëÅ×·¯ ±¹Á¦¿¬ÇÕ Çù¾à;;;;;;;;;;;x
-un_counter_terrorism_committee;±¹Á¦¿¬ÇÕ ´ëÅ×·¯À§¿øÈ¸;;;;;;;;;;;x
-salt_proposed;Àü·«¹«±âÁ¦ÇÑÇùÁ¤ Á¦¾È;;;;;;;;;;;x
-inf_proposed;Áß°Å¸®ÇÙÀü·ÂÁ¶¾à Á¦¾È;;;;;;;;;;;x
-start_proposed;Àü·«¹«±âÁ¦ÇÑÈ¸´ã Á¦¾È;;;;;;;;;;;x
-abm_proposed;ÅºµµÅº¿ä°İ¹Ì»çÀÏÁ¶¾à Á¦¾È;;;;;;;;;;;x
-sdi_race_banned;Àü·«¹æÀ§°èÈ¹ °æÀï ±İÁö;;;;;;;;;;;x
-sdi_developed;Àü·«¹æÀ§°èÈ¹ ¼ö¸³ ¿Ï·á;;;;;;;;;;;x
-abm_school;ÅºµµÅº¿ä°İ¹Ì»çÀÏ ±³À°;;;;;;;;;;;x
-sovietee;¼Ò·ÃÈ­;;;;;;;;;;;x
-conservative_surge;º¸¼öÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-traditionalist_surge;ÀüÅëÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-populist_surge;´ëÁßÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-socialist_surge;»çÈ¸ÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-big_tent_surge;ÁßµµÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-liberal_surge;ÀÚÀ¯ÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-progressive_surge;Áøº¸ÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-nationalist_surge;¹ÎÁ·ÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-communist_surge;°ø»êÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-communist_social_surge;½ÃÀå»çÈ¸ÁÖÀÇ ¼âµµ;;;;;;;;;;;x
-split_gilbert_and_ellice_islands;±æ¹öÆ®¿¤¸®½ºÁ¦µµ °¥µî;;;;;;;;;;;x
-solomon_islands_ethnic_violence;¼Ö·Î¸óÁ¦µµ ÀÎÁ¾Æø·Â;;;;;;;;;;;x
-1948_olympics_done;1948³â ¿Ã¸²ÇÈ ¿Ï·á;;;;;;;;;;;x
-olympics_ongoing;¿Ã¸²ÇÈ ÁøÇà Áß;;;;;;;;;;;x
-1948_olympics_completed;1948³â ¿Ã¸²ÇÈ Æó¸·;;;;;;;;;;;x
-next_olympics_host_nation;Â÷±â ¿Ã¸²ÇÈ °³ÃÖ±¹;;;;;;;;;;;x
-olympics_dope_ban;¿Ã¸²ÇÈ ¾à¹°º¹¿ë ±İÁö;;;;;;;;;;;x
-1992_olympics_done;1992³â ¿Ã¸²ÇÈ ¿Ï·á;;;;;;;;;;;x
-government_extends_peace_hand;Á¤ºÎÀÇ ÆòÈ­ À¯Áö ³ë·Â;;;;;;;;;;;x
-has_nuke_clouds;¹ö¼¸±¸¸§ Á¸Àç;;;;;;;;;;;x
-disease;¿ªº´;;;;;;;;;;;x
-nuked_before;ÇÙ¹«±â °ø½À ÀÌÀü;;;;;;;;;;;x
-atomic_bomb_developed;¿øÀÚÆøÅº °³¹ß ¿Ï·á;;;;;;;;;;;x
-hydrogen_bomb_developed;¼ö¼ÒÆøÅº °³¹ß ¿Ï·á;;;;;;;;;;;x
-dissolving_parliament;ÀÇÈ¸ ÇØ»ê;;;;;;;;;;;x
-propaganda_program;¼±Àü °èÈ¹;;;;;;;;;;;x
-world_wars_enabled;¼¼°è´ëÀü È°¼º »óÅÂ;;;;;;;;;;;x
-the_imf;±¹Á¦ÅëÈ­±â±İ;;;;;;;;;;;x
-dev_bank;ÀºÇà °³¹ß;;;;;;;;;;;x
-world_bank;¼¼°èÀºÇà;;;;;;;;;;;x
-comecon_decision_fired;»óÈ£°æÁ¦¿øÁ¶ÇùÀÇÈ¸ °áÁ¤ ¹ßµ¿;;;;;;;;;;;x
-financial_crisis_2008;2008³â ±İÀ¶À§±â;;;;;;;;;;;x
-2008_bailout_fired;2008³â ±¸Á¦±İÀ¶ ¹ß¹ß;;;;;;;;;;;x
-in_trade_block;¹«¿ªºí·Ï ¾È;;;;;;;;;;;x
-world_low;¼¼°è ±äÀåµµ ³·À½;;;;;;;;;;;x
-world_medium;¼¼°è ±äÀåµµ Áß°£;;;;;;;;;;;x
-world_high;¼¼°è ±äÀåµµ ³ôÀ½;;;;;;;;;;;x
-meddled_in_foreign_affairs;ÇØ¿Ü »ç°Ç °£¼·;;;;;;;;;;;x
-foreign_intervention;¿Ü¼¼ °³ÀÔ;;;;;;;;;;;x
-freedom_attempt_made;ÀÚÀ¯ ½Ãµµ;;;;;;;;;;;x
-eu_debt_crisis;À¯·´ ¿¬ÇÕ ºÎÃ¤ À§±â;;;;;;;;;;;x
-eu_debt_crisis_started;À¯·´ ¿¬ÇÕ ºÎÃ¤ À§±â ¹ß¹ß;;;;;;;;;;;x
-sovietaidincuba;¼Ò·ÃÀÇ Äí¹Ù Áö¿ø;;;;;;;;;;;x
-notapplicable;ºÎÀûÇÕ;;;;;;;;;;;x
-usabrettonwoods;¹Ì±¹ ºê·¹Æ°¿ìµå;;;;;;;;;;;x
-licenseraj;±ÔÁ¦¿Õ±¹;;;;;;;;;;;x
-creditornation;Ã¤±Ç±¹;;;;;;;;;;;x
-imf_chairmanship;±¹Á¦ÅëÈ­±â±İ ÀÇÀå±¹;;;;;;;;;;;x
-wto_chairmanship;¼¼°è¹«¿ª±â±¸ ÀÇÀå±¹;;;;;;;;;;;x
-ibrd_chairmanship;±¹Á¦ºÎÈï°³¹ßÀºÇà ÀÇÀå±¹;;;;;;;;;;;x
-imfusafirst;±¹Á¦ÅëÈ­±â±İ ¹Ì±¹ ¿ì´ë;;;;;;;;;;;x
-wtousafirst;¼¼°è¹«¿ª±â±¸ ¹Ì±¹ ¿ì´ë;;;;;;;;;;;x
-wto_created;¼¼°è¹«¿ª±â±¸ Åº»ı;;;;;;;;;;;x
-ibrdusafirst;±¹Á¦ºÎÈï°³¹ßÀºÇà ¹Ì±¹ ¿ì´ë;;;;;;;;;;;x
-indiaoffice;ÀÎµµ °ü·á;;;;;;;;;;;x
-decoloniasation2;Å»½Ä¹ÎÈ­;;;;;;;;;;;x
-vietnamrename;º£Æ®³² ±¹¸í º¯°æ;;;;;;;;;;;x
-endofsarstatus;Æ¯º°ÇàÁ¤±¸ ÁöÀ§ ¼Ò¸ê;;;;;;;;;;;x
-endofsarstatus1;Æ¯º°ÇàÁ¤±¸ ÁöÀ§ ¼Ò¸ê;;;;;;;;;;;x
-endofsarstatus2;Æ¯º°ÇàÁ¤±¸ ÁöÀ§ ¼Ò¸ê;;;;;;;;;;;x
-impcapital;±¹Á¦ÅëÈ­±â±İ º»ºÎ ¼ÒÀçÁö;;;;;;;;;;;x
-deng_xiaoping_selected;µ¢»ş¿ÀÇÎ ¼±ÅÃ;;;;;;;;;;;x
-industrious_nation;±Ù¸éÇÑ ±¹°¡;;;;;;;;;;;x
-unite_yemen;ÅëÀÏ ¿¹¸à;;;;;;;;;;;x
-malayanemergency;¸»·¹ÀÌ½Ã¾Æ ±ä±Ş»çÅÂ;;;;;;;;;;;x
-malaya_baling_talks;¸»·¹ÀÌ½Ã¾Æ ¹ß¸µ È¸´ã;;;;;;;;;;;x
-gallisum;µå°ñÁÖÀÇ;;;;;;;;;;;x
-syrindy;½Ã¸®¾Æ µ¶¸³;;;;;;;;;;;x
-syr_no_split;½Ã¸®¾Æ °¥µî ¾øÀ½;;;;;;;;;;;x
-trump;Æ®·³ÇÁ;;;;;;;;;;;x
-postindusboom;»ê¾÷È­ ÀÌÈÄ ÀÎ±¸ Æø¹ß;;;;;;;;;;;x
-returnofportarthur;Æ÷¸£Æ® ¾Æ¸£Åõ¸£ ¹İÈ¯;;;;;;;;;;;x
-seikan_tunnel;¼¼ÀÌÄ­ ÅÍ³Î;;;;;;;;;;;x
-canalsoftheworld;¼¼°èÀû ¿îÇÏ;;;;;;;;;;;x
-bush;ºÎ½Ã;;;;;;;;;;;x
-channel_tunnel;¿îÇÏ ÅÍ³Î;;;;;;;;;;;x
-cw_reason;³ÃÀüÀÇ ÀÌÀ¯;;;;;;;;;;;x
-xeu_chairmanship;À¯·´ ¿¬ÇÕ ÀÇÀå±¹;;;;;;;;;;;x
-eufirst;À¯·´ ¿¬ÇÕ ¿ì´ë;;;;;;;;;;;x
-bsystem;ºê·¹Æ°¿ìµåÃ¼Á¦;;;;;;;;;;;x
-port_arthur_recapture;Æ÷¸£Æ® ¾Æ¸£Åõ¸£ ÀçÁ¡·É;;;;;;;;;;;x
-end_of_the_belgian_empire;º§±â¿¡ ½Ä¹ÎÁ¦±¹ ÇØÃ¼;;;;;;;;;;;x
-space_attempt_fired;¿ìÁÖ ½Ãµµ Æø¹ß;;;;;;;;;;;x
-space_mars;È­¼º Å½»ç¼±;;;;;;;;;;;x
-iss_built;±¹Á¦¿ìÁÖÁ¤°ÅÀå °Ç¼³;;;;;;;;;;;x
-nap;;;;;;;;;;;x
-great_leap_forward_flag;´ë¾àÁø;;;;;;;;;;;x
-suharto;¼öÇÏ¸£Åä;;;;;;;;;;;x
-Badoglio;¹Ùµ¹¸®¿À;;;;;;;;;;;x
-Graziani;±×¶óÄ¡¾Æ´Ï;;;;;;;;;;;x
-Impastato;ÀÓÆÄ½ºÅ¸Åä;;;;;;;;;;;x
-Borsellino;º¸¸£¼¿¸®³ë;;;;;;;;;;;x
-chemical_before;È­ÇĞ °ø½À ÀÌÀü;;;;;;;;;;;x
-event_force_end_of_indonesian_revolution;ÀÎµµ³×½Ã¾Æ Çõ¸í Á¾·á °­¿ä;;;;;;;;;;;x
-batista_regime;¹ÙÆ¼½ºÅ¸ Á¤±Ç;;;;;;;;;;;x
-thai_comm;°ø»ê Å¸ÀÌ;;;;;;;;;;;x
-thai_comm_end;Å¸ÀÌ °ø»ê´ç ÇØ»ê;;;;;;;;;;;x
-wallace;Àª¸®½º;;;;;;;;;;;x
-un_armistice;±¹Á¦¿¬ÇÕ ÈŞÀü;;;;;;;;;;;x
-oic_chairmanship;ÀÌ½½¶÷ Çù·Â±â±¸ ÀÇÀå±¹;;;;;;;;;;;x
-oicfirst;ÀÌ½½¶÷ Çù·Â±â±¸ ¿ì´ë;;;;;;;;;;;x
-patient_zero;È¯ÀÚ 0¸í;;;;;;;;;;;x
-who_notice;¼¼°èº¸°Ç±â±¸ ¾Ë¸²;;;;;;;;;;;x
-epidemic_start;Àü¿°º´ È®»ê ½ÃÀÛ;;;;;;;;;;;x
-polar_expedition_underway;ºÏ±Ø Å½Çè Áß;;;;;;;;;;;x
-not_eaten_by_bears;°õ¿¡°Ô Àâ¾Æ¸ÔÈ÷Áö ¾ÊÀ½;;;;;;;;;;;x
-tokyo_sarin_attack;µµÄì »ç¸°°¡½º Å×·¯;;;;;;;;;;;x
-rank_1_high_rebels;Á¦1ÃÊ°­´ë±¹ ¹İ±º ³ôÀ½;;;;;;;;;;;x
-rank_2_high_rebels;Á¦2ÃÊ°­´ë±¹ ¹İ±º ³ôÀ½;;;;;;;;;;;x
-rank_1_low_rebels;Á¦1ÃÊ°­´ë±¹ ¹İ±º ³·À½;;;;;;;;;;;x
-rank_2_low_rebels;Á¦2ÃÊ°­´ë±¹ ¹İ±º ³·À½;;;;;;;;;;;x
-fbu_fired;¿µºÒ¿¬ÇÕ °á¼º;;;;;;;;;;;x
-danish_event;µ§¸¶Å© »ç°Ç;;;;;;;;;;;x
-nato_abolish;ºÏ´ë¼­¾ç Á¶¾à±â±¸ ÆóÁö;;;;;;;;;;;x
-nato_leader;ºÏ´ë¼­¾ç Á¶¾à±â±¸ ¸ÍÁÖ;;;;;;;;;;;x
-war_with_un;±¹Á¦¿¬ÇÕ°ú ±³Àü;;;;;;;;;;;x
-concorde_proposed;ÄáÄÚµå Á¦¾È;;;;;;;;;;;x
-concorde_accepted;ÄáÄÚµå ¼ö¿ë;;;;;;;;;;;x
-concorde_started;ÄáÄÚµå ½ÃÀÛ;;;;;;;;;;;x
-supersonic_usa;¹Ì±¹ÀÇ ÃÊÀ½¼ÓÁ¦Æ®±â;;;;;;;;;;;x
-supersonic_rus;·¯½Ã¾ÆÀÇ ÃÊÀ½¼ÓÁ¦Æ®±â;;;;;;;;;;;x
-acquiring_bomb;ÆøÅº ÀÔ¼ö;;;;;;;;;;;x
-g8_president_selected;ÁÖ¿ä 8°³±¹ ÀÇÀåÀ¸·Î ¼±ÅÃ¹ŞÀ½;;;;;;;;;;;x
-g8_president_now;ÇöÀç ÁÖ¿ä 8°³±¹ ÀÇÀå;;;;;;;;;;;x
-arg_election_fire;¾Æ¸£ÇîÆ¼³ª ¼±°Å ½ÃÀÛ;;;;;;;;;;;x
-mad_communist;¸¶´Ù°¡½ºÄ«¸£ °ø»ê´ç;;;;;;;;;;;x
-arg_election_fire1;¾Æ¸£ÇîÆ¼³ª ¼±°Å ½ÃÀÛ;;;;;;;;;;;x
-nuke_money_aid;ÇÙ°³¹ß ÀÚ±İ ¿øÁ¶;;;;;;;;;;;x
-one_china_policy;ÇÏ³ªÀÇ Áß±¹ Á¤Ã¥;;;;;;;;;;;x
-tibet_visit_by_usa_1;Æ¼º£Æ® ¹Ì±¹ ¹æ¹®;;;;;;;;;;;x
-not_disabled;ºñÈ°¼º »óÅÂ ¾Æ´Ô;;;;;;;;;;;x
-hyderabad_integration;ÇÏÀÌµ¥¶ó¹Ùµå ÅëÇÕ;;;;;;;;;;;x
-tripartite_agreement;»ïÀÚÇùÁ¤;;;;;;;;;;;x
-unlock_the_amazon;¾Æ¸¶Á¸ °³¹ß;;;;;;;;;;;x
-deforestation1;»ï¸²¹úÃ¤µµ 1;;;;;;;;;;;x
-deforestation2;»ï¸²¹úÃ¤µµ 2;;;;;;;;;;;x
-deforestation3;»ï¸²¹úÃ¤µµ 3;;;;;;;;;;;x
-deforestation4;»ï¸²¹úÃ¤µµ 4;;;;;;;;;;;x
-deforestation5;»ï¸²¹úÃ¤µµ 5;;;;;;;;;;;x
-sarawkjoin;»ç¶ó¿Î ÇÕ·ù;;;;;;;;;;;x
-sabahjoin;»ç¹Ù ÇÕ·ù;;;;;;;;;;;x
-ryukujoin;·ùÅ¥ ÇÕ·ù;;;;;;;;;;;x
-democracyinformercolony;±¸ ½Ä¹ÎÁöÀÇ ¹ÎÁÖÁÖÀÇ;;;;;;;;;;;x
-moneyforallfraeng;¿µºÒ ¸¸ÀÎÀÇ µ·;;;;;;;;;;;x
-moneyforall;¸¸ÀÎÀÇ µ·;;;;;;;;;;;x
-playermoneyboost;ÇÃ·¹ÀÌ¾î ÅëÈ­ Ãß°¡ Áö±Ş;;;;;;;;;;;x
-exportfocus;¼öÃâ ÁßÁ¡;;;;;;;;;;;x
-importfocus;¼öÀÔ ÁßÁ¡;;;;;;;;;;;x
-japopboom;ÀÏº»ÀÇ ÀÎ±¸ Æø¹ß;;;;;;;;;;;x
-usapopboom;¹Ì±¹ÀÇ ÀÎ±¸ Æø¹ß;;;;;;;;;;;x
-isrpopboom;ÀÌ½º¶ó¿¤ÀÇ ÀÎ±¸ Æø¹ß;;;;;;;;;;;x
-gerpopboom;µ¶ÀÏÀÇ ÀÎ±¸ Æø¹ß;;;;;;;;;;;x
-warofindependenceindia;ÀÎµµ µ¶¸³ÀüÀï;;;;;;;;;;;x
-third;Á¦3¼¼°è;;;;;;;;;;;x
-decoloniasation1;Å»½Ä¹ÎÈ­;;;;;;;;;;;x
-moneyforall425;¸¸ÀÎÀÇ µ·;;;;;;;;;;;x
-moneyforall536;¸¸ÀÎÀÇ µ·;;;;;;;;;;;x
-releasekmt;±¹ºÎÃµ´ë;;;;;;;;;;;x
-indiasoi;ÀÎµµ ¿µÇâ±Ç;;;;;;;;;;;x
-nonapplicableinactivated;È°¼ºÈ­ÇÏ±â¿¡ ºÎÀûÇÕ;;;;;;;;;;;x
-endofpor;Æ÷¸£Åõ°¥ ½Ä¹ÎÁ¦±¹ ÇØÃ¼;;;;;;;;;;;x
-corruptionbegins;ºÎÆĞ ½ÃÀÛ;;;;;;;;;;;x
-superpower;ÃÊ°­´ë±¹;;;;;;;;;;;x
-frenchcommunity;ÇÁ¶û½º¾î °øµ¿Ã¼;;;;;;;;;;;x
-fedmalsen;¸»¸®-¼¼³×°¥ ¿¬¹æ;;;;;;;;;;;x
-lky;¸®ÄäÀ¯;;;;;;;;;;;x
-gg;ÁÖ¿ä 8°³±¹;;;;;;;;;;;x
-senegalleaves;¼¼³×°¥ ¿¬¹æ Å»Åğ;;;;;;;;;;;x
-postwarprotectionism;ÀüÈÄ º¸È£¹«¿ª;;;;;;;;;;;x
-superstate_formation_event;ÃÊ±¹°¡ °á¼º »ç°Ç;;;;;;;;;;;x
-ebola_outbreak_2013;2013³â ¿¡º¼¶ó »çÅÂ;;;;;;;;;;;x
-jiang_zemin_selected;ÀåÂ¼¹Î ¼±ÅÃ;;;;;;;;;;;x
-hu_jingtao_selected;ÈÄÁøÅ¸¿À ¼±ÅÃ;;;;;;;;;;;x
-uae_union;¾Æ¶ø ÅäÈÄ±¹ ¿¬ÇÕ;;;;;;;;;;;x
-sea_economy_slow;µ¿³²¾Æ½Ã¾Æ °æÁ¦ µĞÈ­;;;;;;;;;;;x
-ido_thaw_trigger;¾Æ½Ã¾Æ ±İÀ¶À§±â ¹ß¹ß;;;;;;;;;;;x
-far_union_flag;¾Æ¶ø °øÈ­±¹ ¿¬¹æ;;;;;;;;;;;x
-far_formed_flag;¾Æ¶ø °øÈ­±¹ ¿¬¹æ;;;;;;;;;;;x
-chinese_democracy;Áß±¹½Ä ¹ÎÁÖÁÖÀÇ;;;;;;;;;;;x
-icj_marker;±¹Á¦»ç¹ıÀçÆÇ¼Ò;;;;;;;;;;;x
-icj_in_process;±¹Á¦»ç¹ıÀçÆÇ¼Ò ÁøÇà Áß;;;;;;;;;;;x
-international_court_of_justice;±¹Á¦»ç¹ıÀçÆÇ¼Ò;;;;;;;;;;;x
-spanish_decolonisation_mor;¿¡½ºÆÄ³Ä·É ¸ğ·ÎÄÚ Å»½Ä¹ÎÈ­;;;;;;;;;;;x
-un_peace_making_marker;±¹Á¦¿¬ÇÕ ÆòÈ­À¯Áö;;;;;;;;;;;x
-ethnic_cleansed;ÀÎÁ¾Ã»¼Ò ÀÚÇà;;;;;;;;;;;x
-discovered_genocide;ÇĞ»ì ¹ß°¢;;;;;;;;;;;x
-discovered_genocide1;ÇĞ»ì ¹ß°¢;;;;;;;;;;;x
-genocide_101;ÇĞ»ì;;;;;;;;;;;x
-south_viet_soc;³²º£Æ®³² »çÈ¸;;;;;;;;;;;x
-unsc_veto_crisis;±¹Á¦¿¬ÇÕ ¾ÈÀüº¸ÀåÀÌ»çÈ¸ ºĞÀï °ÅºÎ±Ç Çà»ç;;;;;;;;;;;x
-collectivise_farms;Áı´Ü³óÀå;;;;;;;;;;;x
-banned_trade_uninos;³ëµ¿Á¶ÇÕ ±İÁö;;;;;;;;;;;x
-terror_groups_in;Å×·¯ ´ÜÃ¼;;;;;;;;;;;x
-meto_flag;Áßµ¿ Á¶¾à±â±¸;;;;;;;;;;;x
-meto_accept;Áßµ¿ Á¶¾à±â±¸ ¼ö¶ô;;;;;;;;;;;x
-cento_start;Áß¾ÓÁ¶¾à±â±¸;;;;;;;;;;;x
-mandate_stays_independent;À§ÀÓÅëÄ¡·É µ¶¸³ À¯Áö;;;;;;;;;;;x
-puyi_china;ÇªÀÌ;;;;;;;;;;;x
-post_colonial_politics;½Ä¹ÎÁö½Ã´ë ÀÌÈÄ Á¤Ã¥;;;;;;;;;;;x
-tiger_cub_eco;³×¸¶¸®ÀÇ È£¶ûÀÌ;;;;;;;;;;;x
-ido_united;ÀÎµµ³×½Ã¾Æ ÅëÇÕ;;;;;;;;;;;x
-urgent_fury_fired;±×·¹³ª´Ù Ä§°ø ¹ß¹ß;;;;;;;;;;;x
-eth_war_trigger;¿¡Æ¼¿ÀÇÇ¾Æ ÀüÀï ¹ß¹ß;;;;;;;;;;;x
-eec_choice_made;À¯·´ °æÁ¦°øµ¿Ã¼;;;;;;;;;;;x
-treaty_of_friendship_ussr_comm;¼Ò·Ã°úÀÇ ¿ìÈ£Á¶¾à;;;;;;;;;;;x
-capital_lost;¼öµµ ÇÔ¶ô;;;;;;;;;;;x
-narita_airport;³ª¸®Å¸ °øÇ×;;;;;;;;;;;x
-narita_airport_continue;³ª¸®Å¸ °øÇ× °Ç¼³ Áö¼Ó;;;;;;;;;;;x
-no_007_event;007Æí »ç°í ¹Ì¹ß»ı;;;;;;;;;;;x
-bandung_conference;¹İµÕ È¸ÀÇ;;;;;;;;;;;x
-un_committe_on_decolonisation;±¹Á¦¿¬ÇÕ Å»½Ä¹ÎÈ­À§¿øÈ¸;;;;;;;;;;;x
-alberto_fujimori;¾Ëº£¸£Åä ÈÄÁö¸ğ¸®;;;;;;;;;;;x
-erm_flag;À¯·´ È¯À²Á¶Á¤Á¦µµ;;;;;;;;;;;x
-left_erm;À¯·´ È¯À²Á¶Á¤Á¦µµ Å»Åğ;;;;;;;;;;;x
-country_at_war;Àü½Ã »óÈ²;;;;;;;;;;;x
-destroy_satelllites;ÀÎ°øÀ§¼º ÆÄ±«;;;;;;;;;;;x
-has_chemical_clouds;È­ÇĞ±¸¸§ º¸À¯;;;;;;;;;;;x
-disease1;¿ªº´;;;;;;;;;;;x
-rejected_FBU_union_flag;¿µºÒ¿¬ÇÕ °ÅºÎ;;;;;;;;;;;x
-nko_no_sphere;ºÏÇÑ ¿µÇâ±Ç¿¡ ¾øÀ½;;;;;;;;;;;x
-forex_options;¿ÜÈ­º¸À¯°í ¼±ÅÃÁö;;;;;;;;;;;x
-superstate_central_bank;ÃÊ±¹°¡ Áß¾ÓÀºÇà;;;;;;;;;;;x
-cominform_flag;°ø»ê´ç Á¤º¸±¹;;;;;;;;;;;x
-join_the_cfa;¾ÆÇÁ¸®Ä« ÇÁ¶û½º °øµ¿Ã¼ ÇÁ¶û Âü¿©;;;;;;;;;;;x
-support_greek_gov;±×¸®½º Á¤ºÎ Áö¿ø;;;;;;;;;;;x
-bizerte_crisis;ºñÁ¦¸£Å× À§±â;;;;;;;;;;;x
-nato_flag_member;ºÏÅÂ¼­¾ç Á¶¾à±â±¸ È¸¿ø±¹;;;;;;;;;;;x
-form_bizonia;¿µ±¹-¹Ì±¹ Á¡·É±¸ Á¶Á¤;;;;;;;;;;;x
-occupation_zone_potential;ÀáÀçÀû Á¡·É±¸;;;;;;;;;;;x
-trizone_formed;3°³±¹ Á¡·É±¸ Á¶Á¤;;;;;;;;;;;x
-final_settlement_ger;µ¶ÀÏ¿¡ °üÇÑ ¸¶Áö¸· ÇÕÀÇ;;;;;;;;;;;x
-decide_german_economy_monnet;¸ğ³× °èÈ¹ °áÁ¤;;;;;;;;;;;x
-decide_DRZ_and_ALW;µå·çÁî, ¾Ë¶óÀ§ °áÁ¤;;;;;;;;;;;x
-ww2_surplus_arms_flag;Á¦2Â÷ ¼¼°è´ëÀü À×¿© ¹«±â;;;;;;;;;;;x
-latin_debt_crisis;¶óÆ¾¾Æ¸Ş¸®Ä« ºÎÃ¤ À§±â;;;;;;;;;;;x
-appoint_ruling_party;¿©´ç Áö¸íÁ¦;;;;;;;;;;;x
-superstate_common_tariffs;ÃÊ±¹°¡ °øµ¿°ü¼¼;;;;;;;;;;;x
-conceded_trade_war;¹«¿ªÀüÀï ÆĞ¹è ÀÎÁ¤;;;;;;;;;;;x
-trade_war_2;¹«¿ªÀüÀï2;;;;;;;;;;;x
-trade_war_3;¹«¿ªÀüÀï3;;;;;;;;;;;x
-trade_war_4;¹«¿ªÀüÀï4;;;;;;;;;;;x
-demanded_denuclearisation;ºñÇÙÈ­ ¿ä±¸;;;;;;;;;;;x
-nuclear_blackmail_flag;ÇÙ¹«±â Çù¹Ú;;;;;;;;;;;x
-petro_rise;ÆäÆ®·Î ºÎ»ó;;;;;;;;;;;x
-un_internet_ownership;±¹Á¦¿¬ÇÕ ÀÎÅÍ³İ ¼ÒÀ¯;;;;;;;;;;;x
-rotating_internet_ownership;ÀÎÅÍ³İ ¼ÒÀ¯±Ç µ¹¾Æ°¡¸ç À§ÀÓ Áß;;;;;;;;;;;x
-host_the_internet;ÀÎÅÍ³İ ÁÖÃÖ;;;;;;;;;;;x
-coexistence_pledge;°øÁ¸ ¸Í¼¼;;;;;;;;;;;x
-strategic_bombardment;Àü·« Æø°İ;;;;;;;;;;;x
-endofmandatestatus;À§ÀÓÅëÄ¡·É ÁöÀ§ ¼Ò¸ê;;;;;;;;;;;x
-white_terror;¹é»ö Å×·¯;;;;;;;;;;;x
-specially_disabled;Æ¯º°ÇÏ°Ô ºñÈ°¼º »óÅÂ;;;;;;;;;;;x
-epidemic_level2;Àü¿°º´ È®»ê 2´Ü°è;;;;;;;;;;;x
-unclos_2;Á¦2Â÷ ±¹Á¦¿¬ÇÕ ÇØ¾ç¹ıÇù¾à;;;;;;;;;;;x
-sea_dispute_underway;¿µÇØ °¥µî ÁøÇà Áß;;;;;;;;;;;x
-outfrench;ÇÁ¶û½º·É ¹Û;;;;;;;;;;;x
-scs_race;³²Áß±¹ÇØ °æÀï;;;;;;;;;;;x
-dispute_south_china_sea1;³²Áß±¹ÇØ ºĞÀï;;;;;;;;;;;x
-dispute_south_china_sea_done;³²Áß±¹ÇØ ºĞÀï Á¾·á;;;;;;;;;;;x
-scs_marked;³²Áß±¹ÇØ;;;;;;;;;;;x;
-south_china_sea_sovereignty_gained;³²Áß±¹ÇØ ÁÖ±Ç È¹µæ;;;;;;;;;;;x
-dai_war_end;º£Æ®³² ÀüÀï Á¾Àü;;;;;;;;;;;x
-tog_communist;Åä°í °ø»ê´ç;;;;;;;;;;;x
-cng_communist;Äá°í °ø»ê´ç;;;;;;;;;;;x
-hun_rep;Çë°¡¸® °øÈ­±¹;;;;;;;;;;;x
-moon_mission_win_1;´Ş Å½»ç ÀÓ¹« ½Â¸®;;;;;;;;;;;x
-one_degree;1µµ »ó½Â;;;;;;;;;;;x
-two_degree;2µµ »ó½Â;;;;;;;;;;;x
-three_degree;3µµ »ó½Â;;;;;;;;;;;x
-45_degree;4.5µµ »ó½Â;;;;;;;;;;;x
-raise_oil_prices;À¯°¡ »ó½Â;;;;;;;;;;;x
-lower_oil_prices;ÀúÀ¯°¡;;;;;;;;;;;x
-develop_bio_weapons;»ı¹°¹«±â °³¹ß;;;;;;;;;;;x
-spreading_bio_weapon;»ı¹°¹«±â È®»ê Áß;;;;;;;;;;;x
-vaccine_development;¹é½Å °³¹ß;;;;;;;;;;;x
-franco_boost;ÇÁ¶ûÄÚ °¡¼Ó;;;;;;;;;;;x
-yeartwok;»õÃµ³â;;;;;;;;;;;x
-warship_commissioned;ÀüÇÔ ¹ßÁÖ;;;;;;;;;;;x
-cwcrisis_initiated;³ÃÀü À§±â ¹ß¹ß;;;;;;;;;;;x
-cold_war_low;³ÃÀü ±äÀåµµ ³·À½;;;;;;;;;;;x
-cold_war_medium;³ÃÀü ±äÀåµµ Áß°£;;;;;;;;;;;x
-cold_war_high;³ÃÀü ±äÀåµµ ³ôÀ½;;;;;;;;;;;x
-israelwarpalestine;ÀÌ½º¶ó¿¤ ÆÈ·¹½ºÅ¸ÀÎ ÀüÀï;;;;;;;;;;;x
-palestinianauthrouty;ÆÈ·¹½ºÅ¸ÀÎ¿¡ °üÇÑ ±ÇÇÑ;;;;;;;;;;;x
-co2_rising_study;ÀÌ»êÈ­Åº¼Ò Áõ°¡ ¿¬±¸;;;;;;;;;;;x
-un_environment_conference;±¹Á¦¿¬ÇÕ È¯°æ È¸ÀÇ;;;;;;;;;;;x
-global_warming_name;Áö±¸¿Â³­È­ ÀÌ¸§;;;;;;;;;;;x
-ipcc;±âÈÄº¯È­¿¡ °üÇÑ Á¤ºÎ°£ ÆĞ³Î;;;;;;;;;;;x
-ipcc_first_report;±âÈÄº¯È­¿¡ °üÇÑ Á¤ºÎ°£ ÆĞ³Î Á¦1Â÷ º¸°í¼­;;;;;;;;;;;x
-montreal_start;¸óÆ®¸®¿Ã ÀÇÁ¤¼­;;;;;;;;;;;x
-earth_summit;Áö±¸ Á¤»óÈ¸´ã;;;;;;;;;;;x
-ipcc_second_report;±âÈÄº¯È­¿¡ °üÇÑ Á¤ºÎ°£ ÆĞ³Î Á¦2Â÷ º¸°í¼­;;;;;;;;;;;x
-kyoto_protocol;±³Åä ÀÇÁ¤¼­;;;;;;;;;;;x
-zero_five_two;0.25µµ;;;;;;;;;;;x
-ipcc_third_report;±âÈÄº¯È­¿¡ °üÇÑ Á¤ºÎ°£ ÆĞ³Î Á¦3Â÷ º¸°í¼­;;;;;;;;;;;x
-copenhagen_accord;ÄÚÆæÇÏ°Õ ÇùÁ¤;;;;;;;;;;;x
-c_a_a;ÄÚÆæÇÏ°Õ ÇùÁ¤;;;;;;;;;;;x
-copenhagen_accord_result;ÄÚÆæÇÏ°Õ ÇùÁ¤ °á°ú;;;;;;;;;;;x
-paris_deal;ÆÄ¸® ±âÈÄÇù¾à;;;;;;;;;;;x
-1600_event_fired;'1948³â Çå¹ı' »ç°Ç ¹ß»ı;;;;;;;;;;;x
-dimitrovconstitution;µğ¹ÌÆ®·ÎÇÁ Çå¹ı;;;;;;;;;;;x
-socdembulgaria1;»çÈ¸¹ÎÁÖÁÖÀÇ ºÒ°¡¸®¾Æ;;;;;;;;;;;x
-zhivkovconstitution;ÁöºêÄÚÇÁ Çå¹ı;;;;;;;;;;;x
-socdembulgaria2;»çÈ¸¹ÎÁÖÁÖÀÇ ºÒ°¡¸®¾Æ2;;;;;;;;;;;x
-rejectedzhivkov;ÁöºêÄÚÇÁÀÇ Á¦¾È °ÅºÎ;;;;;;;;;;;x
-march_intifada;3¿ù ¾Æ¶øÀÎ ¹İ¶õ;;;;;;;;;;;x
-litsov;¸®Åõ¾Æ´Ï¾Æ ÁÖµĞ ¼Ò·Ã±º;;;;;;;;;;;x
-no_statehood_hwi;ÇÏ¿ÍÀÌ ±¹°¡ÁöÀ§ ¾øÀ½;;;;;;;;;;;x
-the_dragon_wakes;¿ëÀÌ ±ú¾î³ª´Ù;;;;;;;;;;;x
-mao_zedong_death;¸¶¿ÀÂ¼µÕ ¼­°Å;;;;;;;;;;;x
-gang_of_four_executed;»çÀÎ¹æ ÃàÃâ;;;;;;;;;;;x
-china_ping_pong_diplo;Áß±¹ ÇÎÆş¿Ü±³;;;;;;;;;;;x
-not_participating_UN;±¹Á¦¿¬ÇÕ ºñÈ¸¿ø±¹;;;;;;;;;;;x
-block_army_limiting;±º´ë Á¦ÇÑ Â÷´Ü;;;;;;;;;;;x
-chinese_unity_govt;Áß±¹ ±¹°øÇÕÀÛ;;;;;;;;;;;x
-ccw_american_nonintervention;±¹°ø ³»Àü ¹Ì±¹ ºñ°³ÀÔ;;;;;;;;;;;x
-ccw_soviet_nonintervention;±¹°ø ³»Àü ¼Ò·Ã ºñ°³ÀÔ;;;;;;;;;;;x
-loans_repaid;;;;;;;;;;;x
-un_soviet_boycott;¼Ò·ÃÀÇ ±¹Á¦¿¬ÇÕ º¸ÀÌÄà;;;;;;;;;;;x
-chemical_bomb_developed;È­ÇĞÆøÅº °³¹ß ¿Ï·á;;;;;;;;;;;x
-tulip_revolution_aftermath;Æ«¸³ Çõ¸í;;;;;;;;;;;x
-second_kyrgz_revolution;Á¦2Â÷ Å°¸£±â½º½ºÅº Çõ¸í;;;;;;;;;;;x
-performance_mode_set;¼º´É¸ğµå ¼³Á¤;;;;;;;;;;;x
-noreligion;Á¾±³¾øÀ½;;;;;;;;;;;x
-noculture;¹®È­¾øÀ½;;;;;;;;;;;x
-lend_lease_request;¹«±â´ë¿© ¿äÃ»;;;;;;;;;;;x
-india_land_reform;ÀÎµµ ÅäÁö°³Çõ;;;;;;;;;;;x
-HAVE_INDUSTRIAL_SCORE_LESS_THAN; »ê¾÷·Â < ;Have less Industrial Score than: ;;;;;;;;;;;x
-HAVE_LESS_TOTAL_PORTS_THAN; Ç×±¸ ¼ö ¡Â ;Have equal or less ports than: ;;;;;;;;;;;xx;
-HAVE_MORE_TOTAL_PORTS_THAN; Ç×±¸ ¼ö ¡Ã ;Have equal or more ports than: ;;;;;;;;;;;xx;
-HAVE_LESS_VASSALS_THAN; Á¾¼Ó±¹ ¼ö < ;Have less vassals than ;;;;;;;;;;;xx
-HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN; ±¹¹ÎÁö¿ª Á¡·É ºñÀ² < ;The percentage of occupied national provinces is less than: ;;;;;;;;;;;x;;;;;;
-HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE; ÀÎÁ¢ Áö¿ª ÀÖÀ½ ¡Á;Have at least one owned neighboring province such that:;;;;;;;;;;;x;;;;;;;;;;;x;;;;
-DONT_HAVE_THE_PROVINCE_MODIFIER; Áö¿ª º¯µ¿»çÇ× ÀÖÀ½ ¡Á ;Do NOT have the province modifier ;;;;;;;;;;;x;;;;;;;;;;
-HAS_NO_NATIONAL_MINORITY; = ¼Ò¼öÁı´Ü Á¸Àç;Has Minorities;;;;;;;;;;;x;;;;;;;;;;;x;;x;;;;
-HAS_NOT_NATIONAL_MINORITY; = ¼Ò¼öÁı´Ü Á¸Àç;Has Minorities;;;;;;;;;;;x;;;;;;;;;;;x;;x;;;;
-HAS_NATIONAL_MINORITY; = ¼Ò¼öÁı´Ü Á¸Àç;Has Minorities;;;;;;;;;;;x;;;;;;;;;;;x;;x;;;;
-NEUTRALITY_EFFECT; Áß¸³±¹ÀÌ µÇ¸ç ¸ğµç µ¿¸ÍÀ» ÆÄ±âÇÏ°í ¸ğµç À§¼º±¹À» ÇØ¹æÇÕ´Ï´Ù.;The nation becomes neutral, dissolving all alliances and setting all satellites free.;;;;;;;;;;;x;;;x
-THE_CAPITAL_IS_NOT; ¼öµµ ¡Á ;The Capital Is Not ;;;;;;;;;;;x;;;;;
-HOLD_ELECTION_BUTTON;¼±°Å ½Ç½Ã;Hold Election;;;;;;;;;;;x;;
-ANY_POP_IN_PROVINCE_STARTS;ÁÖ¹Î ÀüÃ¼;Any Pop;;;;;;;;;;;x;;;;;;
-REMOVE_MONEY_EFFECT; µ·: - §R$VALUE$¤§W \n.;Lose §R$VALUE$¤§W.\n;;;;;;;;;;;x;;;;;;;;
-MONEY_EFFECT; µ·: - §R$VALUE$¤§W \n.;Funds §R$VALUE$§W¤§W.\n;;;;;;;;;;;xx;;;;
-THE_CAPITAL_IS; ¼öµµ =;The Capital Is;;;;;;;;;;;x
-NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ ÀüÀï;;;;;;;;;;;x;
-AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ ÀüÀï;;;;;;;;;;;x;;;;;
-NORMAL_WAR_NAME_FASCISM;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ °ËÁ¤¼ÅÃ÷ Çõ¸í;;;;;;;;;;;x
-AGRESSION_WAR_NAME_FASCISM;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ °ËÁ¤¼ÅÃ÷ Çõ¸í;;;;;;;;;;;x
-NORMAL_WAR_NAME_COMMUNISM;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ Çõ¸íÀüÀï;;;;;;;;;;;x
-AGRESSION_WAR_NAME_COMMUNISM;$ORDER$$FIRST_COUNTRY$-$SECON_COUNTRY$ Çõ¸íÀüÀï;;;;;;;;;;;x
-NORMAL_WAR_NAME_DEMOCRACY;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ Çõ¸íÁ¤±Ç Å¸µµÀüÀï;;;;;;;;;;;x
-AGRESSION_WAR_NAME_DEMOCRACY;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ Çõ¸íÁ¤±Ç Å¸µµÀüÀï;;;;;;;;;;;x
-ANY_ALL; ÀüÃ¼ Áö¿ª;Any province;;;;;;;;;;;xx,,,,
-IS_IN_REGION; ¼Ò¼Ó = ; is in the region ;;;;;;;;;;;x
-IS_NOT_IN_THE_REGION; ¼Ò¼Ó ¡Á ;Is NOT in the region ;;;;;;;;;;;x
-HAS_SIEGE; = Æ÷À§ »óÅÂ;Under Siege;;;;;;;;;;;x
-Long text here!;¿©±â ±ä ±Û!;;;;;;;;;;;x,
-26th of March, 1836;1836³â 4¿ù 26ÀÏ;;;;;;;;;;;x
-State name here;ÀÌ¸§À» ¿©±â¿¡ ¸»ÇØÁÖ¼¼¿ä;;;;;;;;;;;x
-ESCAPE;ESC;;;;;;;;;;;;x,,,
-MORE_DIPLOMATIC_RELATION; ¿Ü±³°ü°è > ;;;;;;;;;;;x
-HAVE_NOT_ALLIANCE_WITH; µ¿¸Í±¹ ¡Á ;;;;;;;;;;;x
+CODE;ENGLISH;;;;;;;;;;;;;
+noculture;ë¬¸í™”ì—†ìŒ;;;;;;;;;;;;;
+nocasusbelli;ì „ìŸëª…ë¶„ ì—†ìŒ;;;;;;;;;;;;;
+nocasusbelli_desc;ì „ìŸëª…ë¶„ì´ ì—†ìŠµë‹ˆë‹¤.;;;;;;;;;;;;;
+nocasusbelli_setup;ì „ìŸëª…ë¶„ì´ ì—†ìŠµë‹ˆë‹¤.;;;;;;;;;;;;;
+nocasusbelli_short;ì „ìŸëª…ë¶„ ì—†ìŒ;;;;;;;;;;;;;
+developing_tech_school;í•™íŒŒ ê°œë°œ ì¤‘;;;;;;;;;;;;;
+detente_efforts;ê¸´ì¥ ì™„í™” ë…¸ë ¥;;;;;;;;;;;;;
+religion_flag;ì¢…êµ;;;;;;;;;;;;;
+socialist_contemporary_science;ì‚¬íšŒì£¼ì˜ì  í˜„ëŒ€ ê³¼í•™;;;;;;;;;;;;;
+space_station;ìš°ì£¼ ì •ê±°ì¥;;;;;;;;;;;;;
+superstate_integration_boost;ì´ˆêµ­ê°€ í†µí•© ê°€ì†;;;;;;;;;;;;;
+joinnam;ë¹„ë™ë§¹ì§„ì˜;;;;;;;;;;;;;
+joindemo;ììœ ì§„ì˜;;;;;;;;;;;;;
+joincomm;ê³µì‚°ì§„ì˜;;;;;;;;;;;;;
+finnish_question;í•€ë€ë“œ ë¬¸ì œ;;;;;;;;;;;;;
+is_disabled_for_now;í˜„ì¬ ë¹„í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+occupation_zones_in_germany;ë…ì¼ ì ë ¹êµ¬;;;;;;;;;;;;;
+policy_on_germany;ë…ì¼ ì ë ¹ì •ì±…;;;;;;;;;;;;;
+no_partition_of_west_germany;ì„œë… ë¶„í• í•˜ì§€ ì•ŠìŒ;;;;;;;;;;;;;
+partition_of_west_germany;ì„œë… ë¶„í• ;;;;;;;;;;;;;
+saar_option;ìë¥¼ë€íŠ¸ ì„ íƒ;;;;;;;;;;;;;
+rhineland_option;ë¼ì¸ë€íŠ¸ ì„ íƒ;;;;;;;;;;;;;
+morgenthau_plan;ëª¨ê²ì˜ ê³„íš;;;;;;;;;;;;;
+decide_german_economy_morgenthau;ëª¨ê²ì˜ ê³„íš ê²°ì •;;;;;;;;;;;;;
+deutsche_mark;ë„ì´ì¹˜ë§ˆë¥´í¬;;;;;;;;;;;;;
+divided_berlin;ë² ë¥¼ë¦° ë¶„ë‹¨;;;;;;;;;;;;;
+accept_united_germany;ë…ì¼ í†µì¼ ìˆ˜ë½;;;;;;;;;;;;;
+oder_line_claim;ì˜¤ë°ë¥´-ë‚˜ì´ì„¸ì„  ì˜ìœ ê¶Œ;;;;;;;;;;;;;
+german_general_treaty;ë…ì¼ ì¼ë°˜ì¡°ì•½;;;;;;;;;;;;;
+event_fired_8204302;'ë² ë¥¼ë¦° í†µí•©' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8204303;'ë™ë² ë¥¼ë¦°' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8204304;'ë² ë¥¼ë¦°' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+stalins_note_ok_nato;ë¶ëŒ€ì„œì–‘ ì¡°ì•½ê¸°êµ¬ ê°€ì…ì„ ì¡°ê±´ìœ¼ë¡œ ìŠ¤íƒˆë¦° ë©”ëª¨ ìˆ˜ìš©;;;;;;;;;;;;;
+stalins_note_ok;ìŠ¤íƒˆë¦° ë©”ëª¨ ìˆ˜ìš©;;;;;;;;;;;;;
+declared_neutrality_active;ì¤‘ë¦½ ì„ ì–¸ í™œì„± ìƒíƒœ
+neutrality;ì¤‘ë¦½;;;;;;;;;;;;;
+indo_con;ì¸ë„ ì•„ëŒ€ë¥™;;;;;;;;;;;;;
+inc_support;ì¸ë„ ì•„ëŒ€ë¥™ ì§€ì›;;;;;;;;;;;;;
+commerce_raiding;ìƒì„  ê²©ì¹¨;;;;;;;;;;;;;
+claim_greater_afghanistan;ëŒ€ì•„í”„ê°€ë‹ˆìŠ¤íƒ„ ì£¼ì¥;;;;;;;;;;;;;
+right_set_up;ìš°íŒŒì  ì¡°ì§;;;;;;;;;;;;;
+far_right_set_up;ê·¹ìš°ì  ì¡°ì§;;;;;;;;;;;;;
+centre_set_up;ì¤‘ë„ì  ì¡°ì§;;;;;;;;;;;;;
+left_set_up;ì¢ŒíŒŒì  ì¡°ì§;;;;;;;;;;;;;
+far_left_set_up;ê·¹ì¢Œì  ì¡°ì§;;;;;;;;;;;;;
+leadership_election;ì§€ë„ë¶€ ì„ ê±°;;;;;;;;;;;;;
+nuke_protection;í•µ ë³´í˜¸;;;;;;;;;;;;;
+UNSG_aggressive;ëŠ¥ë™ì  êµ­ì œì—°í•© ì‚¬ë¬´ì´ì¥;;;;;;;;;;;;;
+UNSG_normal;í‰ë²”í•œ êµ­ì œì—°í•© ì‚¬ë¬´ì´ì¥;;;;;;;;;;;;;
+UNSG_passive;ìˆ˜ë™ì  êµ­ì œì—°í•© ì‚¬ë¬´ì´ì¥;;;;;;;;;;;;;
+UNDHR;ì„¸ê³„ì¸ê¶Œì„ ì–¸;;;;;;;;;;;;;
+human_rights_watch;;;;;;;;;;;;;
+truman_doctrine;íŠ¸ë£¨ë¨¼ ë…íŠ¸ë¦°;;;;;;;;;;;;;
+nuclear_power_ge;ì›ìë ¥ ë°œì „;;;;;;;;;;;;;
+wind_power_ge;í’ë ¥ ë°œì „;;;;;;;;;;;;;
+bioenergy_ge;ìƒì²´ ì—ë„ˆì§€ ë°œì „;;;;;;;;;;;;;
+solar_energy_ge;íƒœì–‘ì—´ ë°œì „;;;;;;;;;;;;;
+geothermal_energy_ge;ì§€ì—´ ë°œì „;;;;;;;;;;;;;
+fusion_power_ge;í•µìœµí•© ë°œì „;;;;;;;;;;;;;
+stop_loan;ì°¨ê´€ ì¤‘ì§€;;;;;;;;;;;;;
+space_moon_develop;ë‹¬ íƒì‚¬ì„  ê°œë°œ;;;;;;;;;;;;;
+dzg_puppet;ë‹¨ì¹˜íˆ ê´´ë¢°êµ­;;;;;;;;;;;;;
+united_HND_PAK;ì¸ë„-íŒŒí‚¤ìŠ¤íƒ„ í†µí•©;;;;;;;;;;;;;
+far_dominion;í˜ë¡œ ìì¹˜;;;;;;;;;;;;;
+decolonise_yes;íƒˆì‹ë¯¼í™” ìˆ˜ìš©;;;;;;;;;;;;;
+return_to_free_meetings;ììœ  ì§‘íšŒë¡œì˜ íšŒê·€;;;;;;;;;;;;;
+return_to_limited_meetings;ì œí•œì  ì§‘íšŒë¡œì˜ íšŒê·€;;;;;;;;;;;;;
+return_to_responsible_publishing;ì±…ì„ ì–¸ë¡ ìœ¼ë¡œì˜ íšŒê·€;;;;;;;;;;;;;
+return_to_unregulated_publishing;ì–¸ë¡  ê·œì œ ì² íë¡œì˜ íšŒê·€;;;;;;;;;;;;;
+return_to_firewall_publishing;ì¶œíŒë¬¼ ê²€ì—´ë¡œì˜ íšŒê·€;;;;;;;;;;;;;
+germania;ê²Œë¥´ë§ˆë‹ˆì•„;;;;;;;;;;;;;
+vtshigh;ì¡°ê³µ ë§ìŒ;;;;;;;;;;;;;
+vtslow;ì¡°ê³µ ë‚®ìŒ;;;;;;;;;;;;;
+vtsmedium;ì¡°ê³µ ì¤‘ê°„;;;;;;;;;;;;;
+tito_uprising_successful;í‹°í†  ë´‰ê¸° ì„±ê³µ;;;;;;;;;;;;;
+tito_dead_flag;í‹°í†  ì‚¬ë§;;;;;;;;;;;;;
+tito_stalin_split;í‹°í† -ìŠ¤íƒˆë¦° ë¶ˆí™”;;;;;;;;;;;;;
+military_intervention_aginst_tito;ë°˜í‹°í† ì  êµ°ì‚¬ ê°œì…;;;;;;;;;;;;;
+macedonia_independence;ë§ˆì¼€ë„ë‹ˆì•„ ë…ë¦½;;;;;;;;;;;;;
+ten_day_war;ìŠ¬ë¡œë² ë‹ˆì•„ ë…ë¦½ì „ìŸ;;;;;;;;;;;;;
+bosnian_war_prelude;ë³´ìŠ¤ë‹ˆì•„ ì „ìŸì˜ ì„œê³¡;;;;;;;;;;;;;
+bosnian_war_prelude2;ë³´ìŠ¤ë‹ˆì•„ ì „ìŸì˜ ì„œê³¡ ì œ2ë§‰;;;;;;;;;;;;;
+operation_storm;í­í’ ì‘ì „;;;;;;;;;;;;;
+cores_returned;ì˜ìœ ê¶Œ ë³´ìœ  ì§€ì—­ ìˆ˜ë³µ;;;;;;;;;;;;;
+arab_spring;ì•„ëì˜ ë´„;;;;;;;;;;;;;
+yemeni_civil_war;ì˜ˆë©˜ ë‚´ì „;;;;;;;;;;;;;
+CHI_won_civil_war;ê³µì‚°ë‹¹ì˜ êµ­ê³µ ë‚´ì „ ìŠ¹ë¦¬;;;;;;;;;;;;;
+1956_vietnam_unification_election;1956ë…„ ë² íŠ¸ë‚¨ ì´ì„ ê±°;;;;;;;;;;;;;
+vietnamese_elections_rigged_by_DAI;ë¶ë² íŠ¸ë‚¨ì˜ ì´ì„ ê±° ì¡°ì‘;;;;;;;;;;;;;
+vietnamese_elections_rigged_by_SVI;ë‚¨ë² íŠ¸ë‚¨ì˜ ì´ì„ ê±° ì¡°ì‘;;;;;;;;;;;;;
+punto_fijo;í‘¼í† í”¼í˜¸ í˜‘ì •;;;;;;;;;;;;;
+marshall_plan_west_only;ì„œë°© ì „ìš© ë§ˆì…œ ê³„íš;;;;;;;;;;;;;
+marshall_plan_west_plus_two;ì²´ì½” í´ë€ë“œë¥¼ í¬í•¨í•œ ë§ˆì…œ ê³„íš;;;;;;;;;;;;;
+marshall_plan_for_all;ëª¨ë‘ë¥¼ ìœ„í•œ ë§ˆì…œ ê³„íš;;;;;;;;;;;;;
+elections_disabled;ì„ ê±° ì—†ìŒ;;;;;;;;;;;;;
+jfk_elected;ì¡´ F. ì¼€ë„¤ë”” ë‹¹ì„ ;;;;;;;;;;;;;
+lbj_elected;ë¦°ë“  B. ì¡´ìŠ¨ ë‹¹ì„ ;;;;;;;;;;;;;
+goldwater_elected;ê³¨ë“œì›Œí„° ë‹¹ì„ ;;;;;;;;;;;;;
+nixon_elected;ë‹‰ìŠ¨ ë‹¹ì„ ;;;;;;;;;;;;;
+mcgovern_elected;ë§¥ê±°ë²ˆ ë‹¹ì„ ;;;;;;;;;;;;;
+nixon_resigns;ë‹‰ìŠ¨ ì‚¬ì„;;;;;;;;;;;;;
+nixon_entrenched;ë‹‰ìŠ¨ ê²°ì‚¬ì˜¹ìœ„;;;;;;;;;;;;;
+reagan_elected;ë ˆì´ê±´ ë‹¹ì„ ;;;;;;;;;;;;;
+obama_presidency;ì˜¤ë°”ë§ˆ ëŒ€í†µë ¹;;;;;;;;;;;;;
+911;9.11;;;;;;;;;;;;;
+world_trade_center;ì„¸ê³„ë¬´ì—­ì„¼í„°;;;;;;;;;;;;;
+watergate_scandal_flag;ì›Œí„°ê²Œì´íŠ¸ ì‚¬ê±´;;;;;;;;;;;;;
+event_fired_8011024;'íŒŒí‚¤ìŠ¤íƒ„ì˜ ë°©ìœ„í˜‘ì • ìˆ˜ë½' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+george_vi_funeral;ì¡°ì§€ 6ì„¸ ì¥ë¡€ì‹;;;;;;;;;;;;;
+united_balkans;í†µì¼ ë°œì¹¸;;;;;;;;;;;;;
+end_of_uar;ì•„ë ì—°í•©ê³µí™”êµ­ í•´ì²´;;;;;;;;;;;;;
+reject_uar;ì•„ë ì—°í•©ê³µí™”êµ­ ê±°ë¶€;;;;;;;;;;;;;
+euromaidan_UKR;ì¹œìœ ëŸ½ ì„±í–¥ ìš°í¬ë¼ì´ë‚˜ì¸;;;;;;;;;;;;;
+former_colonial_nation;ê³¼ê±° ì‹ë¯¼ì§€;;;;;;;;;;;;;
+full_independance;ì™„ì „í•œ ë…ë¦½;;;;;;;;;;;;;
+event_fired_8015107;'í‹°ë² íŠ¸ í•­ë³µ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+KMT_won_civil_war;êµ­ë¯¼ë‹¹ì˜ êµ­ê³µ ë‚´ì „ ìŠ¹ë¦¬;;;;;;;;;;;;;
+xef_zan_union;ë™ì•„í”„ë¦¬ì¹´-ì”ì§€ë°”ë¥´ ì—°í•©;;;;;;;;;;;;;
+syrian_civil_war;ì‹œë¦¬ì•„ ë‚´ì „;;;;;;;;;;;;;
+claim_the_suez;ìˆ˜ì—ì¦ˆ ì˜ìœ ê¶Œ ì£¼ì¥;;;;;;;;;;;;;
+operation_kadesh;ì¹´ë°ì‹œ ì‘ì „;;;;;;;;;;;;;
+claim_the_sudan;ìˆ˜ë‹¨ ì˜ìœ ê¶Œ ì£¼ì¥;;;;;;;;;;;;;
+juan_carlos;í›„ì•ˆ ì¹´ë¥¼ë¡œìŠ¤;;;;;;;;;;;;;
+USA_rocket_engineers;ë¯¸êµ­ ë¡œì¼“ ê³µí•™ì;;;;;;;;;;;;;
+SOV_rocket_engineers;ì†Œë ¨ ë¡œì¼“ ê³µí•™ì;;;;;;;;;;;;;
+RUS_satellite_first;ëŸ¬ì‹œì•„ì˜ ì²« ì¸ê³µìœ„ì„±;;;;;;;;;;;;;
+RUS_space_man_first;ëŸ¬ì‹œì•„ì˜ ì²« ìš°ì£¼ì¸;;;;;;;;;;;;;
+space_moon;ë‹¬ íƒì‚¬ì„ ;;;;;;;;;;;;;
+RUS_space_moon_first;ëŸ¬ì‹œì•„ì˜ ì²« ë‹¬ íƒì‚¬ì„ ;;;;;;;;;;;;;
+self_immolation;ë¶„ì‹ ;;;;;;;;;;;;;
+unban_the_anc;ì•„í”„ë¦¬ì¹´ ë¯¼ì¡±íšŒì˜ í•´ì‚° ì·¨ì†Œ;;;;;;;;;;;;;
+force_trigger_saf;ì•„íŒŒë¥´íŠ¸í—¤ì´íŠ¸;;;;;;;;;;;;;
+CHI_leadership_struggle;ì¤‘êµ­êµ° ì§€ë„ë¶€ì˜ ê³ êµ°ë¶„íˆ¬;;;;;;;;;;;;;
+CHC_won_civil_war;ê³µì‚°ë‹¹ì˜ êµ­ê³µ ë‚´ì „ ìŠ¹ë¦¬;;;;;;;;;;;;;
+kuril_islands_dispute;ì¿ ë¦´ì—´ë„ ë¶„ìŸ;;;;;;;;;;;;;
+chechen_war_no;ì²´ì²¸ ì „ìŸ ë°˜ëŒ€;;;;;;;;;;;;;
+oligarchs;ê³¼ë‘ì¬ë²Œ;;;;;;;;;;;;;
+oligarchs_constrained;ê³¼ë‘ì¬ë²Œ ê·œì œ;;;;;;;;;;;;;
+nikita_khrushchev;ë‹ˆí‚¤íƒ€ íë£¨ì‡¼í”„;;;;;;;;;;;;;
+breakup_of_ussr;ì†Œë ¨ ë¶•ê´´;;;;;;;;;;;;;
+event_fired_8014254;'ë² ë¦¬ì•¼ì˜ ì†Œë ¨' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8014258;'ë² ë¦¬ì•¼ì˜ ì œì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8014259;'ë² ë¦¬ì•¼ì˜ ì œì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8014260;'ë² ë¦¬ì•¼ì˜ ì œì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8014257;'ë² ë¦¬ì•¼ì˜ ì œì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8014262;'ì„œêµ¬ì˜ ê²½ì œì›ì¡°' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+de_stalinization;íƒˆìŠ¤íƒˆë¦°í™”;;;;;;;;;;;;;
+event_fired_8014222;'ê°ì‹œìš© U-2 ì¶œê²©' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+sino_soviet_split;ì¤‘ì†Œê²°ë ¬;;;;;;;;;;;;;
+leonid_brezhnev;ë ˆì˜¤ë‹ˆíŠ¸ ë¸Œë ˆì£¼ë„¤í”„;;;;;;;;;;;;;
+yuri_andropov;ìœ ë¦¬ ì•ˆë“œë¡œí¬í”„;;;;;;;;;;;;;
+konstantin_chernenko;ì½˜ìŠ¤íƒ„í‹´ ì²´ë¥´ë„¨ì½”;;;;;;;;;;;;;
+mikhail_gorbachev;ë¯¸í•˜ì¼ ê³ ë¥´ë°”ì´ˆí”„;;;;;;;;;;;;;
+begin_reforms_of_ussr;ì†Œë ¨ ê°œí˜ ì‹œì‘;;;;;;;;;;;;;
+democratisation_intention;ë¯¼ì£¼í™” ì˜ë„;;;;;;;;;;;;;
+perestroika_intention;í˜ë ˆìŠ¤íŠ¸ë¡œì´ì¹´ ì˜ë„;;;;;;;;;;;;;
+glasnost_intention;ê¸€ë¼ìŠ¤ë…¸ìŠ¤íŠ¸ ì˜ë„;;;;;;;;;;;;;
+autumn_of_nations;êµ­ê°€ì˜ ê°€ì„;;;;;;;;;;;;;
+august_coup;8ì›” ì •ë³€;;;;;;;;;;;;;
+perestroika;í˜ë ˆìŠ¤íŠ¸ë¡œì´ì¹´;;;;;;;;;;;;;
+eussr;ìœ ë¼ì‹œì•„ ì—°í•©;;;;;;;;;;;;;
+cold_warusa;ë¯¸êµ­ì˜ ëƒ‰ì „ ìŠ¹ë¦¬;;;;;;;;;;;;;
+putin_path;í‘¸í‹´ì˜ ê¸¸;;;;;;;;;;;;;
+vrancea_earthquake;ë¸Œë€ì²´ì•„ ì§€ì§„;;;;;;;;;;;;;
+prague_spring;í”„ë¼í•˜ì˜ ë´„;;;;;;;;;;;;;
+carnation_revolution;ì¹´ë„¤ì´ì…˜ í˜ëª…;;;;;;;;;;;;;
+demographic_init;ì¸êµ¬í•™ì  ì²œì´ ê°œì‹œ;;;;;;;;;;;;;
+paramilitaries_outlawed;ì¤€êµ°ì‚¬ì¡°ì§ ë¶ˆë²•;;;;;;;;;;;;;
+wants_to_unify;ë‹¨ê²° ì—¼ì›;;;;;;;;;;;;;
+does_not_want_to_unify;ë‹¨ê²° ì—¼ì›í•˜ì§€ ì•ŠìŒ;;;;;;;;;;;;;
+rebels_in_capital;ìˆ˜ë„ì˜ ë°˜êµ°;;;;;;;;;;;;;
+former_sphere_leader;ê³¼ê±° ì˜í–¥ê¶Œ ë§¹ì£¼;;;;;;;;;;;;;
+former_overlord;ê³¼ê±° ì¢…ì£¼êµ­;;;;;;;;;;;;;
+soi_demand_install;ì˜í–¥ê¶Œì˜ ì²´ì œ ìˆ˜ë¦½ ìš”êµ¬;;;;;;;;;;;;;
+liberal_revolution_fired;ììœ í˜ëª… ë°œë°œ;;;;;;;;;;;;;
+liberal_revolution_in_progress;ììœ  í˜ëª… ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+had_liberal_revolution;ììœ  í˜ëª… ì¢…ë£Œ;;;;;;;;;;;;;
+called_for_help;ë„ì›€ ìš”ì²­;;;;;;;;;;;;;
+post_colonial_country;ì‹ë¯¼ì§€ì‹œëŒ€ ì´í›„ êµ­ê°€;;;;;;;;;;;;;
+unregulated_publishing_noway;ê²°ì½” ì¶œíŒ ê·œì œ íì§€ ì•ŠìŒ;;;;;;;;;;;;;
+unregulated_publishing_promised;ì¶œíŒ ê·œì œ íì§€ ì•½ì†;;;;;;;;;;;;;
+dead_code;ë¶ˆí•„ìš”í•œ ì½”ë“œ;;;;;;;;;;;;;
+liberal_revolution_somewhere;ì–´ë””ì„ ê°€ ììœ í˜ëª… ë°œë°œ;;;;;;;;;;;;;
+liberal_revolutions_should_now_fire;ììœ í˜ëª…ì€ ë°˜ë“œì‹œ ì¼ì–´ë‚  ê²ƒì´ë‹¤;;;;;;;;;;;;;
+accept_differances_in_gov_by_democracy;ë¯¼ì£¼ì£¼ì˜ ì²´ì œì˜ ì²´ì œ ì°¨ì´ ìˆ˜ìš©;;;;;;;;;;;;;
+accept_differances_in_gov_by_communist;ê³µì‚°ì£¼ì˜ ì²´ì œì˜ ì²´ì œ ì°¨ì´ ìˆ˜ìš©;;;;;;;;;;;;;
+accept_differances_in_gov_by_authoritarian_regime;ê¶Œìœ„ì£¼ì˜ ì²´ì œì˜ ì²´ì œ ì°¨ì´ ìˆ˜ìš©;;;;;;;;;;;;;
+botanical_expedition_in_progress;ì‹ë¬¼ íƒí—˜ ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+participates_in_botanical_expedition;ì‹ë¬¼ íƒí—˜ ì°¸ê°€êµ­;;;;;;;;;;;;;
+botanical_expedition_threatened;ì‹ë¬¼ íƒí—˜ ìœ„í—™;;;;;;;;;;;;;
+victoria_regina_found;ë¹…í† ë¦¬ì•„ ì—¬ì™• íŒŒìš´ë“œ;;;;;;;;;;;;;
+victoria_regina;ë¹…í† ë¦¬ì•„ ì—¬ì™•;;;;;;;;;;;;;
+great_wars_enabled;ì„¸ê³„ëŒ€ì „ í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+NWO_v1_06;ëƒ‰ì „ëª¨ë“œ 1.06ë²„ì „;;;;;;;;;;;;;
+doctrineschool;êµë¦¬í•™íŒŒ;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,
+unclos_1;ì œ1ì°¨ êµ­ì œì—°í•© í•´ì–‘ë²•í˜‘ì•½;;;;;;;;;;;;;
+unclos_3;ì œ3ì°¨ êµ­ì œì—°í•© í•´ì–‘ë²•í˜‘ì•½;;;;;;;;;;;;;
+claim_12;12í•´ë¦¬ ì£¼ì¥;;;;;;;;;;;;;
+claim_24;24í•´ë¦¬ ì£¼ì¥;;;;;;;;;;;;;
+claim_200;200í•´ë¦¬ ì£¼ì¥;;;;;;;;;;;;;
+special_imf_dr;êµ­ì œí†µí™”ê¸°ê¸ˆ íŠ¹ë³„ì¸ì¶œê¶Œ;;;;;;;;;;;;;
+gatt_member;ê´€ì„¸ ë° ë¬´ì—­ì— ê´€í•œ ì¼ë°˜ í˜‘ì • ì¡°ì¸êµ­;;;;;;;;;;;;;
+tory_election_win;ì¤‘ë„ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+socialist_election_win;ì‚¬íšŒì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+liberal_election_win;ììœ ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+communist_election_win;ê³µì‚°ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+fascist_election_win;íŒŒì‡¼ ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+reactionary_election_win;ë°˜ë™ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+anarcho_liberal_election_win;ì•„ë‚˜ë¥´ì½”ìë³¸ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+social_liberal_election_win;ì‚¬íšŒììœ ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+friendly_democracy;ë¯¼ì£¼ì£¼ì˜ ì²´ì œ ìš°ë°©êµ­;;;;;;;;;;;;;
+traditionalist_election_win;ì „í†µì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+populist_election_win;ëŒ€ì¤‘ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+nationalist_election_win;ë¯¼ì¡±ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+progressive_election_win;ì§„ë³´ì£¼ì˜ì ì„ ê±° ìŠ¹ë¦¬;;;;;;;;;;;;;
+friendly_authoritarian_regime;ê¶Œìœ„ì£¼ì˜ ì²´ì œ ìš°ë°©êµ­;;;;;;;;;;;;;
+was_commi;ê³µì‚°êµ­ê°€;;;;;;;;;;;;;
+desecularized;íƒˆì„¸ì†í™”;;;;;;;;;;;;;
+muslim;ë¬´ìŠ¬ë¦¼;;;;;;;;;;;;;
+polish_martial_law;í´ë€ë“œ ê³„ì—„ë ¹;;;;;;;;;;;;;
+event_fired_8023232;'í¬ì¦ˆë‚œ ì‹œìœ„' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+poland_west_littlegains;í´ë€ë“œ ì„œë¶€ ë¯¸ìˆ˜ë³µ;;;;;;;;;;;;;
+event_fired_8222000;'ë°”ë¥´ìƒ¤ë°” ë´‰ê¸°' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222001;'ë°”ë¥´ìƒ¤ë°” ë´‰ê¸°' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222002;'ë°”ë¥´ìƒ¤ë°” ë´‰ê¸°ì— ëŒ€í•œ ì—°í•©êµ°ì˜ ë„ì›€' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222003;'ì—°í•©êµ­ì˜ ì§€ì› ë¬¼ì ìˆ˜ì†¡' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222004;'ë°”ë¥´ìƒ¤ë°” ë´‰ê¸° ì§€ì›' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222005;'ì†Œë ¨ì˜ ë°”ë¥´ìƒ¤ë°” ë´‰ê¸° í›„ì›' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222006;'ë°”ë¥´ìƒ¤ë°” ë´‰ê¸° ì‹¤íŒ¨' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8222007;'ë°”ë¥´ìƒ¤ë°” ë´‰ê¸° ì„±ê³µ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+time_of_peace;í‰ì‹œ;;;;;;;;;;;;;
+war_time;ì „ì‹œ;;;;;;;;;;;;;
+olympic_bid;ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì •;;;;;;;;;;;;;
+olympic_bid_10000;ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì • - 10000ë‹¬ëŸ¬;;;;;;;;;;;;;
+olympic_bid_20000;ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì • - 20000ë‹¬ëŸ¬;;;;;;;;;;;;;
+olympic_bid_100000;ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì • - 100000ë‹¬ëŸ¬;;;;;;;;;;;;;
+winter_olympics_bid;ë™ê³„ ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì •;;;;;;;;;;;;;
+winter_olympic_bid_10000;ë™ê³„ ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì • - 10000ë‹¬ëŸ¬;;;;;;;;;;;;;
+winter_olympic_bid_20000;ë™ê³„ ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì • - 20000ë‹¬ëŸ¬;;;;;;;;;;;;;
+winter_olympic_bid_100000;ë™ê³„ ì˜¬ë¦¼í”½ ê°œìµœì§€ ì„ ì • - 100000ë‹¬ëŸ¬;;;;;;;;;;;;;
+arranged_olympics_games;ì˜¬ë¦¼í”½ ì¤€ë¹„;;;;;;;;;;;;;
+arranged_winter_olympics_games;ë™ê³„ ì˜¬ë¦¼í”½ ì¤€ë¹„;;;;;;;;;;;;;
+provisional_peoples_committee;ì„ì‹œì¸ë¯¼ìœ„ì›íšŒ;;;;;;;;;;;;;
+korea_trusteeship;ì¡°ì„  ì‹ íƒí†µì¹˜;;;;;;;;;;;;;
+keep_austria;ì˜¤ìŠ¤íŠ¸ë¦¬ì•„ ì ë ¹ ìœ ì§€;;;;;;;;;;;;;
+communist_austria_flag;ê³µì‚° ì˜¤ìŠ¤íŠ¸ë¦¬ì•„;;;;;;;;;;;;;
+communist_austria;ê³µì‚° ì˜¤ìŠ¤íŠ¸ë¦¬ì•„;;;;;;;;;;;;;
+renounced_war_rights;ì „ìŸ ìˆ˜í–‰ ê¶Œë¦¬ í¬ê¸°;;;;;;;;;;;;;
+islamist_revolution_in_progress;ì´ìŠ¬ëŒì£¼ì˜ í˜ëª… ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+event_fired_8010410;'ì‚°ë””ë‹ˆìŠ¤íƒ€ ìš´ë™' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+bougainville_conflict;ë¶€ê²ë¹Œ ê°ˆë“±;;;;;;;;;;;;;
+bougainville_conflict_escalates;ë¶€ê²ë¹Œ ê°ˆë“± ì¦í­;;;;;;;;;;;;;
+sandline_mercs;ìƒŒë“œë¼ì¸ í•™ì‚´;;;;;;;;;;;;;
+bougainville_2001;2001ë…„ ë¶€ê²ë¹Œ í‰í™”í˜‘ì •;;;;;;;;;;;;;
+bougainville_independence;ë¶€ê²ë¹Œ ë…ë¦½;;;;;;;;;;;;;
+dutch_monarch;ë„¤ëœë€ë“œ êµ°ì£¼;;;;;;;;;;;;;
+event_fired_8009509;'ë©•ì‹œì½”ì˜ ê²½ì œê¸°ì ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+capital_flag;ìˆ˜ë„;;;;;;;;;;;;;
+luxembourgish_monarch;ë£©ì…ˆë¶€ë¥´í¬ êµ°ì£¼;;;;;;;;;;;;;
+king_idris_of_libya;ì´ë“œë¦¬ìŠ¤ ë¦¬ë¹„ì•„ êµ­ì™•;;;;;;;;;;;;;
+korea_war;6.25 ì „ìŸ;;;;;;;;;;;;;
+korea_war_second_phase;6.25 ì „ìŸ ì œ2êµ­ë©´;;;;;;;;;;;;;
+korean_war_armistice;6.25 ì „ìŸ íœ´ì „;;;;;;;;;;;;;
+fourth_republic;ì œ4ê³µí™”êµ­;;;;;;;;;;;;;
+american_japanese_treaty_flag;ë¯¸ì¼ í‰í™”ì¡°ì•½;;;;;;;;;;;;;
+moderate_ICP;ì˜¨ê±´ì ì¸ ì´íƒˆë¦¬ì•„ ê³µì‚°ë‹¹;;;;;;;;;;;;;
+radical_ICP;ê¸‰ì§„ì ì¸ ì´íƒˆë¦¬ì•„ ê³µì‚°ë‹¹;;;;;;;;;;;;;
+very_moderate_ICP;ë§¤ìš° ì˜¨ê±´ì ì¸ ì´íƒˆë¦¬ì•„ ê³µì‚°ë‹¹;;;;;;;;;;;;;
+very_radical_ICP;ë§¤ìš° ê¸‰ì§„ì ì¸ ì´íƒˆë¦¬ì•„ ê³µì‚°ë‹¹;;;;;;;;;;;;;
+promised_post_war_pensions;ì „í›„ ì—°ê¸ˆ ì•½ì†;;;;;;;;;;;;;
+dissolve_the_palestine_mandate;íŒ”ë ˆìŠ¤íƒ€ì¸ ìœ„ì„í†µì¹˜ë ¹ í•´ì²´;;;;;;;;;;;;;
+support_zionism;ì‹œì˜¨ì£¼ì˜ ì§€ì›;;;;;;;;;;;;;
+zionist_defeat;ì‹œì˜¨ì£¼ì˜ íŒ¨ë°°;;;;;;;;;;;;;
+yom_kippur_war;ìš¤í‚¤í‘¸ë¥´ ì „ìŸ;;;;;;;;;;;;;
+refused_camp_david;ìº í”„ ë°ì´ë¹„ë“œ í˜‘ì • ê±°ë¶€;;;;;;;;;;;;;
+islamist_revolution_fired;ì´ìŠ¬ëŒì£¼ì˜ í˜ëª… ë°œë°œ;;;;;;;;;;;;;
+had_islamist_revolution;ì´ìŠ¬ëŒì£¼ì˜ í˜ëª… ì¢…ë£Œ;;;;;;;;;;;;;
+islamist_revolutions_should_now_fire;ì´ìŠ¬ëŒì£¼ì˜ í˜ëª…ì€ ë°˜ë“œì‹œ ì¼ì–´ë‚  ê²ƒì´ë‹¤;;;;;;;;;;;;;
+islamist_revolution_somewhere;ì–´ë””ì„ ê°€ ì´ìŠ¬ëŒì£¼ì˜ í˜ëª… ë°œë°œ;;;;;;;;;;;;;
+ira_is_interned;ì•„ì¼ëœë“œ ê³µí™”êµ­êµ° ì–µë¥˜;;;;;;;;;;;;;
+ira_is_ignored;ì•„ì¼ëœë“œ ê³µí™”êµ­êµ° ë¬´ì‹œ;;;;;;;;;;;;;
+ira_is_supported;ì•„ì¼ëœë“œ ê³µí™”êµ­êµ° ì§€ì›;;;;;;;;;;;;;
+1990_gulf_war_fired_flag;ê±¸í”„ ì „ìŸ ë°œë°œ;;;;;;;;;;;;;
+1990_gulf_war_kuw_annexed;ê±¸í”„ ì „ìŸê³¼ ì¿ ì›¨ì´íŠ¸ í•©ë³‘;;;;;;;;;;;;;
+iraq_war;ì´ë¼í¬ ì „ìŸ;;;;;;;;;;;;;
+iraqi_insurgency_2011_2014;2011-14ë…„ ì´ë¼í¬ ë°˜ë€;;;;;;;;;;;;;
+iraqi_civil_war;ì´ë¼í¬ ë‚´ì „;;;;;;;;;;;;;
+the_future_of_iraq;ì´ë¼í¬ì˜ ë¯¸ë˜;;;;;;;;;;;;;
+mohammed_mossadegh_in_power;ë¬´í•¨ë§ˆë“œ ëª¨ì‚¬ë°í¬ ì§‘ê¶Œ ì¤‘;;;;;;;;;;;;;
+event_fired_8501001;'ì˜êµ­-ì´ë€ ì„ìœ íšŒì‚¬ êµ­ìœ í™”' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+abadan_crisis;ì•„ë°”ë‹¨ ìœ„ê¸°;;;;;;;;;;;;;
+event_fired_8501003;'ì•„ë°”ë‹¨ ìœ„ê¸°ì— ëŒ€í•œ ì˜êµ­ì˜ ë°˜ì‘' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+seek_soviet_help;ì†Œë ¨ì˜ ì›ì¡° ëª¨ìƒ‰;;;;;;;;;;;;;
+operation_ajax;ì—ì´ì ìŠ¤ ì‘ì „;;;;;;;;;;;;;
+event_fired_8501004;'êµ­ì œì  ì§€ì› ë¬¼ìƒ‰' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8501006;'ì†Œë ¨ì˜ ì•„ë°”ë‹¨ ìœ„ê¸° ê°œì…' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+ussr_supports_iran_1953;1953ë…„ ì†Œë ¨ì˜ ì´ë€ ì›ì¡°;;;;;;;;;;;;;
+event_fired_8011403;'ì •ë¶€ ë³€ë™' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+white_revolution_started;ë°±ìƒ‰ í˜ëª… ì‹œì‘;;;;;;;;;;;;;
+unkingset;ì´ˆê°•ëŒ€êµ­ ì§€ìœ„;;;;;;;;;;;;;
+ultimatum_delivered;ìµœí›„í†µì²© ì „ì†¡;;;;;;;;;;;;;
+ultimatum_refused;ìµœí›„í†µì²© ê±°ë¶€;;;;;;;;;;;;;
+ultimatum_accepted;ìµœí›„í†µì²© ìˆ˜ìš©;;;;;;;;;;;;;
+coalition_member;ë°˜êµ­ê°€ì—°í•© ì¼ì›;;;;;;;;;;;;;
+princely_states;ì¸ë„ ë²ˆêµ­;;;;;;;;;;;;;
+por_hnd_colonies;í¬ë¥´íˆ¬ê°ˆë ¹ ì¸ë„ ì‹ë¯¼ì§€;;;;;;;;;;;;;
+second_kashmir_war_all;ì œ2ì°¨ ì¹´ìŠˆë¯¸ë¥´ ì „ìŸ;;;;;;;;;;;;;
+second_kashmir_war_girgit;ì œ2ì°¨ ì¹´ìŠˆë¯¸ë¥´ ì „ìŸ ë³€ì ˆì;;;;;;;;;;;;;
+naxalite_insurgency;ë‚™ì‚´ë¼ì´íŠ¸ ë°˜ë€;;;;;;;;;;;;;
+USA_pressure_the_dutch_on_indonesia;ë¯¸êµ­ì˜ ì¸ë„ë„¤ì‹œì•„ ë…ë¦½ ì••ë°•;;;;;;;;;;;;;
+linggadjati_agreement;ë§ê°€ìí‹° í˜‘ì •;;;;;;;;;;;;;
+renville_agreement;ë Œë¹Œ í˜‘ì •;;;;;;;;;;;;;
+rusi_agreement;ë£¨ì‹œ í˜‘ì •;;;;;;;;;;;;;
+federated_indonesia;ì¸ë„ë„¤ì‹œì•„ í•©ì¤‘êµ­;;;;;;;;;;;;;
+princely_state_stay_independent;ì¸ë„ ë²ˆêµ­ ë…ë¦½ ìœ ì§€;;;;;;;;;;;;;
+hungarian_revolution_1956;1956ë…„ í—ê°€ë¦¬ í˜ëª…;;;;;;;;;;;;;
+event_fired_8510802;'í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ êµ­ì œì—°í•© ê²°ì˜ì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8510803;'í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ êµ­ì œì—°í•© ê²°ì˜ì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8510804;'í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ êµ­ì œì—°í•© ê²°ì˜ì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8510805;'í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ êµ­ì œì—°í•© ê²°ì˜ì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8510806;'í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ êµ­ì œì—°í•© ê²°ì˜ì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8510808;'í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ êµ­ì œì—°í•© ê²°ì˜ì•ˆ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+not_participating_UNSC;êµ­ì œì—°í•© ì•ˆì „ë³´ì¥ì´ì‚¬íšŒ ë¹„ì°¸ì—¬êµ­;;;;;;;;;;;;;
+un_hungary_totalveto;êµ­ì œì—°í•©ì˜ í—ê°€ë¦¬ í˜ëª…ì— ê´€í•œ ê²°ì˜ì•ˆ ê±°ë¶€;;;;;;;;;;;;;
+blz_indy_enable;ë²¨ë¦¬ì¦ˆ ë…ë¦½ ê°€ëŠ¥;;;;;;;;;;;;;
+dismantle_declared;í•´ì²´ ì„ ì–¸;;;;;;;;;;;;;
+in_great_war;ì„¸ê³„ëŒ€ì „ ì¤‘;;;;;;;;;;;;;
+enemy_of_my_enemy;ì ì˜ ì ;;;;;;;;;;;;;
+calling_all_allies;ë™ë§¹ ì „ì²´ ì†Œì§‘;;;;;;;;;;;;;
+total_collapse;ì´ì²´ì  ë¶•ê´´;;;;;;;;;;;;;
+dismantling_treaty;í•´ì²´ ì¡°ì•½;;;;;;;;;;;;;
+will_not_surrender;ë¶ˆêµ´ì˜ ì˜ì§€;;;;;;;;;;;;;
+czechoslovakia_formed;ì²´ì½”ìŠ¬ë¡œë°”í‚¤ì•„ ê²°ì„±;;;;;;;;;;;;;
+not_want_colonies;ì‹ë¯¼ì§€ë¥¼ ì›í•˜ì§€ ì•ŠìŒ;;;;;;;;;;;;;
+newly_released_nation;ì‹ ìƒ í•´ë°©êµ­;;;;;;;;;;;;;
+end_of_monarchy;êµ°ì£¼ì • íì§€;;;;;;;;;;;;;
+event_fired_8004526;'ë™ë°©ì •ì±…' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+reject_oder_neisse;ì˜¤ë°ë¥´-ë‚˜ì´ì„¸ì„  ê±°ë¶€;;;;;;;;;;;;;
+berlin_wall;ë² ë¥¼ë¦° ì¥ë²½;;;;;;;;;;;;;
+treaty_of_zgorzelec;ì¦ˆê³ ì ¤ë ˆì¸  ì¡°ì•½;;;;;;;;;;;;;
+event_fired_8004318;'ë² ë¥¼ë¦° ë¶„ë‹¨' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+Wilhelm_III;ë¹Œí—¬ë¦„ 3ì„¸;;;;;;;;;;;;;
+event_fired_8231000;'ë…ì¼ ë‚œë¯¼ ìˆ˜ìš©' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8231001;'ë…ì¼ ë‚œë¯¼ ìˆ˜ìš©' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+event_fired_8231004;'ë…ì¼ ë‚œë¯¼ ìˆ˜ìš©' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+expulsion_of_germans;ë…ì¼ì¸ ì¶•ì¶œ;;;;;;;;;;;;;
+endoffra;í”„ë‘ìŠ¤ ì‹ë¯¼ì œêµ­ í•´ì²´;;;;;;;;;;;;;
+fifth_republic;ì œ5ê³µí™”êµ­;;;;;;;;;;;;;
+disabled_for_now_1;í˜„ì¬ ë¹„í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+fra_hnd_colonies;í”„ë‘ìŠ¤ë ¹ ì¸ë„ ì‹ë¯¼ì§€;;;;;;;;;;;;;
+matignon_agreements;ë§ˆí‹°ë‡½ í˜‘ì •;;;;;;;;;;;;;
+noumea_accords;ëˆ„ë©”ì•„ ì¡°ì•½;;;;;;;;;;;;;
+ww3;ì œ3ì°¨ ì„¸ê³„ëŒ€ì „;;;;;;;;;;;;;
+un_falkland_intervention;êµ­ì œì—°í•© í¬í´ëœë“œ ê°œì…;;;;;;;;;;;;;
+un_falkland_interventionveto;êµ­ì œì—°í•© í¬í´ëœë“œ ê°œì… ê±°ë¶€;;;;;;;;;;;;;
+un_falkland_totalveto;êµ­ì œì—°í•© í¬í´ëœë“œ ê±°ë¶€;;;;;;;;;;;;;
+schuman_declaration;ìŠˆë§Œ ì„ ì–¸;;;;;;;;;;;;;
+trade_block_ambition;ë¬´ì—­ë¸”ë¡ ì•¼ë§;;;;;;;;;;;;;
+european_coal_and_steel_community;ìœ ëŸ½ ì„íƒ„ì² ê°•ê³µë™ì²´;;;;;;;;;;;;;
+xeu_ambition;ìœ ëŸ½ ì—°í•©ì˜ ì•¼ë§;;;;;;;;;;;;;
+disabled_for_now;í˜„ì¬ ë¹„í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+derg;ì„ì‹œêµ°ì‚¬í–‰ì •ìœ„ì›íšŒ;;;;;;;;;;;;;
+hide_1973_famine;1973ë…„ ê¸°ê·¼ ì€í;;;;;;;;;;;;;
+alleviate_1973_famine;1973ë…„ ê¸°ê·¼ ì™„í™”;;;;;;;;;;;;;
+decolonise_yes;íƒˆì‹ë¯¼í™” ìˆ˜ìš©;;;;;;;;;;;;;
+namformed;ë¹„ë™ë§¹ìš´ë™ ì¡´ì¬;;;;;;;;;;;;;
+sectarianism;íŒŒë²Œì£¼ì˜;;;;;;;;;;;;;
+grant_independence;ê´‘ë³µ;;;;;;;;;;;;;
+colonial_peristance;ì‹ë¯¼ì§€ ìœ ì§€;;;;;;;;;;;;;
+great_war_mandate_un;êµ­ì œì—°í•© ìœ„ì„í†µì¹˜ë ¹;;;;;;;;;;;;;
+event_fired_8004615;'ì „ì›í•¨ ì‘ì „' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+dissolve_warsaw_pact;ë°”ë¥´ìƒ¤ë°” ì¡°ì•½ê¸°êµ¬ í•´ì²´;;;;;;;;;;;;;
+depuppetize_warsaw_pact;ë°”ë¥´ìƒ¤ë°” ì¡°ì•½ê¸°êµ¬ ê´´ë¢°ìƒíƒœ í•´ì†Œ;;;;;;;;;;;;;
+annexation_of_uk;ì˜êµ­ í•©ë³‘;;;;;;;;;;;;;
+isolation_of_uk;ì˜êµ­ ê³ ë¦½;;;;;;;;;;;;;
+dissolution_of_uk;ì˜êµ­ í•´ì²´;;;;;;;;;;;;;
+event_8370010;'ì—°í•©êµ­ íƒˆí‡´' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+indian_ocean_tsunami;ì¸ë„ì–‘ ì§€ì§„í•´ì¼;;;;;;;;;;;;;
+hurricane_mitch;íƒœí’ ë¯¸ì¹˜;;;;;;;;;;;;;
+end_the_spring;ë´„ì˜ ì¢…ë§;;;;;;;;;;;;;
+missiles_in_cuba;ì¿ ë°” ë¯¸ì‚¬ì¼ê¸°ì§€;;;;;;;;;;;;;
+american_nuclear_advantage;ë¯¸êµ­ì˜ í•µ ìš°ìœ„;;;;;;;;;;;;;
+castro_rebellion;ì¹´ìŠ¤íŠ¸ë¡œì˜ ë´‰ê¸°;;;;;;;;;;;;;
+joint_aid_receipt;ê³µë™ ì›ì¡° ìˆ˜ë ¹;;;;;;;;;;;;;
+congo_crisis;ì½©ê³  ìœ„ê¸°;;;;;;;;;;;;;
+communist_plebiscite;ê³µì‚°ë‹¹ êµ­ë¯¼íˆ¬í‘œ;;;;;;;;;;;;;
+market_communism;ì‹œì¥ì‚¬íšŒì£¼ì˜;;;;;;;;;;;;;
+reject_western_allies;ì„œêµ¬ ì—°í•©êµ­ ê±°ë¶€;;;;;;;;;;;;;
+alliance_nato;ë¶ëŒ€ì„œì–‘ ì¡°ì•½ê¸°êµ¬ ë™ë§¹;;;;;;;;;;;;;
+treaty_of_brussels;ë¸Œë¤¼ì…€ ì¡°ì•½;;;;;;;;;;;;;
+isolationist_usa;ê³ ë¦½ì£¼ì˜ ë¯¸êµ­;;;;;;;;;;;;;
+invitation_to_nato;ë¶ëŒ€ì„œì–‘ ì¡°ì•½ê¸°êµ¬ ì´ˆì²­;;;;;;;;;;;;;
+neutral_germany;ì¤‘ë¦½êµ­ ë…ì¼;;;;;;;;;;;;;
+form_nato;ë¶ëŒ€ì„œì–‘ ì¡°ì•½ê¸°êµ¬ ê²°ì„±;;;;;;;;;;;;;
+warsaw_pact_active;ë°”ë¥´ìƒ¤ë°” ì¡°ì•½ê¸°êµ¬ ì¡´ì¬;;;;;;;;;;;;;
+isolationist_ussr;ê³ ë¦½ì£¼ì˜ ì†Œë ¨;;;;;;;;;;;;;
+invitation_to_warsaw_pact;ë°”ë¥´ìƒ¤ë°” ì¡°ì•½ê¸°êµ¬ ì´ˆì²­;;;;;;;;;;;;;
+soviet_friendship;ì†Œë ¨ê³¼ì˜ ìš°í˜¸;;;;;;;;;;;;;
+recognized_government;ê³µì¸ë°›ì€ ì •ë¶€;;;;;;;;;;;;;
+economic_malaise;ê²½ì œ ë¬¸ì œ;;;;;;;;;;;;;
+prc;ì¤‘í™”ì¸ë¯¼ê³µí™”êµ­;;;;;;;;;;;;;
+us_politics_special;ë¯¸êµ­ì˜ íŠ¹ë³„í•œ ì •ì¹˜;;;;;;;;;;;;;
+namformformed;ë¹„ë™ë§¹ìš´ë™ ê²°ì„±;;;;;;;;;;;;;
+cold_warussr;ì†Œë ¨ì˜ ëƒ‰ì „ ìŠ¹ë¦¬;;;;;;;;;;;;;
+endofthecoldwar;ëƒ‰ì „ ì¢…ë£Œ;;;;;;;;;;;;;
+cold_war_winner;ëƒ‰ì „ ìŠ¹ì „êµ­;;;;;;;;;;;;;
+demohigh;ììœ ì§„ì˜ ì¤‘ì : ë¬´ì¥ ë†’ìŒ, ê²½ì œ ë‚®ìŒ;;;;;;;;;;;;;
+demomedium;ììœ ì§„ì˜ ì¤‘ì : ë¬´ì¥ ì¤‘ê°„, ê²½ì œ ì¤‘ê°„;;;;;;;;;;;;;
+demolow;ììœ ì§„ì˜ ì¤‘ì : ë¬´ì¥ ë‚®ìŒ, ê²½ì œ ë†’ìŒ;;;;;;;;;;;;;
+cold_warussr1;ì†Œë ¨ì˜ ëƒ‰ì „ ìŠ¹ë¦¬;;;;;;;;;;;;;
+disable_demo_event;ë¯¼ì£¼í™” ì‚¬ê±´ ë°œìƒ ë¹„í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+event_fired_8002626;'ë‹¨í’ì ê¹ƒë°œ' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+belgian_monarch;ë²¨ê¸°ì— êµ°ì£¼;;;;;;;;;;;;;
+1971_war_hnd_bng;1971ë…„ ì¸ë„-ë°©ê¸€ë¼ë°ì‹œ ì „ìŸ;;;;;;;;;;;;;
+arab_league;ì•„ë ì—°ë§¹;;;;;;;;;;;;;
+algerian_civil_war;ì•Œì œë¦¬ ë‚´ì „;;;;;;;;;;;;;
+afghani_coup_1973;1973ë…„ ì•„í”„ê°€ë‹ˆìŠ¤íƒ„ ì •ë³€;;;;;;;;;;;;;
+soviet_intervention_in_afghanistan;ì†Œë ¨ì˜ ì•„í”„ê°€ë‹ˆìŠ¤íƒ„ ì „ìŸ ê°œì…;;;;;;;;;;;;;
+trade_war_initiator;ë¬´ì—­ì „ìŸ ë°œë°œêµ­;;;;;;;;;;;;;
+trade_war;ë¬´ì—­ì „ìŸ;;;;;;;;;;;;;
+former_devolved_nation;ê³¼ê±° ê¶Œë ¥ì„ ìœ„ì„ë°›ì€ êµ­ê°€;;;;;;;;;;;;;
+unsc_non_permanent_on;êµ­ì œì—°í•© ì•ˆì „ë³´ì¥ì´ì‚¬íšŒ ë¹„ìƒì„ì´ì‚¬êµ­;;;;;;;;;;;;;
+unsc_non_permanent_member_selected;êµ­ì œì—°í•© ì•ˆì „ë³´ì¥ì´ì‚¬íšŒ ë¹„ìƒì„ì´ì‚¬êµ­ìœ¼ë¡œ ì„ ì •;;;;;;;;;;;;;
+legalitychecked1;ì „ìŸì˜ í•©ë²•ì„± í™•ì¸;;;;;;;;;;;;;
+uninterventioninwar;êµ­ì œì—°í•© ì „ìŸ ê°œì…;;;;;;;;;;;;;
+resolution_passed_unsc;êµ­ì œì—°í•© ì•ˆì „ë³´ì¥ì´ì‚¬íšŒ ê²°ì˜ì•ˆ ê°€ê²°;;;;;;;;;;;;;
+na;;;;;;;;;;;;;
+uninterventionactive;êµ­ì œì—°í•© ê°œì… í™œë™;;;;;;;;;;;;;
+un_trust_ongoing;êµ­ì œì—°í•© ì‹ íƒ ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+1963_un_terror_convention;1963ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1970_un_terror_convention;1970ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1971_un_terror_convention;1971ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1973_un_terror_convention;1973ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1979_un_terror_convention;1979ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1988_un_terror_convention;1988ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1991_un_terror_convention;1991ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1997_un_terror_convention;1997ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+1999_un_terror_convention;1999ë…„ ëŒ€í…ŒëŸ¬ êµ­ì œì—°í•© í˜‘ì•½;;;;;;;;;;;;;
+un_counter_terrorism_committee;êµ­ì œì—°í•© ëŒ€í…ŒëŸ¬ìœ„ì›íšŒ;;;;;;;;;;;;;
+salt_proposed;ì „ëµë¬´ê¸°ì œí•œí˜‘ì • ì œì•ˆ;;;;;;;;;;;;;
+inf_proposed;ì¤‘ê±°ë¦¬í•µì „ë ¥ì¡°ì•½ ì œì•ˆ;;;;;;;;;;;;;
+start_proposed;ì „ëµë¬´ê¸°ì œí•œíšŒë‹´ ì œì•ˆ;;;;;;;;;;;;;
+abm_proposed;íƒ„ë„íƒ„ìš”ê²©ë¯¸ì‚¬ì¼ì¡°ì•½ ì œì•ˆ;;;;;;;;;;;;;
+sdi_race_banned;ì „ëµë°©ìœ„ê³„íš ê²½ìŸ ê¸ˆì§€;;;;;;;;;;;;;
+sdi_developed;ì „ëµë°©ìœ„ê³„íš ìˆ˜ë¦½ ì™„ë£Œ;;;;;;;;;;;;;
+abm_school;íƒ„ë„íƒ„ìš”ê²©ë¯¸ì‚¬ì¼ êµìœ¡;;;;;;;;;;;;;
+sovietee;ì†Œë ¨í™”;;;;;;;;;;;;;
+conservative_surge;ë³´ìˆ˜ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+traditionalist_surge;ì „í†µì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+populist_surge;ëŒ€ì¤‘ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+socialist_surge;ì‚¬íšŒì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+big_tent_surge;ì¤‘ë„ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+liberal_surge;ììœ ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+progressive_surge;ì§„ë³´ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+nationalist_surge;ë¯¼ì¡±ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+communist_surge;ê³µì‚°ì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+communist_social_surge;ì‹œì¥ì‚¬íšŒì£¼ì˜ ì‡„ë„;;;;;;;;;;;;;
+split_gilbert_and_ellice_islands;ê¸¸ë²„íŠ¸ì—˜ë¦¬ìŠ¤ì œë„ ê°ˆë“±;;;;;;;;;;;;;
+solomon_islands_ethnic_violence;ì†”ë¡œëª¬ì œë„ ì¸ì¢…í­ë ¥;;;;;;;;;;;;;
+1948_olympics_done;1948ë…„ ì˜¬ë¦¼í”½ ì™„ë£Œ;;;;;;;;;;;;;
+olympics_ongoing;ì˜¬ë¦¼í”½ ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+1948_olympics_completed;1948ë…„ ì˜¬ë¦¼í”½ íë§‰;;;;;;;;;;;;;
+next_olympics_host_nation;ì°¨ê¸° ì˜¬ë¦¼í”½ ê°œìµœêµ­;;;;;;;;;;;;;
+olympics_dope_ban;ì˜¬ë¦¼í”½ ì•½ë¬¼ë³µìš© ê¸ˆì§€;;;;;;;;;;;;;
+1992_olympics_done;1992ë…„ ì˜¬ë¦¼í”½ ì™„ë£Œ;;;;;;;;;;;;;
+government_extends_peace_hand;ì •ë¶€ì˜ í‰í™” ìœ ì§€ ë…¸ë ¥;;;;;;;;;;;;;
+has_nuke_clouds;ë²„ì„¯êµ¬ë¦„ ì¡´ì¬;;;;;;;;;;;;;
+disease;ì—­ë³‘;;;;;;;;;;;;;
+nuked_before;í•µë¬´ê¸° ê³µìŠµ ì´ì „;;;;;;;;;;;;;
+atomic_bomb_developed;ì›ìí­íƒ„ ê°œë°œ ì™„ë£Œ;;;;;;;;;;;;;
+hydrogen_bomb_developed;ìˆ˜ì†Œí­íƒ„ ê°œë°œ ì™„ë£Œ;;;;;;;;;;;;;
+dissolving_parliament;ì˜íšŒ í•´ì‚°;;;;;;;;;;;;;
+propaganda_program;ì„ ì „ ê³„íš;;;;;;;;;;;;;
+world_wars_enabled;ì„¸ê³„ëŒ€ì „ í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+the_imf;êµ­ì œí†µí™”ê¸°ê¸ˆ;;;;;;;;;;;;;
+dev_bank;ì€í–‰ ê°œë°œ;;;;;;;;;;;;;
+world_bank;ì„¸ê³„ì€í–‰;;;;;;;;;;;;;
+comecon_decision_fired;ìƒí˜¸ê²½ì œì›ì¡°í˜‘ì˜íšŒ ê²°ì • ë°œë™;;;;;;;;;;;;;
+financial_crisis_2008;2008ë…„ ê¸ˆìœµìœ„ê¸°;;;;;;;;;;;;;
+2008_bailout_fired;2008ë…„ êµ¬ì œê¸ˆìœµ ë°œë°œ;;;;;;;;;;;;;
+in_trade_block;ë¬´ì—­ë¸”ë¡ ì•ˆ;;;;;;;;;;;;;
+world_low;ì„¸ê³„ ê¸´ì¥ë„ ë‚®ìŒ;;;;;;;;;;;;;
+world_medium;ì„¸ê³„ ê¸´ì¥ë„ ì¤‘ê°„;;;;;;;;;;;;;
+world_high;ì„¸ê³„ ê¸´ì¥ë„ ë†’ìŒ;;;;;;;;;;;;;
+meddled_in_foreign_affairs;í•´ì™¸ ì‚¬ê±´ ê°„ì„­;;;;;;;;;;;;;
+foreign_intervention;ì™¸ì„¸ ê°œì…;;;;;;;;;;;;;
+freedom_attempt_made;ììœ  ì‹œë„;;;;;;;;;;;;;
+eu_debt_crisis;ìœ ëŸ½ ì—°í•© ë¶€ì±„ ìœ„ê¸°;;;;;;;;;;;;;
+eu_debt_crisis_started;ìœ ëŸ½ ì—°í•© ë¶€ì±„ ìœ„ê¸° ë°œë°œ;;;;;;;;;;;;;
+sovietaidincuba;ì†Œë ¨ì˜ ì¿ ë°” ì§€ì›;;;;;;;;;;;;;
+notapplicable;ë¶€ì í•©;;;;;;;;;;;;;
+usabrettonwoods;ë¯¸êµ­ ë¸Œë ˆíŠ¼ìš°ë“œ;;;;;;;;;;;;;
+licenseraj;ê·œì œì™•êµ­;;;;;;;;;;;;;
+creditornation;ì±„ê¶Œêµ­;;;;;;;;;;;;;
+imf_chairmanship;êµ­ì œí†µí™”ê¸°ê¸ˆ ì˜ì¥êµ­;;;;;;;;;;;;;
+wto_chairmanship;ì„¸ê³„ë¬´ì—­ê¸°êµ¬ ì˜ì¥êµ­;;;;;;;;;;;;;
+ibrd_chairmanship;êµ­ì œë¶€í¥ê°œë°œì€í–‰ ì˜ì¥êµ­;;;;;;;;;;;;;
+imfusafirst;êµ­ì œí†µí™”ê¸°ê¸ˆ ë¯¸êµ­ ìš°ëŒ€;;;;;;;;;;;;;
+wtousafirst;ì„¸ê³„ë¬´ì—­ê¸°êµ¬ ë¯¸êµ­ ìš°ëŒ€;;;;;;;;;;;;;
+wto_created;ì„¸ê³„ë¬´ì—­ê¸°êµ¬ íƒ„ìƒ;;;;;;;;;;;;;
+ibrdusafirst;êµ­ì œë¶€í¥ê°œë°œì€í–‰ ë¯¸êµ­ ìš°ëŒ€;;;;;;;;;;;;;
+indiaoffice;ì¸ë„ ê´€ë£Œ;;;;;;;;;;;;;
+decoloniasation2;íƒˆì‹ë¯¼í™”;;;;;;;;;;;;;
+vietnamrename;ë² íŠ¸ë‚¨ êµ­ëª… ë³€ê²½;;;;;;;;;;;;;
+endofsarstatus;íŠ¹ë³„í–‰ì •êµ¬ ì§€ìœ„ ì†Œë©¸;;;;;;;;;;;;;
+endofsarstatus1;íŠ¹ë³„í–‰ì •êµ¬ ì§€ìœ„ ì†Œë©¸;;;;;;;;;;;;;
+endofsarstatus2;íŠ¹ë³„í–‰ì •êµ¬ ì§€ìœ„ ì†Œë©¸;;;;;;;;;;;;;
+impcapital;êµ­ì œí†µí™”ê¸°ê¸ˆ ë³¸ë¶€ ì†Œì¬ì§€;;;;;;;;;;;;;
+deng_xiaoping_selected;ë©ìƒ¤ì˜¤í•‘ ì„ íƒ;;;;;;;;;;;;;
+industrious_nation;ê·¼ë©´í•œ êµ­ê°€;;;;;;;;;;;;;
+unite_yemen;í†µì¼ ì˜ˆë©˜;;;;;;;;;;;;;
+malayanemergency;ë§ë ˆì´ì‹œì•„ ê¸´ê¸‰ì‚¬íƒœ;;;;;;;;;;;;;
+malaya_baling_talks;ë§ë ˆì´ì‹œì•„ ë°œë§ íšŒë‹´;;;;;;;;;;;;;
+gallisum;ë“œê³¨ì£¼ì˜;;;;;;;;;;;;;
+syrindy;ì‹œë¦¬ì•„ ë…ë¦½;;;;;;;;;;;;;
+syr_no_split;ì‹œë¦¬ì•„ ê°ˆë“± ì—†ìŒ;;;;;;;;;;;;;
+trump;íŠ¸ëŸ¼í”„;;;;;;;;;;;;;
+postindusboom;ì‚°ì—…í™” ì´í›„ ì¸êµ¬ í­ë°œ;;;;;;;;;;;;;
+returnofportarthur;í¬ë¥´íŠ¸ ì•„ë¥´íˆ¬ë¥´ ë°˜í™˜;;;;;;;;;;;;;
+seikan_tunnel;ì„¸ì´ì¹¸ í„°ë„;;;;;;;;;;;;;
+canalsoftheworld;ì„¸ê³„ì  ìš´í•˜;;;;;;;;;;;;;
+bush;ë¶€ì‹œ;;;;;;;;;;;;;
+channel_tunnel;ìš´í•˜ í„°ë„;;;;;;;;;;;;;
+cw_reason;ëƒ‰ì „ì˜ ì´ìœ ;;;;;;;;;;;;;
+xeu_chairmanship;ìœ ëŸ½ ì—°í•© ì˜ì¥êµ­;;;;;;;;;;;;;
+eufirst;ìœ ëŸ½ ì—°í•© ìš°ëŒ€;;;;;;;;;;;;;
+bsystem;ë¸Œë ˆíŠ¼ìš°ë“œì²´ì œ;;;;;;;;;;;;;
+port_arthur_recapture;í¬ë¥´íŠ¸ ì•„ë¥´íˆ¬ë¥´ ì¬ì ë ¹;;;;;;;;;;;;;
+end_of_the_belgian_empire;ë²¨ê¸°ì— ì‹ë¯¼ì œêµ­ í•´ì²´;;;;;;;;;;;;;
+space_attempt_fired;ìš°ì£¼ ì‹œë„ í­ë°œ;;;;;;;;;;;;;
+space_mars;í™”ì„± íƒì‚¬ì„ ;;;;;;;;;;;;;
+iss_built;êµ­ì œìš°ì£¼ì •ê±°ì¥ ê±´ì„¤;;;;;;;;;;;;;
+nap;;;;;;;;;;;;;
+great_leap_forward_flag;ëŒ€ì•½ì§„;;;;;;;;;;;;;
+suharto;ìˆ˜í•˜ë¥´í† ;;;;;;;;;;;;;
+Badoglio;ë°”ëŒë¦¬ì˜¤;;;;;;;;;;;;;
+Graziani;ê·¸ë¼ì¹˜ì•„ë‹ˆ;;;;;;;;;;;;;
+Impastato;ì„íŒŒìŠ¤íƒ€í† ;;;;;;;;;;;;;
+Borsellino;ë³´ë¥´ì…€ë¦¬ë…¸;;;;;;;;;;;;;
+chemical_before;í™”í•™ ê³µìŠµ ì´ì „;;;;;;;;;;;;;
+event_force_end_of_indonesian_revolution;ì¸ë„ë„¤ì‹œì•„ í˜ëª… ì¢…ë£Œ ê°•ìš”;;;;;;;;;;;;;
+batista_regime;ë°”í‹°ìŠ¤íƒ€ ì •ê¶Œ;;;;;;;;;;;;;
+thai_comm;ê³µì‚° íƒ€ì´;;;;;;;;;;;;;
+thai_comm_end;íƒ€ì´ ê³µì‚°ë‹¹ í•´ì‚°;;;;;;;;;;;;;
+wallace;ìœŒë¦¬ìŠ¤;;;;;;;;;;;;;
+un_armistice;êµ­ì œì—°í•© íœ´ì „;;;;;;;;;;;;;
+oic_chairmanship;ì´ìŠ¬ëŒ í˜‘ë ¥ê¸°êµ¬ ì˜ì¥êµ­;;;;;;;;;;;;;
+oicfirst;ì´ìŠ¬ëŒ í˜‘ë ¥ê¸°êµ¬ ìš°ëŒ€;;;;;;;;;;;;;
+patient_zero;í™˜ì 0ëª…;;;;;;;;;;;;;
+who_notice;ì„¸ê³„ë³´ê±´ê¸°êµ¬ ì•Œë¦¼;;;;;;;;;;;;;
+epidemic_start;ì „ì—¼ë³‘ í™•ì‚° ì‹œì‘;;;;;;;;;;;;;
+polar_expedition_underway;ë¶ê·¹ íƒí—˜ ì¤‘;;;;;;;;;;;;;
+not_eaten_by_bears;ê³°ì—ê²Œ ì¡ì•„ë¨¹íˆì§€ ì•ŠìŒ;;;;;;;;;;;;;
+tokyo_sarin_attack;ë„ì¿„ ì‚¬ë¦°ê°€ìŠ¤ í…ŒëŸ¬;;;;;;;;;;;;;
+rank_1_high_rebels;ì œ1ì´ˆê°•ëŒ€êµ­ ë°˜êµ° ë†’ìŒ;;;;;;;;;;;;;
+rank_2_high_rebels;ì œ2ì´ˆê°•ëŒ€êµ­ ë°˜êµ° ë†’ìŒ;;;;;;;;;;;;;
+rank_1_low_rebels;ì œ1ì´ˆê°•ëŒ€êµ­ ë°˜êµ° ë‚®ìŒ;;;;;;;;;;;;;
+rank_2_low_rebels;ì œ2ì´ˆê°•ëŒ€êµ­ ë°˜êµ° ë‚®ìŒ;;;;;;;;;;;;;
+fbu_fired;ì˜ë¶ˆì—°í•© ê²°ì„±;;;;;;;;;;;;;
+danish_event;ë´ë§ˆí¬ ì‚¬ê±´;;;;;;;;;;;;;
+nato_abolish;ë¶ëŒ€ì„œì–‘ ì¡°ì•½ê¸°êµ¬ íì§€;;;;;;;;;;;;;
+nato_leader;ë¶ëŒ€ì„œì–‘ ì¡°ì•½ê¸°êµ¬ ë§¹ì£¼;;;;;;;;;;;;;
+war_with_un;êµ­ì œì—°í•©ê³¼ êµì „;;;;;;;;;;;;;
+concorde_proposed;ì½©ì½”ë“œ ì œì•ˆ;;;;;;;;;;;;;
+concorde_accepted;ì½©ì½”ë“œ ìˆ˜ìš©;;;;;;;;;;;;;
+concorde_started;ì½©ì½”ë“œ ì‹œì‘;;;;;;;;;;;;;
+supersonic_usa;ë¯¸êµ­ì˜ ì´ˆìŒì†ì œíŠ¸ê¸°;;;;;;;;;;;;;
+supersonic_rus;ëŸ¬ì‹œì•„ì˜ ì´ˆìŒì†ì œíŠ¸ê¸°;;;;;;;;;;;;;
+acquiring_bomb;í­íƒ„ ì…ìˆ˜;;;;;;;;;;;;;
+g8_president_selected;ì£¼ìš” 8ê°œêµ­ ì˜ì¥ìœ¼ë¡œ ì„ íƒë°›ìŒ;;;;;;;;;;;;;
+g8_president_now;í˜„ì¬ ì£¼ìš” 8ê°œêµ­ ì˜ì¥;;;;;;;;;;;;;
+arg_election_fire;ì•„ë¥´í—¨í‹°ë‚˜ ì„ ê±° ì‹œì‘;;;;;;;;;;;;;
+mad_communist;ë§ˆë‹¤ê°€ìŠ¤ì¹´ë¥´ ê³µì‚°ë‹¹;;;;;;;;;;;;;
+arg_election_fire1;ì•„ë¥´í—¨í‹°ë‚˜ ì„ ê±° ì‹œì‘;;;;;;;;;;;;;
+nuke_money_aid;í•µê°œë°œ ìê¸ˆ ì›ì¡°;;;;;;;;;;;;;
+one_china_policy;í•˜ë‚˜ì˜ ì¤‘êµ­ ì •ì±…;;;;;;;;;;;;;
+tibet_visit_by_usa_1;í‹°ë² íŠ¸ ë¯¸êµ­ ë°©ë¬¸;;;;;;;;;;;;;
+not_disabled;ë¹„í™œì„± ìƒíƒœ ì•„ë‹˜;;;;;;;;;;;;;
+hyderabad_integration;í•˜ì´ë°ë¼ë°”ë“œ í†µí•©;;;;;;;;;;;;;
+tripartite_agreement;ì‚¼ìí˜‘ì •;;;;;;;;;;;;;
+unlock_the_amazon;ì•„ë§ˆì¡´ ê°œë°œ;;;;;;;;;;;;;
+deforestation1;ì‚¼ë¦¼ë²Œì±„ë„ 1;;;;;;;;;;;;;
+deforestation2;ì‚¼ë¦¼ë²Œì±„ë„ 2;;;;;;;;;;;;;
+deforestation3;ì‚¼ë¦¼ë²Œì±„ë„ 3;;;;;;;;;;;;;
+deforestation4;ì‚¼ë¦¼ë²Œì±„ë„ 4;;;;;;;;;;;;;
+deforestation5;ì‚¼ë¦¼ë²Œì±„ë„ 5;;;;;;;;;;;;;
+sarawkjoin;ì‚¬ë¼ì™ í•©ë¥˜;;;;;;;;;;;;;
+sabahjoin;ì‚¬ë°” í•©ë¥˜;;;;;;;;;;;;;
+ryukujoin;ë¥˜í í•©ë¥˜;;;;;;;;;;;;;
+democracyinformercolony;êµ¬ ì‹ë¯¼ì§€ì˜ ë¯¼ì£¼ì£¼ì˜;;;;;;;;;;;;;
+moneyforallfraeng;ì˜ë¶ˆ ë§Œì¸ì˜ ëˆ;;;;;;;;;;;;;
+moneyforall;ë§Œì¸ì˜ ëˆ;;;;;;;;;;;;;
+playermoneyboost;í”Œë ˆì´ì–´ í†µí™” ì¶”ê°€ ì§€ê¸‰;;;;;;;;;;;;;
+exportfocus;ìˆ˜ì¶œ ì¤‘ì ;;;;;;;;;;;;;
+importfocus;ìˆ˜ì… ì¤‘ì ;;;;;;;;;;;;;
+japopboom;ì¼ë³¸ì˜ ì¸êµ¬ í­ë°œ;;;;;;;;;;;;;
+usapopboom;ë¯¸êµ­ì˜ ì¸êµ¬ í­ë°œ;;;;;;;;;;;;;
+isrpopboom;ì´ìŠ¤ë¼ì—˜ì˜ ì¸êµ¬ í­ë°œ;;;;;;;;;;;;;
+gerpopboom;ë…ì¼ì˜ ì¸êµ¬ í­ë°œ;;;;;;;;;;;;;
+warofindependenceindia;ì¸ë„ ë…ë¦½ì „ìŸ;;;;;;;;;;;;;
+third;ì œ3ì„¸ê³„;;;;;;;;;;;;;
+decoloniasation1;íƒˆì‹ë¯¼í™”;;;;;;;;;;;;;
+moneyforall425;ë§Œì¸ì˜ ëˆ;;;;;;;;;;;;;
+moneyforall536;ë§Œì¸ì˜ ëˆ;;;;;;;;;;;;;
+releasekmt;êµ­ë¶€ì²œëŒ€;;;;;;;;;;;;;
+indiasoi;ì¸ë„ ì˜í–¥ê¶Œ;;;;;;;;;;;;;
+nonapplicableinactivated;í™œì„±í™”í•˜ê¸°ì— ë¶€ì í•©;;;;;;;;;;;;;
+endofpor;í¬ë¥´íˆ¬ê°ˆ ì‹ë¯¼ì œêµ­ í•´ì²´;;;;;;;;;;;;;
+corruptionbegins;ë¶€íŒ¨ ì‹œì‘;;;;;;;;;;;;;
+superpower;ì´ˆê°•ëŒ€êµ­;;;;;;;;;;;;;
+frenchcommunity;í”„ë‘ìŠ¤ì–´ ê³µë™ì²´;;;;;;;;;;;;;
+fedmalsen;ë§ë¦¬-ì„¸ë„¤ê°ˆ ì—°ë°©;;;;;;;;;;;;;
+lky;ë¦¬ì½´ìœ ;;;;;;;;;;;;;
+gg;ì£¼ìš” 8ê°œêµ­;;;;;;;;;;;;;
+senegalleaves;ì„¸ë„¤ê°ˆ ì—°ë°© íƒˆí‡´;;;;;;;;;;;;;
+postwarprotectionism;ì „í›„ ë³´í˜¸ë¬´ì—­;;;;;;;;;;;;;
+superstate_formation_event;ì´ˆêµ­ê°€ ê²°ì„± ì‚¬ê±´;;;;;;;;;;;;;
+ebola_outbreak_2013;2013ë…„ ì—ë³¼ë¼ ì‚¬íƒœ;;;;;;;;;;;;;
+jiang_zemin_selected;ì¥ì©Œë¯¼ ì„ íƒ;;;;;;;;;;;;;
+hu_jingtao_selected;í›„ì§„íƒ€ì˜¤ ì„ íƒ;;;;;;;;;;;;;
+uae_union;ì•„ë í† í›„êµ­ ì—°í•©;;;;;;;;;;;;;
+sea_economy_slow;ë™ë‚¨ì•„ì‹œì•„ ê²½ì œ ë‘”í™”;;;;;;;;;;;;;
+ido_thaw_trigger;ì•„ì‹œì•„ ê¸ˆìœµìœ„ê¸° ë°œë°œ;;;;;;;;;;;;;
+far_union_flag;ì•„ë ê³µí™”êµ­ ì—°ë°©;;;;;;;;;;;;;
+far_formed_flag;ì•„ë ê³µí™”êµ­ ì—°ë°©;;;;;;;;;;;;;
+chinese_democracy;ì¤‘êµ­ì‹ ë¯¼ì£¼ì£¼ì˜;;;;;;;;;;;;;
+icj_marker;êµ­ì œì‚¬ë²•ì¬íŒì†Œ;;;;;;;;;;;;;
+icj_in_process;êµ­ì œì‚¬ë²•ì¬íŒì†Œ ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+international_court_of_justice;êµ­ì œì‚¬ë²•ì¬íŒì†Œ;;;;;;;;;;;;;
+spanish_decolonisation_mor;ì—ìŠ¤íŒŒëƒë ¹ ëª¨ë¡œì½” íƒˆì‹ë¯¼í™”;;;;;;;;;;;;;
+un_peace_making_marker;êµ­ì œì—°í•© í‰í™”ìœ ì§€;;;;;;;;;;;;;
+ethnic_cleansed;ì¸ì¢…ì²­ì†Œ ìí–‰;;;;;;;;;;;;;
+discovered_genocide;í•™ì‚´ ë°œê°;;;;;;;;;;;;;
+discovered_genocide1;í•™ì‚´ ë°œê°;;;;;;;;;;;;;
+genocide_101;í•™ì‚´;;;;;;;;;;;;;
+south_viet_soc;ë‚¨ë² íŠ¸ë‚¨ ì‚¬íšŒ;;;;;;;;;;;;;
+unsc_veto_crisis;êµ­ì œì—°í•© ì•ˆì „ë³´ì¥ì´ì‚¬íšŒ ë¶„ìŸ ê±°ë¶€ê¶Œ í–‰ì‚¬;;;;;;;;;;;;;
+collectivise_farms;ì§‘ë‹¨ë†ì¥;;;;;;;;;;;;;
+banned_trade_uninos;ë…¸ë™ì¡°í•© ê¸ˆì§€;;;;;;;;;;;;;
+terror_groups_in;í…ŒëŸ¬ ë‹¨ì²´;;;;;;;;;;;;;
+meto_flag;ì¤‘ë™ ì¡°ì•½ê¸°êµ¬;;;;;;;;;;;;;
+meto_accept;ì¤‘ë™ ì¡°ì•½ê¸°êµ¬ ìˆ˜ë½;;;;;;;;;;;;;
+cento_start;ì¤‘ì•™ì¡°ì•½ê¸°êµ¬;;;;;;;;;;;;;
+mandate_stays_independent;ìœ„ì„í†µì¹˜ë ¹ ë…ë¦½ ìœ ì§€;;;;;;;;;;;;;
+puyi_china;í‘¸ì´;;;;;;;;;;;;;
+post_colonial_politics;ì‹ë¯¼ì§€ì‹œëŒ€ ì´í›„ ì •ì±…;;;;;;;;;;;;;
+tiger_cub_eco;ë„¤ë§ˆë¦¬ì˜ í˜¸ë‘ì´;;;;;;;;;;;;;
+ido_united;ì¸ë„ë„¤ì‹œì•„ í†µí•©;;;;;;;;;;;;;
+urgent_fury_fired;ê·¸ë ˆë‚˜ë‹¤ ì¹¨ê³µ ë°œë°œ;;;;;;;;;;;;;
+eth_war_trigger;ì—í‹°ì˜¤í”¼ì•„ ì „ìŸ ë°œë°œ;;;;;;;;;;;;;
+eec_choice_made;ìœ ëŸ½ ê²½ì œê³µë™ì²´;;;;;;;;;;;;;
+treaty_of_friendship_ussr_comm;ì†Œë ¨ê³¼ì˜ ìš°í˜¸ì¡°ì•½;;;;;;;;;;;;;
+capital_lost;ìˆ˜ë„ í•¨ë½;;;;;;;;;;;;;
+narita_airport;ë‚˜ë¦¬íƒ€ ê³µí•­;;;;;;;;;;;;;
+narita_airport_continue;ë‚˜ë¦¬íƒ€ ê³µí•­ ê±´ì„¤ ì§€ì†;;;;;;;;;;;;;
+no_007_event;007í¸ ì‚¬ê³  ë¯¸ë°œìƒ;;;;;;;;;;;;;
+bandung_conference;ë°˜ë‘¥ íšŒì˜;;;;;;;;;;;;;
+un_committe_on_decolonisation;êµ­ì œì—°í•© íƒˆì‹ë¯¼í™”ìœ„ì›íšŒ;;;;;;;;;;;;;
+alberto_fujimori;ì•Œë² ë¥´í†  í›„ì§€ëª¨ë¦¬;;;;;;;;;;;;;
+erm_flag;ìœ ëŸ½ í™˜ìœ¨ì¡°ì •ì œë„;;;;;;;;;;;;;
+left_erm;ìœ ëŸ½ í™˜ìœ¨ì¡°ì •ì œë„ íƒˆí‡´;;;;;;;;;;;;;
+country_at_war;ì „ì‹œ ìƒí™©;;;;;;;;;;;;;
+destroy_satelllites;ì¸ê³µìœ„ì„± íŒŒê´´;;;;;;;;;;;;;
+has_chemical_clouds;í™”í•™êµ¬ë¦„ ë³´ìœ ;;;;;;;;;;;;;
+disease1;ì—­ë³‘;;;;;;;;;;;;;
+rejected_FBU_union_flag;ì˜ë¶ˆì—°í•© ê±°ë¶€;;;;;;;;;;;;;
+nko_no_sphere;ë¶í•œ ì˜í–¥ê¶Œì— ì—†ìŒ;;;;;;;;;;;;;
+forex_options;ì™¸í™”ë³´ìœ ê³  ì„ íƒì§€;;;;;;;;;;;;;
+superstate_central_bank;ì´ˆêµ­ê°€ ì¤‘ì•™ì€í–‰;;;;;;;;;;;;;
+cominform_flag;ê³µì‚°ë‹¹ ì •ë³´êµ­;;;;;;;;;;;;;
+join_the_cfa;ì•„í”„ë¦¬ì¹´ í”„ë‘ìŠ¤ ê³µë™ì²´ í”„ë‘ ì°¸ì—¬;;;;;;;;;;;;;
+support_greek_gov;ê·¸ë¦¬ìŠ¤ ì •ë¶€ ì§€ì›;;;;;;;;;;;;;
+bizerte_crisis;ë¹„ì œë¥´í…Œ ìœ„ê¸°;;;;;;;;;;;;;
+nato_flag_member;ë¶íƒœì„œì–‘ ì¡°ì•½ê¸°êµ¬ íšŒì›êµ­;;;;;;;;;;;;;
+form_bizonia;ì˜êµ­-ë¯¸êµ­ ì ë ¹êµ¬ ì¡°ì •;;;;;;;;;;;;;
+occupation_zone_potential;ì ì¬ì  ì ë ¹êµ¬;;;;;;;;;;;;;
+trizone_formed;3ê°œêµ­ ì ë ¹êµ¬ ì¡°ì •;;;;;;;;;;;;;
+final_settlement_ger;ë…ì¼ì— ê´€í•œ ë§ˆì§€ë§‰ í•©ì˜;;;;;;;;;;;;;
+decide_german_economy_monnet;ëª¨ë„¤ ê³„íš ê²°ì •;;;;;;;;;;;;;
+decide_DRZ_and_ALW;ë“œë£¨ì¦ˆ, ì•Œë¼ìœ„ ê²°ì •;;;;;;;;;;;;;
+ww2_surplus_arms_flag;ì œ2ì°¨ ì„¸ê³„ëŒ€ì „ ì‰ì—¬ ë¬´ê¸°;;;;;;;;;;;;;
+latin_debt_crisis;ë¼í‹´ì•„ë©”ë¦¬ì¹´ ë¶€ì±„ ìœ„ê¸°;;;;;;;;;;;;;
+appoint_ruling_party;ì—¬ë‹¹ ì§€ëª…ì œ;;;;;;;;;;;;;
+superstate_common_tariffs;ì´ˆêµ­ê°€ ê³µë™ê´€ì„¸;;;;;;;;;;;;;
+conceded_trade_war;ë¬´ì—­ì „ìŸ íŒ¨ë°° ì¸ì •;;;;;;;;;;;;;
+trade_war_2;ë¬´ì—­ì „ìŸ2;;;;;;;;;;;;;
+trade_war_3;ë¬´ì—­ì „ìŸ3;;;;;;;;;;;;;
+trade_war_4;ë¬´ì—­ì „ìŸ4;;;;;;;;;;;;;
+demanded_denuclearisation;ë¹„í•µí™” ìš”êµ¬;;;;;;;;;;;;;
+nuclear_blackmail_flag;í•µë¬´ê¸° í˜‘ë°•;;;;;;;;;;;;;
+petro_rise;í˜íŠ¸ë¡œ ë¶€ìƒ;;;;;;;;;;;;;
+un_internet_ownership;êµ­ì œì—°í•© ì¸í„°ë„· ì†Œìœ ;;;;;;;;;;;;;
+rotating_internet_ownership;ì¸í„°ë„· ì†Œìœ ê¶Œ ëŒì•„ê°€ë©° ìœ„ì„ ì¤‘;;;;;;;;;;;;;
+host_the_internet;ì¸í„°ë„· ì£¼ìµœ;;;;;;;;;;;;;
+coexistence_pledge;ê³µì¡´ ë§¹ì„¸;;;;;;;;;;;;;
+strategic_bombardment;ì „ëµ í­ê²©;;;;;;;;;;;;;
+endofmandatestatus;ìœ„ì„í†µì¹˜ë ¹ ì§€ìœ„ ì†Œë©¸;;;;;;;;;;;;;
+white_terror;ë°±ìƒ‰ í…ŒëŸ¬;;;;;;;;;;;;;
+specially_disabled;íŠ¹ë³„í•˜ê²Œ ë¹„í™œì„± ìƒíƒœ;;;;;;;;;;;;;
+epidemic_level2;ì „ì—¼ë³‘ í™•ì‚° 2ë‹¨ê³„;;;;;;;;;;;;;
+unclos_2;ì œ2ì°¨ êµ­ì œì—°í•© í•´ì–‘ë²•í˜‘ì•½;;;;;;;;;;;;;
+sea_dispute_underway;ì˜í•´ ê°ˆë“± ì§„í–‰ ì¤‘;;;;;;;;;;;;;
+outfrench;í”„ë‘ìŠ¤ë ¹ ë°–;;;;;;;;;;;;;
+scs_race;ë‚¨ì¤‘êµ­í•´ ê²½ìŸ;;;;;;;;;;;;;
+dispute_south_china_sea1;ë‚¨ì¤‘êµ­í•´ ë¶„ìŸ;;;;;;;;;;;;;
+dispute_south_china_sea_done;ë‚¨ì¤‘êµ­í•´ ë¶„ìŸ ì¢…ë£Œ;;;;;;;;;;;;;
+scs_marked;ë‚¨ì¤‘êµ­í•´;;;;;;;;;;;;;;
+south_china_sea_sovereignty_gained;ë‚¨ì¤‘êµ­í•´ ì£¼ê¶Œ íšë“;;;;;;;;;;;;;
+dai_war_end;ë² íŠ¸ë‚¨ ì „ìŸ ì¢…ì „;;;;;;;;;;;;;
+tog_communist;í† ê³  ê³µì‚°ë‹¹;;;;;;;;;;;;;
+cng_communist;ì½©ê³  ê³µì‚°ë‹¹;;;;;;;;;;;;;
+hun_rep;í—ê°€ë¦¬ ê³µí™”êµ­;;;;;;;;;;;;;
+moon_mission_win_1;ë‹¬ íƒì‚¬ ì„ë¬´ ìŠ¹ë¦¬;;;;;;;;;;;;;
+one_degree;1ë„ ìƒìŠ¹;;;;;;;;;;;;;
+two_degree;2ë„ ìƒìŠ¹;;;;;;;;;;;;;
+three_degree;3ë„ ìƒìŠ¹;;;;;;;;;;;;;
+45_degree;4.5ë„ ìƒìŠ¹;;;;;;;;;;;;;
+raise_oil_prices;ìœ ê°€ ìƒìŠ¹;;;;;;;;;;;;;
+lower_oil_prices;ì €ìœ ê°€;;;;;;;;;;;;;
+develop_bio_weapons;ìƒë¬¼ë¬´ê¸° ê°œë°œ;;;;;;;;;;;;;
+spreading_bio_weapon;ìƒë¬¼ë¬´ê¸° í™•ì‚° ì¤‘;;;;;;;;;;;;;
+vaccine_development;ë°±ì‹  ê°œë°œ;;;;;;;;;;;;;
+franco_boost;í”„ë‘ì½” ê°€ì†;;;;;;;;;;;;;
+yeartwok;ìƒˆì²œë…„;;;;;;;;;;;;;
+warship_commissioned;ì „í•¨ ë°œì£¼;;;;;;;;;;;;;
+cwcrisis_initiated;ëƒ‰ì „ ìœ„ê¸° ë°œë°œ;;;;;;;;;;;;;
+cold_war_low;ëƒ‰ì „ ê¸´ì¥ë„ ë‚®ìŒ;;;;;;;;;;;;;
+cold_war_medium;ëƒ‰ì „ ê¸´ì¥ë„ ì¤‘ê°„;;;;;;;;;;;;;
+cold_war_high;ëƒ‰ì „ ê¸´ì¥ë„ ë†’ìŒ;;;;;;;;;;;;;
+israelwarpalestine;ì´ìŠ¤ë¼ì—˜ íŒ”ë ˆìŠ¤íƒ€ì¸ ì „ìŸ;;;;;;;;;;;;;
+palestinianauthrouty;íŒ”ë ˆìŠ¤íƒ€ì¸ì— ê´€í•œ ê¶Œí•œ;;;;;;;;;;;;;
+co2_rising_study;ì´ì‚°í™”íƒ„ì†Œ ì¦ê°€ ì—°êµ¬;;;;;;;;;;;;;
+un_environment_conference;êµ­ì œì—°í•© í™˜ê²½ íšŒì˜;;;;;;;;;;;;;
+global_warming_name;ì§€êµ¬ì˜¨ë‚œí™” ì´ë¦„;;;;;;;;;;;;;
+ipcc;ê¸°í›„ë³€í™”ì— ê´€í•œ ì •ë¶€ê°„ íŒ¨ë„;;;;;;;;;;;;;
+ipcc_first_report;ê¸°í›„ë³€í™”ì— ê´€í•œ ì •ë¶€ê°„ íŒ¨ë„ ì œ1ì°¨ ë³´ê³ ì„œ;;;;;;;;;;;;;
+montreal_start;ëª¬íŠ¸ë¦¬ì˜¬ ì˜ì •ì„œ;;;;;;;;;;;;;
+earth_summit;ì§€êµ¬ ì •ìƒíšŒë‹´;;;;;;;;;;;;;
+ipcc_second_report;ê¸°í›„ë³€í™”ì— ê´€í•œ ì •ë¶€ê°„ íŒ¨ë„ ì œ2ì°¨ ë³´ê³ ì„œ;;;;;;;;;;;;;
+kyoto_protocol;êµí†  ì˜ì •ì„œ;;;;;;;;;;;;;
+zero_five_two;0.25ë„;;;;;;;;;;;;;
+ipcc_third_report;ê¸°í›„ë³€í™”ì— ê´€í•œ ì •ë¶€ê°„ íŒ¨ë„ ì œ3ì°¨ ë³´ê³ ì„œ;;;;;;;;;;;;;
+copenhagen_accord;ì½”íœí•˜ê² í˜‘ì •;;;;;;;;;;;;;
+c_a_a;ì½”íœí•˜ê² í˜‘ì •;;;;;;;;;;;;;
+copenhagen_accord_result;ì½”íœí•˜ê² í˜‘ì • ê²°ê³¼;;;;;;;;;;;;;
+paris_deal;íŒŒë¦¬ ê¸°í›„í˜‘ì•½;;;;;;;;;;;;;
+1600_event_fired;'1948ë…„ í—Œë²•' ì‚¬ê±´ ë°œìƒ;;;;;;;;;;;;;
+dimitrovconstitution;ë””ë¯¸íŠ¸ë¡œí”„ í—Œë²•;;;;;;;;;;;;;
+socdembulgaria1;ì‚¬íšŒë¯¼ì£¼ì£¼ì˜ ë¶ˆê°€ë¦¬ì•„;;;;;;;;;;;;;
+zhivkovconstitution;ì§€ë¸Œì½”í”„ í—Œë²•;;;;;;;;;;;;;
+socdembulgaria2;ì‚¬íšŒë¯¼ì£¼ì£¼ì˜ ë¶ˆê°€ë¦¬ì•„2;;;;;;;;;;;;;
+rejectedzhivkov;ì§€ë¸Œì½”í”„ì˜ ì œì•ˆ ê±°ë¶€;;;;;;;;;;;;;
+march_intifada;3ì›” ì•„ëì¸ ë°˜ë€;;;;;;;;;;;;;
+litsov;ë¦¬íˆ¬ì•„ë‹ˆì•„ ì£¼ë‘” ì†Œë ¨êµ°;;;;;;;;;;;;;
+no_statehood_hwi;í•˜ì™€ì´ êµ­ê°€ì§€ìœ„ ì—†ìŒ;;;;;;;;;;;;;
+the_dragon_wakes;ìš©ì´ ê¹¨ì–´ë‚˜ë‹¤;;;;;;;;;;;;;
+mao_zedong_death;ë§ˆì˜¤ì©Œë‘¥ ì„œê±°;;;;;;;;;;;;;
+gang_of_four_executed;ì‚¬ì¸ë°© ì¶•ì¶œ;;;;;;;;;;;;;
+china_ping_pong_diplo;ì¤‘êµ­ í•‘íì™¸êµ;;;;;;;;;;;;;
+not_participating_UN;êµ­ì œì—°í•© ë¹„íšŒì›êµ­;;;;;;;;;;;;;
+block_army_limiting;êµ°ëŒ€ ì œí•œ ì°¨ë‹¨;;;;;;;;;;;;;
+chinese_unity_govt;ì¤‘êµ­ êµ­ê³µí•©ì‘;;;;;;;;;;;;;
+ccw_american_nonintervention;êµ­ê³µ ë‚´ì „ ë¯¸êµ­ ë¹„ê°œì…;;;;;;;;;;;;;
+ccw_soviet_nonintervention;êµ­ê³µ ë‚´ì „ ì†Œë ¨ ë¹„ê°œì…;;;;;;;;;;;;;
+loans_repaid;;;;;;;;;;;;;
+un_soviet_boycott;ì†Œë ¨ì˜ êµ­ì œì—°í•© ë³´ì´ì½§;;;;;;;;;;;;;
+chemical_bomb_developed;í™”í•™í­íƒ„ ê°œë°œ ì™„ë£Œ;;;;;;;;;;;;;
+tulip_revolution_aftermath;íŠ¤ë¦½ í˜ëª…;;;;;;;;;;;;;
+second_kyrgz_revolution;ì œ2ì°¨ í‚¤ë¥´ê¸°ìŠ¤ìŠ¤íƒ„ í˜ëª…;;;;;;;;;;;;;
+performance_mode_set;ì„±ëŠ¥ëª¨ë“œ ì„¤ì •;;;;;;;;;;;;;
+noreligion;ì¢…êµì—†ìŒ;;;;;;;;;;;;;
+noculture;ë¬¸í™”ì—†ìŒ;;;;;;;;;;;;;
+lend_lease_request;ë¬´ê¸°ëŒ€ì—¬ ìš”ì²­;;;;;;;;;;;;;
+india_land_reform;ì¸ë„ í† ì§€ê°œí˜;;;;;;;;;;;;;
+HAVE_INDUSTRIAL_SCORE_LESS_THAN; ì‚°ì—…ë ¥ < ;Have less Industrial Score than: ;;;;;;;;;;;;;
+HAVE_LESS_TOTAL_PORTS_THAN; í•­êµ¬ ìˆ˜ â‰¤ ;Have equal or less ports than: ;;;;;;;;;;;;;
+HAVE_MORE_TOTAL_PORTS_THAN; í•­êµ¬ ìˆ˜ â‰¥ ;Have equal or more ports than: ;;;;;;;;;;;;;
+HAVE_LESS_VASSALS_THAN; ì¢…ì†êµ­ ìˆ˜ < ;Have less vassals than ;;;;;;;;;;;;;x
+HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN; êµ­ë¯¼ì§€ì—­ ì ë ¹ ë¹„ìœ¨ < ;The percentage of occupied national provinces is less than: ;;;;;;;;;;;;;;;;;;;
+HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE; ì¸ì ‘ ì§€ì—­ ìˆìŒ â‰ ;Have at least one owned neighboring province such that:;;;;;;;;;;;;;
+DONT_HAVE_THE_PROVINCE_MODIFIER; ì§€ì—­ ë³€ë™ì‚¬í•­ ìˆìŒ â‰  ;Do NOT have the province modifier ;;;;;;;;;;;;;;;;;;;;;;;
+HAS_NO_NATIONAL_MINORITY; = ì†Œìˆ˜ì§‘ë‹¨ ì¡´ì¬;Has Minorities;;;;;;;;;;;;;
+HAS_NOT_NATIONAL_MINORITY; = ì†Œìˆ˜ì§‘ë‹¨ ì¡´ì¬;Has Minorities;;;;;;;;;;;;;
+HAS_NATIONAL_MINORITY; = ì†Œìˆ˜ì§‘ë‹¨ ì¡´ì¬;Has Minorities;;;;;;;;;;;;;
+NEUTRALITY_EFFECT; ì¤‘ë¦½êµ­ì´ ë˜ë©° ëª¨ë“  ë™ë§¹ì„ íŒŒê¸°í•˜ê³  ëª¨ë“  ìœ„ì„±êµ­ì„ í•´ë°©í•©ë‹ˆë‹¤.;The nation becomes neutral, dissolving all alliances and setting all satellites free.;;;;;;;;;;;;;
+THE_CAPITAL_IS_NOT; ìˆ˜ë„ â‰  ;The Capital Is Not ;;;;;;;;;;;;;;;;;;
+HOLD_ELECTION_BUTTON;ì„ ê±° ì‹¤ì‹œ;Hold Election;;;;;;;;;;;;;;;
+ANY_POP_IN_PROVINCE_STARTS;ì£¼ë¯¼ ì „ì²´;Any Pop;;;;;;;;;;;;;;;;;;;
+REMOVE_MONEY_EFFECT; ëˆ: - [SUB_A7]R$VALUE$[SUB_A7]W.\n.;Lose [SUB_A7]R$VALUE$[SUB_A7]W.\n;;;;;;;;;;;;;;;;;;;;;
+MONEY_EFFECT; ëˆ: - [SUB_A7]R$VALUE$[SUB_A7]W \n.;Funds [SUB_A7]R$VALUE$[SUB_A7]W.\n;;;;;;;;;;;;;;;;
+THE_CAPITAL_IS; ìˆ˜ë„ =;The Capital Is;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ ì „ìŸ;;;;;;;;;;;;;;
+AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ ì „ìŸ;;;;;;;;;;;;;;;;;;
+NORMAL_WAR_NAME_FASCISM;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ ê²€ì •ì…”ì¸  í˜ëª…;;;;;;;;;;;;;
+AGRESSION_WAR_NAME_FASCISM;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ ê²€ì •ì…”ì¸  í˜ëª…;;;;;;;;;;;;;
+NORMAL_WAR_NAME_COMMUNISM;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ í˜ëª…ì „ìŸ;;;;;;;;;;;;;
+AGRESSION_WAR_NAME_COMMUNISM;$ORDER$$FIRST_COUNTRY$-$SECON_COUNTRY$ í˜ëª…ì „ìŸ;;;;;;;;;;;;;
+NORMAL_WAR_NAME_DEMOCRACY;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ í˜ëª…ì •ê¶Œ íƒ€ë„ì „ìŸ;;;;;;;;;;;;;
+AGRESSION_WAR_NAME_DEMOCRACY;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ í˜ëª…ì •ê¶Œ íƒ€ë„ì „ìŸ;;;;;;;;;;;;;
+ANY_ALL; ì „ì²´ ì§€ì—­;Any province;;;;;;;;;;;;;
+IS_IN_REGION; ì†Œì† = ; is in the region ;;;;;;;;;;;;;
+IS_NOT_IN_THE_REGION; ì†Œì† â‰  ;Is NOT in the region ;;;;;;;;;;;;;
+HAS_SIEGE; = í¬ìœ„ ìƒíƒœ;Under Siege;;;;;;;;;;;;;
+Long text here!;ì—¬ê¸° ê¸´ ê¸€!;;;;;;;;;;;;;,
+26th of March, 1836;1836ë…„ 4ì›” 26ì¼;;;;;;;;;;;;;
+State name here;ì´ë¦„ì„ ì—¬ê¸°ì— ë§í•´ì£¼ì„¸ìš”;;;;;;;;;;;;;
+ESCAPE;ESC;;;;;;;;;;;;;;,,,
+MORE_DIPLOMATIC_RELATION; ì™¸êµê´€ê³„ > ;;;;;;;;;;;;;
+HAVE_NOT_ALLIANCE_WITH; ë™ë§¹êµ­ â‰  ;;;;;;;;;;;;;
