@@ -1,57 +1,67 @@
-CODE;ENGLISH;;;;;;;;;;;x
-USA;¾Æ¸Ş¸®Ä« ÇÕÁß±¹;;;;;;;;;;;x
-USA_presidential_dictatorship;¾Æ¸Ş¸®Ä« ÇÕÁß±¹;;;;;;;;;;;x
-USA_nationalist_dictatorship;¾Æ¸Ş¸®Ä«±¹;;;;;;;;;;;x
-USA_populist_dictatorship;¾Æ¸Ş¸®Ä« ±¹°¡¿¬ÇÕ;;;;;;;;;;;x
-USA_socialist_democracy;¾Æ¸Ş¸®Ä« ¿¬¸Í;;;;;;;;;;;x
-USA_theocracy;¾Æ¸Ş¸®Ä« ±âµ¶°øÈ­±¹;;;;;;;;;;;x
-USA_democracy;¾Æ¸Ş¸®Ä« ÇÕÁß±¹;;;;;;;;;;;x
-USA_absolute_monarchy;¾Æ¸Ş¸®Ä« ¿Õ±¹;;;;;;;;;;;x
-USA_hms_government;¾Æ¸Ş¸®Ä« ¿Õ±¹;;;;;;;;;;;x
-USA_proletarian_dictatorship;¾Æ¸Ş¸®Ä« ¿¬¸Í;;;;;;;;;;;x
-CNG;Äá°í;;;;;;;;;;;x
-CNG_democracy;Äá°í ¹ÎÁÖ°øÈ­±¹;;;;;;;;;;;x
-CNG_democracy1;Äá°í °øÈ­±¹;;;;;;;;;;;x
-CNG_nationalist_dictatorship;ÀÚÀÌ¸£ °øÈ­±¹;;;;;;;;;;;x
-CNG_populist_dictatorship;ÀÚÀÌ¸£ °øÈ­±¹;;;;;;;;;;;x
-CNG_proletarian_dictatorship;ÀÚÀÌ¸£ ÀÎ¹Î°øÈ­±¹;;;;;;;;;;;x
-CNG_proletarian_dictatorship1;Äá°í ÀÎ¹Î°øÈ­±¹;;;;;;;;;;;x
-CNG_socialist_democracy;Äá°í ÀÎ¹Î°øÈ­±¹;;;;;;;;;;;x
-CNG_presidential_dictatorship;Äá°í °øÈ­±¹;;;;;;;;;;;x
-CNG_theocracy;ÀÚÀÌ¸£±¹;;;;;;;;;;;x
-CNG_hms_government;Äá°í ÀÚÀ¯±¹;;;;;;;;;;;x
-CNG_colonial_government;Äá°í;;;;;;;;;;;x
-rusyn;·ç½Å;;;;;;;;;;;x
-nationalize_title;$COUNTRY$ ³» ¿Ü±¹ ÀÚº» Àü¸é ±¹À¯È­;;;;;;;;;;;x
-liberal_rebels_name;$COUNTRY$ ¹ÎÁÖÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-islamist_rebels_name;$COUNTRY$ ±ŞÁø ±Ùº»ÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-communist_rebels_name;$COUNTRY$ °ø»êÇõ¸í±º;;;;;;;;;;;x
-populist_rebels_name;$COUNTRY$ ´ëÁßÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-reactionary_rebels_name;$COUNTRY$ ¹é±º;;;;;;;;;;;x
-liberal_rebels_title;¹ÎÁÖÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-islamist_rebels_title;±ŞÁø ±Ùº»ÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-communist_rebels_title;°ø»êÇõ¸í±º;;;;;;;;;;;x
-populist_rebels_title;´ëÁßÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-reactionary_rebels_title;¹é±º;;;;;;;;;;;x
-liberal_rebels_army;$COUNTRY_ADJ$ ¹ÎÁÖÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-islamist_rebels_army;$COUNTRY_ADJ$ ±ŞÁø ±Ùº»ÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-communist_rebels_army;$COUNTRY_ADJ$ °ø»êÇõ¸í±º;;;;;;;;;;;x
-populist_rebels_army;$COUNTRY_ADJ$ ´ëÁßÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-reactionary_rebels_army;$COUNTRY_ADJ$ ¹é±º;;;;;;;;;;;x
-new_zealander;¹éÀÎ°è ´ºÁú·£µå;;;;;;;;;;;x
-RHO;·ÎµğÁö¾Æ;;;;;;;;;;;x
-RHO_ADJ;·ÎµğÁö¾Æ·É;;;;;;;;;;;x
-RHO_hms_government;³²·ÎµğÁö¾Æ;;;;;;;;;;;x
-RHO_hms_government_ADJ;³²·ÎµğÁö¾Æ·É;;;;;;;;;;;x
-RHO_hms_government1;³²·ÎµğÁö¾Æ;;;;;;;;;;;x
-RHO_hms_government1_ADJ;³²·ÎÁöµğ¾Æ·É;;;;;;;;;;;x
-RHO_absolute_monarchy;³²·ÎµğÁö¾Æ;;;;;;;;;;;x
-RHO_absolute_monarchy_ADJ;³²·ÎµğÁö¾Æ·É;;;;;;;;;;;x
-RHO_colonial_government;³²·ÎµğÁö¾Æ;;;;;;;;;;;x
-RHO_colonial_government_ADJ;³²·ÎµğÁö¾Æ·É;;;;;;;;;;;x
-RHO_mandate_government;³²·ÎµğÁö¾Æ;;;;;;;;;;;x
-RHO_mandate_government_ADJ;³²·ÎµğÁö¾Æ·É;;;;;;;;;;;x
-pan_nationalist_rebels_army;$UNION_ADJ$ ¹ü¹ÎÁ·ÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-pan_nationalist_rebels_name;$UNION_ADJ$ ¹ü¹ÎÁ·ÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-pan_nationalist_rebels_title;$UNION_ADJ$ ¹ü¹ÎÁ·ÁÖÀÇ ¹İ±º;;;;;;;;;;;x
-DIPLOMACY_CIVILIZEDNATION_STATUS;¾à¼Ò±¹;;;;;;;;;;;x
+CODE;ENGLISH;;;;;;;;;;;;;;
+BUY_FROM_STOCKPILE_DESC;ì£¼ë¯¼/ê³µì¥ì˜ ë¹„ì¶•í’ˆ êµ¬ë§¤ë¥¼ í—ˆìš©í•©ë‹ˆë‹¤.\n\n[SUB_A7]Yê²½ê³ : êµ¬ë§¤ ë° íŒë§¤ë¥¼ ìˆ˜ë™í™”í•œ ê²½ìš°ì—ëŠ” [SUB_A7]Rì ˆëŒ€[SUB_A7]W í•´ë‹¹ ë‹¨ì¶”ë¥¼ ì‚¬ìš©í•˜ì§€ ì•Šì•„ì•¼ í•©ë‹ˆë‹¤. [SUB_A7]Rì˜¤ì§[SUB_A7]W [SUB_A7]Rëª¨ë“ [SUB_A7]W ìƒí’ˆì— ëŒ€í•´ ìë™ë¬´ì—­ì„ [SUB_A7]Rì¼ [SUB_A7]W ìƒíƒœì—ì„œë§Œ ì‚¬ìš©í•´ì•¼ í•©ë‹ˆë‹¤. ê·¸ë ‡ê²Œ í•˜ì§€ ì•Šìœ¼ë©´ êµ­ë‚´ì™€ ì „ì„¸ê³„ì ì¸ ê²½ì œ ë¶•ê´´ê°€ ì¼ì–´ë‚  ê²ƒì…ë‹ˆë‹¤. ìœ„í—˜ì„ ê°ìˆ˜í•˜ê³  ì‚¬ìš©í•´ì•¼ í•©ë‹ˆë‹¤.[SUB_A7]W;;;;;;;;;;;;;;
+HAVE_INDUSTRIAL_SCORE_LESS_THAN; ì‚°ì—…ë ¥ < ;;;;;;;;;;;;;;
+IS_A_POSSIBLE_VASSAL; = ê°€ëŠ¥ì„±ì´ ìˆëŠ” ì¢…ì†êµ­ ;;;;;;;;;;;;;;
+synthetic_rubber_factory;í•©ì„±ê³ ë¬´ ê³µì¥;;;;;;;;;;;;;;
+synthetic_rubber_factory_desc;ë‹¤ë¥¸ ì¤‘í•©ì²´ë“¤ê³¼ ë§ˆì°¬ê°€ì§€ë¡œ í•©ì„±ê³ ë¬´ëŠ” ì„ìœ ì—ì„œ ì¶”ì¶œí•œ ë‹¤ì–‘í•œ ë‹¨ëŸ‰ì²´ë¥¼ í†µí•´ ë§Œë“¤ì–´ì§‘ë‹ˆë‹¤. ê°€ì¥ ì¼ë°˜ì ì¸ í•©ì„±ê³ ë¬´ëŠ” ìŠ¤í‹°ë Œê³¼ ë¶€íƒ€ë””ì—”ì˜ ê³µì¤‘í•©ì²´ì¸ ìŠ¤í‹°ë Œ-ë¶€íƒ€ë””ì—” ê³ ë¬´ì…ë‹ˆë‹¤.;;;;;;;;;;;;;;
+clothes;ì˜ë¥˜;;;;;;;;;;;;;;
+RHO_absolute_monarchy;ë¡œë””ì§€ì•„ ì™•êµ­;;;;;;;;;;;;;;
+RHO_absolute_monarchy_ADJ;ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+RHO_hms_government1;ë¡œë””ì§€ì•„ ì™•êµ­;;;;;;;;;;;;;;
+RHO_hms_government1_ADJ;ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+USA;ì•„ë©”ë¦¬ì¹´ í•©ì¤‘êµ­;;;;;;;;;;;;;;
+USA_presidential_dictatorship;ì•„ë©”ë¦¬ì¹´ í•©ì¤‘êµ­;;;;;;;;;;;;;;
+USA_nationalist_dictatorship;ì•„ë©”ë¦¬ì¹´êµ­;;;;;;;;;;;;;;
+USA_populist_dictatorship;ì•„ë©”ë¦¬ì¹´ êµ­ê°€ì—°í•©;;;;;;;;;;;;;;
+USA_socialist_democracy;ì•„ë©”ë¦¬ì¹´ ì—°ë§¹;;;;;;;;;;;;;;
+USA_theocracy;ì•„ë©”ë¦¬ì¹´ ê¸°ë…ê³µí™”êµ­;;;;;;;;;;;;;;
+USA_democracy;ì•„ë©”ë¦¬ì¹´ í•©ì¤‘êµ­;;;;;;;;;;;;;;
+USA_absolute_monarchy;ì•„ë©”ë¦¬ì¹´ ì™•êµ­;;;;;;;;;;;;;;
+USA_hms_government;ì•„ë©”ë¦¬ì¹´ ì™•êµ­;;;;;;;;;;;;;;
+USA_proletarian_dictatorship;ì•„ë©”ë¦¬ì¹´ ì—°ë§¹;;;;;;;;;;;;;;
+CNG;ì½©ê³ ;;;;;;;;;;;;;;
+CNG_democracy;ì½©ê³  ë¯¼ì£¼ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_democracy1;ì½©ê³  ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_nationalist_dictatorship;ìì´ë¥´ ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_populist_dictatorship;ìì´ë¥´ ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_proletarian_dictatorship;ìì´ë¥´ ì¸ë¯¼ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_proletarian_dictatorship1;ì½©ê³  ì¸ë¯¼ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_socialist_democracy;ì½©ê³  ì¸ë¯¼ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_presidential_dictatorship;ì½©ê³  ê³µí™”êµ­;;;;;;;;;;;;;;
+CNG_theocracy;ìì´ë¥´êµ­;;;;;;;;;;;;;;
+CNG_hms_government;ì½©ê³  ììœ êµ­;;;;;;;;;;;;;;
+CNG_colonial_government;ì½©ê³ ;;;;;;;;;;;;;;
+rusyn;ë£¨ì‹ ;;;;;;;;;;;;;;
+nationalize_title;$COUNTRY$ ë‚´ ì™¸êµ­ ìë³¸ ì „ë©´ êµ­ìœ í™”;;;;;;;;;;;;;;
+liberal_rebels_name;$COUNTRY$ ë¯¼ì£¼ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+islamist_rebels_name;$COUNTRY$ ê¸‰ì§„ ê·¼ë³¸ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+communist_rebels_name;$COUNTRY$ ê³µì‚°í˜ëª…êµ°;;;;;;;;;;;;;;
+populist_rebels_name;$COUNTRY$ ëŒ€ì¤‘ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+reactionary_rebels_name;$COUNTRY$ ë°±êµ°;;;;;;;;;;;;;;
+liberal_rebels_title;ë¯¼ì£¼ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+islamist_rebels_title;ê¸‰ì§„ ê·¼ë³¸ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+communist_rebels_title;ê³µì‚°í˜ëª…êµ°;;;;;;;;;;;;;;
+populist_rebels_title;ëŒ€ì¤‘ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+reactionary_rebels_title;ë°±êµ°;;;;;;;;;;;;;;
+liberal_rebels_army;$COUNTRY_ADJ$ ë¯¼ì£¼ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+islamist_rebels_army;$COUNTRY_ADJ$ ê¸‰ì§„ ê·¼ë³¸ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+communist_rebels_army;$COUNTRY_ADJ$ ê³µì‚°í˜ëª…êµ°;;;;;;;;;;;;;;
+populist_rebels_army;$COUNTRY_ADJ$ ëŒ€ì¤‘ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+reactionary_rebels_army;$COUNTRY_ADJ$ ë°±êµ°;;;;;;;;;;;;;;
+new_zealander;ë°±ì¸ê³„ ë‰´ì§ˆëœë“œ;;;;;;;;;;;;;;
+RHO;ë¡œë””ì§€ì•„;;;;;;;;;;;;;;
+RHO_ADJ;ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+RHO_hms_government;ë‚¨ë¡œë””ì§€ì•„;;;;;;;;;;;;;;
+RHO_hms_government_ADJ;ë‚¨ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+RHO_hms_government1;ë‚¨ë¡œë””ì§€ì•„;;;;;;;;;;;;;;
+RHO_hms_government1_ADJ;ë‚¨ë¡œì§€ë””ì•„ë ¹;;;;;;;;;;;;;;
+RHO_absolute_monarchy;ë‚¨ë¡œë””ì§€ì•„;;;;;;;;;;;;;;
+RHO_absolute_monarchy_ADJ;ë‚¨ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+RHO_colonial_government;ë‚¨ë¡œë””ì§€ì•„;;;;;;;;;;;;;;
+RHO_colonial_government_ADJ;ë‚¨ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+RHO_mandate_government;ë‚¨ë¡œë””ì§€ì•„;;;;;;;;;;;;;;
+RHO_mandate_government_ADJ;ë‚¨ë¡œë””ì§€ì•„ë ¹;;;;;;;;;;;;;;
+pan_nationalist_rebels_army;$UNION_ADJ$ ë²”ë¯¼ì¡±ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+pan_nationalist_rebels_name;$UNION_ADJ$ ë²”ë¯¼ì¡±ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+pan_nationalist_rebels_title;$UNION_ADJ$ ë²”ë¯¼ì¡±ì£¼ì˜ ë°˜êµ°;;;;;;;;;;;;;;
+DIPLOMACY_CIVILIZEDNATION_STATUS;ì•½ì†Œêµ­;;;;;;;;;;;;;;
