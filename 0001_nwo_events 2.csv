@@ -1,4 +1,68 @@
 CODE;ENGLISH;;;;;;;;;;;x
+EVTNAME132400;$FROMCOUNTRY$의 보호 요청.;;;;;;;;;;;x
+EVTOPTA132400;받아들여야 한다. 공산주의자들이 설치는 꼴은 보지 못한다.;;;;;;;;;;;x
+EVTOPTB132400;받아들일 수 없다.;;;;;;;;;;;x
+EVTNAME132401;체코슬로바키아의 보호 요청 수용;;;;;;;;;;;x
+EVTOPTA132401;훌륭하다.;Excellent.;;;;;;;;;;x
+EVTNAME132402;체코슬로바키아의 보호 요청 거부;;;;;;;;;;;x
+EVTOPTA132402;포기하겠다.;;;;;;;;;;;x
+EVTOPTB132402.체코슬로바키아는 우리 혼자만의 것이다.;;;;;;;;;;;x
+EVTNAME669966;성능모드;;;;;;;;;;;x
+EVTDESC669966;전세계 인구를 특정 비율로 정해 전체 인구를 줄임으로써 게임 성능을 향상합니다. 기본 비율은 1/4입니다.;;;;;;;;;;;x
+EVTOPTA669966;주민 비율을 바꾸지 않는다.;;;;;;;;;;;x
+EVTOPTB669966;3/16로 바꾼다.;;;;;;;;;;;x
+EVTOPTC669966;1/8로 바꾼다.;;;;;;;;;;;x
+EVTOPTD669966;1/16로 바꾼다.;;;;;;;;;;;x
+EVTNAME124150;국민정신 - 질서;;;;;;;;;;;x
+EVTNAME124151;국민정신 - 법적 자유;;;;;;;;;;;x
+EVTNAME124152;국민정신 - 평등;;;;;;;;;;;x
+EVTNAME124153;국민정신 - 전통;;;;;;;;;;;x
+EVTNAME124154;국민정신 - 실력;;;;;;;;;;;x
+EVTNAME124155;국민정신 - 진보;;;;;;;;;;;x
+EVTNAME124156;CWE의 국민정신;;;;;;;;;;;x
+EVTOPTA124150;우리가 전진할 새로운 길이다;;;;;;;;;;;x
+EVTOPTA124156;이해했다.;;;;;;;;;;;x
+EVTNAME1234429;$FROMCOUNTRY$의 화학무기 공습;;;;;;;;;;;x
+EVTDESC1234429;수도와 도시들이 타격을 입었습니다.;;;;;;;;;;;x
+EVTOPTA1234429;반격을 준비해야 한다.;;;;;;;;;;;x
+EVTDESC1234430;수도와 도시 및 주요 마을들이 타격을 입었습니다.;;;;;;;;;;;x
+EVTDESC1234431;수도와 도시 및 마을들이 타격을 입었습니다.;;;;;;;;;;;x
+EVTNAME1234432;$FROMCOUNTRY$의 화학공격 위협!;;;;;;;;;;;x
+EVTDESC1234432;$FROMCOUNTRY$이(가) 종전에 동의하지 않는다면 화학공격을 개시하겠다는 최후통첩을 보내왔습니다!;;;;;;;;;;;x
+EVTOPTA1234432;위협에 굴복한다.;;;;;;;;;;;x
+EVTOPTB1234432;$FROMCOUNTRY$에게 휴전을 제안한다;;;;;;;;;;;x
+EVTOPTC1234432;전쟁을 지속한다. (화학공격 직면);;;;;;;;;;;x
+EVTNAME1234433;$FROMCOUNTRY$의 휴전 제안;;;;;;;;;;;x
+EVTOPTA1234433;수락한다!;Accept!;;;;;;;;;;;x
+EVTOPTB1234433;거부한다!;Refuse!;;;;;;;;;;;x
+EVTNAME12344334;$FROMCOUNTRY$ 항복!;;;;;;;;;;;x
+EVTOPTA12344334;평화가 눈 앞에 있다!;;;;;;;;;;;x
+EVTNAME1234434;$FROMCOUNTRY$의 화학무기 보복;;;;;;;;;;;x
+EVTDESC1234434;적국이 발사한 화학무기로 인해 인구 중심지가 피해를 입었습니다.;;;;;;;;;;;x
+EVTNAME1131432;$COUNTRY$ 화학무기 개발!;;;;;;;;;;;x
+EVTDESC1131432;마침내 화학무기를 개발했습니다!;;;;;;;;;;;x
+EVTNAME1131434;종주국의 화학무기 군축 요구!
+EVTDESC1131434;괴뢰국으므로 종주국이 화학무기를 넘겨받으려 합니다.;;;;;;;;;;;x
+EVTOPTA1131434;매우 애석하다!;;;;;;;;;;;x
+EVTNAME1131435;화학삼위일체(화학전 수행력 높음);;;;;;;;;;;x
+EVTDESC1131435;가치가 높고 낮은 목표물을 목표로 하는 수단을 가지고 있습니다.;;;;;;;;;;;x
+EVTOPTA1131435;훌륭하다.;Excellent;;;;;;;;;;;x
+EVTNAME1131436;화학전 수행력 중간;;;;;;;;;;;x
+EVTDESC1131436;가치가 높거나 중간인 목표물을 목표로 하는 수단을 가지고 있습니다.;;;;;;;;;;;x
+EVTNAME1131437;화학전 수행력 낮음;;;;;;;;;;;x
+EVTDESC1131437;오직 가치가 높은 목표물만을 목표로 하는 수단을 가지고 있습니다.;;;;;;;;;;;x
+EVTOPTA1131437;대단하다.;Great;;;;;;;;;;;x;
+EVTNAME11314377;화학전 수행능력 없음;;;;;;;;;;;x
+EVTDESC11314377;화학무기를 보유하지 않았으므로 화학전 수행능력이 없습니다.;;;;;;;;;;;x
+EVTNAME1131438;영향권 맹주의 화학무기 군축 요구!;;;;;;;;;;;x
+EVTDESC1131438;적대적인 영향권 맹주가 화학무기 군축을 통해 자신들에 대한 위협을 줄이라고 요구했습니다.;;;;;;;;;;;x
+EVTNAME1131439;$COUNTRY$ 화학무기 군축 선택!;;;;;;;;;;;x
+EVTDESC1131439;제재 대상인 $COUNTRY$이 제재를 끝내고자 한발 물러나 화학무기 군축을 결정했습니다.;;;;;;;;;;;x
+EVTOPTA1131439;적의 승리다.;;;;;;;;;;;x
+EVTNAME1231440;영향권 맹주의 화학무기 군축 요구 철회;;;;;;;;;;;x
+EVTDESC1231440;양국 관계가 변화하면서 이제 영향권 맹주가 화학무기 군축을 요구하지 않습니다.;;;;;;;;;;;x
+EVTNAME1131441;국제연합의 화학무기 포구 요구!;;;;;;;;;;;x
+EVTDESC1231441;적대적인 국제연합 회원국들이 화학무기 군축을 통해 자신들에 대한 위협을 줄이라고 요구했습니다.;;;;;;;;;;;x
 Opportunity to Steal Research;연구 탈취 기회;;;;;;;;;;;;;
 Our spies have gained the opportunity to steal research from another nation. Should we allow them to steal the research?;국내 첩보요원들이 타국의 연구자료를 훔칠 기회를 얻었습니다. 연구를 훔치도록 놔둬야 할까요?;;;;;;;;;;;x
 Yes;그래.;;;;;;;;;;;x
@@ -109,7 +173,6 @@ Part of the Sterling Area;파운드 지역 편입;;;;;;;;;;;x;
 Our currency is now pegged to the Pound Sterling;국내 화폐가 이제 파운드화에 고정됩니다.;;;;;;;;;;;x;
 No longer part of the Sterling Area;파운드 지역 이탈;;;;;;;;;;;x;
 With our independence from the British, our currency is no longer pegged to the Pound.;영국에게서 독립함에 따라 국내 화폐가 이제 파운드화에 고정되지 않습니다.;;;;;;;;;;;x;
-Excellent;훌륭하다.;;;;;;;;;;;x;
 The Malayan Emergency;말레이시아 비상사태;;;;;;;;;;;x;
 Fight the Communists;공산주의자들과 싸워라!;;;;;;;;;;;x;
 End of the Malayan Emergency;말레이시아 비상사태 종료;;;;;;;;;;;x;
@@ -349,7 +412,6 @@ A catastrophe!;대재앙이다!;;;;;;;;;;;x;
 United Nations Condemnation;국제연합의 규탄;;;;;;;;;;;x;
 The International Community has roundly condemned us for declaring war against an internationally protected United Nations Special Administrative State.;우리나라가 국제적으로 보호받는 국제연합 특별행정구를 상대로 전쟁을 선포한 행위에 대해 국제사회가 강력한 규탄의 뜻을 내보였습니다.;;;;;;;;;;;x;
 Offer from $FROMCOUNTRY$ to develop Supersonic Jet;$FROMCOUNTRY$의 초음속 제트기 개발 제안;;;;;;;;;;;x;
-Accept!;수락한다!;;;;;;;;;;;x;
 Reject!;거부한다!;;;;;;;;;;;x;
 Development of Concorde Completed!;콩코드 개발 완료!;;;;;;;;;;;x;
 It is an amazing day for $FROMCOUNTRY$!;$FROMCOUNTRY$에게 놀라운 날이다!;;;;;;;;;;;x;
@@ -424,7 +486,6 @@ WARR!!;전쟁!!;;;;;;;;;;;x;
 Let them be;놔둬라.;;;;;;;;;;;x;
 United China;통일 중국;;;;;;;;;;;x;
 China has now been united under a single Government so the One China Policy will cease to be in effect. Long live $COUNTRY$!;중국이 이제 단일 정부 하에 단결했으므로 하나의 중국 정책은 사실상 중단될 것입니다. $COUNTRY$ 만세!;;;;;;;;;;;x;
-Great;대단하다.;;;;;;;;;;;x;
 UN condemns $COUNTRY$'s Travel Ban;국제연합의 여행 금지령을 비난;;;;;;;;;;;x;
 We must keep the BAD DUDES out of this country!;저질 머저리들을 이 나라에서 멀리해야 한다!;;;;;;;;;;;x;
 Visit to the Dalai Lama;달라이 라마 방문;;;;;;;;;;;x;
@@ -1118,7 +1179,6 @@ Give in to the demand for self-autonomy in Tibet;티베트의 요구를 수용�
 Crush the rebellion!;반란을 분쇄하라!;;;;;;;;;;;x
 Self-Autonomy for the Cook Islands;쿡섬의 자치;;;;;;;;;;;x
 Grant self autonomy;자치를 허용하겠다.;;;;;;;;;;;x
-Refuse!;거부한다!;;;;;;;;;;;x
 Self-Autonomy for Niue;니우에의 자치;;;;;;;;;;;x
 The Return of Hong Kong;홍콩 반환;;;;;;;;;;;x
 Propose the One Country, Two Systems plan;일국양제를 제안하라.;;;;;;;;;;;x
@@ -1857,40 +1917,9 @@ Grant Mandatory Cameroun Self-Rule;카메룬 위임통치령에 대한 자치권
 Grant self-rule!;자치권을 부여한다!;;;;;;;;;;;x
 Hold on to the territory at any cost!;무슨 수를 써서라도 영토를 유지한다!;;;;;;;;;;;x
 Perhaps later?;아마 더 후에?;;;;;;;;;;;x
-$FROMCOUNTRY$ has been struck with Chemical Weapons;$FROMCOUNTRY$의 화학무기 공습;;;;;;;;;;;x
-Capital and Cities have been affected.;수도와 주변 도시들이 타격을 입었습니다.;;;;;;;;;;;x
-We must retaliate!;복수해야 한다.;;;;;;;;;;;x
-Capital, cities and major towns have been affected.;수도와 대도시들이 타격을 입었습니다.;;;;;;;;;;;x
-Capital, cities, major towns and smaller towns have been affected.;수도와 대도시 및 소도시들이 타격을 입었습니다.;;;;;;;;;;;x
-Threat of $FROMCOUNTRY_ADJ$ Chemical Attacks;$FROMCOUNTRY$의 화학공격 위협!;;;;;;;;;;;x
-If we do not agree to end the war $FROMCOUNTRY$ will launch a chemical attack!;$FROMCOUNTRY$이(가) 종전에 동의하지 않는다면 화학공격을 개시하겠다는 최후통첩을 보내왔습니다!;;;;;;;;;;;x
-Capitulate to $FROMCOUNTRY$;위협에 굴복한다.;;;;;;;;;;;x
-Propose a ceasefire with $FROMCOUNTRY$;$FROMCOUNTRY$에게 휴전을 제안한다.;;;;;;;;;;;x;
-Continue the war (Face Chemical Attacks);전쟁을 지속한다. (화학공격 직면);;;;;;;;;;;x;
-$FROMCOUNTRY$ Surrenders!;$FROMCOUNTRY$ 항복!;;;;;;;;;;;;
-Peace is near;평화가 눈 앞에 있다!;;;;;;;;;;;;
-$FROMCOUNTRY_ADJ$ Chemical Retaliation;$FROMCOUNTRY$의 화학무기 보복;;;;;;;;;;;x
 $FROMCOUNTRY_ADJ$ Nuclear Retaliation;$FROMCOUNTRY$의 핵무기 보복;;;;;;;;;;;x
 We have become Chemical Warfare Capable Nation!;화학전 수행 가능 국가 진입!;;;;;;;;;;;x
-We have finally developed a working chemical bomb!;마침내 화학폭탄을 개발했습니다!;;;;;;;;;;;x
 $OVERLORD$ demands that we relinquish our Chemical Arsenal!;$OVERLORD$의 화학무기 포기 요구;;;;;;;;;;;x
-As a puppet the overlord siezes our bombs.;괴뢰국으로서 종주국에게 현재 보유한 폭탄을 넘겨야 합니다.;;;;;;;;;;;x
-So Sad!;매우 애석하다!;;;;;;;;;;;x
-The Chemical Trinity (MAX CHEMICAL WARFARE CAPABILITY);화학전 수행력 높음;;;;;;;;;;;x
-We have the means of targeting high to low value targets.;가치가 높은 목표물에서 낮은 목표물을 목표로 하는 수단을 가지고 있습니다.;;;;;;;;;;;x
-MEDIUM CHEMICAL WARFARE CAPABILITY;화학전 수행력 중간;;;;;;;;;;;x
-We have the means of targeting high to medium value targets.;가치가 높은 목표물에서 낮은 목표물을 목표로 하는 수단을 가지고 있습니다.;;;;;;;;;;;x
-LOW CHEMICAL CAPABILITY;화학전 수행력 낮음;;;;;;;;;;;x
-We have the means of targeting only high value targets.;오직 가치가 높은 목표물만을 목표로 하는 수단을 가지고 있습니다.;;;;;;;;;;;x
-Sphere Leader demands Chemical Disarmament!;영향권 맹주의 화학무기 포기 요구!;;;;;;;;;;;x
-Hostile sphere leader demands that we disarm ourselves of our chemical weapons to reduce our threat to them.;적대적인 영향권의 맹주가 우리나라에게 화학무기를 무장해제해 자신들에 대한 위협을 줄일 것을 요구했습니다.;;;;;;;;;;;x
-$COUNTRY$ Opts to disarm its Chemical Weapons!;$COUNTRY$ 화학무기 무장해제 선택!;;;;;;;;;;;x
-$COUNTRY$ has backed down due to santions and has opted to rid itself of chemical weapons to end the sanctions.;제재 대상인 $COUNTRY$이(가) 제재를 끝내기 위해 한발 물러나 화학무기를 무장해제하기로 결정했습니다.;;;;;;;;;;;x
-A victory for our enemies;적의 승리다.;;;;;;;;;;;x
-Sphere Leader no longer demands Chemical Disarmament;영향권 맹주의 화학무기 포기 요구 철회;;;;;;;;;;;x
-Due to the changing nature of relations between our two nations, they no longer demand Chemical disarmament.;양국 관계의 변화로 인해 이제 영향권 맹주가 화학무기 무장해제를 요구하지 않습니다.;;;;;;;;;;;x
-The UN demands Chemical Disarmament!;국제연합의 화학무기 포구 요구!;;;;;;;;;;;x
-Hostile UN members demand that we disarm ourselves of our chemical weapons to reduce our threat to them.;적대적인 국제연합 회원국이 우리나라에게 화학무기를 무장해제해 자신들에 대한 위협을 줄일 것을 요구했습니다.;;;;;;;;;;;x
 Long Live China!;중국이여 영원하라!;;;;;;;;;;;x
 Long Live the KMT;국민당이여 영원하라.;;;;;;;;;;;x
 We will tide through this!;이 상황을 헤쳐나가겠다!;;;;;;;;;;;x
@@ -2062,12 +2091,7 @@ US-USSR joint aid halted to our country;미소 공동원조 중단;;;;;;;;;;;x
 Due to the breakdown in relations between our nation and the Superpowers, the joint aid between our nation and the superpowers have been terminated.;우리나라와 두 초강대국 간의 관계가 파국에 이르면서 두 초강대국이 제공해오던 공동원조가 끊겼습니다.;;;;;;;;;;;x
 Bad news!;나쁜 소식이다!;;;;;;;;;;;x
 Begin reforming the Cuban State;쿠바의 개혁을 시작한다.;;;;;;;;;;;x
-Performance Mode;성능모드;;;;;;;;;;;x
-This event scales the global population to a different ratio to improve game performance by decreasing overall population. Default is 1/4.;전세계 인구를 특정 비율로 정해 전체 인구를 줄임으로써 게임 성능을 향상합니다.;;;;;;;;;;;x
-No changes to the pop ratio;주민 비율을 바꾸지 않는다.;;;;;;;;;;;x
-Scale global population to 3/16;75%로 바꾼다.;;;;;;;;;;;x
-Scale global population to 1/8;50%로 바꾼다.;;;;;;;;;;;x
-Scale global population to 1/16;25%로 바꾼다.;;;;;;;;;;;x
+
 Delay independence;독립을 늦춘다.;;;;;;;;;;;x
 Deny independence;독립을 거부한다.;;;;;;;;;;;x
 Maintain democracy;민주주의를 유지한다.;;;;;;;;;;;x
@@ -2916,14 +2940,6 @@ If we do not agree to end the war $FROMCOUNTRY$ will launch a nuclear attack!;$F
 The General Treaty;일반조약;;;;;;;;;;;x
 We are recognised as sovereign nation once more;다시 주권국으로 인정받고 있다.;;;;;;;;;;;x
 The Arab Spring;아랍의 봄;;;;;;;;;;;x
-$FROMCOUNTRY$ offers us protection;$FROMCOUNTRY$의 보호 요청.;;;;;;;;;;;x
-We must accept. We cannot allow the Communists to sieze control.;받아들여야 한다. 공산주의자들이 설치는 꼴은 보지 못한다.;;;;;;;;;;;x
-We shall not accept;받아들일 수 없다.;;;;;;;;;;;x
-Czechoslovakia accepts;체코슬로바키아의 보호 요청 수용;;;;;;;;;;;x
-Excellent.;훌륭하다.;;;;;;;;;;;x
-Czechoslovakia refuses;체코슬로바키아의 보호 요청 거부;;;;;;;;;;;x
-We will revoke our claims.;포기해야 할 것 같다.;;;;;;;;;;;x
-Czechoslovakia belongs to us and us alone.체코슬로바키아는 우리 혼자만의 것이다.;;;;;;;;;;;x
 $YEAR$ Presidential Elections;$YEAR$년 대통령 선거;;;;;;;;;;;x
 FHC is our president;페르난두 엔히키 카르도주가 우리 대통령이다.;;;;;;;;;;;x
 FHC somehow didn't win;페르난두 엔히키 카르도주가 어쩐지 이기지 못했다.;;;;;;;;;;;x
@@ -2937,18 +2953,7 @@ Whitewash the whole thing;모든 것을 눈가림한다.;;;;;;;;;;;x
 Jair Bolsonaro is our president;자이르 보우소나루가 우리 대통령이다.;;;;;;;;;;;x
 Jair Bolsonaro somehow didn't win;자이르 보우소나루가 어쩐지 이기지 못했다.;;;;;;;;;;;x
 Salvage what is left;남은 것을 구한다.;;;;;;;;;;;x
-National Value - Order;국민정신 : 질서;;;;;;;;;;;x
-National Value - Liberty;국민정신 : 법적 자유;;;;;;;;;;;x
-National Value - Equality;국민정신 : 평등;;;;;;;;;;;x
-National Value - Tradition;국민정신 : 전통;;;;;;;;;;;x
-National Value - Meritocracy;국민정신 : 실력;;;;;;;;;;;x
-National Value - Progressivism;국민정신 : 진보;;;;;;;;;;;x
-National Values in CWE;CWE의 국민정신;;;;;;;;;;;x
-This is the new way forward;우리가 전진할 새로운 길이다;;;;;;;;;;;x
-Understood;이해했다.;;;;;;;;;;;x
-NO CHEMICAL CAPABILITY;화학전 수행능력 없음;;;;;;;;;;;x
-We have no chemical weapon capability because we have no chemical bombs.;화학무기를 보유하지 않았으므로 화학전 수행능력이 없습니다.;;;;;;;;;;;x
-$FROMCOUNTRY$ Proposes a Ceasefire;$FROMCOUNTRY$의 휴전 제안;;;;;;;;;;;x
+
 $FROMCOUNTRY_ADJ$ Border Conflict;$FROMCOUNTRY$ 국경에서의 갈등;;;;;;;;;;;x
 We must prevail!;반드시 승리하리라!;;;;;;;;;;;x
 Battle of Santa Clara;산타클라라 전투;;;;;;;;;;;x
