@@ -1,4 +1,5 @@
 CODE;ENGLISH;;;;;;;;;;;x
+#Bismarckingit
 EVTNAME132400;$FROMCOUNTRY$의 보호 요청.;;;;;;;;;;;x
 EVTOPTA132400;받아들여야 한다. 공산주의자들이 설치는 꼴은 보지 못한다.;;;;;;;;;;;x
 EVTOPTB132400;받아들일 수 없다.;;;;;;;;;;;x
@@ -7,12 +8,14 @@ EVTOPTA132401;훌륭하다.;Excellent.;;;;;;;;;;x
 EVTNAME132402;체코슬로바키아의 보호 요청 거부;;;;;;;;;;;x
 EVTOPTA132402;포기하겠다.;;;;;;;;;;;x
 EVTOPTB132402.체코슬로바키아는 우리 혼자만의 것이다.;;;;;;;;;;;x
+#CWE Performance Mode
 EVTNAME669966;성능모드;;;;;;;;;;;x
 EVTDESC669966;전세계 인구를 특정 비율로 정해 전체 인구를 줄임으로써 게임 성능을 향상합니다. 기본 비율은 1/4입니다.;;;;;;;;;;;x
 EVTOPTA669966;주민 비율을 바꾸지 않는다.;;;;;;;;;;;x
 EVTOPTB669966;3/16로 바꾼다.;;;;;;;;;;;x
 EVTOPTC669966;1/8로 바꾼다.;;;;;;;;;;;x
 EVTOPTD669966;1/16로 바꾼다.;;;;;;;;;;;x
+#Change National Values
 EVTNAME124150;국민정신 - 질서;;;;;;;;;;;x
 EVTNAME124151;국민정신 - 법적 자유;;;;;;;;;;;x
 EVTNAME124152;국민정신 - 평등;;;;;;;;;;;x
@@ -22,6 +25,7 @@ EVTNAME124155;국민정신 - 진보;;;;;;;;;;;x
 EVTNAME124156;CWE의 국민정신;;;;;;;;;;;x
 EVTOPTA124150;우리가 전진할 새로운 길이다;;;;;;;;;;;x
 EVTOPTA124156;이해했다.;;;;;;;;;;;x
+#Chemical War
 EVTNAME1234429;$FROMCOUNTRY$의 화학무기 공습;;;;;;;;;;;x
 EVTDESC1234429;수도와 도시들이 타격을 입었습니다.;;;;;;;;;;;x
 EVTOPTA1234429;반격을 준비해야 한다.;;;;;;;;;;;x
@@ -39,6 +43,7 @@ EVTNAME12344334;$FROMCOUNTRY$ 항복!;;;;;;;;;;;x
 EVTOPTA12344334;평화가 눈 앞에 있다!;;;;;;;;;;;x
 EVTNAME1234434;$FROMCOUNTRY$의 화학무기 보복;;;;;;;;;;;x
 EVTDESC1234434;적국이 발사한 화학무기로 인해 인구 중심지가 피해를 입었습니다.;;;;;;;;;;;x
+#Chemical Weapons Development
 EVTNAME1131432;$COUNTRY$ 화학무기 개발!;;;;;;;;;;;x
 EVTDESC1131432;마침내 화학무기를 개발했습니다!;;;;;;;;;;;x
 EVTNAME1131434;종주국의 화학무기 군축 요구!
@@ -63,7 +68,95 @@ EVTNAME1231440;영향권 맹주의 화학무기 군축 요구 철회;;;;;;;;;;;x
 EVTDESC1231440;양국 관계가 변화하면서 이제 영향권 맹주가 화학무기 군축을 요구하지 않습니다.;;;;;;;;;;;x
 EVTNAME1131441;국제연합의 화학무기 포구 요구!;;;;;;;;;;;x
 EVTDESC1231441;적대적인 국제연합 회원국들이 화학무기 군축을 통해 자신들에 대한 위협을 줄이라고 요구했습니다.;;;;;;;;;;;x
+#China
+The People's Republic of China;중화인민공화국;;;;;;;;;;;x
+Long live Chairman Mao!;마오 주석 만세!;;;;;;;;;;;x
+The Gang of Four;사인방;;;;;;;;;;;x
+Execute them for their crimes!;그들의 범죄를 처벌한다!;;;;;;;;;;;x
+Let them be the next rulers of China;그들을 중국의 차기 지도부로 옹립한다.;;;;;;;;;;;x
+Deng Xiaoping shall be our next leader;덩샤오핑이 차기 지도자여야 한다.;;;;;;;;;;;x
+Hua Guofeng remains as party Chairman;화궈펑이 당 주석 지위를 유지해야 한다.;;;;;;;;;;;x
+Chinese Socialism with Market Characteristics;시장 특성을 가진 중국식 사회주의;;;;;;;;;;;x;
+Begin the reforms!;개혁을 시작하라!;;;;;;;;;;;x;
+China can afford to lose a few million;중국은 수백만명도 잃을 수 있다.;;;;;;;;;;;x
+Outrageous!;충격적이군!;;;;;;;;;;;x
+Provoke the Russian bear! (10% chance of war);러시아 곰을 도발한다! (전쟁 확률 10%);;;;;;;;;;;x
+Withdraw from the conflict;물러난다.;;;;;;;;;;;x
+Reconcile with Mao Zedong!
+Its war then!
+Sino-British Joint Declaration
+Agree to 50 years of Hong Kong autonomy from 1997
+Let the British retain administration rights
+Extend the British lease for another 50 years
+Sino-Portuguese Declaration
+Agree to 50 years of Macau autonomy from 1999
+Let the Portuguese retain administration rights
+Extend the Portuguese lease for another 50 years
+The Tiananmen Square Protests
+Crackdown on the protestors!
+Concede to the student's demands for democracy
+Ping-pong Diplomacy
+Ping-pong Diplomacy with the PRC
+We are now the true China!
+Looks like the only way now is reunification
+China Joins the UNSC
+#Chinese Civil War
+Return the lands to the KMT (keep Port Arthur)
+Return the lands to the PRC  but keep Port Arthur
+Release Manchuria as a Soviet SSR
+Manchuria shall remain under Soviet rule
+Traitors!
+The Retreat to Taiwan
+We shall continue the fight from Taiwan!
+We shall die trying to kill the communists!
+The Hainan Campaign
+Hainan shall be ours!
+We satisfied with what we got
+The Nationalists Win the Civil War
+Long Live the KMT!
+The Chinese Civil War
+Propose to help the KMT (50% chance of Soviet intervention)
+Stay out of Chinese affairs!
+US Intervention in China
+Accept the US help!
+Decline US assistance
+Soviet Intervention in China
+Intervene to protect Mao Zedong!
+Avoid a clash with the United States
+The US Intervenes in the Civil War
+With the instrument of alliance between our two great nations concluded, we are now formally involved in the Chinese Civil War. We will get the port of Shanghai as base of operations in China.
+We will stop the spread of communism in China"
+Sino-American Joint GHQ
+The US forces need a staging ground to wage the war from so they have selected Shanghai to be the primary base of operations in China. We have no choice but to accept their demands.
+We will crush the communist insurgency together
+End of the Chinese Civil War
+With the end of the Chinese Civil War, we now have the question of what to do with the City of Shanghai which we used as a base during the war.
+Occupy Shanghai perpetuity in event of another communist insurgency
+Form an International Settlement to maintain US presence
+Return the City back to China
+Return of the International Settlements
+With the end of the Cold War, we no longer have the need to own International Settlements in China anymore so talks have been initated by China to reclaim the cities.
+Continue the occupation
+Return Shanghai
+International Settlements in China
+As Shanghai has become an International Settlement once more, perhaps we should also offer the USA Qingdao and Weihai to allow them to have a greater presence in China to protect us from the USSR?
+Offer Qingdao and Weihai
+One settlement is already too many
+#ChrisFox
+1948 Constitution;1948년 헌법;;;;;;;;;;;x
+1950 Constitution;1950년 헌법;;;;;;;;;;;x
+1968 Constitution;1968년 헌법;;;;;;;;;;;x
+1947 Polish Constitution;1947년 폴란드 헌법;;;;;;;;;;;x
+1952 Constitution;1952년 헌법;;;;;;;;;;;x
+Dimitrov Constitution;디미트로프 헌법;;;;;;;;;;;x
+
+
+Stick to the status quo!;현재 상태를 유지하라!;;;;;;;;;;;x
+
 Opportunity to Steal Research;연구 탈취 기회;;;;;;;;;;;;;
+
+
+
 Our spies have gained the opportunity to steal research from another nation. Should we allow them to steal the research?;국내 첩보요원들이 타국의 연구자료를 훔칠 기회를 얻었습니다. 연구를 훔치도록 놔둬야 할까요?;;;;;;;;;;;x
 Yes;그래.;;;;;;;;;;;x
 No;아니.;;;;;;;;;;;x
@@ -163,9 +256,8 @@ We have been kicked out of OPEC;석유수출국기구 퇴출;;;;;;;;;;;x;
 The OPEC Council has deemed our membership as invalid due to 1. Either we are a vassal or 2. We do not produce oil anymore.;석유수출국기구 이사회가 우리나라가 이제 1)석유 생산국이 아니거나 2)속국이므로 회원국 지위를 상실했다고 간주했습니다.;;;;;;;;;;;x;
 We need to find a way to rejoin the organisation!;재가입 방안을 강구하라!;;;;;;;;;;;x;
 Doi Moi;도이모이;;;;;;;;;;;x;
-Begin the reforms!;개혁을 시작하라!;;;;;;;;;;;x;
 Stop the reforms!;개혁을 멈춰라!;;;;;;;;;;;x;
-Chinese Socialism with Market Characteristics;중국 사회주의의 시장적 특성;;;;;;;;;;;x;
+
 Unification of Yemen;예멘 통일;;;;;;;;;;;x;
 Unite the Yemeni people!;예멘 인민이여 단결하라!;;;;;;;;;;;x;
 Form a federation!;연방을 결성하라!;;;;;;;;;;;x;
@@ -1119,7 +1211,6 @@ We no longer enjoy international protection!;이제 국제적 보호를 받을 �
 The future of $COUNTRY$;$COUNTRY$의 미래;;;;;;;;;;;x
 Establish a democratic federation!;민주적 연방을 설립하자!;;;;;;;;;;;x
 Maintain unitary but democratic rule!;단일국가를 유지하나 민주적으로 다스리겠다!;;;;;;;;;;;x
-Stick to the status quo!;현재 상태를 유지하라!;;;;;;;;;;;x
 Unitary Arab Federation;단일 아랍 연방;;;;;;;;;;;x
 Kurdistan Regional Governmen;쿠르디스탄 지방정부;;;;;;;;;;;x
 Grant Autonomy;자치권을 보장하라.;;;;;;;;;;;x
@@ -1172,7 +1263,6 @@ A disaster!;재앙이다!;;;;;;;;;;;x
 Accept the ruling;판결을 수용하자.;;;;;;;;;;;x
 Ignore the ruling!;판결을 무시하자!;;;;;;;;;;;x
 $FROMCOUNTRY$ refuses to comply with the ICJ ruling;$FROMCOUNTRY$의 국제사법재판소 판결 불복종;;;;;;;;;;;x
-Outrageous!;충격적이군!;;;;;;;;;;;x
 The $COUNTRY_ADJ$ people have enough of useless diplomacy!;$COUNTRY$ 국민들은 쓸모없는 외교술을 가졌다!;;;;;;;;;;;x
 $YEAR$ Tibetan uprising;$YEAR$년 티베트 봉기;;;;;;;;;;;x
 Give in to the demand for self-autonomy in Tibet;티베트의 요구를 수용하라.;;;;;;;;;;;x
@@ -1923,13 +2013,7 @@ $OVERLORD$ demands that we relinquish our Chemical Arsenal!;$OVERLORD$의 화학
 Long Live China!;중국이여 영원하라!;;;;;;;;;;;x
 Long Live the KMT;국민당이여 영원하라.;;;;;;;;;;;x
 We will tide through this!;이 상황을 헤쳐나가겠다!;;;;;;;;;;;x
-China can afford to lose a few million;중국은 수백만명도 잃을 수 있다.;;;;;;;;;;;x
-1948 Constitution;1948년 헌법;;;;;;;;;;;x
-1950 Constitution;1950년 헌법;;;;;;;;;;;x
-1968 Constitution;1968년 헌법;;;;;;;;;;;x
-1947 Polish Constitution;1947년 폴란드 헌법;;;;;;;;;;;x
-1952 Constitution;1952년 헌법;;;;;;;;;;;x
-Dimitrov Constitution;디미트로프 헌법;;;;;;;;;;;x
+
 YES;그래.;;;;;;;;;;;x
 Go for a more liberal constitution;더 자유주의적인 헌법을 택한다.;;;;;;;;;;;x
 Zhivkov Constitution;지프코프 헌법;;;;;;;;;;;x
@@ -2858,11 +2942,8 @@ $FROMCOUNTRY$ has decided to leave the communist bloc. The Soviet ambassador str
 $FROMCOUNTRY$ leaves the Non-Aligned Movement;$FROMCOUNTRY$ 비동맹진영 탈퇴;;;;;;;;;;;x
 $FROMCOUNTRY$ has decided to leave the Non-Aligned Movement. The Secretariat of the Non-Aligned Movement strongly criticises the $FROMCOUNTRY_ADJ$ Government for undermining world peace.;$FROMCOUNTRY$(이)가 공산진영 탈퇴를 결정했습니다. 비동맹운동 사무국은 $FROMCOUNTRY$ 정부의 세계 평화 훼손 행위에 강하게 비판을 가했습니다.;;;;;;;;;;;x
 It was time we join in with the action;그 움직임에 합류할 수 있었던 시기였다.;;;;;;;;;;;x
-The Gang of Four;사인방;;;;;;;;;;;x
-Execute them for their crimes!;그들의 범죄를 처벌한다!;;;;;;;;;;;x
-Let them be the next rulers of China;그들을 차기 지도부로 옹립한다.;;;;;;;;;;;x
-Deng Xiaoping shall be our next leader;덩샤오핑이 차기 지도자여야 한다.;;;;;;;;;;;x
-Hua Guofeng remains as party Chairman;화궈펑이 당주석 지위를 유지해야 한다.;;;;;;;;;;;x
+
+
 Chinese Socialism with Market Characteristics;중국의 시장경제적 사회주의;;;;;;;;;;;x
 Hawai'i Sugar Strike of 1946;1946년 하와이 설탕 파업;;;;;;;;;;;x
 We have to do something!;뭔가 해야 한다!;;;;;;;;;;;x
